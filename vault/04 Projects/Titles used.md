@@ -114,4 +114,4 @@
 - N3on Admitted What He REALLY Looks At 💀 (R3born club)
 - Pilates Is LITERALLY Impossible? 💀 (R3born impossible)
 - He's More Excited for THIS Than Pilates 💀 (R3born excited)
-- She Said He Was Better on the STRIPPER Pole 💀 (R3born best)
+- Where Was N3on BEST All Day? 💀 (R3born best)

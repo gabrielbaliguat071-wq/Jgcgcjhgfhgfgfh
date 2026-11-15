@@ -69,7 +69,7 @@ CFG = {
    blowouts=[['c3', 'stripper', 1]], blackFlash=[['c3']], streaks=[['c1b'], ['c2']],
    extras=[ov(['c1', 'money'], 'cashfall.mp4', 52), sfx(['c1', 'money'], 's_ding.mp3', 0.4), sfx(['c2', 'excited'], 's_huh.mp3', 0.5), png(['c2', 'pilates'], 'e_laugh.png', 260),
            sfx(['c3', 'stripper', 1], 's_wow.mp3', 0.45), png(['c3', 'stripper', 1], 'e_sob.png')]),
- 'r3best': dict(top='She said he was better on the STRIPPER pole', hl={'STRIPPER': '#FF2A2A'}, music=['suspense_n', 0], ctaAt=['c1', 'yeah'],
+ 'r3best': dict(top='Where was N3on BEST all day?', hl={'BEST': '#FF2A2A'}, music=['suspense_n', 0], ctaAt=['c1', 'yeah'],
    tints=[[['hook', 'stripper'], R], [['c1', 'fun'], G], [['c1', 'bad'], R], [['c1', 'stripper'], R]], rizz=[['c1', 'fun']],
    punch=[['hook', 'better'], ['hook', 'stripper'], ['c1', 'calories'], ['c1', 'fun'], ['c1', 'best'], ['c1', 'bad'], ['c1', 'spider'], ['c1', 'better'], ['c1', 'stripper'], ['c1', 'won']],
    blowouts=[['c1', 'stripper']], blackFlash=[['c1', 'won']], streaks=[['c1', 'well']],
