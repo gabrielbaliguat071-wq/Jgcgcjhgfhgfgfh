@@ -118,12 +118,13 @@ import V6 from './v6.cfg.json';
 import R3 from './r3.cfg.json';
 import TV from './tv.cfg.json';
 import X from './x.cfg.json';
+import R3F from './r3f.cfg.json';
 import R3B from './r3b.cfg.json';
 import T_CHANT_IRON from './tracks/chant_iron.json';
 import T_CLOWN_SOL from './tracks/clown_sol.json';
 const V5_TRACKS: Record<string, Record<string, number[]>> = {iron: IRONREVEAL as Record<string, number[]>, gift: T_GIFT, merch: T_MERCH, pissed: T_PISSED, hulk: HULK,
   chant_iron: T_CHANT_IRON, solstice: T_CLOWN_SOL};
-Object.entries({...V5, ...V6, ...R3, ...TV, ...R3B, ...X} as unknown as Record<string, {top: string; hl: Record<string, string>; cta: string; music: [string, number]; ctaAt: Ref; track: string; calls: [number, number, string][];
+Object.entries({...V5, ...V6, ...R3, ...TV, ...R3B, ...X, ...R3F} as unknown as Record<string, {top: string; hl: Record<string, string>; cta: string; music: [string, number]; ctaAt: Ref; track: string; calls: [number, number, string][];
   tints: [Ref, string][]; rizz: Ref[]; punch: Ref[]; blowouts: Ref[]; blackFlash: Ref[]; streaks: Ref[]; src?: string; teaser?: Cfg['teaser']; hardcut?: boolean; extras?: Cfg['extras']; cutSfx?: string}>).forEach(([id, a]) => {
   EDITS[id] = {extras: a.extras, cutSfx: a.cutSfx, hardcut: a.hardcut, teaser: a.teaser, src: a.src, subBand: a.src ? [1, 0] : undefined, top: a.top, hl: a.hl, cta: a.cta, label: '', track: V5_TRACKS[a.track] ?? {}, music: a.music[1], musicFile: a.music[0], musicVol: 0.53, loop: !(a as {intro?: boolean}).intro, pushIn: true,
     ctaAt: a.ctaAt, calls: a.calls, tints: a.tints.map(([r, c]) => [r, c === 'G' ? GREEN : RED] as [Ref, string]), rizz: a.rizz, punch: a.punch,

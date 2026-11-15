@@ -110,3 +110,8 @@
 - N3on's ChatGPT Excuse Is CRAZY 💀 (R3born chatgpt X)
 - N3on's Biggest Fear Doing a HANDSTAND 💀 (R3born handstand X)
 - He Picked WHO as the NBA GOAT? 💀 (tv goat X, sharp/sat 77)
+- N3on Doesn't Know What a LAT Is 💀 (R3born lat)
+- N3on Admitted What He REALLY Looks At 💀 (R3born club)
+- Pilates Is LITERALLY Impossible? 💀 (R3born impossible)
+- He's More Excited for THIS Than Pilates 💀 (R3born excited)
+- She Said He Was Better on the STRIPPER Pole 💀 (R3born best)
