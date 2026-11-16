@@ -127,3 +127,6 @@
 - Own 100% of a Cash-Producing Business (First Press, Willie Litvack)
 - Why Software Moats Are Shrinking (First Press, Willie Litvack)
 - People, Product, Profits. In That Order. (First Press, Willie Litvack)
+- Her Answer Was THREE GRAND?! 💀 (R3born money Z, recreation of 30k top performer)
+- N3on Thought He WON… 💀 (R3born reveal Z, recreation of 19k)
+- "Stop Me, Stop Me!" N3on on the POLE 💀 (R3born pole Z, recreation of 17.8k)

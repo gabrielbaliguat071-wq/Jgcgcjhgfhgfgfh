@@ -99,6 +99,7 @@ Full spec: `vault/02 Style Guide/VverPaldo style.md`. Summary:
   - never submit the same clip to another agency;
   - 70 % of the budget is on YT Shorts; 40 %+ Tier-1 audience.
 - Already made: wax, cheat, pole, money, pilates, stakes, handstand, reformer, chatgpt, reveal.
+- Top performers (Nov 16): money "She made HOW much in ONE night?!" 30k, reveal "N3on vs Sarah… FINAL score" 19k, pole "N3on tried POLE dancing" 17.8k. Z recreations (plan11.py): open-loop hook (unanswered question or the pain moment), straight cut, no dead air, ending that loops into the hook.
 
 ### C. Backyard Breaks / Trevor Lawrence (Jorho channel)
 - Clip tracker spreadsheet: https://docs.google.com/spreadsheets/d/1eX0vqF73N9x2gtkRbalnKMHRd3nbd-CEv0Rt4D2glM4/edit. Tabs (gid):
