@@ -124,3 +124,6 @@
 - The MJ Party Found Their DREAM Drink 🥤 (Loaded Tea MJ sugar)
 - Blue MJ vs Black MJ DANCE-OFF 🕺 (Loaded Tea MJ dance)
 - When the Red Jacket MJs Take the Floor 🔥 (Loaded Tea MJ red)
+- Own 100% of a Cash-Producing Business (First Press, Willie Litvack)
+- Why Software Moats Are Shrinking (First Press, Willie Litvack)
+- People, Product, Profits. In That Order. (First Press, Willie Litvack)

@@ -18,3 +18,9 @@ Keep the VverPaldo template look: black frame + box, box-open intro, Montserrat 
 speaker zoom/two-shots + slow push-in + punch-ins, grade 67 on the footage only, 4 % black flash, quiet resource song.
 Drop for this campaign: 💀/emoji pops, meme SFX (huh/fahhh/wow…), loud camera-flash SFX, red/green tints, blow-outs, red circle call-outs, clickbait wording.
 The top text states the lesson; the CTA line = "Full episode on First Press by Press On Ventures YT".
+
+## Batch 1 (Nov 16): 3 clips — `viral-short/plan_fp.py` → `src/fp.cfg.json`, comps `Guess-fp*`
+- fprich 2290.95 hook / 2295.7–2318.9 (own 100% of a cash-producing business vs raising for a non-billion outcome)
+- fpsaas 1587.0 hook / 1576.75–1594.3 + 1598.9–1610.3 (SaaS: 10 competitors in a week; moats that still work)
+- fpppp 1657.1 hook / 1655.1–1667.95 + 1747.7–1753.15 (people, product, profits in that order)
+- Willie's panel (1310–1920 × 0–840) zoomed 1.78 (wide) / 1.93 (tight); captions drop filler "like" and "freaking".
