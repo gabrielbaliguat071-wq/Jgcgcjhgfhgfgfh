@@ -119,3 +119,8 @@
 - The Pole DESTROYED N3on 💀 (R3born pole Y)
 - N3on Trusted the STRIPPER Over Sarah 💀 (R3born handstand Y)
 - N3on Tried to SKIP the Workout 💀 (R3born cheat Y)
+- MJ Party Said It's BETTER Than Pepsi 🥤 (Loaded Tea MJ pepsi)
+- They PAUSED the MJ Show for This 😳 (Loaded Tea MJ paused)
+- The MJ Party Found Their DREAM Drink 🥤 (Loaded Tea MJ sugar)
+- Blue MJ vs Black MJ DANCE-OFF 🕺 (Loaded Tea MJ dance)
+- When the Red Jacket MJs Take the Floor 🔥 (Loaded Tea MJ red)

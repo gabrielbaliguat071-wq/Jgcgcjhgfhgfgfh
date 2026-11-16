@@ -17,3 +17,12 @@
 - 40 %+ of views from US/UK/CA/AU; submit demographics.
 - Not paid: outside clips, NSFW/violent/off-topic, spam (same video on many pages), paid boosts/bots, bait posting, reposting others' content, missing or altered watermark.
 - Questions: discord.gg/clipfarm
+
+## Batch 1 (Nov 16): 5 clips
+Built with `viral-short/mj_loadedtea.py` (ffmpeg only; it expects the proxies in `px/`, `wm_crop.png` and `fonts/MontBlackX.ttf` next to it).
+- Layout: watermark cropped to its content, 1000 px wide, at the top (y≈150–170) with a soft shadow under it and nothing drawn over it. Hook text sits under it; captions sit at y≈1300.
+  A009 (horizontal) uses a box layout over a blurred background.
+- Footage-only grade 67, 4% flicker on the footage only, 2-frame white flash + s_camflash on cuts. Party audio only (no library songs). Mastered to −14 LUFS, metadata stripped.
+- mjpepsi (A009 701–703.6 hook, 689–707.2), mjpaused (IMG_3763 435.5 hook, 386.3–390.9, 404.9–410.95, 424.6–430),
+  mjsugar (IMG_3763 450.1 hook, 439.9–457.1), mjdance (IMG_3763 48 hook, 14–31, 46.5–52), mjred (IMG_3764 179 hook, 116–130, 183–190).
+- Hooks must not say "MJ said" when a guest is speaking.
