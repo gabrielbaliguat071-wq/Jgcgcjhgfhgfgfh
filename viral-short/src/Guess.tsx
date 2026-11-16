@@ -26,7 +26,8 @@ type Ref = [string, string?, number?];   // [scene] = scene start, [scene, word,
 type Cfg = {top: string; cta: string; label: string; track: Record<string, number[]>; calls: [number, number, string?][]; tints: [Ref, string][]; rizz: Ref[];
   punch: Ref[]; blowouts: Ref[]; blackFlash: Ref[]; streaks: Ref[]; music: number; loop?: boolean; ctaAt?: Ref; musicVol?: number; subBand?: [number, number]; blurOff?: [number, number][]; musicFile?: string; hl?: Record<string, string>; pushIn?: boolean; src?: string;
   teaser?: {a: number; b: number; x: number; z: number; y: number; until: Ref}; hardcut?: boolean;
-  extras?: {at: Ref; kind: 'png' | 'ov' | 'sfx'; file: string; v?: number; dur?: number; x?: number; y?: number; size?: number}[]; cutSfx?: string};
+  extras?: {at: Ref; kind: 'png' | 'ov' | 'sfx'; file: string; v?: number; dur?: number; x?: number; y?: number; size?: number}[]; cutSfx?: string;
+  wm?: {file: string; x: number; y: number; w: number}; topY?: number; srcVol?: number};
 
 export const EDITS: Record<string, Cfg> = {
   bowling: {top: 'Guess the LARPER millionaire', cta: '*real millionaire or LARP?*', label: '*Hulk*', track: HULK, music: 20,
@@ -121,13 +122,14 @@ import X from './x.cfg.json';
 import R3F from './r3f.cfg.json';
 import R3G from './r3g.cfg.json';
 import R3B from './r3b.cfg.json';
+import MJ from './mj.cfg.json';
 import T_CHANT_IRON from './tracks/chant_iron.json';
 import T_CLOWN_SOL from './tracks/clown_sol.json';
 const V5_TRACKS: Record<string, Record<string, number[]>> = {iron: IRONREVEAL as Record<string, number[]>, gift: T_GIFT, merch: T_MERCH, pissed: T_PISSED, hulk: HULK,
   chant_iron: T_CHANT_IRON, solstice: T_CLOWN_SOL};
-Object.entries({...V5, ...V6, ...R3, ...TV, ...R3B, ...X, ...R3F, ...R3G} as unknown as Record<string, {top: string; hl: Record<string, string>; cta: string; music: [string, number]; ctaAt: Ref; track: string; calls: [number, number, string][];
-  tints: [Ref, string][]; rizz: Ref[]; punch: Ref[]; blowouts: Ref[]; blackFlash: Ref[]; streaks: Ref[]; src?: string; teaser?: Cfg['teaser']; hardcut?: boolean; extras?: Cfg['extras']; cutSfx?: string}>).forEach(([id, a]) => {
-  EDITS[id] = {extras: a.extras, cutSfx: a.cutSfx, hardcut: a.hardcut, teaser: a.teaser, src: a.src, subBand: a.src ? [1, 0] : undefined, top: a.top, hl: a.hl, cta: a.cta, label: '', track: V5_TRACKS[a.track] ?? {}, music: a.music[1], musicFile: a.music[0], musicVol: 0.53, loop: !(a as {intro?: boolean}).intro, pushIn: true,
+Object.entries({...V5, ...V6, ...R3, ...TV, ...R3B, ...X, ...R3F, ...R3G, ...MJ} as unknown as Record<string, {top: string; hl: Record<string, string>; cta: string; music: [string, number]; ctaAt: Ref; track: string; calls: [number, number, string][];
+  tints: [Ref, string][]; rizz: Ref[]; punch: Ref[]; blowouts: Ref[]; blackFlash: Ref[]; streaks: Ref[]; src?: string; teaser?: Cfg['teaser']; hardcut?: boolean; extras?: Cfg['extras']; cutSfx?: string; wm?: Cfg['wm']; topY?: number; srcVol?: number; trackData?: Record<string, number[]>}>).forEach(([id, a]) => {
+  EDITS[id] = {wm: a.wm, topY: a.topY, srcVol: a.srcVol, extras: a.extras, cutSfx: a.cutSfx, hardcut: a.hardcut, teaser: a.teaser, src: a.src, subBand: a.src ? [1, 0] : undefined, top: a.top, hl: a.hl, cta: a.cta, label: '', track: a.trackData ?? V5_TRACKS[a.track] ?? {}, music: a.music[1], musicFile: a.music[0], musicVol: 0.53, loop: !(a as {intro?: boolean}).intro, pushIn: true,
     ctaAt: a.ctaAt, calls: a.calls, tints: a.tints.map(([r, c]) => [r, c === 'G' ? GREEN : RED] as [Ref, string]), rizz: a.rizz, punch: a.punch,
     blowouts: a.blowouts, blackFlash: a.blackFlash, streaks: a.streaks};
 });
@@ -238,7 +240,7 @@ export const Guess: React.FC<{edit: string}> = ({edit}) => {
             // rewind scrub: one frame per output frame, sampled backwards from the hook's end to the story's start
             const [ra, rb] = (s as SceneConfig & {rewind: [number, number]}).rewind, t = ra + (rb - ra) * (i / Math.max(1, s.durationInFrames - 1));
             return <Sequence key={i} from={i} durationInFrames={1}><OffthreadVideo src={staticFile(cfg.src ?? 'source.mp4')} muted startFrom={Math.round(t * fps)} style={{position: 'absolute', top: 0, left: 540 - 960 * K, width: 1920 * K, height: BOX_H}} /></Sequence>;
-          }) : <OffthreadVideo src={staticFile(cfg.src ?? 'source.mp4')} startFrom={Math.round(s.videoStartSec * fps)} style={{position: 'absolute', top: s === sc ? vtop : 0, left: s === sc ? left : 0, width: 1920 * K * (s === sc ? cz : 1), height: BOX_H * (s === sc ? cz : 1)}} />}
+          }) : <OffthreadVideo src={staticFile(cfg.src ?? 'source.mp4')} volume={cfg.srcVol ?? 1} startFrom={Math.round(s.videoStartSec * fps)} style={{position: 'absolute', top: s === sc ? vtop : 0, left: s === sc ? left : 0, width: 1920 * K * (s === sc ? cz : 1), height: BOX_H * (s === sc ? cz : 1)}} />}
         </Series.Sequence>)}</Series>
         {!(cfg.blurOff ?? []).some(([a, b]) => tSrc >= a && tSrc < b) && <div style={{position: 'absolute', left: -60, right: -60, maskImage: 'linear-gradient(to bottom, transparent, #000 18%)', WebkitMaskImage: 'linear-gradient(to bottom, transparent, #000 18%)', top: BOX_H * (cfg.subBand?.[0] ?? 0.9), height: BOX_H * (cfg.subBand?.[1] ?? 0.12), backdropFilter: 'blur(22px)', WebkitBackdropFilter: 'blur(22px)', background: 'rgba(0,0,0,0.08)'}} />}
         {call && cp && left + cp[0] * K < 1000 && <Callout x={left + cp[0] * K} y={cp[1] * K} r={Math.max(48, cp[2] * K * 1.35)} k={Math.min(1, (tSrc - call[0]) * 6)} label={call[2] ?? cfg.label} />}
@@ -267,8 +269,8 @@ export const Guess: React.FC<{edit: string}> = ({edit}) => {
         <div style={{fontFamily: MONT, fontWeight: 800, fontSize: 170, color: '#fff', WebkitTextStroke: '8px #000', paintOrder: 'stroke fill', transform: `translateX(${-lf * 6}px)`, opacity: 0.92}}>◀◀</div>
       </AbsoluteFill>}
     </div>
-    <div style={{position: 'absolute', left: 0, width: 1080, bottom: 1920 - top + 3, display: 'flex', justifyContent: 'center'}}>
-      <div style={{fontFamily: MONT, fontWeight: 700, fontSize: 58, lineHeight: '65px', color: 'white', textAlign: 'center', maxWidth: 940}}>
+    <div style={{position: 'absolute', left: 0, width: 1080, ...(cfg.topY ? {top: cfg.topY} : {bottom: 1920 - top + 3}), display: 'flex', justifyContent: 'center'}}>
+      <div style={{fontFamily: MONT, fontWeight: 700, fontSize: 58, lineHeight: '65px', color: 'white', textAlign: 'center', maxWidth: 940, ...(cfg.topY ? {WebkitTextStroke: '7px #000', paintOrder: 'stroke fill', textShadow: '0 3px 8px rgba(0,0,0,0.7)'} : {})}}>
         {cfg.top.split(' ').slice(0, -1).map((w, i) => <span key={i} style={{color: cfg.hl?.[w] ?? 'white'}}>{w} </span>)}<span style={{whiteSpace: 'nowrap', color: cfg.hl?.[cfg.top.split(' ').pop()!] ?? 'white'}}>{cfg.top.split(' ').pop()}<Img src={staticFile('res/skull.png')} style={{width: 50, height: 50, verticalAlign: '-6px', marginLeft: 4}} /></span>
       </div>
     </div>
@@ -279,6 +281,8 @@ export const Guess: React.FC<{edit: string}> = ({edit}) => {
       <span style={{fontFamily: MONT, fontWeight: 800, fontSize: 68, color: '#FFFFFF', WebkitTextStroke: '7px #000', paintOrder: 'stroke fill', textShadow: '0 3px 8px rgba(0,0,0,0.7)'}}>{word.word}</span>
     </div>}
     {f >= ctaFrom && f < ctaTo && <div style={{position: 'absolute', left: 0, width: 1080, top: 1250, textAlign: 'center', fontFamily: MONT, fontWeight: 800, fontStyle: 'italic', fontSize: 42, color: '#fff', WebkitTextStroke: '5px #000', paintOrder: 'stroke fill', opacity: Math.min(1, (f - ctaFrom) / 5)}}>{cfg.cta}</div>}
+    {/* campaign watermark: whole video, drawn last so nothing ever covers it */}
+    {cfg.wm && <Img src={staticFile(`res/${cfg.wm.file}`)} style={{position: 'absolute', left: cfg.wm.x, top: cfg.wm.y, width: cfg.wm.w}} />}
     <Audio src={staticFile(`res/${cfg.musicFile ?? 'goodbye'}.mp3`)} startFrom={cfg.music * fps} volume={cfg.musicVol ?? 0.09} loop />
     {FX.map(([file, t, v], i) => <Sequence key={i} from={Math.max(0, t)}><Audio src={staticFile(`res/${file}`)} volume={v} /></Sequence>)}
   </AbsoluteFill>;
