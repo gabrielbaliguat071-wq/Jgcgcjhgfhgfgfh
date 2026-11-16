@@ -115,3 +115,7 @@
 - Pilates Is LITERALLY Impossible? 💀 (R3born impossible)
 - He's More Excited for THIS Than Pilates 💀 (R3born excited)
 - Where Was N3on BEST All Day? 💀 (R3born best)
+- Her Best Night on the Pole? $3,000 💀 (R3born money Y)
+- The Pole DESTROYED N3on 💀 (R3born pole Y)
+- N3on Trusted the STRIPPER Over Sarah 💀 (R3born handstand Y)
+- N3on Tried to SKIP the Workout 💀 (R3born cheat Y)
