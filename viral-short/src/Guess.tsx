@@ -27,7 +27,7 @@ type Cfg = {top: string; cta: string; label: string; track: Record<string, numbe
   punch: Ref[]; blowouts: Ref[]; blackFlash: Ref[]; streaks: Ref[]; music: number; loop?: boolean; ctaAt?: Ref; musicVol?: number; subBand?: [number, number]; blurOff?: [number, number][]; musicFile?: string; hl?: Record<string, string>; pushIn?: boolean; src?: string;
   teaser?: {a: number; b: number; x: number; z: number; y: number; until: Ref}; hardcut?: boolean;
   extras?: {at: Ref; kind: 'png' | 'ov' | 'sfx'; file: string; v?: number; dur?: number; x?: number; y?: number; size?: number}[]; cutSfx?: string;
-  wm?: {file: string; x: number; y: number; w: number}; topY?: number; srcVol?: number};
+  wm?: {file: string; x: number; y: number; w: number}; topY?: number; srcVol?: number; noSkull?: boolean; fxOff?: boolean};
 
 export const EDITS: Record<string, Cfg> = {
   bowling: {top: 'Guess the LARPER millionaire', cta: '*real millionaire or LARP?*', label: '*Hulk*', track: HULK, music: 20,
@@ -128,8 +128,8 @@ import T_CLOWN_SOL from './tracks/clown_sol.json';
 const V5_TRACKS: Record<string, Record<string, number[]>> = {iron: IRONREVEAL as Record<string, number[]>, gift: T_GIFT, merch: T_MERCH, pissed: T_PISSED, hulk: HULK,
   chant_iron: T_CHANT_IRON, solstice: T_CLOWN_SOL};
 Object.entries({...V5, ...V6, ...R3, ...TV, ...R3B, ...X, ...R3F, ...R3G, ...MJ} as unknown as Record<string, {top: string; hl: Record<string, string>; cta: string; music: [string, number]; ctaAt: Ref; track: string; calls: [number, number, string][];
-  tints: [Ref, string][]; rizz: Ref[]; punch: Ref[]; blowouts: Ref[]; blackFlash: Ref[]; streaks: Ref[]; src?: string; teaser?: Cfg['teaser']; hardcut?: boolean; extras?: Cfg['extras']; cutSfx?: string; wm?: Cfg['wm']; topY?: number; srcVol?: number; trackData?: Record<string, number[]>}>).forEach(([id, a]) => {
-  EDITS[id] = {wm: a.wm, topY: a.topY, srcVol: a.srcVol, extras: a.extras, cutSfx: a.cutSfx, hardcut: a.hardcut, teaser: a.teaser, src: a.src, subBand: a.src ? [1, 0] : undefined, top: a.top, hl: a.hl, cta: a.cta, label: '', track: a.trackData ?? V5_TRACKS[a.track] ?? {}, music: a.music[1], musicFile: a.music[0], musicVol: 0.53, loop: !(a as {intro?: boolean}).intro, pushIn: true,
+  tints: [Ref, string][]; rizz: Ref[]; punch: Ref[]; blowouts: Ref[]; blackFlash: Ref[]; streaks: Ref[]; src?: string; teaser?: Cfg['teaser']; hardcut?: boolean; extras?: Cfg['extras']; cutSfx?: string; wm?: Cfg['wm']; topY?: number; srcVol?: number; noSkull?: boolean; fxOff?: boolean; trackData?: Record<string, number[]>}>).forEach(([id, a]) => {
+  EDITS[id] = {wm: a.wm, topY: a.topY, srcVol: a.srcVol, noSkull: a.noSkull, fxOff: a.fxOff, extras: a.extras, cutSfx: a.cutSfx, hardcut: a.hardcut, teaser: a.teaser, src: a.src, subBand: a.src ? [1, 0] : undefined, top: a.top, hl: a.hl, cta: a.cta, label: '', track: a.trackData ?? V5_TRACKS[a.track] ?? {}, music: a.music[1], musicFile: a.music[0], musicVol: 0.53, loop: !(a as {intro?: boolean}).intro, pushIn: true,
     ctaAt: a.ctaAt, calls: a.calls, tints: a.tints.map(([r, c]) => [r, c === 'G' ? GREEN : RED] as [Ref, string]), rizz: a.rizz, punch: a.punch,
     blowouts: a.blowouts, blackFlash: a.blackFlash, streaks: a.streaks};
 });
@@ -229,7 +229,7 @@ export const Guess: React.FC<{edit: string}> = ({edit}) => {
     ...PUNCH.map((t): [string, number, number] => ['pop.mp3', t, 0.22]),
   ];
   const FX: [string, number, number][] = [];
-  RAW.forEach((x) => { if (x[1] >= 0 && !FX.some((y) => Math.abs(y[1] - x[1]) < 5)) FX.push(x); });
+  if (!cfg.fxOff) RAW.forEach((x) => { if (x[1] >= 0 && !FX.some((y) => Math.abs(y[1] - x[1]) < 5)) FX.push(x); });
   (cfg.extras ?? []).filter((e) => e.kind === 'sfx').forEach((e) => FX.push([e.file, at(e.at), e.v ?? 0.45]));
   return <AbsoluteFill style={{backgroundColor: '#000'}}>
     <svg width="0" height="0" style={{position: 'absolute'}}><filter id="hblur" x="-10%" y="0" width="120%" height="100%"><feGaussianBlur stdDeviation={`${hblur} 1.5`} /></filter></svg>
@@ -271,7 +271,7 @@ export const Guess: React.FC<{edit: string}> = ({edit}) => {
     </div>
     <div style={{position: 'absolute', left: 0, width: 1080, ...(cfg.topY ? {top: cfg.topY} : {bottom: 1920 - top + 3}), display: 'flex', justifyContent: 'center'}}>
       <div style={{fontFamily: MONT, fontWeight: 700, fontSize: 58, lineHeight: '65px', color: 'white', textAlign: 'center', maxWidth: 940, ...(cfg.topY ? {WebkitTextStroke: '7px #000', paintOrder: 'stroke fill', textShadow: '0 3px 8px rgba(0,0,0,0.7)'} : {})}}>
-        {cfg.top.split(' ').slice(0, -1).map((w, i) => <span key={i} style={{color: cfg.hl?.[w] ?? 'white'}}>{w} </span>)}<span style={{whiteSpace: 'nowrap', color: cfg.hl?.[cfg.top.split(' ').pop()!] ?? 'white'}}>{cfg.top.split(' ').pop()}<Img src={staticFile('res/skull.png')} style={{width: 50, height: 50, verticalAlign: '-6px', marginLeft: 4}} /></span>
+        {cfg.top.split(' ').slice(0, -1).map((w, i) => <span key={i} style={{color: cfg.hl?.[w] ?? 'white'}}>{w} </span>)}<span style={{whiteSpace: 'nowrap', color: cfg.hl?.[cfg.top.split(' ').pop()!] ?? 'white'}}>{cfg.top.split(' ').pop()}{!cfg.noSkull && <Img src={staticFile('res/skull.png')} style={{width: 50, height: 50, verticalAlign: '-6px', marginLeft: 4}} />}</span>
       </div>
     </div>
     {(cfg.extras ?? []).filter((e) => e.kind === 'png').map((e, i) => { const t0 = at(e.at), d = e.dur ?? 36, k = f - t0; if (k < 0 || k >= d) return null;
