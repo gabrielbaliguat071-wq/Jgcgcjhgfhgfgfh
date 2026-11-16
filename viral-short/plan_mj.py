@@ -22,8 +22,8 @@ EDITS = {
                                        (704.6, 960), (705.9, 1000)])],
  'mjpaused': [('hook', V63, 435.5, 437.9, 330), ('c1', V63, 386.3, 390.9, 450), ('c2', V63, 404.9, 410.95, 480), ('c3', V63, 424.6, 430.0, 700)],
  'mjsugar': [('hook', V63, 450.1, 451.8, 650), ('c1', V63, 439.9, 448.6, 420), ('c2', V63, 448.6, 457.1, 650)],
- 'mjdance': [('hook', V63, 48.0, 50.0, 640), ('c1', V63, 14.0, 21.0, 500), ('c2', V63, 21.0, 26.0, 500), ('c3', V63, 26.0, 31.0, 560),
-             ('c4', V63, 46.5, 52.0, 640)],
+ 'mjdance': [('hook', V63, 48.0, 50.0, 380), ('c1', V63, 14.0, 21.0, 500), ('c2', V63, 21.0, 26.0, 500), ('c3', V63, 26.0, 31.0, 560),
+             ('c4', V63, 46.5, 52.0, 380)],
  'mjred': [('hook', V64, 187.5, 189.5, 520), ('c1', V64, 116.0, 121.0, 640), ('c2', V64, 121.0, 126.0, 640), ('c3', V64, 126.0, 130.0, 640),
            ('c4', V64, 183.0, 190.0, 600)],
 }
@@ -50,7 +50,8 @@ for eid, plan in EDITS.items():
         t += d
     gen[eid] = scenes
     print(eid, round(t, 2), 's |', ' / '.join(s['id'] + ': ' + ' '.join(w['word'] for w in s['words']) for s in scenes))
-    if '--no-excerpts' in sys.argv: continue
+    ONLY = [a[7:] for a in sys.argv if a.startswith('--only=')]
+    if '--no-excerpts' in sys.argv or (ONLY and eid not in ONLY): continue
     cmd = ['ffmpeg', '-v', 'error', '-y']; fc = []
     for i, (src, a, d, cr) in enumerate(parts):
         cmd += ['-ss', f'{a:.3f}', '-t', f'{d:.4f}', '-i', f'{PX}/{src}']
@@ -105,7 +106,7 @@ CFG = {
    blowouts=[['c4']], blackFlash=[['c3']], streaks=[['c2'], ['c4']],
    extras=[sfx(['c2'], 's_wow.mp3', 0.45), png(['c2'], 'e_heart.png'), sfx(['c4'], 's_correct.mp3', 0.4)]),
 }
-TRACKS = {'mjpaused': [('c1', 1.0, 3.4, 1250, 280, 120, '*The MJ*')], 'mjdance': [('c3', 1.0, 2.5, 658, 312, 110, '*Blue MJ*')]}
+TRACKS = {'mjpaused': [('c1', 1.0, 3.4, 1170, 290, 120, '*The MJ*')]}
 for eid, c in CFG.items():
     c.update(track='none', calls=[], trackData={}, src=f'g67_{eid}.mp4', intro=True, hardcut=True, cutSfx='s_camflash.mp3',
              wm=dict(file='wm_loadedtea.png', x=80, y=140, w=920), topY=436)
