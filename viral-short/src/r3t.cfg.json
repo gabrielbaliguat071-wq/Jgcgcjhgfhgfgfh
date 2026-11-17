@@ -157,8 +157,7 @@
    {
     "at": [
      "c3",
-     "stripper",
-     1
+     "have"
     ],
     "kind": "txt",
     "file": "PLOT TWIST",
@@ -171,8 +170,7 @@
    {
     "at": [
      "c3",
-     "stripper",
-     1
+     "have"
     ],
     "kind": "sfx",
     "file": "s_ayo.mp3",
@@ -186,7 +184,7 @@
     ],
     "kind": "png",
     "file": "skull.png",
-    "off": 4,
+    "off": 15,
     "sfx": "s_fahhh.mp3",
     "sv": 0.45
    }
@@ -225,9 +223,9 @@
    },
    {
     "at": [
-     "c3"
+     "c4"
     ],
-    "text": "Calf\u2026 coward or smart?"
+    "text": "Rate his pain 1-10"
    }
   ],
   "tints": [
@@ -272,9 +270,9 @@
      "c1"
     ],
     "kind": "txt",
-    "file": "CALORIES BURNED",
+    "file": "HIM vs HER: CALORIES",
     "color": "#FFE14A",
-    "size": 72,
+    "size": 80,
     "off": 0,
     "dur": 80,
     "y": 560
@@ -313,19 +311,6 @@
     "size": 110,
     "off": 60,
     "dur": 30
-   },
-   {
-    "at": [
-     "c3",
-     "calf"
-    ],
-    "kind": "txt",
-    "file": "HE PICKED CALF",
-    "color": "#FFFFFF",
-    "size": 90,
-    "off": 0,
-    "dur": 24,
-    "y": 800
    },
    {
     "at": [
@@ -407,7 +392,7 @@
   "ask": [
    {
     "at": [
-     "c2"
+     "c3"
     ],
     "text": "Could YOU last 10 seconds?"
    }
@@ -447,7 +432,7 @@
   "extras": [
    {
     "at": [
-     "c2"
+     "c3"
     ],
     "kind": "txt",
     "file": "WHO DROPS FIRST?",
@@ -459,7 +444,7 @@
    },
    {
     "at": [
-     "c2"
+     "c3"
     ],
     "kind": "sfx",
     "file": "s_ding.mp3",
@@ -469,12 +454,84 @@
     "at": [
      "c3"
     ],
+    "kind": "sfx",
+    "file": "s_tick.mp3",
+    "v": 0.35,
+    "off": 30
+   },
+   {
+    "at": [
+     "c3"
+    ],
+    "kind": "sfx",
+    "file": "s_tick.mp3",
+    "v": 0.35,
+    "off": 60
+   },
+   {
+    "at": [
+     "c3"
+    ],
+    "kind": "sfx",
+    "file": "s_tick.mp3",
+    "v": 0.35,
+    "off": 90
+   },
+   {
+    "at": [
+     "c3"
+    ],
+    "kind": "sfx",
+    "file": "s_tick.mp3",
+    "v": 0.35,
+    "off": 120
+   },
+   {
+    "at": [
+     "c3"
+    ],
+    "kind": "sfx",
+    "file": "s_tick.mp3",
+    "v": 0.35,
+    "off": 150
+   },
+   {
+    "at": [
+     "c3"
+    ],
+    "kind": "sfx",
+    "file": "s_tick.mp3",
+    "v": 0.35,
+    "off": 180
+   },
+   {
+    "at": [
+     "c3"
+    ],
+    "kind": "sfx",
+    "file": "s_tick.mp3",
+    "v": 0.35,
+    "off": 210
+   },
+   {
+    "at": [
+     "c3"
+    ],
+    "kind": "sfx",
+    "file": "s_tick.mp3",
+    "v": 0.35,
+    "off": 240
+   },
+   {
+    "at": [
+     "c3"
+    ],
     "kind": "txt",
     "file": "HE'S OUT",
     "color": "#FF2A2A",
     "size": 130,
-    "off": 96,
-    "dur": 36,
+    "off": 201,
+    "dur": 30,
     "y": 560
    },
    {
@@ -484,7 +541,37 @@
     "kind": "sfx",
     "file": "s_fahhh.mp3",
     "v": 0.5,
-    "off": 96
+    "off": 201
+   },
+   {
+    "at": [
+     "c3"
+    ],
+    "kind": "txt",
+    "file": "SHE'S STILL GOING\u2026",
+    "color": "#FFFFFF",
+    "size": 80,
+    "off": 232,
+    "dur": 40,
+    "y": 560
+   },
+   {
+    "at": [
+     "c3"
+    ],
+    "kind": "sfx",
+    "file": "s_tick.mp3",
+    "v": 0.35,
+    "off": 240
+   },
+   {
+    "at": [
+     "c3"
+    ],
+    "kind": "sfx",
+    "file": "s_tick.mp3",
+    "v": 0.35,
+    "off": 270
    },
    {
     "at": [
@@ -689,7 +776,7 @@
     "at": [
      "c1"
     ],
-    "text": "Workout or\u2026?"
+    "text": "Rate how sus 1-10"
    }
   ],
   "tints": [
@@ -815,7 +902,7 @@
     ],
     "kind": "png",
     "file": "skull.png",
-    "off": 5,
+    "off": 11,
     "sfx": "s_ayo.mp3",
     "sv": 0.45
    }
@@ -969,9 +1056,9 @@
      "c2"
     ],
     "kind": "txt",
-    "file": "THE \"BATHROOM\"",
+    "file": "THE \"BATHROOM\" WORKOUT",
     "color": "#FFE14A",
-    "size": 100,
+    "size": 80,
     "off": 0,
     "dur": 44,
     "y": 560
@@ -983,7 +1070,7 @@
     ],
     "kind": "png",
     "file": "e_sob.png",
-    "off": -5,
+    "off": 7,
     "sfx": "s_fahhh.mp3",
     "sv": 0.45
    }
@@ -1018,7 +1105,7 @@
     "at": [
      "c0"
     ],
-    "text": "Is 'oh close' the biggest cope?"
+    "text": "Would you admit you lost?"
    }
   ],
   "tints": [
@@ -1147,7 +1234,7 @@
     "file": "NOT CLOSE",
     "color": "#FF2A2A",
     "size": 120,
-    "off": 0,
+    "off": -2,
     "dur": 30,
     "y": 560
    },
@@ -1159,7 +1246,7 @@
     ],
     "kind": "png",
     "file": "skull.png",
-    "off": 19,
+    "off": -7,
     "sfx": "s_fahhh.mp3",
     "sv": 0.45
    }
@@ -1179,12 +1266,12 @@
   "progress": true,
   "popMid": true
  },
- "tstakes": {
-  "top": "She roasted him BEFORE the workout",
+ "tspider": {
+  "top": "He turned into SPIDER-MAN mid class",
   "hl": {
-   "BEFORE": "#FF2A2A"
+   "SPIDER-MAN": "#FF2A2A"
   },
-  "sub": "The bet: loser gets his armpit waxed",
+  "sub": "His first time ever on aerial silks",
   "music": [
    "xcool_n",
    0
@@ -1194,52 +1281,56 @@
     "at": [
      "c1"
     ],
-    "text": "Would YOU take this bet?"
+    "text": "Rate his Spider-Man 1-10"
    }
   ],
   "tints": [
    [
     [
-     "c1",
-     "armpit"
+     "c2",
+     "Spider-Man"
     ],
-    "R"
+    "G"
    ]
   ],
-  "rizz": [],
+  "rizz": [
+   [
+    "c2",
+    "Spider-Man"
+   ]
+  ],
   "punch": [
    [
-    "c1",
-    "hot"
+    "c2",
+    "doing"
    ],
    [
-    "c1",
-    "lose"
+    "c2",
+    "go"
    ],
    [
-    "c1",
-    "wax"
-   ],
-   [
-    "c1",
-    "armpit"
-   ],
-   [
-    "c1",
-    "hairy"
+    "c2",
+    "Spider-Man"
    ],
    [
     "c3",
-    "skinny"
+    "good"
    ],
    [
     "c3",
-    "fat"
+    "Spider-Man"
+   ],
+   [
+    "c3",
+    "doop"
    ]
   ],
   "blowouts": [],
   "blackFlash": [],
   "streaks": [
+   [
+    "c2"
+   ],
    [
     "c3"
    ]
@@ -1250,11 +1341,11 @@
      "c1"
     ],
     "kind": "txt",
-    "file": "IF HE LOSES: ARMPIT WAX",
+    "file": "FIRST TRY",
     "color": "#FFE14A",
-    "size": 80,
+    "size": 110,
     "off": 0,
-    "dur": 70,
+    "dur": 40,
     "y": 560
    },
    {
@@ -1262,16 +1353,16 @@
      "c1"
     ],
     "kind": "sfx",
-    "file": "s_ding.mp3",
-    "v": 0.35
+    "file": "s_whoosh.mp3",
+    "v": 0.4
    },
    {
     "at": [
-     "c1",
-     "armpit"
+     "c2",
+     "Spider-Man"
     ],
     "kind": "txt",
-    "file": "ARMPIT WAX",
+    "file": "SPIDER-MAN??",
     "color": "#FF2A2A",
     "size": 120,
     "off": 0,
@@ -1280,46 +1371,45 @@
    },
    {
     "at": [
-     "c1",
-     "armpit"
+     "c2",
+     "Spider-Man"
     ],
-    "kind": "sfx",
-    "file": "s_ahh.mp3",
-    "v": 0.5
+    "kind": "ov",
+    "file": "greenflash.mp4",
+    "dur": 34,
+    "sfx": "s_wow.mp3",
+    "sv": 0.45,
+    "op": 0.45
    },
    {
     "at": [
-     "c1",
-     "hairy"
-    ],
-    "kind": "png",
-    "file": "e_laugh.png",
-    "off": 9,
-    "sfx": "s_ayo.mp3",
-    "sv": 0.45
-   },
-   {
-    "at": [
-     "c3",
-     "fat"
+     "c3"
     ],
     "kind": "txt",
-    "file": "SKINNY FAT",
-    "color": "#FF2A2A",
-    "size": 130,
-    "off": -12,
-    "dur": 40,
+    "file": "LATER THAT DAY:",
+    "color": "#FFFFFF",
+    "size": 80,
+    "off": 0,
+    "dur": 36,
     "y": 560
    },
    {
     "at": [
+     "c3"
+    ],
+    "kind": "sfx",
+    "file": "pop.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
      "c3",
-     "fat"
+     "doop"
     ],
     "kind": "png",
-    "file": "skull.png",
-    "off": -12,
-    "sfx": "s_fahhh.mp3",
+    "file": "e_laugh.png",
+    "off": 16,
+    "sfx": "s_huh.mp3",
     "sv": 0.45
    }
   ],
@@ -1329,7 +1419,7 @@
   ],
   "track": "none",
   "calls": [],
-  "src": "g67_tstakes.mp4",
+  "src": "g67_tspider.mp4",
   "intro": false,
   "ctaEnd": true,
   "hardcut": true,
@@ -1588,15 +1678,14 @@
    },
    {
     "at": [
-     "c4",
-     "genes"
+     "c4"
     ],
     "kind": "txt",
     "file": "HER VERDICT:",
     "color": "#FFFFFF",
     "size": 80,
     "off": 0,
-    "dur": 30,
+    "dur": 36,
     "y": 560
    },
    {
@@ -1606,7 +1695,7 @@
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": -14,
+    "off": 3,
     "sfx": "s_ayo.mp3",
     "sv": 0.45
    },
