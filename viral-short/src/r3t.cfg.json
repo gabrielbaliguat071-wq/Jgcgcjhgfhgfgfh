@@ -145,7 +145,8 @@
    {
     "at": [
      "c3",
-     "yeah"
+     "stripper",
+     1
     ],
     "kind": "txt",
     "file": "PLOT TWIST",
@@ -158,7 +159,8 @@
    {
     "at": [
      "c3",
-     "yeah"
+     "stripper",
+     1
     ],
     "kind": "sfx",
     "file": "s_ayo.mp3",
@@ -207,7 +209,13 @@
     "at": [
      "c1"
     ],
-    "text": "Rate his pain 1-10"
+    "text": "Would YOU take this bet?"
+   },
+   {
+    "at": [
+     "c3"
+    ],
+    "text": "Calf\u2026 coward or smart?"
    }
   ],
   "tints": [
@@ -281,7 +289,7 @@
     "sfx": "s_wow.mp3",
     "sv": 0.45,
     "op": 0.5,
-    "off": 40
+    "off": 60
    },
    {
     "at": [
@@ -291,8 +299,21 @@
     "file": "SHE WINS 389",
     "color": "#FF2A2A",
     "size": 110,
-    "off": 40,
-    "dur": 40
+    "off": 60,
+    "dur": 30
+   },
+   {
+    "at": [
+     "c3",
+     "calf"
+    ],
+    "kind": "txt",
+    "file": "CALF??",
+    "color": "#FFFFFF",
+    "size": 120,
+    "off": 0,
+    "dur": 24,
+    "y": 800
    },
    {
     "at": [
@@ -361,12 +382,12 @@
   "progress": true,
   "popMid": true
  },
- "tpole": {
-  "top": "His first pole class went\u2026",
+ "ttuck": {
+  "top": "Who can hang LONGER? Him vs her",
   "hl": {
-   "pole": "#FF2A2A"
+   "LONGER?": "#FF2A2A"
   },
-  "sub": "First time ever on a pole",
+  "sub": "Knees up. First one to drop loses.",
   "music": [
    "phonk_n",
    40
@@ -374,113 +395,160 @@
   "ask": [
    {
     "at": [
-     "hook"
+     "c1"
     ],
-    "text": "Rate his spin 1-10"
+    "text": "Could YOU last 10 seconds?"
    }
   ],
   "tints": [
    [
     [
-     "c2",
-     "stop"
+     "c3",
+     "winner"
     ],
-    "R"
+    "G"
    ]
   ],
-  "rizz": [],
+  "rizz": [
+   [
+    "c3",
+    "winner"
+   ]
+  ],
   "punch": [
    [
-    "hook",
-    "stop"
+    "c1",
+    "longest"
    ],
    [
     "c1",
-    "stupid"
+    "three"
    ],
    [
     "c1",
-    "great"
+    "two"
    ],
    [
-    "c2",
-    "whoa"
+    "c1",
+    "go"
    ],
    [
-    "c2",
-    "stop"
+    "c3",
+    "winner"
    ],
    [
-    "c2",
-    "stop",
-    2
+    "c4",
+    "dude"
    ]
   ],
   "blowouts": [],
   "blackFlash": [],
-  "streaks": [],
+  "streaks": [
+   [
+    "c3"
+   ]
+  ],
   "extras": [
    {
     "at": [
-     "rw"
+     "c1",
+     "longest"
     ],
     "kind": "txt",
-    "file": "HOW IT STARTED",
-    "color": "#FFFFFF",
+    "file": "WHO LASTS LONGER?",
+    "color": "#FFE14A",
     "size": 90,
     "off": 0,
-    "dur": 45,
+    "dur": 50,
     "y": 560
    },
    {
     "at": [
      "c1",
-     "great"
+     "go"
     ],
     "kind": "sfx",
-    "file": "s_huh.mp3",
-    "v": 0.5
+    "file": "s_ding.mp3",
+    "v": 0.4
    },
    {
     "at": [
-     "c2"
+     "c1",
+     "go"
     ],
     "kind": "txt",
-    "file": "HOW IT'S GOING",
-    "color": "#FFE14A",
-    "size": 100,
+    "file": "GO!",
+    "color": "#58EE28",
+    "size": 150,
     "off": 0,
-    "dur": 40,
+    "dur": 20,
     "y": 560
    },
    {
     "at": [
-     "c2"
+     "c3"
     ],
-    "kind": "sfx",
-    "file": "s_whoosh.mp3",
-    "v": 0.5
+    "kind": "txt",
+    "file": "HE'S OUT",
+    "color": "#FF2A2A",
+    "size": 130,
+    "off": 129,
+    "dur": 36,
+    "y": 560
    },
    {
     "at": [
-     "c2",
-     "stop",
-     2
+     "c3"
+    ],
+    "kind": "sfx",
+    "file": "s_fahhh.mp3",
+    "v": 0.5,
+    "off": 129
+   },
+   {
+    "at": [
+     "c3",
+     "winner"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34,
+    "sfx": "s_wow.mp3",
+    "sv": 0.45,
+    "op": 0.5
+   },
+   {
+    "at": [
+     "c3",
+     "winner"
+    ],
+    "kind": "txt",
+    "file": "SHE WINS",
+    "color": "#58EE28",
+    "size": 130,
+    "off": 0,
+    "dur": 36,
+    "y": 560
+   },
+   {
+    "at": [
+     "c4",
+     "dude"
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": 9,
-    "sfx": "s_ahh.mp3",
+    "off": 12,
+    "sfx": "s_huh.mp3",
     "sv": 0.45
    }
   ],
   "cta": "*full episode on @HardScope*",
   "ctaAt": [
-   "c2"
+   "c4"
   ],
   "track": "none",
   "calls": [],
-  "src": "g67_tpole.mp4",
+  "src": "g67_ttuck.mp4",
   "intro": false,
   "ctaEnd": true,
   "hardcut": true,
@@ -600,22 +668,12 @@
    },
    {
     "at": [
-     "c2",
-     "one"
-    ],
-    "kind": "sfx",
-    "file": "s_awk.mp3",
-    "v": 0.45,
-    "off": 50
-   },
-   {
-    "at": [
      "c3",
      "wax"
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": 6,
+    "off": 14,
     "sfx": "s_huh.mp3",
     "sv": 0.45
    }
@@ -656,13 +714,6 @@
   "tints": [
    [
     [
-     "c1",
-     "between"
-    ],
-    "R"
-   ],
-   [
-    [
      "c2",
      "hips"
     ],
@@ -695,10 +746,6 @@
    [
     "c2",
     "forward"
-   ],
-   [
-    "c3",
-    "arch"
    ],
    [
     "c3",
@@ -782,19 +829,30 @@
    },
    {
     "at": [
-     "c3",
-     "seriously"
+     "c4"
+    ],
+    "kind": "txt",
+    "file": "AGAIN?!",
+    "color": "#FFE14A",
+    "size": 120,
+    "off": 0,
+    "dur": 30,
+    "y": 560
+   },
+   {
+    "at": [
+     "c4"
     ],
     "kind": "png",
     "file": "skull.png",
-    "off": 18,
+    "off": 12,
     "sfx": "s_ayo.mp3",
     "sv": 0.45
    }
   ],
   "cta": "*full episode on @HardScope*",
   "ctaAt": [
-   "c3"
+   "c4"
   ],
   "track": "none",
   "calls": [],
@@ -906,14 +964,6 @@
    },
    {
     "at": [
-     "hook"
-    ],
-    "kind": "sfx",
-    "file": "s_awk.mp3",
-    "v": 0.4
-   },
-   {
-    "at": [
      "c1",
      "50"
     ],
@@ -988,7 +1038,7 @@
   "hl": {
    "103": "#FF2A2A"
   },
-  "sub": "Bet: most calories burned today wins",
+  "sub": "Bet: loser gets WAXED",
   "music": [
    "sentamento_n",
    55
@@ -996,9 +1046,9 @@
   "ask": [
    {
     "at": [
-     "c1"
+     "c0"
     ],
-    "text": "Sore loser? Rate 1-10"
+    "text": "Who trash talks better?"
    }
   ],
   "tints": [
@@ -1025,16 +1075,20 @@
   ],
   "punch": [
    [
+    "c0",
+    "calories"
+   ],
+   [
+    "c0",
+    "embarrassing"
+   ],
+   [
     "c1",
     "103"
    ],
    [
     "c1",
     "impossible"
-   ],
-   [
-    "c2",
-    "generous"
    ],
    [
     "c2",
@@ -1111,7 +1165,20 @@
     "color": "#FFE14A",
     "size": 100,
     "off": 2,
-    "dur": 40,
+    "dur": 34,
+    "y": 560
+   },
+   {
+    "at": [
+     "c2",
+     "not"
+    ],
+    "kind": "txt",
+    "file": "NOT CLOSE",
+    "color": "#FF2A2A",
+    "size": 120,
+    "off": 0,
+    "dur": 30,
     "y": 560
    },
    {
@@ -1121,7 +1188,7 @@
      1
     ],
     "kind": "png",
-    "file": "e_sob.png",
+    "file": "skull.png",
     "off": 7,
     "sfx": "s_fahhh.mp3",
     "sv": 0.45
@@ -1142,12 +1209,12 @@
   "progress": true,
   "popMid": true
  },
- "thand": {
-  "top": "His first pole class was ROUGH",
+ "tstakes": {
+  "top": "Loser gets his ARMPIT waxed",
   "hl": {
-   "ROUGH": "#FF2A2A"
+   "ARMPIT": "#FF2A2A"
   },
-  "sub": "First time trying a pole trick",
+  "sub": "The bet: most calories burned today wins",
   "music": [
    "xcool_n",
    0
@@ -1157,13 +1224,20 @@
     "at": [
      "c1"
     ],
-    "text": "Rate his form 1-10"
+    "text": "Would YOU take this bet?"
    }
   ],
   "tints": [
    [
     [
      "c1",
+     "armpit"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
      "nothing"
     ],
     "R"
@@ -1173,32 +1247,92 @@
   "punch": [
    [
     "c1",
-    "kick"
+    "hot"
    ],
    [
     "c1",
-    "tuck"
+    "lose"
    ],
    [
     "c1",
-    "butt"
+    "wax"
    ],
    [
     "c1",
+    "armpit"
+   ],
+   [
+    "c1",
+    "hairy"
+   ],
+   [
+    "c2",
     "nothing"
+   ],
+   [
+    "c2",
+    "impressive"
+   ],
+   [
+    "c3",
+    "skinny"
+   ],
+   [
+    "c3",
+    "fat"
    ]
   ],
   "blowouts": [],
   "blackFlash": [],
-  "streaks": [],
+  "streaks": [
+   [
+    "c2"
+   ],
+   [
+    "c3"
+   ]
+  ],
   "extras": [
    {
     "at": [
      "c1",
-     "butt"
+     "armpit"
     ],
     "kind": "txt",
-    "file": "BUTT CRACK ALERT",
+    "file": "ARMPIT WAX",
+    "color": "#FF2A2A",
+    "size": 120,
+    "off": 0,
+    "dur": 40,
+    "y": 560
+   },
+   {
+    "at": [
+     "c1",
+     "armpit"
+    ],
+    "kind": "sfx",
+    "file": "s_ahh.mp3",
+    "v": 0.5
+   },
+   {
+    "at": [
+     "c1",
+     "hairy"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "off": 9,
+    "sfx": "s_ayo.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c2",
+     "nothing"
+    ],
+    "kind": "txt",
+    "file": "NOTHING IMPRESSIVE",
     "color": "#FFE14A",
     "size": 90,
     "off": 0,
@@ -1207,45 +1341,45 @@
    },
    {
     "at": [
-     "c1",
-     "butt"
+     "c2",
+     "nothing"
     ],
     "kind": "sfx",
-    "file": "s_huh.mp3",
+    "file": "s_awk.mp3",
     "v": 0.5
    },
    {
     "at": [
-     "c1",
-     "nothing"
+     "c3",
+     "fat"
     ],
     "kind": "txt",
-    "file": "NOTHING BACK THERE",
+    "file": "SKINNY FAT",
     "color": "#FF2A2A",
-    "size": 90,
+    "size": 130,
     "off": 0,
-    "dur": 46,
+    "dur": 40,
     "y": 560
    },
    {
     "at": [
-     "c1",
-     "at"
+     "c3",
+     "fat"
     ],
     "kind": "png",
-    "file": "e_laugh.png",
-    "off": 14,
-    "sfx": "s_ayo.mp3",
+    "file": "skull.png",
+    "off": 12,
+    "sfx": "s_fahhh.mp3",
     "sv": 0.45
    }
   ],
   "cta": "*full episode on @HardScope*",
   "ctaAt": [
-   "c1"
+   "c3"
   ],
   "track": "none",
   "calls": [],
-  "src": "g67_thand.mp4",
+  "src": "g67_tstakes.mp4",
   "intro": false,
   "ctaEnd": true,
   "hardcut": true,
@@ -1367,6 +1501,28 @@
     "kind": "sfx",
     "file": "s_nice.mp3",
     "v": 0.5
+   },
+   {
+    "at": [
+     "c2",
+     "teaching"
+    ],
+    "kind": "txt",
+    "file": "WHAT DO YOU LOOK AT?",
+    "color": "#FFFFFF",
+    "size": 80,
+    "off": 0,
+    "dur": 40,
+    "y": 560
+   },
+   {
+    "at": [
+     "c2",
+     "teaching"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.5
    }
   ],
   "cta": "*full episode on @HardScope*",
@@ -1467,7 +1623,7 @@
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": 11,
+    "off": 14,
     "sfx": "s_ayo.mp3",
     "sv": 0.45
    },
