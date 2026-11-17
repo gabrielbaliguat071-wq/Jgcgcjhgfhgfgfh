@@ -1,0 +1,420 @@
+{
+ "sjosh": {
+  "top": "He thought he pulled Josh Allen\u2026 LOOK closer",
+  "hl": {
+   "LOOK": "#FFE11A",
+   "closer": "#FFE11A"
+  },
+  "src": "g67_tvjosh.mp4",
+  "music": [
+   "empire_n",
+   18.5
+  ],
+  "ring": {
+   "960": [
+    960,
+    330
+   ],
+   "780": [
+    600,
+    230
+   ],
+   "640": [
+    560,
+    170
+   ]
+  },
+  "cta": "DID YOU KNOW THIS?",
+  "ctaAt": [
+   "c2",
+   "true",
+   1
+  ],
+  "emoji": [
+   [
+    [
+     "hook",
+     "changed"
+    ],
+    "1f92f"
+   ],
+   [
+    [
+     "c1",
+     "gold"
+    ],
+    "1f525"
+   ],
+   [
+    [
+     "c2",
+     "glove"
+    ],
+    "1f602"
+   ],
+   [
+    [
+     "c2",
+     "josh"
+    ],
+    "1f440"
+   ],
+   [
+    [
+     "c2",
+     "rookie"
+    ],
+    "1f914"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "hines"
+   ],
+   [
+    "hook",
+    "changed"
+   ],
+   [
+    "c1",
+    "true"
+   ],
+   [
+    "c2",
+    "teal"
+   ],
+   [
+    "c2",
+    "glove"
+   ],
+   [
+    "c2",
+    "josh"
+   ],
+   [
+    "c2",
+    "fire"
+   ],
+   [
+    "c2",
+    "rookie"
+   ],
+   [
+    "c2",
+    "real"
+   ],
+   [
+    "c2",
+    "hines"
+   ]
+  ],
+  "sfx": [
+   [
+    [
+     "hook",
+     "changed"
+    ],
+    "s_huh.mp3",
+    0.4
+   ],
+   [
+    [
+     "c2",
+     "glove"
+    ],
+    "s_awk.mp3",
+    0.35
+   ],
+   [
+    [
+     "c2",
+     "hines"
+    ],
+    "s_wow.mp3",
+    0.35
+   ]
+  ]
+ },
+ "sslab": {
+  "top": "This card has pieces of Tiger's REAL glove and cap",
+  "hl": {
+   "REAL": "#FFE11A"
+  },
+  "src": "g67_tvslab.mp4",
+  "music": [
+   "montagem_n",
+   24.0
+  ],
+  "ring": {
+   "960": [
+    960,
+    330
+   ],
+   "715": [
+    470,
+    340
+   ],
+   "640": [
+    470,
+    340
+   ]
+  },
+  "cta": "WOULD YOU KEEP IT?",
+  "ctaAt": [
+   "c2",
+   "glove"
+  ],
+  "emoji": [
+   [
+    [
+     "hook",
+     "me"
+    ],
+    "1f633"
+   ],
+   [
+    [
+     "c1",
+     "four"
+    ],
+    "23f3"
+   ],
+   [
+    [
+     "c1",
+     "tiger"
+    ],
+    "26f3"
+   ],
+   [
+    [
+     "c2",
+     "cap"
+    ],
+    "1f9e2"
+   ],
+   [
+    [
+     "c3",
+     "care"
+    ],
+    "1f381"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "me"
+   ],
+   [
+    "hook",
+    "yeah"
+   ],
+   [
+    "c1",
+    "four"
+   ],
+   [
+    "c1",
+    "exquisite"
+   ],
+   [
+    "c1",
+    "tiger"
+   ],
+   [
+    "c1",
+    "patch"
+   ],
+   [
+    "c2",
+    "shirt"
+   ],
+   [
+    "c2",
+    "glove"
+   ],
+   [
+    "c2",
+    "cap"
+   ],
+   [
+    "c2",
+    "wow"
+   ],
+   [
+    "c3",
+    "care"
+   ]
+  ],
+  "sfx": [
+   [
+    [
+     "c1",
+     "tiger"
+    ],
+    "m_cha-ching.mp3",
+    0.3
+   ],
+   [
+    [
+     "c2",
+     "wow"
+    ],
+    "s_wow.mp3",
+    0.35
+   ],
+   [
+    [
+     "hook",
+     "me"
+    ],
+    "s_huh.mp3",
+    0.35
+   ]
+  ]
+ },
+ "srogers": {
+  "top": "This fan war NEEDS to happen",
+  "hl": {
+   "NEEDS": "#FF3B3B"
+  },
+  "src": "g67_mrogers.mp4",
+  "music": [
+   "funkabn_n",
+   0.5
+  ],
+  "ring": {
+   "470": [
+    440,
+    330
+   ],
+   "960": [
+    960,
+    320
+   ],
+   "1300": [
+    1520,
+    330
+   ],
+   "600": [
+    480,
+    160
+   ]
+  },
+  "cta": "WHO WINS?",
+  "ctaAt": [
+   "c4",
+   "traveling"
+  ],
+  "emoji": [
+   [
+    [
+     "hook",
+     "box"
+    ],
+    "1f94a"
+   ],
+   [
+    [
+     "c1",
+     "eagles"
+    ],
+    "1f985"
+   ],
+   [
+    [
+     "c2",
+     "insane"
+    ],
+    "1f631"
+   ],
+   [
+    [
+     "c2",
+     "philly"
+    ],
+    "1f62d"
+   ],
+   [
+    [
+     "c3",
+     "god"
+    ],
+    "1f633"
+   ],
+   [
+    [
+     "c4",
+     "happen"
+    ],
+    "1f525"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "box"
+   ],
+   [
+    "hook",
+    "out"
+   ],
+   [
+    "c1",
+    "cheering"
+   ],
+   [
+    "c1",
+    "eagles"
+   ],
+   [
+    "c2",
+    "insane"
+   ],
+   [
+    "c2",
+    "home"
+   ],
+   [
+    "c2",
+    "philly"
+   ],
+   [
+    "c3",
+    "rogers"
+   ],
+   [
+    "c3",
+    "god"
+   ],
+   [
+    "c4",
+    "versus"
+   ],
+   [
+    "c4",
+    "happen"
+   ]
+  ],
+  "sfx": [
+   [
+    [
+     "hook",
+     "box"
+    ],
+    "m_oh-hell-nah.mp3",
+    0.3
+   ],
+   [
+    [
+     "c2",
+     "philly"
+    ],
+    "m_record-scratch.mp3",
+    0.3
+   ]
+  ]
+ }
+}

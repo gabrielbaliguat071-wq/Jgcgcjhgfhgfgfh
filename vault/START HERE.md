@@ -9,6 +9,7 @@ This repo is a **Remotion + Whisper Shorts editing setup**, and this `vault/` fo
 Edit podcast/streamer clips into viral vertical Shorts in a **meme / brainrot clipping style**, copying the references they gave and the patterns from researching 50 top Shorts. They give feedback on each version, so check the feedback log in the project note before editing again.
 
 ## User preferences
+- **No colour fades + only a little blur (2026-11-17).** No colour tints that fade in/out (green/red flash fades), no white fade-outs, no darkened/washed footage. Blur only lightly (a short whip is fine; no heavy blurred backgrounds or smeared frames).
 - **Frame the person who is ACTUALLY talking (2026-11-01).** Before picking shots, check who speaks each line: run `scripts/voice_diarize.py` (voice clusters) + `scripts/speaker_check.py` (mouth motion per seat), then confirm with a frame strip. Laughing fools the mouth check. If unsure, use the wide shot.
 - **Plain words only on screen (2026-11-01).** Captions and 3D text use words an average viewer knows. Swap hobby slang (auto → autograph, redeem → "why the wait", prism, numbered, etc.) for everyday words, or cut the line.
 - **Every title + description must be brand new (2026-11-01).** Never reuse or lightly reword one sent before, even for a re-send. Check `vault/04 Projects/Titles used.md` first and add each new one there.
@@ -57,6 +58,7 @@ Edit podcast/streamer clips into viral vertical Shorts in a **meme / brainrot cl
   - [[Card pull playbook]]: template for card-pull stream clips
   - [[Edit3 kinetic storytelling compositing]]: **Edit3** (`src/E3Ant.tsx`): kinetic type + story graphics + text/photos behind the speaker; lessons from the 38% STW flop (no ad look, cold-open hook, sound design checklist)
   - [[Glass style]]: **current pick (2026-11-01)**: cinematic full-frame motion design (glass UI cards, serif words behind the head, orbit avatars, 2D football people, B&W beat), from the user's TikTok ref
+  - [[Stacked style]]: VverPaldo concept as a split screen (wide shot + red ring on top, close-up below, seam captions with a yellow word box), no colour fades, `viral-short/src/Stack.tsx`
   - [[Meme clip style]]: VverPaldo concept in a full-screen look (white banner, glow captions, iOS emoji, whips), `viral-short/src/Meme.tsx`
   - [[Jorho style]]: copied from 4 Backyard Breaks Shorts: black bars, 💀 top line, one-word colored captions, punch-ins, exposure flash, meme cutouts
   - [[Motion graphics podcast style]]: **preset Edit2** (`src/Edit2.tsx` + `src/plans/edit2/`), the motion-graphics podcast edit, plus research on 6 viral refs

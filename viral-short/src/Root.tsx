@@ -4,6 +4,7 @@ import { ViralShort } from './ViralShort';
 import { TOTAL_FRAMES } from './clipData';
 import { Guess, EDITS, framesOf } from './Guess';
 import { Meme, MEME, memeFrames } from './Meme';
+import { Stack, STACK, stackFrames } from './Stack';
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -21,6 +22,9 @@ export const RemotionRoot: React.FC = () => {
       ))}
       {Object.keys(MEME).map((id) => (
         <Composition key={'m' + id} id={`Meme-${id}`} component={Meme} defaultProps={{edit: id}} durationInFrames={memeFrames(id)} fps={30} width={1080} height={1920} />
+      ))}
+      {Object.keys(STACK).map((id) => (
+        <Composition key={'s' + id} id={`Stack-${id}`} component={Stack} defaultProps={{edit: id}} durationInFrames={stackFrames(id)} fps={30} width={1080} height={1920} />
       ))}
     </>
   );

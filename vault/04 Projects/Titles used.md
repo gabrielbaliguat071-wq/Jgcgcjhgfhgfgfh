@@ -149,3 +149,6 @@
 - Jags Fans Got OUT-CHEERED at Home… Now It's a Fan War 🥊 (meme rogers)
 - Would an NFL QB REALLY Come Hang at Their Place? 🏠 (meme lair)
 - His Coach Taught Him More in 1 YEAR Than His WHOLE Career 🧠 (meme coen)
+- He Thought He Pulled Josh Allen… LOOK Closer 👀 (stacked josh)
+- This Card Has Pieces of Tiger's REAL Glove and Cap ⛳ (stacked slab)
+- This Fan War NEEDS to Happen 🥊 (stacked rogers)
