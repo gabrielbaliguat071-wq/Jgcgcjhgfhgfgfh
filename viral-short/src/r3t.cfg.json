@@ -94,11 +94,7 @@
    ]
   ],
   "blackFlash": [],
-  "streaks": [
-   [
-    "c3"
-   ]
-  ],
+  "streaks": [],
   "extras": [
    {
     "at": [
@@ -156,7 +152,7 @@
     "color": "#FFE14A",
     "size": 110,
     "off": 0,
-    "dur": 45,
+    "dur": 50,
     "y": 560
    },
    {
@@ -248,9 +244,6 @@
   "streaks": [
    [
     "c3"
-   ],
-   [
-    "c4"
    ]
   ],
   "extras": [
@@ -288,7 +281,7 @@
     "sfx": "s_wow.mp3",
     "sv": 0.45,
     "op": 0.5,
-    "off": 84
+    "off": 40
    },
    {
     "at": [
@@ -298,8 +291,8 @@
     "file": "SHE WINS 389",
     "color": "#FF2A2A",
     "size": 110,
-    "off": 84,
-    "dur": 26
+    "off": 40,
+    "dur": 40
    },
    {
     "at": [
@@ -399,7 +392,7 @@
   "punch": [
    [
     "hook",
-    "whoa"
+    "stop"
    ],
    [
     "c1",
@@ -421,19 +414,11 @@
     "c2",
     "stop",
     2
-   ],
-   [
-    "c2",
-    "oh"
    ]
   ],
   "blowouts": [],
   "blackFlash": [],
-  "streaks": [
-   [
-    "c2"
-   ]
-  ],
+  "streaks": [],
   "extras": [
    {
     "at": [
@@ -461,33 +446,30 @@
      "c2"
     ],
     "kind": "txt",
-    "file": "HIM",
+    "file": "HOW IT'S GOING",
     "color": "#FFE14A",
-    "size": 110,
+    "size": 100,
     "off": 0,
-    "dur": 24,
+    "dur": 40,
     "y": 560
    },
    {
     "at": [
      "c2"
     ],
-    "kind": "txt",
-    "file": "THE COACH",
-    "color": "#FFFFFF",
-    "size": 90,
-    "off": 26,
-    "dur": 30,
-    "y": 560
+    "kind": "sfx",
+    "file": "s_whoosh.mp3",
+    "v": 0.5
    },
    {
     "at": [
      "c2",
-     "oh"
+     "stop",
+     2
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": 15,
+    "off": 9,
     "sfx": "s_ahh.mp3",
     "sv": 0.45
    }
@@ -525,15 +507,7 @@
     "text": "Rate his pain 1-10"
    }
   ],
-  "tints": [
-   [
-    [
-     "c1",
-     "sue"
-    ],
-    "R"
-   ]
-  ],
+  "tints": [],
   "rizz": [],
   "punch": [
    [
@@ -626,6 +600,16 @@
    },
    {
     "at": [
+     "c2",
+     "one"
+    ],
+    "kind": "sfx",
+    "file": "s_awk.mp3",
+    "v": 0.45,
+    "off": 50
+   },
+   {
+    "at": [
      "c3",
      "wax"
     ],
@@ -694,10 +678,6 @@
   "punch": [
    [
     "c1",
-    "ball"
-   ],
-   [
-    "c1",
     "between"
    ],
    [
@@ -732,14 +712,7 @@
    ]
   ],
   "blackFlash": [],
-  "streaks": [
-   [
-    "c2"
-   ],
-   [
-    "c3"
-   ]
-  ],
+  "streaks": [],
   "extras": [
    {
     "at": [
@@ -765,17 +738,6 @@
    },
    {
     "at": [
-     "c1",
-     "thigh"
-    ],
-    "kind": "png",
-    "file": "e_laugh.png",
-    "off": 14,
-    "sfx": "s_huh.mp3",
-    "sv": 0.45
-   },
-   {
-    "at": [
      "c2",
      "hips"
     ],
@@ -786,6 +748,15 @@
     "off": 0,
     "dur": 36,
     "y": 560
+   },
+   {
+    "at": [
+     "c2",
+     "hips"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.5
    },
    {
     "at": [
@@ -816,7 +787,7 @@
     ],
     "kind": "png",
     "file": "skull.png",
-    "off": 13,
+    "off": 18,
     "sfx": "s_ayo.mp3",
     "sv": 0.45
    }
@@ -911,14 +882,6 @@
    [
     "c5",
     "sorry"
-   ],
-   [
-    "c6",
-    "no"
-   ],
-   [
-    "c6",
-    "50"
    ]
   ],
   "blowouts": [],
@@ -926,9 +889,6 @@
   "streaks": [
    [
     "c2"
-   ],
-   [
-    "c6"
    ]
   ],
   "extras": [
@@ -937,9 +897,9 @@
      "hook"
     ],
     "kind": "txt",
-    "file": "CAUGHT",
+    "file": "CAUGHT HIM",
     "color": "#FF2A2A",
-    "size": 140,
+    "size": 120,
     "off": 0,
     "dur": 36,
     "y": 560
@@ -993,7 +953,7 @@
     "color": "#FFE14A",
     "size": 90,
     "off": 0,
-    "dur": 60,
+    "dur": 44,
     "y": 560
    },
    {
@@ -1006,22 +966,11 @@
     "off": 12,
     "sfx": "s_fahhh.mp3",
     "sv": 0.45
-   },
-   {
-    "at": [
-     "c6",
-     "calories"
-    ],
-    "kind": "png",
-    "file": "skull.png",
-    "off": 16,
-    "sfx": "s_huh.mp3",
-    "sv": 0.45
    }
   ],
   "cta": "*full episode on @HardScope*",
   "ctaAt": [
-   "c6"
+   "c5"
   ],
   "track": "none",
   "calls": [],
@@ -1035,11 +984,11 @@
   "popMid": true
  },
  "tpilates": {
-  "top": "He burned 103 calories doing Pilates\u2026",
+  "top": "He thought 103 calories would win\u2026",
   "hl": {
    "103": "#FF2A2A"
   },
-  "sub": "Then she checked HER watch\u2026",
+  "sub": "Bet: most calories burned today wins",
   "music": [
    "sentamento_n",
    55
@@ -1097,7 +1046,8 @@
    ],
    [
     "c2",
-    "60"
+    "close",
+    1
    ]
   ],
   "blowouts": [
@@ -1107,11 +1057,7 @@
    ]
   ],
   "blackFlash": [],
-  "streaks": [
-   [
-    "c2"
-   ]
-  ],
+  "streaks": [],
   "extras": [
    {
     "at": [
@@ -1160,35 +1106,25 @@
      "c2",
      "161"
     ],
-    "kind": "png",
-    "file": "e_sob.png",
-    "off": 30,
-    "sfx": "s_fahhh.mp3",
-    "sv": 0.45
-   },
-   {
-    "at": [
-     "c2",
-     "you're",
-     1
-    ],
     "kind": "txt",
-    "file": "SHE WON BY 58",
+    "file": "SHE WINS",
     "color": "#FFE14A",
     "size": 100,
-    "off": 0,
-    "dur": 45,
+    "off": 2,
+    "dur": 40,
     "y": 560
    },
    {
     "at": [
      "c2",
-     "you're",
+     "close",
      1
     ],
-    "kind": "sfx",
-    "file": "s_ayo.mp3",
-    "v": 0.5
+    "kind": "png",
+    "file": "e_sob.png",
+    "off": 7,
+    "sfx": "s_fahhh.mp3",
+    "sv": 0.45
    }
   ],
   "cta": "*full episode on @HardScope*",
@@ -1207,10 +1143,11 @@
   "popMid": true
  },
  "thand": {
-  "top": "She ROASTED him mid pole trick",
+  "top": "His first pole class was ROUGH",
   "hl": {
-   "ROASTED": "#FF2A2A"
+   "ROUGH": "#FF2A2A"
   },
+  "sub": "First time trying a pole trick",
   "music": [
    "xcool_n",
    0
@@ -1220,7 +1157,7 @@
     "at": [
      "c1"
     ],
-    "text": "Rate that roast 1-10"
+    "text": "Rate his form 1-10"
    }
   ],
   "tints": [
@@ -1230,17 +1167,14 @@
      "nothing"
     ],
     "R"
-   ],
-   [
-    [
-     "c2",
-     "stripper"
-    ],
-    "R"
    ]
   ],
   "rizz": [],
   "punch": [
+   [
+    "c1",
+    "kick"
+   ],
    [
     "c1",
     "tuck"
@@ -1252,28 +1186,34 @@
    [
     "c1",
     "nothing"
-   ],
-   [
-    "c2",
-    "again"
-   ],
-   [
-    "c2",
-    "stripper"
-   ],
-   [
-    "c2",
-    "sarah"
    ]
   ],
   "blowouts": [],
   "blackFlash": [],
-  "streaks": [
-   [
-    "c2"
-   ]
-  ],
+  "streaks": [],
   "extras": [
+   {
+    "at": [
+     "c1",
+     "butt"
+    ],
+    "kind": "txt",
+    "file": "BUTT CRACK ALERT",
+    "color": "#FFE14A",
+    "size": 90,
+    "off": 0,
+    "dur": 40,
+    "y": 560
+   },
+   {
+    "at": [
+     "c1",
+     "butt"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.5
+   },
    {
     "at": [
      "c1",
@@ -1284,7 +1224,7 @@
     "color": "#FF2A2A",
     "size": 90,
     "off": 0,
-    "dur": 40,
+    "dur": 46,
     "y": 560
    },
    {
@@ -1294,45 +1234,14 @@
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": 9,
+    "off": 14,
     "sfx": "s_ayo.mp3",
-    "sv": 0.45
-   },
-   {
-    "at": [
-     "c2"
-    ],
-    "kind": "txt",
-    "file": "SARAH OFFERS TO HELP",
-    "color": "#FFE14A",
-    "size": 80,
-    "off": 0,
-    "dur": 36,
-    "y": 560
-   },
-   {
-    "at": [
-     "c2"
-    ],
-    "kind": "sfx",
-    "file": "pop.mp3",
-    "v": 0.4
-   },
-   {
-    "at": [
-     "c2",
-     "sarah"
-    ],
-    "kind": "png",
-    "file": "skull.png",
-    "off": 8,
-    "sfx": "s_awk.mp3",
     "sv": 0.45
    }
   ],
   "cta": "*full episode on @HardScope*",
   "ctaAt": [
-   "c2"
+   "c1"
   ],
   "track": "none",
   "calls": [],
@@ -1360,7 +1269,7 @@
     "at": [
      "c1"
     ],
-    "text": "Is he wrong though?"
+    "text": "Be honest\u2026 what do YOU look at?"
    }
   ],
   "tints": [
@@ -1402,11 +1311,7 @@
   ],
   "blowouts": [],
   "blackFlash": [],
-  "streaks": [
-   [
-    "c2"
-   ]
-  ],
+  "streaks": [],
   "extras": [
    {
     "at": [
@@ -1451,7 +1356,7 @@
     "color": "#FFE14A",
     "size": 120,
     "off": 0,
-    "dur": 36,
+    "dur": 30,
     "y": 560
    },
    {
@@ -1595,14 +1500,14 @@
    {
     "at": [
      "c3",
-     "LeBron"
+     "comeback"
     ],
     "kind": "txt",
     "file": "EXCUSE #3: I'M LEBRON",
     "color": "#FFE14A",
     "size": 80,
     "off": 0,
-    "dur": 40,
+    "dur": 60,
     "y": 560
    },
    {
@@ -1612,7 +1517,7 @@
     ],
     "kind": "png",
     "file": "skull.png",
-    "off": 11,
+    "off": 16,
     "sfx": "s_huh.mp3",
     "sv": 0.45
    }
