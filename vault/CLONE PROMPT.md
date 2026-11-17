@@ -100,6 +100,8 @@ Full spec: `vault/02 Style Guide/VverPaldo style.md`. Summary:
   - 70 % of the budget is on YT Shorts; 40 %+ Tier-1 audience.
 - Already made: wax, cheat, pole, money, pilates, stakes, handstand, reformer, chatgpt, reveal.
 - Top performers (Nov 16): money "She made HOW much in ONE night?!" 30k, reveal "N3on vs Sarah… FINAL score" 19k, pole "N3on tried POLE dancing" 17.8k. Z recreations (plan11.py): open-loop hook (unanswered question or the pain moment), straight cut, no dead air, ending that loops into the hook.
+- Top-10 batch (Nov 17, plan13.py → src/r3t.cfg.json, out/guess_t*.mp4): tested with an out-of-niche 'viewer agent' (Dana persona) over 15 rounds, 2 fresh viewers per round from round 8. Reliable finishers: money, reveal, rip, cheat, gpt. Weak: sus, pilates, smoked, pretty, lat. Swapped out after failing: pole (him barely visible), handstand, club, stakes, tuck race, spider, best-at, gang flashback (looks like a reupload).
+- Retention rules learned: one clear question or race in second 1; never replay the hook line later; emoji pops AFTER the punch word and below faces; comment pill must not spoil the ending (e.g. 'Who lost? Guess' → 'Rate his pain' only at the rip); speaker tags (HIM/HER/INSTRUCTOR) only where the voice is certain (pitch check); context line under the video; ≥7 s minimum still applies.
 
 ### C. Backyard Breaks / Trevor Lawrence (Jorho channel)
 - Clip tracker spreadsheet: https://docs.google.com/spreadsheets/d/1eX0vqF73N9x2gtkRbalnKMHRd3nbd-CEv0Rt4D2glM4/edit. Tabs (gid):
