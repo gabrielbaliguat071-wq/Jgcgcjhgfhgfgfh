@@ -1,0 +1,1710 @@
+{
+ "tmoney": {
+  "top": "She made HOW much in ONE night?!",
+  "hl": {
+   "HOW": "#FF2A2A",
+   "ONE": "#FF2A2A"
+  },
+  "music": [
+   "aura_n",
+   0
+  ],
+  "ask": {
+   "at": [
+    "c2",
+    "three"
+   ],
+   "text": "Is $3K a good night?"
+  },
+  "tints": [
+   [
+    [
+     "hook",
+     "money"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "stripper"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "three"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "strip"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "three"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "most"
+   ],
+   [
+    "hook",
+    "money"
+   ],
+   [
+    "hook",
+    "night"
+   ],
+   [
+    "c1",
+    "17"
+   ],
+   [
+    "c1",
+    "clarify"
+   ],
+   [
+    "c1",
+    "stripper"
+   ],
+   [
+    "c1",
+    "stripper",
+    1
+   ],
+   [
+    "c2",
+    "money"
+   ],
+   [
+    "c2",
+    "night"
+   ],
+   [
+    "c2",
+    "three"
+   ],
+   [
+    "c2",
+    "grand"
+   ],
+   [
+    "c2",
+    "sorry"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "three"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1",
+    "stripper",
+    1
+   ]
+  ],
+  "streaks": [
+   [
+    "c2",
+    "what"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "stripper",
+     1
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "sfx": "s_ayo.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c2",
+     "three"
+    ],
+    "kind": "ov",
+    "file": "cashfall.mp4",
+    "dur": 52,
+    "sfx": "s_ding.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c2",
+     "sorry"
+    ],
+    "kind": "png",
+    "file": "e_sob.png",
+    "sfx": "s_awk.mp3",
+    "sv": 0.45
+   }
+  ],
+  "cta": "*full episode on @HardScope*",
+  "ctaAt": [
+   "c2",
+   "three"
+  ],
+  "track": "none",
+  "calls": [],
+  "src": "g67_tmoney.mp4",
+  "intro": false,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "sat": 1.1,
+  "progress": true,
+  "popMid": true
+ },
+ "treveal": {
+  "top": "Loser gets WAXED\u2026 who lost?",
+  "hl": {
+   "WAXED": "#FF2A2A"
+  },
+  "music": [
+   "suspense_n",
+   0
+  ],
+  "ask": {
+   "at": [
+    "c2",
+    "389"
+   ],
+   "text": "Would YOU take this bet?"
+  },
+  "tints": [
+   [
+    [
+     "hook",
+     "hot"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "326"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "389"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "calf"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "326"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "f***ing"
+   ],
+   [
+    "hook",
+    "hot"
+   ],
+   [
+    "c1",
+    "won"
+   ],
+   [
+    "c1",
+    "phones"
+   ],
+   [
+    "c1",
+    "grand"
+   ],
+   [
+    "c1",
+    "total"
+   ],
+   [
+    "c2",
+    "326"
+   ],
+   [
+    "c2",
+    "dumba**"
+   ],
+   [
+    "c2",
+    "389"
+   ],
+   [
+    "c2",
+    "eyebrow"
+   ],
+   [
+    "c2",
+    "calf"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "389"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2",
+    "389"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "phones"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c2",
+     "326"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "sfx": "s_huh.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c2",
+     "389"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34,
+    "sfx": "s_wow.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c2",
+     "calf"
+    ],
+    "kind": "png",
+    "file": "e_sob.png",
+    "sfx": "s_fahhh.mp3",
+    "sv": 0.45
+   }
+  ],
+  "cta": "*full episode on @HardScope*",
+  "ctaAt": [
+   "c2",
+   "389"
+  ],
+  "track": "none",
+  "calls": [],
+  "src": "g67_treveal.mp4",
+  "intro": false,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "sat": 1.1,
+  "progress": true,
+  "popMid": true
+ },
+ "tpole": {
+  "top": "N3on tried POLE dancing",
+  "hl": {
+   "POLE": "#FF2A2A"
+  },
+  "music": [
+   "phonk_n",
+   40
+  ],
+  "ask": {
+   "at": [
+    "c2",
+    "just"
+   ],
+   "text": "Rate his spin 1-10"
+  },
+  "tints": [
+   [
+    [
+     "hook",
+     "stop"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "stupid"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "spins"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "whoa"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "spins"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "whoa"
+   ],
+   [
+    "hook",
+    "stop"
+   ],
+   [
+    "hook",
+    "stop",
+    1
+   ],
+   [
+    "hook",
+    "stop",
+    2
+   ],
+   [
+    "c1",
+    "hard"
+   ],
+   [
+    "c1",
+    "stupid"
+   ],
+   [
+    "c1",
+    "stupid",
+    1
+   ],
+   [
+    "c1",
+    "great"
+   ],
+   [
+    "c1",
+    "spins"
+   ],
+   [
+    "c2",
+    "pole"
+   ],
+   [
+    "c2",
+    "whoa"
+   ],
+   [
+    "c2",
+    "stop"
+   ],
+   [
+    "c2",
+    "stop",
+    2
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "whoa"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2",
+    "stop",
+    2
+   ]
+  ],
+  "streaks": [
+   [
+    "c2",
+    "your"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "stupid",
+     1
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "sfx": "s_huh.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "spins"
+    ],
+    "kind": "ov",
+    "file": "greenflash.mp4",
+    "dur": 34,
+    "sfx": "s_correct.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c2",
+     "stop",
+     2
+    ],
+    "kind": "png",
+    "file": "e_sob.png",
+    "sfx": "s_fahhh.mp3",
+    "sv": 0.45
+   }
+  ],
+  "cta": "*full episode on @HardScope*",
+  "ctaAt": [
+   "c2",
+   "just"
+  ],
+  "track": "none",
+  "calls": [],
+  "src": "g67_tpole.mp4",
+  "intro": false,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "sat": 1.1,
+  "progress": true,
+  "popMid": true
+ },
+ "trip": {
+  "top": "He said \"sue me\"\u2026 then THIS",
+  "hl": {
+   "THIS": "#FF2A2A"
+  },
+  "music": [
+   "empire_n",
+   20
+  ],
+  "ask": {
+   "at": [
+    "c2",
+    "wow"
+   ],
+   "text": "Would you let her wax you?"
+  },
+  "tints": [
+   [
+    [
+     "c1",
+     "hard"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "lawyers"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "one"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "wow"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "lawyers"
+   ]
+  ],
+  "punch": [
+   [
+    "c1",
+    "hard"
+   ],
+   [
+    "c1",
+    "check"
+   ],
+   [
+    "c1",
+    "touch"
+   ],
+   [
+    "c1",
+    "sue"
+   ],
+   [
+    "c1",
+    "sue",
+    1
+   ],
+   [
+    "c1",
+    "lawyers"
+   ],
+   [
+    "c2",
+    "two"
+   ],
+   [
+    "c2",
+    "one"
+   ],
+   [
+    "c2",
+    "wow"
+   ],
+   [
+    "c2",
+    "good"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "one"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2",
+    "one"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "let"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "touch"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "sfx": "s_ayo.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c2",
+     "one"
+    ],
+    "kind": "png",
+    "file": "skull.png",
+    "sfx": "s_fahhh.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c2",
+     "wow"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34,
+    "sfx": "s_nice.mp3",
+    "sv": 0.45
+   }
+  ],
+  "cta": "*full episode on @HardScope*",
+  "ctaAt": [
+   "c2",
+   "wow"
+  ],
+  "track": "none",
+  "calls": [],
+  "src": "g67_trip.mp4",
+  "intro": false,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "sat": 1.1,
+  "progress": true,
+  "popMid": true
+ },
+ "tsus": {
+  "top": "This workout got SUS real quick",
+  "hl": {
+   "SUS": "#FF2A2A"
+  },
+  "music": [
+   "brega_n",
+   0
+  ],
+  "ask": {
+   "at": [
+    "c2",
+    "yep"
+   ],
+   "text": "What did YOU hear?"
+  },
+  "tints": [
+   [
+    [
+     "c1",
+     "between"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "kneel"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "hips"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "arch"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "thigh"
+   ],
+   [
+    "c2",
+    "forward"
+   ]
+  ],
+  "punch": [
+   [
+    "c1",
+    "ball"
+   ],
+   [
+    "c1",
+    "between"
+   ],
+   [
+    "c1",
+    "thigh"
+   ],
+   [
+    "c1",
+    "kneel"
+   ],
+   [
+    "c1",
+    "down"
+   ],
+   [
+    "c2",
+    "rock"
+   ],
+   [
+    "c2",
+    "push"
+   ],
+   [
+    "c2",
+    "hips"
+   ],
+   [
+    "c2",
+    "forward"
+   ],
+   [
+    "c2",
+    "backbend"
+   ],
+   [
+    "c2",
+    "arch"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "arch"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1",
+    "down"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2",
+    "now"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "thigh"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "sfx": "s_twitch.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "down"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.5
+   },
+   {
+    "at": [
+     "c2",
+     "hips"
+    ],
+    "kind": "png",
+    "file": "skull.png",
+    "sfx": "s_ayo.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c2",
+     "arch"
+    ],
+    "kind": "sfx",
+    "file": "s_twitch.mp3",
+    "v": 0.5
+   }
+  ],
+  "cta": "*full episode on @HardScope*",
+  "ctaAt": [
+   "c2",
+   "yep"
+  ],
+  "track": "none",
+  "calls": [],
+  "src": "g67_tsus.mp4",
+  "intro": false,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "sat": 1.1,
+  "progress": true,
+  "popMid": true
+ },
+ "tcheat": {
+  "top": "N3on said he had to use the BATHROOM\u2026",
+  "hl": {
+   "BATHROOM\u2026": "#FF2A2A"
+  },
+  "music": [
+   "funkabn_n",
+   4
+  ],
+  "ask": {
+   "at": [
+    "c6",
+    "there's"
+   ],
+   "text": "Cheating or genius?"
+  },
+  "tints": [
+   [
+    [
+     "hook",
+     "f***"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "restroom"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c4",
+     "calories"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c6",
+     "sue"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "restroom"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "f***"
+   ],
+   [
+    "hook",
+    "doing"
+   ],
+   [
+    "c1",
+    "50"
+   ],
+   [
+    "c1",
+    "restroom"
+   ],
+   [
+    "c4",
+    "f***"
+   ],
+   [
+    "c4",
+    "tired"
+   ],
+   [
+    "c4",
+    "burn"
+   ],
+   [
+    "c4",
+    "calories"
+   ],
+   [
+    "c5",
+    "sorry"
+   ],
+   [
+    "c6",
+    "no"
+   ],
+   [
+    "c6",
+    "50"
+   ],
+   [
+    "c6",
+    "sue"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c4",
+    "calories"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c4",
+    "what"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ],
+   [
+    "c3"
+   ],
+   [
+    "c6"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "restroom"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "sfx": "s_ahh.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c2"
+    ],
+    "kind": "sfx",
+    "file": "s_loading.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c4",
+     "calories"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34,
+    "sfx": "s_wow.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c5",
+     "sorry"
+    ],
+    "kind": "png",
+    "file": "e_sob.png",
+    "sfx": "s_awk.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c6",
+     "sue"
+    ],
+    "kind": "png",
+    "file": "skull.png",
+    "sfx": "s_fahhh.mp3",
+    "sv": 0.45
+   }
+  ],
+  "cta": "*full episode on @HardScope*",
+  "ctaAt": [
+   "c6",
+   "there's"
+  ],
+  "track": "none",
+  "calls": [],
+  "src": "g67_tcheat.mp4",
+  "intro": false,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "sat": 1.1,
+  "progress": true,
+  "popMid": true
+ },
+ "tpilates": {
+  "top": "N3on burned 103 calories doing Pilates\u2026",
+  "hl": {
+   "103": "#FF2A2A"
+  },
+  "music": [
+   "sentamento_n",
+   55
+  ],
+  "ask": {
+   "at": [
+    "c2",
+    "close"
+   ],
+   "text": "Could YOU beat 103?"
+  },
+  "tints": [
+   [
+    [
+     "hook",
+     "103"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "embarrassing"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "161"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "close",
+     1
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "161"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "103"
+   ],
+   [
+    "hook",
+    "impossible"
+   ],
+   [
+    "c1",
+    "calories"
+   ],
+   [
+    "c1",
+    "embarrassing"
+   ],
+   [
+    "c1",
+    "malfunction"
+   ],
+   [
+    "c1",
+    "103"
+   ],
+   [
+    "c1",
+    "impossible"
+   ],
+   [
+    "c2",
+    "generous"
+   ],
+   [
+    "c2",
+    "161"
+   ],
+   [
+    "c2",
+    "close"
+   ],
+   [
+    "c2",
+    "60"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "161"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1",
+    "embarrassing"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "embarrassing"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "sfx": "s_huh.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "impossible"
+    ],
+    "kind": "png",
+    "file": "e_sob.png",
+    "sfx": "s_fahhh.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c2",
+     "161"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34,
+    "sfx": "s_correct.mp3",
+    "sv": 0.45
+   }
+  ],
+  "cta": "*full episode on @HardScope*",
+  "ctaAt": [
+   "c2",
+   "close"
+  ],
+  "track": "none",
+  "calls": [],
+  "src": "g67_tpilates.mp4",
+  "intro": false,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "sat": 1.1,
+  "progress": true,
+  "popMid": true
+ },
+ "thand": {
+  "top": "N3on tried a HANDSTAND",
+  "hl": {
+   "HANDSTAND": "#FF2A2A"
+  },
+  "music": [
+   "xcool_n",
+   0
+  ],
+  "ask": {
+   "at": [
+    "c2",
+    "trusted"
+   ],
+   "text": "Stripper or Sarah?"
+  },
+  "tints": [
+   [
+    [
+     "hook",
+     "butt"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "kick"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "nothing"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "stripper"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "kick"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "butt"
+   ],
+   [
+    "hook",
+    "nothing"
+   ],
+   [
+    "c1",
+    "push"
+   ],
+   [
+    "c1",
+    "kick"
+   ],
+   [
+    "c1",
+    "tuck"
+   ],
+   [
+    "c1",
+    "butt"
+   ],
+   [
+    "c1",
+    "nothing"
+   ],
+   [
+    "c2",
+    "again"
+   ],
+   [
+    "c2",
+    "no"
+   ],
+   [
+    "c2",
+    "stripper"
+   ],
+   [
+    "c2",
+    "sarah"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "sarah"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1",
+    "nothing"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "butt"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "sfx": "s_ayo.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "nothing"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.5
+   },
+   {
+    "at": [
+     "c2",
+     "stripper"
+    ],
+    "kind": "png",
+    "file": "skull.png",
+    "sfx": "s_awk.mp3",
+    "sv": 0.45
+   }
+  ],
+  "cta": "*full episode on @HardScope*",
+  "ctaAt": [
+   "c2",
+   "trusted"
+  ],
+  "track": "none",
+  "calls": [],
+  "src": "g67_thand.mp4",
+  "intro": false,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "sat": 1.1,
+  "progress": true,
+  "popMid": true
+ },
+ "tclub": {
+  "top": "N3on admitted what he REALLY looks at",
+  "hl": {
+   "REALLY": "#FF2A2A"
+  },
+  "music": [
+   "montagem_n",
+   25
+  ],
+  "ask": {
+   "at": [
+    "c1",
+    "salute"
+   ],
+   "text": "Is he wrong though?"
+  },
+  "tints": [
+   [
+    [
+     "hook",
+     "a**"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "club"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "technique"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "him"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "technique"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "strip"
+   ],
+   [
+    "hook",
+    "a**"
+   ],
+   [
+    "c1",
+    "hard"
+   ],
+   [
+    "c1",
+    "strip"
+   ],
+   [
+    "c1",
+    "a**"
+   ],
+   [
+    "c1",
+    "technique"
+   ],
+   [
+    "c1",
+    "salute"
+   ],
+   [
+    "c1",
+    "him"
+   ],
+   [
+    "c1",
+    "brother"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "a**"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1",
+    "him"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "this",
+    1
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "a**"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "sfx": "s_ayo.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "salute"
+    ],
+    "kind": "ov",
+    "file": "greenflash.mp4",
+    "dur": 34,
+    "sfx": "s_nice.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "him"
+    ],
+    "kind": "png",
+    "file": "skull.png",
+    "sfx": "s_huh.mp3",
+    "sv": 0.45
+   }
+  ],
+  "cta": "*full episode on @HardScope*",
+  "ctaAt": [
+   "c1",
+   "salute"
+  ],
+  "track": "none",
+  "calls": [],
+  "src": "g67_tclub.mp4",
+  "intro": false,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "sat": 1.1,
+  "progress": true,
+  "popMid": true
+ },
+ "tgpt": {
+  "top": "N3on's ChatGPT excuse is CRAZY",
+  "hl": {
+   "CRAZY": "#FF2A2A"
+  },
+  "music": [
+   "alquimia_n",
+   0
+  ],
+  "ask": {
+   "at": [
+    "c3",
+    "oh"
+   ],
+   "text": "Do men REALLY burn more?"
+  },
+  "tints": [
+   [
+    [
+     "hook",
+     "men"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "50"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "crushed"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "woman"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "crushed"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "ChatGPT"
+   ],
+   [
+    "hook",
+    "men"
+   ],
+   [
+    "c1",
+    "calories"
+   ],
+   [
+    "c1",
+    "hundred"
+   ],
+   [
+    "c1",
+    "50"
+   ],
+   [
+    "c1",
+    "crushed"
+   ],
+   [
+    "c2",
+    "women"
+   ],
+   [
+    "c3",
+    "genes"
+   ],
+   [
+    "c3",
+    "woman"
+   ],
+   [
+    "c3",
+    "ChatGPT"
+   ],
+   [
+    "c3",
+    "men"
+   ],
+   [
+    "c3",
+    "comeback"
+   ],
+   [
+    "c3",
+    "LeBron"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "crushed"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c3",
+    "woman"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ],
+   [
+    "c3"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "50"
+    ],
+    "kind": "png",
+    "file": "e_sob.png",
+    "sfx": "s_fahhh.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "crushed"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34,
+    "sfx": "s_wow.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c3",
+     "woman"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "sfx": "s_ayo.mp3",
+    "sv": 0.45
+   },
+   {
+    "at": [
+     "c3",
+     "LeBron"
+    ],
+    "kind": "png",
+    "file": "skull.png",
+    "sfx": "s_huh.mp3",
+    "sv": 0.45
+   }
+  ],
+  "cta": "*full episode on @HardScope*",
+  "ctaAt": [
+   "c3",
+   "oh"
+  ],
+  "track": "none",
+  "calls": [],
+  "src": "g67_tgpt.mp4",
+  "intro": false,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "sat": 1.1,
+  "progress": true,
+  "popMid": true
+ }
+}
