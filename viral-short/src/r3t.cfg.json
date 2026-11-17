@@ -400,7 +400,7 @@
   "tints": [
    [
     [
-     "c3",
+     "c5",
      "winner"
     ],
     "G"
@@ -408,13 +408,13 @@
   ],
   "rizz": [
    [
-    "c3",
+    "c5",
     "winner"
    ]
   ],
   "punch": [
    [
-    "c3",
+    "c5",
     "winner"
    ],
    [
@@ -426,7 +426,7 @@
   "blackFlash": [],
   "streaks": [
    [
-    "c3"
+    "c5"
    ]
   ],
   "extras": [
@@ -461,121 +461,57 @@
    },
    {
     "at": [
-     "c3"
+     "c5"
+    ],
+    "kind": "txt",
+    "file": "FEW SECONDS LATER\u2026",
+    "color": "#FFFFFF",
+    "size": 70,
+    "off": 0,
+    "dur": 24,
+    "y": 560
+   },
+   {
+    "at": [
+     "c5"
+    ],
+    "kind": "sfx",
+    "file": "s_whoosh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c5"
     ],
     "kind": "sfx",
     "file": "s_tick.mp3",
     "v": 0.35,
-    "off": 60
+    "off": 25
    },
    {
     "at": [
-     "c3"
-    ],
-    "kind": "sfx",
-    "file": "s_tick.mp3",
-    "v": 0.35,
-    "off": 90
-   },
-   {
-    "at": [
-     "c3"
-    ],
-    "kind": "sfx",
-    "file": "s_tick.mp3",
-    "v": 0.35,
-    "off": 120
-   },
-   {
-    "at": [
-     "c3"
-    ],
-    "kind": "sfx",
-    "file": "s_tick.mp3",
-    "v": 0.35,
-    "off": 150
-   },
-   {
-    "at": [
-     "c3"
-    ],
-    "kind": "sfx",
-    "file": "s_tick.mp3",
-    "v": 0.35,
-    "off": 180
-   },
-   {
-    "at": [
-     "c3"
-    ],
-    "kind": "sfx",
-    "file": "s_tick.mp3",
-    "v": 0.35,
-    "off": 210
-   },
-   {
-    "at": [
-     "c3"
-    ],
-    "kind": "sfx",
-    "file": "s_tick.mp3",
-    "v": 0.35,
-    "off": 240
-   },
-   {
-    "at": [
-     "c3"
+     "c5"
     ],
     "kind": "txt",
     "file": "HE'S OUT",
     "color": "#FF2A2A",
     "size": 130,
-    "off": 201,
+    "off": 54,
     "dur": 30,
     "y": 560
    },
    {
     "at": [
-     "c3"
+     "c5"
     ],
     "kind": "sfx",
     "file": "s_fahhh.mp3",
     "v": 0.5,
-    "off": 201
+    "off": 54
    },
    {
     "at": [
-     "c3"
-    ],
-    "kind": "txt",
-    "file": "SHE'S STILL GOING\u2026",
-    "color": "#FFFFFF",
-    "size": 80,
-    "off": 232,
-    "dur": 40,
-    "y": 560
-   },
-   {
-    "at": [
-     "c3"
-    ],
-    "kind": "sfx",
-    "file": "s_tick.mp3",
-    "v": 0.35,
-    "off": 240
-   },
-   {
-    "at": [
-     "c3"
-    ],
-    "kind": "sfx",
-    "file": "s_tick.mp3",
-    "v": 0.35,
-    "off": 270
-   },
-   {
-    "at": [
-     "c3",
+     "c5",
      "winner"
     ],
     "kind": "ov",
@@ -587,7 +523,7 @@
    },
    {
     "at": [
-     "c3",
+     "c5",
      "winner"
     ],
     "kind": "txt",
@@ -603,11 +539,10 @@
      "c4",
      "dude"
     ],
-    "kind": "png",
-    "file": "e_laugh.png",
-    "off": -12,
-    "sfx": "s_huh.mp3",
-    "sv": 0.45
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.5,
+    "off": -12
    }
   ],
   "cta": "*full episode on @HardScope*",
@@ -1302,10 +1237,6 @@
   "punch": [
    [
     "c2",
-    "doing"
-   ],
-   [
-    "c2",
     "go"
    ],
    [
@@ -1358,39 +1289,38 @@
    },
    {
     "at": [
-     "c2",
-     "Spider-Man"
+     "c1"
     ],
     "kind": "txt",
     "file": "SPIDER-MAN??",
     "color": "#FF2A2A",
     "size": 120,
-    "off": 0,
-    "dur": 40,
+    "off": 40,
+    "dur": 36,
     "y": 560
    },
    {
     "at": [
-     "c2",
-     "Spider-Man"
+     "c1"
     ],
     "kind": "ov",
     "file": "greenflash.mp4",
     "dur": 34,
     "sfx": "s_wow.mp3",
     "sv": 0.45,
-    "op": 0.45
+    "op": 0.45,
+    "off": 40
    },
    {
     "at": [
      "c3"
     ],
     "kind": "txt",
-    "file": "LATER THAT DAY:",
+    "file": "HIM, LATER:",
     "color": "#FFFFFF",
     "size": 80,
     "off": 0,
-    "dur": 36,
+    "dur": 30,
     "y": 560
    },
    {
@@ -1429,9 +1359,9 @@
   "popMid": true
  },
  "tlat": {
-  "top": "He didn't know what a LAT is",
+  "top": "\"Feel it in your lats\"\u2026 he had ONE question",
   "hl": {
-   "LAT": "#FF2A2A"
+   "ONE": "#FF2A2A"
   },
   "sub": "His first ever Pilates class",
   "music": [
@@ -1443,7 +1373,7 @@
     "at": [
      "c1"
     ],
-    "text": "Do YOU know what a lat is?"
+    "text": "Who is REALLY not trying?"
    }
   ],
   "tints": [
@@ -1456,7 +1386,7 @@
    ],
    [
     [
-     "c2",
+     "c3",
      "doing"
     ],
     "R"
@@ -1485,11 +1415,11 @@
     "fire"
    ],
    [
-    "c2",
+    "c3",
     "too"
    ],
    [
-    "c2",
+    "c3",
     "doing"
    ]
   ],
@@ -1511,19 +1441,6 @@
     "off": 17,
     "sfx": "s_huh.mp3",
     "sv": 0.45
-   },
-   {
-    "at": [
-     "c1",
-     "lat"
-    ],
-    "kind": "txt",
-    "file": "LAT = BACK MUSCLE",
-    "color": "#FFE14A",
-    "size": 90,
-    "off": 20,
-    "dur": 40,
-    "y": 560
    },
    {
     "at": [
@@ -1549,20 +1466,33 @@
    },
    {
     "at": [
-     "c2",
+     "c3",
+     "too"
+    ],
+    "kind": "txt",
+    "file": "ME TOO?",
+    "color": "#FFE14A",
+    "size": 110,
+    "off": 0,
+    "dur": 20,
+    "y": 560
+   },
+   {
+    "at": [
+     "c3",
      "doing"
     ],
     "kind": "txt",
-    "file": "NOT EVEN DOING ANYTHING",
+    "file": "YOU'RE NOT EVEN DOING ANYTHING",
     "color": "#FFE14A",
-    "size": 80,
+    "size": 70,
     "off": 0,
     "dur": 30,
     "y": 560
    },
    {
     "at": [
-     "c2",
+     "c3",
      "doing"
     ],
     "kind": "png",
@@ -1574,7 +1504,7 @@
   ],
   "cta": "*full episode on @HardScope*",
   "ctaAt": [
-   "c2"
+   "c3"
   ],
   "track": "none",
   "calls": [],
@@ -1730,11 +1660,9 @@
      "c3",
      "James"
     ],
-    "kind": "png",
-    "file": "skull.png",
-    "off": 16,
-    "sfx": "s_huh.mp3",
-    "sv": 0.45
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.5
    }
   ],
   "cta": "*full episode on @HardScope*",
