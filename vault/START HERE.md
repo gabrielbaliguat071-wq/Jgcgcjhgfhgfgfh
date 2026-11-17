@@ -15,7 +15,7 @@ Edit podcast/streamer clips into viral vertical Shorts in a **meme / brainrot cl
 - **Captions ALWAYS on screen (2026-11-01):** each word stays until the next word, never blank gaps.
 - **Title, description and tags go in chat inside code blocks** (one block for the title, one for description + tags) so the user can tap the copy button. (2026-11-01)
 - **Always send a title + description with every video.** The description should be a short story or in-depth explanation (about 3–5 sentences, not too long), followed by tags that boost reach: 8–15 hashtags mixing broad (#shorts #nfl) and niche (#trevorlawrence #jaguars), plus a few plain keyword tags. (2026-10-26)
-- **Always send the finished video file directly in chat** (SendUserFile) so they can download it.
+- **Always send the finished video file directly in chat** (SendUserFile) so they can download it. **(2026-11-17) Every finished video goes straight into this chat, every time, without being asked.** Copy finals to `deliver/` (gitignored) in the repo root and send them from there.
 - iOS emoji only; Ref A glow font; whoosh = `fast-whoosh.mp3`, ding = `ding-2.mp3`.
 - Music: **podcasts** → one meme song looped, loud (`du-bist-gut-genug.mp3`). **Non-podcasts** → the user's slowed Brazilian phonk list, drop timed to the big reveal (see [[SFX and music library#Music for NON-podcast clips (user's phonk list)]]).
 - **Blur (and/or beep) cards until they're revealed**: makes viewers curious who was pulled. Don't name the player in the banner/hook before the reveal.
