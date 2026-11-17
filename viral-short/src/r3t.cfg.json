@@ -15,7 +15,7 @@
     "at": [
      "hook"
     ],
-    "text": "Would YOU do it for $3K?"
+    "text": "Would you strip for $3K?"
    }
   ],
   "tints": [
@@ -109,7 +109,8 @@
     "file": "cashfall.mp4",
     "dur": 52,
     "sfx": "s_ding.mp3",
-    "sv": 0.45
+    "sv": 0.45,
+    "op": 1
    },
    {
     "at": [
@@ -126,13 +127,46 @@
    {
     "at": [
      "c2",
-     "dancing"
+     "strip"
     ],
-    "kind": "png",
-    "file": "e_laugh.png",
-    "off": 13,
-    "sfx": "s_huh.mp3",
-    "sv": 0.45
+    "kind": "txt",
+    "file": "STRIP?!",
+    "color": "#FF2A2A",
+    "size": 130,
+    "off": 0,
+    "dur": 34,
+    "y": 560
+   },
+   {
+    "at": [
+     "c2",
+     "strip"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.5
+   },
+   {
+    "at": [
+     "c3",
+     "yeah"
+    ],
+    "kind": "txt",
+    "file": "PLOT TWIST",
+    "color": "#FFE14A",
+    "size": 110,
+    "off": 0,
+    "dur": 45,
+    "y": 560
+   },
+   {
+    "at": [
+     "c3",
+     "yeah"
+    ],
+    "kind": "sfx",
+    "file": "s_ayo.mp3",
+    "v": 0.5
    },
    {
     "at": [
@@ -143,7 +177,7 @@
     "kind": "png",
     "file": "skull.png",
     "off": 16,
-    "sfx": "s_ayo.mp3",
+    "sfx": "s_fahhh.mp3",
     "sv": 0.45
    }
   ],
@@ -177,12 +211,6 @@
     "at": [
      "c1"
     ],
-    "text": "Who wins? Guess"
-   },
-   {
-    "at": [
-     "c4"
-    ],
     "text": "Rate his pain 1-10"
    }
   ],
@@ -193,13 +221,6 @@
      "326"
     ],
     "G"
-   ],
-   [
-    [
-     "c2",
-     "389"
-    ],
-    "R"
    ]
   ],
   "rizz": [
@@ -218,20 +239,11 @@
     "326"
    ],
    [
-    "c2",
-    "389"
-   ],
-   [
     "c3",
     "calf"
    ]
   ],
-  "blowouts": [
-   [
-    "c2",
-    "389"
-   ]
-  ],
+  "blowouts": [],
   "blackFlash": [],
   "streaks": [
    [
@@ -268,26 +280,46 @@
    },
    {
     "at": [
-     "c2",
-     "389"
+     "c2"
     ],
     "kind": "ov",
     "file": "greenflash2.mp4",
     "dur": 34,
     "sfx": "s_wow.mp3",
-    "sv": 0.45
+    "sv": 0.45,
+    "op": 0.5,
+    "off": 84
    },
    {
     "at": [
-     "c2",
-     "389"
+     "c2"
     ],
     "kind": "txt",
-    "file": "389",
+    "file": "SHE WINS 389",
     "color": "#FF2A2A",
-    "size": 150,
-    "off": 2,
-    "dur": 30
+    "size": 110,
+    "off": 84,
+    "dur": 26
+   },
+   {
+    "at": [
+     "c3"
+    ],
+    "kind": "txt",
+    "file": "HE LOST = WAX TIME",
+    "color": "#FFE14A",
+    "size": 90,
+    "off": 0,
+    "dur": 26,
+    "y": 560
+   },
+   {
+    "at": [
+     "c3"
+    ],
+    "kind": "sfx",
+    "file": "s_awk.mp3",
+    "v": 0.5
    },
    {
     "at": [
@@ -296,10 +328,10 @@
     "kind": "txt",
     "file": "RIIIP",
     "color": "#FF2A2A",
-    "size": 170,
+    "size": 130,
     "off": 10,
-    "dur": 34,
-    "y": 560
+    "dur": 30,
+    "y": 490
    },
    {
     "at": [
@@ -312,18 +344,18 @@
    },
    {
     "at": [
-     "c4"
+     "c5"
     ],
     "kind": "png",
     "file": "e_sob.png",
-    "off": 80,
+    "off": 0,
     "sfx": "s_fahhh.mp3",
     "sv": 0.45
    }
   ],
   "cta": "*full episode on @HardScope*",
   "ctaAt": [
-   "c4"
+   "c5"
   ],
   "track": "none",
   "calls": [],
@@ -349,7 +381,7 @@
   "ask": [
    {
     "at": [
-     "c2"
+     "hook"
     ],
     "text": "Rate his spin 1-10"
    }
@@ -358,7 +390,7 @@
    [
     [
      "c2",
-     "oh"
+     "stop"
     ],
     "R"
    ]
@@ -372,11 +404,6 @@
    [
     "c1",
     "stupid"
-   ],
-   [
-    "c1",
-    "stupid",
-    1
    ],
    [
     "c1",
@@ -422,25 +449,36 @@
    },
    {
     "at": [
-     "c2",
-     "oh"
+     "c1",
+     "great"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.5
+   },
+   {
+    "at": [
+     "c2"
     ],
     "kind": "txt",
-    "file": "SHE HAD TO CATCH HIM",
+    "file": "HIM",
     "color": "#FFE14A",
-    "size": 80,
+    "size": 110,
     "off": 0,
-    "dur": 40,
+    "dur": 24,
     "y": 560
    },
    {
     "at": [
-     "c2",
-     "oh"
+     "c2"
     ],
-    "kind": "sfx",
-    "file": "shock.mp3",
-    "v": 0.5
+    "kind": "txt",
+    "file": "THE COACH",
+    "color": "#FFFFFF",
+    "size": 90,
+    "off": 26,
+    "dur": 30,
+    "y": 560
    },
    {
     "at": [
@@ -449,8 +487,8 @@
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": 14,
-    "sfx": "s_huh.mp3",
+    "off": 15,
+    "sfx": "s_ahh.mp3",
     "sv": 0.45
    }
   ],
@@ -494,21 +532,9 @@
      "sue"
     ],
     "R"
-   ],
-   [
-    [
-     "c1",
-     "lawyers"
-    ],
-    "G"
    ]
   ],
-  "rizz": [
-   [
-    "c1",
-    "lawyers"
-   ]
-  ],
+  "rizz": [],
   "punch": [
    [
     "c1",
@@ -534,26 +560,46 @@
    [
     "c2",
     "one"
+   ],
+   [
+    "c3",
+    "wow"
    ]
   ],
   "blowouts": [],
   "blackFlash": [],
-  "streaks": [
-   [
-    "c2"
-   ]
-  ],
+  "streaks": [],
   "extras": [
    {
     "at": [
      "c1",
      "lawyers"
     ],
-    "kind": "png",
-    "file": "e_laugh.png",
-    "off": 8,
-    "sfx": "s_ayo.mp3",
-    "sv": 0.45
+    "kind": "sfx",
+    "file": "s_ayo.mp3",
+    "v": 0.5
+   },
+   {
+    "at": [
+     "c2",
+     "two"
+    ],
+    "kind": "txt",
+    "file": "2\u2026 1\u2026",
+    "color": "#FFFFFF",
+    "size": 120,
+    "off": 0,
+    "dur": 16,
+    "y": 560
+   },
+   {
+    "at": [
+     "c2",
+     "two"
+    ],
+    "kind": "sfx",
+    "file": "pop.mp3",
+    "v": 0.5
    },
    {
     "at": [
@@ -563,10 +609,10 @@
     "kind": "txt",
     "file": "RIIIP",
     "color": "#FF2A2A",
-    "size": 170,
+    "size": 130,
     "off": 17,
-    "dur": 34,
-    "y": 560
+    "dur": 30,
+    "y": 490
    },
    {
     "at": [
@@ -577,6 +623,17 @@
     "file": "s_rip.mp3",
     "v": 0.6,
     "off": 17
+   },
+   {
+    "at": [
+     "c3",
+     "wax"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "off": 6,
+    "sfx": "s_huh.mp3",
+    "sv": 0.45
    }
   ],
   "cta": "*full episode on @HardScope*",
@@ -599,7 +656,7 @@
   "hl": {
    "SUS": "#FF2A2A"
   },
-  "sub": "Just Pilates instructions\u2026 right?",
+  "sub": "Just workout instructions\u2026 right?",
   "music": [
    "brega_n",
    0
@@ -609,7 +666,7 @@
     "at": [
      "c1"
     ],
-    "text": "Pilates or\u2026?"
+    "text": "Workout or\u2026?"
    }
   ],
   "tints": [
@@ -660,24 +717,27 @@
     "forward"
    ],
    [
-    "c2",
+    "c3",
     "arch"
    ],
    [
-    "c2",
+    "c3",
     "hard"
    ]
   ],
   "blowouts": [
    [
-    "c2",
-    "arch"
+    "c3",
+    "hard"
    ]
   ],
   "blackFlash": [],
   "streaks": [
    [
     "c2"
+   ],
+   [
+    "c3"
    ]
   ],
   "extras": [
@@ -729,28 +789,41 @@
    },
    {
     "at": [
-     "c2",
-     "arch"
+     "c3",
+     "hard"
     ],
-    "kind": "png",
-    "file": "skull.png",
-    "off": 21,
-    "sfx": "s_ayo.mp3",
-    "sv": 0.45
+    "kind": "txt",
+    "file": "SO HARD",
+    "color": "#FF2A2A",
+    "size": 140,
+    "off": 0,
+    "dur": 36,
+    "y": 560
    },
    {
     "at": [
-     "c2",
+     "c3",
      "hard"
     ],
     "kind": "sfx",
     "file": "s_twitch.mp3",
     "v": 0.5
+   },
+   {
+    "at": [
+     "c3",
+     "seriously"
+    ],
+    "kind": "png",
+    "file": "skull.png",
+    "off": 13,
+    "sfx": "s_ayo.mp3",
+    "sv": 0.45
    }
   ],
   "cta": "*full episode on @HardScope*",
   "ctaAt": [
-   "c2"
+   "c3"
   ],
   "track": "none",
   "calls": [],
@@ -846,10 +919,6 @@
    [
     "c6",
     "50"
-   ],
-   [
-    "c6",
-    "sue"
    ]
   ],
   "blowouts": [],
@@ -863,6 +932,26 @@
    ]
   ],
   "extras": [
+   {
+    "at": [
+     "hook"
+    ],
+    "kind": "txt",
+    "file": "CAUGHT",
+    "color": "#FF2A2A",
+    "size": 140,
+    "off": 0,
+    "dur": 36,
+    "y": 560
+   },
+   {
+    "at": [
+     "hook"
+    ],
+    "kind": "sfx",
+    "file": "s_awk.mp3",
+    "v": 0.4
+   },
    {
     "at": [
      "c1",
@@ -909,24 +998,24 @@
    },
    {
     "at": [
-     "c4",
-     "calories"
+     "c5",
+     "sorry"
     ],
-    "kind": "ov",
-    "file": "greenflash2.mp4",
-    "dur": 34,
-    "sfx": "s_wow.mp3",
+    "kind": "png",
+    "file": "e_sob.png",
+    "off": 12,
+    "sfx": "s_fahhh.mp3",
     "sv": 0.45
    },
    {
     "at": [
      "c6",
-     "sue"
+     "calories"
     ],
     "kind": "png",
     "file": "skull.png",
-    "off": 9,
-    "sfx": "s_fahhh.mp3",
+    "off": 16,
+    "sfx": "s_huh.mp3",
     "sv": 0.45
    }
   ],
@@ -960,7 +1049,7 @@
     "at": [
      "c1"
     ],
-    "text": "Malfunction or excuse?"
+    "text": "Sore loser? Rate 1-10"
    }
   ],
   "tints": [
@@ -1041,11 +1130,9 @@
      "c1",
      "impossible"
     ],
-    "kind": "png",
-    "file": "e_sob.png",
-    "off": 10,
-    "sfx": "s_huh.mp3",
-    "sv": 0.45
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.5
    },
    {
     "at": [
@@ -1064,23 +1151,44 @@
      "c2",
      "161"
     ],
-    "kind": "ov",
-    "file": "greenflash2.mp4",
-    "dur": 34,
-    "sfx": "s_correct.mp3",
+    "kind": "sfx",
+    "file": "s_correct.mp3",
+    "v": 0.5
+   },
+   {
+    "at": [
+     "c2",
+     "161"
+    ],
+    "kind": "png",
+    "file": "e_sob.png",
+    "off": 30,
+    "sfx": "s_fahhh.mp3",
     "sv": 0.45
    },
    {
     "at": [
      "c2",
-     "close",
+     "you're",
      1
     ],
-    "kind": "png",
-    "file": "e_laugh.png",
-    "off": 19,
-    "sfx": "s_awk.mp3",
-    "sv": 0.45
+    "kind": "txt",
+    "file": "SHE WON BY 58",
+    "color": "#FFE14A",
+    "size": 100,
+    "off": 0,
+    "dur": 45,
+    "y": 560
+   },
+   {
+    "at": [
+     "c2",
+     "you're",
+     1
+    ],
+    "kind": "sfx",
+    "file": "s_ayo.mp3",
+    "v": 0.5
    }
   ],
   "cta": "*full episode on @HardScope*",
@@ -1099,11 +1207,10 @@
   "popMid": true
  },
  "thand": {
-  "top": "She ROASTED him mid-handstand",
+  "top": "She ROASTED him mid pole trick",
   "hl": {
    "ROASTED": "#FF2A2A"
   },
-  "sub": "Coach 1: Sarah. Coach 2: a former stripper.",
   "music": [
    "xcool_n",
    0
@@ -1120,7 +1227,7 @@
    [
     [
      "c1",
-     "butt"
+     "nothing"
     ],
     "R"
    ],
@@ -1148,10 +1255,6 @@
    ],
    [
     "c2",
-    "help"
-   ],
-   [
-    "c2",
     "again"
    ],
    [
@@ -1174,6 +1277,19 @@
    {
     "at": [
      "c1",
+     "nothing"
+    ],
+    "kind": "txt",
+    "file": "NOTHING BACK THERE",
+    "color": "#FF2A2A",
+    "size": 90,
+    "off": 0,
+    "dur": 40,
+    "y": 560
+   },
+   {
+    "at": [
+     "c1",
      "at"
     ],
     "kind": "png",
@@ -1184,12 +1300,32 @@
    },
    {
     "at": [
+     "c2"
+    ],
+    "kind": "txt",
+    "file": "SARAH OFFERS TO HELP",
+    "color": "#FFE14A",
+    "size": 80,
+    "off": 0,
+    "dur": 36,
+    "y": 560
+   },
+   {
+    "at": [
+     "c2"
+    ],
+    "kind": "sfx",
+    "file": "pop.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
      "c2",
      "sarah"
     ],
     "kind": "png",
     "file": "skull.png",
-    "off": 9,
+    "off": 8,
     "sfx": "s_awk.mp3",
     "sv": 0.45
    }
@@ -1234,26 +1370,15 @@
      "a**"
     ],
     "R"
-   ],
-   [
-    [
-     "c1",
-     "salute"
-    ],
-    "G"
    ]
   ],
   "rizz": [
    [
-    "c1",
+    "c2",
     "salute"
    ]
   ],
   "punch": [
-   [
-    "c1",
-    "hard"
-   ],
    [
     "c1",
     "strip"
@@ -1267,14 +1392,44 @@
     "technique"
    ],
    [
-    "c1",
+    "c2",
+    "hard"
+   ],
+   [
+    "c2",
     "salute"
    ]
   ],
   "blowouts": [],
   "blackFlash": [],
-  "streaks": [],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
   "extras": [
+   {
+    "at": [
+     "c1",
+     "technique"
+    ],
+    "kind": "txt",
+    "file": "NOT THE TECHNIQUE",
+    "color": "#FF2A2A",
+    "size": 90,
+    "off": 0,
+    "dur": 40,
+    "y": 560
+   },
+   {
+    "at": [
+     "c1",
+     "technique"
+    ],
+    "kind": "sfx",
+    "file": "s_awk.mp3",
+    "v": 0.5
+   },
    {
     "at": [
      "c1",
@@ -1282,36 +1437,36 @@
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": 16,
+    "off": 14,
     "sfx": "s_ayo.mp3",
     "sv": 0.45
    },
    {
     "at": [
-     "c1",
+     "c2",
      "salute"
     ],
-    "kind": "ov",
-    "file": "greenflash.mp4",
-    "dur": 34,
-    "sfx": "s_nice.mp3",
-    "sv": 0.45
+    "kind": "txt",
+    "file": "RESPECT",
+    "color": "#FFE14A",
+    "size": 120,
+    "off": 0,
+    "dur": 36,
+    "y": 560
    },
    {
     "at": [
-     "c1",
-     "teaching"
+     "c2",
+     "salute"
     ],
-    "kind": "png",
-    "file": "skull.png",
-    "off": 12,
-    "sfx": "s_huh.mp3",
-    "sv": 0.45
+    "kind": "sfx",
+    "file": "s_nice.mp3",
+    "v": 0.5
    }
   ],
   "cta": "*full episode on @HardScope*",
   "ctaAt": [
-   "c1"
+   "c2"
   ],
   "track": "none",
   "calls": [],
@@ -1325,11 +1480,11 @@
   "popMid": true
  },
  "tgpt": {
-  "top": "His excuse for losing is CRAZY",
+  "top": "His excuses for losing are CRAZY",
   "hl": {
    "CRAZY": "#FF2A2A"
   },
-  "sub": "She burned 100. He burned 50.",
+  "sub": "He lost the calorie bet. His excuses:",
   "music": [
    "alquimia_n",
    0
@@ -1337,7 +1492,7 @@
   "ask": [
    {
     "at": [
-     "hook"
+     "c1"
     ],
     "text": "Do men REALLY burn more?"
    }
@@ -1345,48 +1500,36 @@
   "tints": [
    [
     [
-     "hook",
-     "men"
+     "c1",
+     "woman"
     ],
     "R"
    ],
    [
     [
      "c1",
-     "crushed"
-    ],
-    "G"
-   ],
-   [
-    [
-     "c3",
-     "woman"
+     "men"
     ],
     "R"
    ]
   ],
-  "rizz": [
-   [
-    "c1",
-    "crushed"
-   ]
-  ],
+  "rizz": [],
   "punch": [
    [
-    "hook",
+    "c1",
+    "genes"
+   ],
+   [
+    "c1",
+    "woman"
+   ],
+   [
+    "c1",
     "ChatGPT"
    ],
    [
-    "hook",
+    "c1",
     "men"
-   ],
-   [
-    "c1",
-    "50"
-   ],
-   [
-    "c1",
-    "crushed"
    ],
    [
     "c2",
@@ -1394,18 +1537,10 @@
    ],
    [
     "c3",
-    "genes"
-   ],
-   [
-    "c3",
-    "woman"
-   ],
-   [
-    "c4",
     "comeback"
    ],
    [
-    "c4",
+    "c3",
     "LeBron"
    ]
   ],
@@ -1423,40 +1558,6 @@
    {
     "at": [
      "c1",
-     "50"
-    ],
-    "kind": "txt",
-    "file": "50",
-    "color": "#FF2A2A",
-    "size": 150,
-    "off": 2,
-    "dur": 30
-   },
-   {
-    "at": [
-     "c1",
-     "crushed"
-    ],
-    "kind": "ov",
-    "file": "greenflash2.mp4",
-    "dur": 34,
-    "sfx": "s_wow.mp3",
-    "sv": 0.45
-   },
-   {
-    "at": [
-     "c1",
-     "man"
-    ],
-    "kind": "png",
-    "file": "e_sob.png",
-    "off": 6,
-    "sfx": "s_fahhh.mp3",
-    "sv": 0.45
-   },
-   {
-    "at": [
-     "c3",
      "woman"
     ],
     "kind": "png",
@@ -1467,7 +1568,46 @@
    },
    {
     "at": [
-     "c4",
+     "c1",
+     "ChatGPT"
+    ],
+    "kind": "txt",
+    "file": "EXCUSE #1: CHATGPT",
+    "color": "#FFE14A",
+    "size": 80,
+    "off": 0,
+    "dur": 50,
+    "y": 560
+   },
+   {
+    "at": [
+     "c2",
+     "women's"
+    ],
+    "kind": "txt",
+    "file": "EXCUSE #2: WOMEN'S WORKOUT",
+    "color": "#FFE14A",
+    "size": 70,
+    "off": 0,
+    "dur": 50,
+    "y": 560
+   },
+   {
+    "at": [
+     "c3",
+     "LeBron"
+    ],
+    "kind": "txt",
+    "file": "EXCUSE #3: I'M LEBRON",
+    "color": "#FFE14A",
+    "size": 80,
+    "off": 0,
+    "dur": 40,
+    "y": 560
+   },
+   {
+    "at": [
+     "c3",
      "James"
     ],
     "kind": "png",
@@ -1479,7 +1619,7 @@
   ],
   "cta": "*full episode on @HardScope*",
   "ctaAt": [
-   "c4"
+   "c3"
   ],
   "track": "none",
   "calls": [],

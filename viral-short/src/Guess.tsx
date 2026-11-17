@@ -26,7 +26,7 @@ type Ref = [string, string?, number?];   // [scene] = scene start, [scene, word,
 type Cfg = {top: string; cta: string; label: string; track: Record<string, number[]>; calls: [number, number, string?][]; tints: [Ref, string][]; rizz: Ref[];
   punch: Ref[]; blowouts: Ref[]; blackFlash: Ref[]; streaks: Ref[]; music: number; loop?: boolean; ctaAt?: Ref; musicVol?: number; subBand?: [number, number]; blurOff?: [number, number][]; musicFile?: string; hl?: Record<string, string>; pushIn?: boolean; src?: string;
   teaser?: {a: number; b: number; x: number; z: number; y: number; until: Ref}; hardcut?: boolean;
-  extras?: {at: Ref; kind: 'png' | 'ov' | 'sfx' | 'txt'; file: string; off?: number; color?: string; v?: number; dur?: number; x?: number; y?: number; size?: number; sfx?: string; sv?: number}[]; cutSfx?: string;
+  extras?: {at: Ref; kind: 'png' | 'ov' | 'sfx' | 'txt'; file: string; off?: number; color?: string; op?: number; v?: number; dur?: number; x?: number; y?: number; size?: number; sfx?: string; sv?: number}[]; cutSfx?: string;
   sat?: number; ask?: {at: Ref; text: string}[]; progress?: boolean; popMid?: boolean; sub?: string; ctaEnd?: boolean;
   wm?: {file: string; x: number; y: number; w: number}; topY?: number; srcVol?: number; noSkull?: boolean; fxOff?: boolean};
 
@@ -261,7 +261,7 @@ export const Guess: React.FC<{edit: string}> = ({edit}) => {
       {tint && <AbsoluteFill style={{background: tint[1], opacity: tint[0], mixBlendMode: 'multiply'}} />}
       {bfa > 0 && <AbsoluteFill style={{background: '#000', opacity: bfa}} />}
       {(cfg.extras ?? []).filter((e) => e.kind === 'ov').map((e, i) => { const t0 = xat(e), d = e.dur ?? 34; return f >= t0 && f < t0 + d ?
-        <AbsoluteFill key={'ov' + i} style={{mixBlendMode: 'screen'}}><Sequence from={t0} durationInFrames={d} layout="none"><OffthreadVideo src={staticFile(`res/${e.file}`)} muted style={{width: 1080, height: BOX_H, objectFit: 'cover'}} /></Sequence></AbsoluteFill> : null; })}
+        <AbsoluteFill key={'ov' + i} style={{mixBlendMode: 'screen', opacity: e.op ?? 1}}><Sequence from={t0} durationInFrames={d} layout="none"><OffthreadVideo src={staticFile(`res/${e.file}`)} muted style={{width: 1080, height: BOX_H, objectFit: 'cover'}} /></Sequence></AbsoluteFill> : null; })}
       {/* "WAIT FOR IT" teaser (replaces hook+rewind): payoff loops muted in a PiP from frame 0, then blasts full-screen into the real moment */}
       {cfg.teaser && (() => {
         const T = cfg.teaser!, until = at(T.until), len = Math.max(6, Math.round((T.b - T.a) * fps));
@@ -289,8 +289,8 @@ export const Guess: React.FC<{edit: string}> = ({edit}) => {
     </div>
     {cfg.popMid && (cfg.extras ?? []).filter((e) => e.kind === 'png' || e.kind === 'txt').map((e, i) => { const t0 = xat(e), d = e.dur ?? 30, k = f - t0; if (k < 0 || k >= d) return null;
       // small -> big pop in the middle of the box, a little see-through, with 3 expanding echo rings of the same emoji
-      const grow = (q: number) => interpolate(q, [0, 7, 10, 13], [0.15, 1.12, 0.96, 1], clamp), sz = e.size ?? 380, fade = k > d - 7 ? (d - k) / 7 : 1;
-      const cx = e.x ?? 540, cy = e.y ?? 800;
+      const grow = (q: number) => interpolate(q, [0, 7, 10, 13], [0.15, 1.12, 0.96, 1], clamp), sz = e.size ?? 300, fade = k > d - 7 ? (d - k) / 7 : 1;
+      const cx = e.x ?? 540, cy = e.y ?? (e.kind === 'txt' ? 800 : 1280);
       const img = (q: number, s: number, o: number, key: string) => e.kind === 'txt'
         ? <div key={key} style={{position: 'absolute', left: 0, width: 1080, top: cy - (e.size ?? 150) / 2, textAlign: 'center', fontFamily: MONT, fontWeight: 900, fontSize: e.size ?? 150, lineHeight: 1, color: e.color ?? '#58EE28', WebkitTextStroke: '10px #000', paintOrder: 'stroke fill', opacity: key === 'm' ? 1 : o, transform: `scale(${s}) rotate(-4deg)`}}>{e.file}</div>
         : <Img key={key} src={staticFile(`res/${e.file}`)} style={{position: 'absolute', left: cx - sz / 2, top: cy - sz / 2, width: sz, height: sz, objectFit: 'contain', opacity: o, transform: `scale(${s})`}} />;
@@ -303,7 +303,7 @@ export const Guess: React.FC<{edit: string}> = ({edit}) => {
     {word && <div style={{position: 'absolute', left: 0, width: 1080, top: 1060, textAlign: 'center', ...(wk < 2 ? {transform: `scaleX(${wk === 0 ? 1.35 : 1.15})`, filter: `blur(${wk === 0 ? 5 : 2.5}px)`, opacity: 0.85} : {})}}>
       <span style={{fontFamily: MONT, fontWeight: 800, fontSize: 68, color: '#FFFFFF', WebkitTextStroke: '7px #000', paintOrder: 'stroke fill', textShadow: '0 3px 8px rgba(0,0,0,0.7)'}}>{word.word}</span>
     </div>}
-    {f >= ctaFrom && f < ctaTo && <div style={{position: 'absolute', left: 0, width: 1080, top: 1250, textAlign: 'center', fontFamily: MONT, fontWeight: 800, fontStyle: 'italic', fontSize: 42, color: '#fff', WebkitTextStroke: '5px #000', paintOrder: 'stroke fill', opacity: Math.min(1, (f - ctaFrom) / 5)}}>{cfg.cta}</div>}
+    {(cfg.ctaEnd || (f >= ctaFrom && f < ctaTo)) && <div style={{position: 'absolute', left: 0, width: 1080, top: cfg.ctaEnd ? 1745 : 1250, textAlign: 'center', fontFamily: MONT, fontWeight: 800, fontStyle: 'italic', fontSize: 42, color: '#fff', WebkitTextStroke: '5px #000', paintOrder: 'stroke fill', opacity: cfg.ctaEnd ? 0.8 : Math.min(1, (f - ctaFrom) / 5), ...(cfg.ctaEnd ? {fontSize: 34} : {})}}>{cfg.cta}</div>}
     {cfg.sub && <div style={{position: 'absolute', left: 30, right: 30, top: 1512, textAlign: 'center', fontFamily: MONT, fontWeight: 800, fontStyle: 'italic', fontSize: 40, lineHeight: '48px', color: '#FFE14A', WebkitTextStroke: '6px #000', paintOrder: 'stroke fill'}}>{cfg.sub}</div>}
     {askI >= 0 && (() => { const k = f - askAt, s = interpolate(k, [0, 5, 8, 11], [0.3, 1.12, 0.97, 1], clamp) * (1 + 0.025 * Math.sin(k / 5));
       return <div style={{position: 'absolute', left: 0, width: 1080, top: cfg.sub ? 1612 : 1560, display: 'flex', justifyContent: 'center', transform: `scale(${s})`}}>
