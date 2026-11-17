@@ -19,8 +19,8 @@
    },
    {
     "at": [
-     "c3",
-     "have"
+     "c1",
+     "three"
     ],
     "text": "Would you strip for $3K?"
    }
@@ -187,6 +187,12 @@
    {
     "at": [
      "c1"
+    ],
+    "text": "Who lost? Guess"
+   },
+   {
+    "at": [
+     "c4"
     ],
     "text": "Rate his pain 1-10"
    }
@@ -763,6 +769,28 @@
   "extras": [
    {
     "at": [
+     "c1",
+     "ball"
+    ],
+    "kind": "txt",
+    "file": "BALL??",
+    "color": "#FFE14A",
+    "size": 120,
+    "off": 0,
+    "dur": 16,
+    "y": 560
+   },
+   {
+    "at": [
+     "c1",
+     "ball"
+    ],
+    "kind": "sfx",
+    "file": "s_twitch.mp3",
+    "v": 0.5
+   },
+   {
+    "at": [
      "c3",
      "hard"
     ],
@@ -1059,7 +1087,7 @@
   "hl": {
    "103\u2026": "#FF2A2A"
   },
-  "sub": "Bet: most calories burned wins",
+  "sub": "Bet: most calories burned wins. Loser gets waxed.",
   "music": [
    "sentamento_n",
    55
@@ -1596,10 +1624,6 @@
    ],
    [
     "c3",
-    "comeback"
-   ],
-   [
-    "c3",
     "LeBron"
    ]
   ],
@@ -1647,7 +1671,7 @@
     "kind": "sfx",
     "file": "s_ayo.mp3",
     "v": 0.5,
-    "off": -9
+    "off": 0
    },
    {
     "at": [
@@ -1665,14 +1689,14 @@
    {
     "at": [
      "c3",
-     "comeback"
+     "like"
     ],
     "kind": "txt",
     "file": "EXCUSE #3: I'M LEBRON",
     "color": "#FFE14A",
     "size": 80,
     "off": 0,
-    "dur": 36,
+    "dur": 30,
     "y": 560
    },
    {
