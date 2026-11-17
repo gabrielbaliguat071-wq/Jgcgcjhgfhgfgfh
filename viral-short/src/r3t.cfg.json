@@ -13,15 +13,7 @@
   "ask": [
    {
     "at": [
-     "hook",
-     "money"
-    ],
-    "text": "Guess how much"
-   },
-   {
-    "at": [
-     "c3",
-     "clarify"
+     "hook"
     ],
     "text": "Would YOU do it for $3K?"
    }
@@ -87,10 +79,6 @@
    ],
    [
     "c3",
-    "clarify"
-   ],
-   [
-    "c3",
     "stripper"
    ],
    [
@@ -142,7 +130,7 @@
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": 10,
+    "off": 13,
     "sfx": "s_huh.mp3",
     "sv": 0.45
    },
@@ -154,7 +142,7 @@
     ],
     "kind": "png",
     "file": "skull.png",
-    "off": 10,
+    "off": 16,
     "sfx": "s_ayo.mp3",
     "sv": 0.45
    }
@@ -167,6 +155,7 @@
   "calls": [],
   "src": "g67_tmoney.mp4",
   "intro": false,
+  "ctaEnd": true,
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "sat": 1.1,
@@ -186,27 +175,18 @@
   "ask": [
    {
     "at": [
-     "hook",
-     "that's"
+     "c1"
     ],
     "text": "Who wins? Guess"
    },
    {
     "at": [
-     "c2",
-     "eyebrow"
+     "c4"
     ],
-    "text": "Eyebrow or calf?"
+    "text": "Rate his pain 1-10"
    }
   ],
   "tints": [
-   [
-    [
-     "hook",
-     "hot"
-    ],
-    "R"
-   ],
    [
     [
      "c1",
@@ -230,10 +210,6 @@
   ],
   "punch": [
    [
-    "hook",
-    "hot"
-   ],
-   [
     "c1",
     "grand"
    ],
@@ -246,11 +222,7 @@
     "389"
    ],
    [
-    "c2",
-    "eyebrow"
-   ],
-   [
-    "c2",
+    "c3",
     "calf"
    ]
   ],
@@ -264,6 +236,9 @@
   "streaks": [
    [
     "c3"
+   ],
+   [
+    "c4"
    ]
   ],
   "extras": [
@@ -316,31 +291,45 @@
    },
    {
     "at": [
-     "c3"
+     "c4"
     ],
-    "kind": "sfx",
-    "file": "s_rip.mp3",
-    "v": 0.6
+    "kind": "txt",
+    "file": "RIIIP",
+    "color": "#FF2A2A",
+    "size": 170,
+    "off": 10,
+    "dur": 34,
+    "y": 560
    },
    {
     "at": [
-     "c3"
+     "c4"
+    ],
+    "kind": "sfx",
+    "file": "s_rip.mp3",
+    "v": 0.6,
+    "off": 10
+   },
+   {
+    "at": [
+     "c4"
     ],
     "kind": "png",
     "file": "e_sob.png",
-    "off": 30,
+    "off": 80,
     "sfx": "s_fahhh.mp3",
     "sv": 0.45
    }
   ],
   "cta": "*full episode on @HardScope*",
   "ctaAt": [
-   "c3"
+   "c4"
   ],
   "track": "none",
   "calls": [],
   "src": "g67_treveal.mp4",
   "intro": false,
+  "ctaEnd": true,
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "sat": 1.1,
@@ -360,8 +349,7 @@
   "ask": [
    {
     "at": [
-     "c2",
-     "just"
+     "c2"
     ],
     "text": "Rate his spin 1-10"
    }
@@ -369,15 +357,8 @@
   "tints": [
    [
     [
-     "c1",
-     "stupid"
-    ],
-    "R"
-   ],
-   [
-    [
      "c2",
-     "whoa"
+     "oh"
     ],
     "R"
    ]
@@ -387,10 +368,6 @@
    [
     "hook",
     "whoa"
-   ],
-   [
-    "c1",
-    "hard"
    ],
    [
     "c1",
@@ -417,6 +394,10 @@
     "c2",
     "stop",
     2
+   ],
+   [
+    "c2",
+    "oh"
    ]
   ],
   "blowouts": [],
@@ -441,12 +422,34 @@
    },
    {
     "at": [
-     "c1",
-     "pole"
+     "c2",
+     "oh"
+    ],
+    "kind": "txt",
+    "file": "SHE HAD TO CATCH HIM",
+    "color": "#FFE14A",
+    "size": 80,
+    "off": 0,
+    "dur": 40,
+    "y": 560
+   },
+   {
+    "at": [
+     "c2",
+     "oh"
+    ],
+    "kind": "sfx",
+    "file": "shock.mp3",
+    "v": 0.5
+   },
+   {
+    "at": [
+     "c2",
+     "oh"
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": 8,
+    "off": 14,
     "sfx": "s_huh.mp3",
     "sv": 0.45
    }
@@ -459,6 +462,7 @@
   "calls": [],
   "src": "g67_tpole.mp4",
   "intro": false,
+  "ctaEnd": true,
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "sat": 1.1,
@@ -466,7 +470,7 @@
   "popMid": true
  },
  "trip": {
-  "top": "He said \"sue me\"\u2026 then THIS",
+  "top": "\"I got good lawyers\"\u2026 then THIS",
   "hl": {
    "THIS": "#FF2A2A"
   },
@@ -478,8 +482,7 @@
   "ask": [
    {
     "at": [
-     "c1",
-     "sue"
+     "c1"
     ],
     "text": "Rate his pain 1-10"
    }
@@ -496,13 +499,6 @@
     [
      "c1",
      "lawyers"
-    ],
-    "G"
-   ],
-   [
-    [
-     "c3",
-     "wow"
     ],
     "G"
    ]
@@ -538,21 +534,13 @@
    [
     "c2",
     "one"
-   ],
-   [
-    "c3",
-    "wow"
-   ],
-   [
-    "c3",
-    "good"
    ]
   ],
   "blowouts": [],
   "blackFlash": [],
   "streaks": [
    [
-    "c3"
+    "c2"
    ]
   ],
   "extras": [
@@ -563,9 +551,22 @@
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": 10,
+    "off": 8,
     "sfx": "s_ayo.mp3",
     "sv": 0.45
+   },
+   {
+    "at": [
+     "c2",
+     "one"
+    ],
+    "kind": "txt",
+    "file": "RIIIP",
+    "color": "#FF2A2A",
+    "size": 170,
+    "off": 17,
+    "dur": 34,
+    "y": 560
    },
    {
     "at": [
@@ -576,38 +577,17 @@
     "file": "s_rip.mp3",
     "v": 0.6,
     "off": 17
-   },
-   {
-    "at": [
-     "c2",
-     "one"
-    ],
-    "kind": "png",
-    "file": "e_sob.png",
-    "off": 40,
-    "sfx": "s_fahhh.mp3",
-    "sv": 0.45
-   },
-   {
-    "at": [
-     "c3",
-     "wow"
-    ],
-    "kind": "ov",
-    "file": "greenflash2.mp4",
-    "dur": 34,
-    "sfx": "s_nice.mp3",
-    "sv": 0.45
    }
   ],
   "cta": "*full episode on @HardScope*",
   "ctaAt": [
-   "c3"
+   "c2"
   ],
   "track": "none",
   "calls": [],
   "src": "g67_trip.mp4",
   "intro": false,
+  "ctaEnd": true,
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "sat": 1.1,
@@ -627,9 +607,9 @@
   "ask": [
    {
     "at": [
-     "hook"
+     "c1"
     ],
-    "text": "What did YOU hear?"
+    "text": "Pilates or\u2026?"
    }
   ],
   "tints": [
@@ -668,10 +648,6 @@
     "thigh"
    ],
    [
-    "c1",
-    "kneel"
-   ],
-   [
     "c2",
     "push"
    ],
@@ -686,6 +662,10 @@
    [
     "c2",
     "arch"
+   ],
+   [
+    "c2",
+    "hard"
    ]
   ],
   "blowouts": [
@@ -704,12 +684,34 @@
    {
     "at": [
      "c1",
+     "inner"
+    ],
+    "kind": "txt",
+    "file": "INNER THIGH",
+    "color": "#FFE14A",
+    "size": 110,
+    "off": 0,
+    "dur": 36,
+    "y": 560
+   },
+   {
+    "at": [
+     "c1",
+     "inner"
+    ],
+    "kind": "sfx",
+    "file": "s_twitch.mp3",
+    "v": 0.5
+   },
+   {
+    "at": [
+     "c1",
      "thigh"
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": 8,
-    "sfx": "s_twitch.mp3",
+    "off": 14,
+    "sfx": "s_huh.mp3",
     "sv": 0.45
    },
    {
@@ -717,16 +719,29 @@
      "c2",
      "hips"
     ],
+    "kind": "txt",
+    "file": "HIPS FORWARD",
+    "color": "#FFE14A",
+    "size": 110,
+    "off": 0,
+    "dur": 36,
+    "y": 560
+   },
+   {
+    "at": [
+     "c2",
+     "arch"
+    ],
     "kind": "png",
     "file": "skull.png",
-    "off": 8,
+    "off": 21,
     "sfx": "s_ayo.mp3",
     "sv": 0.45
    },
    {
     "at": [
      "c2",
-     "arch"
+     "hard"
     ],
     "kind": "sfx",
     "file": "s_twitch.mp3",
@@ -741,6 +756,7 @@
   "calls": [],
   "src": "g67_tsus.mp4",
   "intro": false,
+  "ctaEnd": true,
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "sat": 1.1,
@@ -760,8 +776,7 @@
   "ask": [
    {
     "at": [
-     "hook",
-     "what"
+     "hook"
     ],
     "text": "Cheating or genius?"
    }
@@ -814,10 +829,6 @@
    ],
    [
     "c4",
-    "tired"
-   ],
-   [
-    "c4",
     "burn"
    ],
    [
@@ -855,11 +866,24 @@
    {
     "at": [
      "c1",
+     "50"
+    ],
+    "kind": "txt",
+    "file": "HE'S DOWN 50 CALORIES",
+    "color": "#FFE14A",
+    "size": 80,
+    "off": 0,
+    "dur": 36,
+    "y": 560
+   },
+   {
+    "at": [
+     "c1",
      "restroom"
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": 10,
+    "off": 12,
     "sfx": "s_ahh.mp3",
     "sv": 0.45
    },
@@ -901,7 +925,7 @@
     ],
     "kind": "png",
     "file": "skull.png",
-    "off": 10,
+    "off": 9,
     "sfx": "s_fahhh.mp3",
     "sv": 0.45
    }
@@ -914,6 +938,7 @@
   "calls": [],
   "src": "g67_tcheat.mp4",
   "intro": false,
+  "ctaEnd": true,
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "sat": 1.1,
@@ -925,7 +950,7 @@
   "hl": {
    "103": "#FF2A2A"
   },
-  "sub": "Same class. She burned way more.",
+  "sub": "Then she checked HER watch\u2026",
   "music": [
    "sentamento_n",
    55
@@ -933,16 +958,15 @@
   "ask": [
    {
     "at": [
-     "hook",
-     "103"
+     "c1"
     ],
-    "text": "How many would YOU burn?"
+    "text": "Malfunction or excuse?"
    }
   ],
   "tints": [
    [
     [
-     "hook",
+     "c1",
      "103"
     ],
     "R"
@@ -963,20 +987,12 @@
   ],
   "punch": [
    [
-    "hook",
+    "c1",
     "103"
    ],
    [
-    "hook",
+    "c1",
     "impossible"
-   ],
-   [
-    "c1",
-    "embarrassing"
-   ],
-   [
-    "c1",
-    "malfunction"
    ],
    [
     "c2",
@@ -1010,7 +1026,7 @@
   "extras": [
    {
     "at": [
-     "hook",
+     "c1",
      "103"
     ],
     "kind": "txt",
@@ -1023,11 +1039,11 @@
    {
     "at": [
      "c1",
-     "embarrassing"
+     "impossible"
     ],
     "kind": "png",
-    "file": "e_laugh.png",
-    "off": 6,
+    "file": "e_sob.png",
+    "off": 10,
     "sfx": "s_huh.mp3",
     "sv": 0.45
    },
@@ -1061,8 +1077,8 @@
      1
     ],
     "kind": "png",
-    "file": "e_sob.png",
-    "off": 6,
+    "file": "e_laugh.png",
+    "off": 19,
     "sfx": "s_awk.mp3",
     "sv": 0.45
    }
@@ -1075,6 +1091,7 @@
   "calls": [],
   "src": "g67_tpilates.mp4",
   "intro": false,
+  "ctaEnd": true,
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "sat": 1.1,
@@ -1082,11 +1099,11 @@
   "popMid": true
  },
  "thand": {
-  "top": "His first handstand did NOT go well",
+  "top": "She ROASTED him mid-handstand",
   "hl": {
-   "NOT": "#FF2A2A"
+   "ROASTED": "#FF2A2A"
   },
-  "sub": "Sarah offered to help\u2026",
+  "sub": "Coach 1: Sarah. Coach 2: a former stripper.",
   "music": [
    "xcool_n",
    0
@@ -1094,10 +1111,9 @@
   "ask": [
    {
     "at": [
-     "hook",
-     "trusted"
+     "c1"
     ],
-    "text": "Who would YOU trust?"
+    "text": "Rate that roast 1-10"
    }
   ],
   "tints": [
@@ -1118,14 +1134,6 @@
   ],
   "rizz": [],
   "punch": [
-   [
-    "hook",
-    "trusted"
-   ],
-   [
-    "hook",
-    "stripper"
-   ],
    [
     "c1",
     "tuck"
@@ -1166,11 +1174,11 @@
    {
     "at": [
      "c1",
-     "nothing"
+     "at"
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": 12,
+    "off": 9,
     "sfx": "s_ayo.mp3",
     "sv": 0.45
    },
@@ -1181,7 +1189,7 @@
     ],
     "kind": "png",
     "file": "skull.png",
-    "off": 6,
+    "off": 9,
     "sfx": "s_awk.mp3",
     "sv": 0.45
    }
@@ -1194,6 +1202,7 @@
   "calls": [],
   "src": "g67_thand.mp4",
   "intro": false,
+  "ctaEnd": true,
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "sat": 1.1,
@@ -1213,8 +1222,7 @@
   "ask": [
    {
     "at": [
-     "hook",
-     "strip"
+     "c1"
     ],
     "text": "Is he wrong though?"
    }
@@ -1222,7 +1230,7 @@
   "tints": [
    [
     [
-     "hook",
+     "c1",
      "a**"
     ],
     "R"
@@ -1230,39 +1238,28 @@
    [
     [
      "c1",
-     "technique"
+     "salute"
     ],
     "G"
-   ],
-   [
-    [
-     "c2",
-     "him"
-    ],
-    "R"
    ]
   ],
   "rizz": [
    [
     "c1",
-    "technique"
+    "salute"
    ]
   ],
   "punch": [
-   [
-    "hook",
-    "strip"
-   ],
-   [
-    "hook",
-    "a**"
-   ],
    [
     "c1",
     "hard"
    ],
    [
     "c1",
+    "strip"
+   ],
+   [
+    "c1",
     "a**"
    ],
    [
@@ -1270,37 +1267,29 @@
     "technique"
    ],
    [
-    "c2",
-    "him"
-   ],
-   [
-    "c2",
-    "brother"
+    "c1",
+    "salute"
    ]
   ],
   "blowouts": [],
   "blackFlash": [],
-  "streaks": [
-   [
-    "c2"
-   ]
-  ],
+  "streaks": [],
   "extras": [
    {
     "at": [
      "c1",
-     "a**"
+     "technique"
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": 8,
+    "off": 16,
     "sfx": "s_ayo.mp3",
     "sv": 0.45
    },
    {
     "at": [
      "c1",
-     "technique"
+     "salute"
     ],
     "kind": "ov",
     "file": "greenflash.mp4",
@@ -1310,24 +1299,25 @@
    },
    {
     "at": [
-     "c2",
-     "him"
+     "c1",
+     "teaching"
     ],
     "kind": "png",
     "file": "skull.png",
-    "off": 6,
+    "off": 12,
     "sfx": "s_huh.mp3",
     "sv": 0.45
    }
   ],
   "cta": "*full episode on @HardScope*",
   "ctaAt": [
-   "c2"
+   "c1"
   ],
   "track": "none",
   "calls": [],
   "src": "g67_tclub.mp4",
   "intro": false,
+  "ctaEnd": true,
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "sat": 1.1,
@@ -1347,8 +1337,7 @@
   "ask": [
    {
     "at": [
-     "hook",
-     "ChatGPT"
+     "hook"
     ],
     "text": "Do men REALLY burn more?"
    }
@@ -1390,10 +1379,6 @@
    [
     "hook",
     "men"
-   ],
-   [
-    "c1",
-    "hundred"
    ],
    [
     "c1",
@@ -1461,11 +1446,11 @@
    {
     "at": [
      "c1",
-     "crushed"
+     "man"
     ],
     "kind": "png",
     "file": "e_sob.png",
-    "off": 8,
+    "off": 6,
     "sfx": "s_fahhh.mp3",
     "sv": 0.45
    },
@@ -1476,18 +1461,18 @@
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": 6,
+    "off": 11,
     "sfx": "s_ayo.mp3",
     "sv": 0.45
    },
    {
     "at": [
      "c4",
-     "LeBron"
+     "James"
     ],
     "kind": "png",
     "file": "skull.png",
-    "off": 10,
+    "off": 11,
     "sfx": "s_huh.mp3",
     "sv": 0.45
    }
@@ -1500,6 +1485,7 @@
   "calls": [],
   "src": "g67_tgpt.mp4",
   "intro": false,
+  "ctaEnd": true,
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "sat": 1.1,
