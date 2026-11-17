@@ -28,13 +28,6 @@
    ],
    [
     [
-     "c2",
-     "strip"
-    ],
-    "R"
-   ],
-   [
-    [
      "c3",
      "stripper",
      1
@@ -70,14 +63,6 @@
     "grand"
    ],
    [
-    "c2",
-    "strip"
-   ],
-   [
-    "c2",
-    "sorry"
-   ],
-   [
     "c3",
     "stripper"
    ],
@@ -87,14 +72,13 @@
     1
    ]
   ],
-  "blowouts": [
+  "blowouts": [],
+  "blackFlash": [],
+  "streaks": [
    [
-    "c1",
-    "three"
+    "c3"
    ]
   ],
-  "blackFlash": [],
-  "streaks": [],
   "extras": [
    {
     "at": [
@@ -117,8 +101,8 @@
     "file": "$3,000",
     "color": "#58EE28",
     "size": 150,
-    "off": 4,
-    "dur": 14
+    "off": 2,
+    "dur": 24
    },
    {
     "at": [
@@ -134,35 +118,13 @@
    },
    {
     "at": [
-     "c2",
-     "strip"
-    ],
-    "kind": "txt",
-    "file": "HE SAID STRIP",
-    "color": "#FF2A2A",
-    "size": 110,
-    "off": 0,
-    "dur": 34,
-    "y": 560
-   },
-   {
-    "at": [
-     "c2",
-     "strip"
-    ],
-    "kind": "sfx",
-    "file": "s_huh.mp3",
-    "v": 0.5
-   },
-   {
-    "at": [
      "c3",
      "have"
     ],
     "kind": "txt",
-    "file": "PLOT TWIST",
+    "file": "SHE ADMITTED IT",
     "color": "#FFE14A",
-    "size": 110,
+    "size": 100,
     "off": 0,
     "dur": 50,
     "y": 560
@@ -311,9 +273,9 @@
      "c3"
     ],
     "kind": "txt",
-    "file": "HE LOST = WAX TIME",
+    "file": "HE LOST. HE PICKS: CALF",
     "color": "#FFE14A",
-    "size": 90,
+    "size": 80,
     "off": 0,
     "dur": 26,
     "y": 560
@@ -349,16 +311,17 @@
    },
    {
     "at": [
-     "c5"
+     "c4"
     ],
     "kind": "sfx",
     "file": "s_fahhh.mp3",
-    "v": 0.5
+    "v": 0.5,
+    "off": 18
    }
   ],
   "cta": "*full episode on @HardScope*",
   "ctaAt": [
-   "c5"
+   "c4"
   ],
   "track": "none",
   "calls": [],
@@ -371,13 +334,13 @@
   "progress": true,
   "popMid": true
  },
- "tbest": {
-  "top": "She said he was better on the STRIPPER POLE",
+ "tcrips": {
+  "top": "He trained with GANG MEMBERS\u2026 she was NOT impressed",
   "hl": {
-   "STRIPPER": "#FF2A2A",
-   "POLE": "#FF2A2A"
+   "GANG": "#FF2A2A",
+   "MEMBERS\u2026": "#FF2A2A"
   },
-  "sub": "Day of Pilates, pole dancing and aerial silks",
+  "sub": "Right before their workout bet",
   "music": [
    "xcool_n",
    0
@@ -385,91 +348,82 @@
   "ask": [
    {
     "at": [
-     "hook"
+     "c1"
     ],
-    "text": "Which would YOU be best at?"
+    "text": "Gang workout or Pilates: which is harder?"
    }
   ],
   "tints": [
    [
     [
-     "hook",
-     "stripper"
+     "c1",
+     "Crips"
     ],
     "R"
    ],
    [
     [
-     "c1",
-     "good"
+     "c2",
+     "nothing"
     ],
-    "G"
+    "R"
    ]
   ],
-  "rizz": [
-   [
-    "c1",
-    "good"
-   ]
-  ],
+  "rizz": [],
   "punch": [
    [
-    "hook",
-    "better"
-   ],
-   [
-    "hook",
-    "stripper"
+    "c1",
+    "confident"
    ],
    [
     "c1",
-    "best"
+    "Crips"
    ],
    [
     "c1",
-    "bad"
+    "gang"
    ],
    [
     "c1",
-    "good"
+    "cool"
    ],
    [
-    "c1",
-    "Spider-Man"
+    "c2",
+    "nothing"
    ],
    [
-    "c1",
-    "doop"
+    "c2",
+    "impressive"
+   ],
+   [
+    "c3",
+    "skinny"
+   ],
+   [
+    "c3",
+    "fat"
    ]
   ],
   "blowouts": [],
   "blackFlash": [],
   "streaks": [
    [
-    "c1"
+    "c2"
+   ],
+   [
+    "c3"
    ]
   ],
   "extras": [
    {
     "at": [
-     "hook",
-     "pole"
-    ],
-    "kind": "png",
-    "file": "skull.png",
-    "off": 9,
-    "sfx": "s_ayo.mp3",
-    "sv": 0.45
-   },
-   {
-    "at": [
      "c1",
-     "this"
+     "Crips"
     ],
     "kind": "txt",
-    "file": "AERIAL SILKS",
-    "color": "#FFE14A",
-    "size": 100,
+    "file": "THE CRIPS??",
+    "color": "#FF2A2A",
+    "size": 120,
     "off": 0,
     "dur": 36,
     "y": 560
@@ -477,43 +431,21 @@
    {
     "at": [
      "c1",
-     "this"
+     "Crips"
     ],
     "kind": "sfx",
-    "file": "s_whoosh.mp3",
-    "v": 0.4
-   },
-   {
-    "at": [
-     "c1",
-     "bad"
-    ],
-    "kind": "txt",
-    "file": "THE OTHERS WERE BAD",
-    "color": "#FFFFFF",
-    "size": 80,
-    "off": 0,
-    "dur": 36,
-    "y": 560
-   },
-   {
-    "at": [
-     "c1",
-     "bad"
-    ],
-    "kind": "sfx",
-    "file": "s_awk.mp3",
+    "file": "s_ayo.mp3",
     "v": 0.5
    },
    {
     "at": [
      "c1",
-     "doop"
+     "cool"
     ],
     "kind": "txt",
-    "file": "DOOP-DE-DOOP",
-    "color": "#FFE14A",
-    "size": 110,
+    "file": "VERY COOL PEOPLE",
+    "color": "#FFFFFF",
+    "size": 90,
     "off": 0,
     "dur": 30,
     "y": 560
@@ -521,20 +453,66 @@
    {
     "at": [
      "c1",
-     "doop"
+     "cool"
     ],
     "kind": "sfx",
-    "file": "s_twitch.mp3",
+    "file": "s_awk.mp3",
     "v": 0.5
+   },
+   {
+    "at": [
+     "c2",
+     "nothing"
+    ],
+    "kind": "txt",
+    "file": "NOTHING IMPRESSIVE",
+    "color": "#FFE14A",
+    "size": 90,
+    "off": 0,
+    "dur": 40,
+    "y": 560
+   },
+   {
+    "at": [
+     "c2",
+     "nothing"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.5
+   },
+   {
+    "at": [
+     "c3",
+     "fat"
+    ],
+    "kind": "txt",
+    "file": "SKINNY FAT",
+    "color": "#FF2A2A",
+    "size": 130,
+    "off": -10,
+    "dur": 36,
+    "y": 560
+   },
+   {
+    "at": [
+     "c3",
+     "fat"
+    ],
+    "kind": "png",
+    "file": "skull.png",
+    "off": -10,
+    "sfx": "s_fahhh.mp3",
+    "sv": 0.45
    }
   ],
   "cta": "*full episode on @HardScope*",
   "ctaAt": [
-   "c1"
+   "c3"
   ],
   "track": "none",
   "calls": [],
-  "src": "g67_tbest.mp4",
+  "src": "g67_tcrips.mp4",
   "intro": false,
   "ctaEnd": true,
   "hardcut": true,
@@ -639,8 +617,21 @@
     "color": "#FF2A2A",
     "size": 130,
     "off": 17,
-    "dur": 30,
+    "dur": 18,
     "y": 490
+   },
+   {
+    "at": [
+     "c2",
+     "one"
+    ],
+    "kind": "txt",
+    "file": "HE FELT THAT",
+    "color": "#FFFFFF",
+    "size": 90,
+    "off": 36,
+    "dur": 20,
+    "y": 560
    },
    {
     "at": [
@@ -659,7 +650,7 @@
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": -10,
+    "off": 10,
     "sfx": "s_huh.mp3",
     "sv": 0.45
    }
@@ -692,7 +683,7 @@
   "ask": [
    {
     "at": [
-     "c2"
+     "c1"
     ],
     "text": "Which one got you? 1, 2 or 3"
    }
@@ -700,8 +691,8 @@
   "tints": [
    [
     [
-     "c2",
-     "come"
+     "c1",
+     "between"
     ],
     "R"
    ],
@@ -721,6 +712,18 @@
   ],
   "punch": [
    [
+    "c1",
+    "ball"
+   ],
+   [
+    "c1",
+    "between"
+   ],
+   [
+    "c1",
+    "thigh"
+   ],
+   [
     "c2",
     "push"
    ],
@@ -730,19 +733,11 @@
    ],
    [
     "c2",
-    "come"
+    "forward"
    ],
    [
     "c3",
     "hard"
-   ],
-   [
-    "c1",
-    "between"
-   ],
-   [
-    "c1",
-    "thigh"
    ]
   ],
   "blowouts": [
@@ -754,64 +749,20 @@
   "blackFlash": [],
   "streaks": [
    [
-    "c3"
+    "c2"
    ],
    [
-    "c1"
+    "c3"
    ]
   ],
   "extras": [
-   {
-    "at": [
-     "c2",
-     "come"
-    ],
-    "kind": "txt",
-    "file": "#1 COME??",
-    "color": "#FF2A2A",
-    "size": 130,
-    "off": 0,
-    "dur": 30,
-    "y": 560
-   },
-   {
-    "at": [
-     "c2",
-     "come"
-    ],
-    "kind": "sfx",
-    "file": "s_huh.mp3",
-    "v": 0.5
-   },
-   {
-    "at": [
-     "c3",
-     "hard"
-    ],
-    "kind": "txt",
-    "file": "#2 SO HARD",
-    "color": "#FF2A2A",
-    "size": 130,
-    "off": 0,
-    "dur": 30,
-    "y": 560
-   },
-   {
-    "at": [
-     "c3",
-     "hard"
-    ],
-    "kind": "sfx",
-    "file": "s_twitch.mp3",
-    "v": 0.5
-   },
    {
     "at": [
      "c1",
      "inner"
     ],
     "kind": "txt",
-    "file": "#3 INNER THIGH",
+    "file": "#1 INNER THIGH",
     "color": "#FFE14A",
     "size": 110,
     "off": 0,
@@ -829,19 +780,63 @@
    },
    {
     "at": [
-     "c1",
-     "muscles"
+     "c2",
+     "hips"
+    ],
+    "kind": "txt",
+    "file": "#2 HIPS FORWARD??",
+    "color": "#FFE14A",
+    "size": 100,
+    "off": 0,
+    "dur": 36,
+    "y": 560
+   },
+   {
+    "at": [
+     "c2",
+     "hips"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.5
+   },
+   {
+    "at": [
+     "c3",
+     "hard"
+    ],
+    "kind": "txt",
+    "file": "#3 SO HARD",
+    "color": "#FF2A2A",
+    "size": 130,
+    "off": 0,
+    "dur": 36,
+    "y": 560
+   },
+   {
+    "at": [
+     "c3",
+     "hard"
+    ],
+    "kind": "sfx",
+    "file": "s_twitch.mp3",
+    "v": 0.5
+   },
+   {
+    "at": [
+     "c3",
+     "hard"
     ],
     "kind": "png",
     "file": "skull.png",
-    "off": 0,
+    "off": 18,
     "sfx": "s_ayo.mp3",
     "sv": 0.45
    }
   ],
   "cta": "*full episode on @HardScope*",
   "ctaAt": [
-   "c1"
+   "c3"
   ],
   "track": "none",
   "calls": [],
@@ -1035,7 +1030,7 @@
   "popMid": true
  },
  "tpilates": {
-  "top": "His watch said 103\u2026 \"malfunction\"",
+  "top": "He blamed his WATCH for losing\u2026",
   "hl": {
    "103": "#FF2A2A"
   },
@@ -1049,7 +1044,7 @@
     "at": [
      "c0"
     ],
-    "text": "Malfunction or excuse?"
+    "text": "Would you trust his watch?"
    }
   ],
   "tints": [
@@ -1222,8 +1217,7 @@
   "ask": [
    {
     "at": [
-     "c1",
-     "men"
+     "hook"
     ],
     "text": "Fumble or on purpose?"
    }
@@ -1237,20 +1231,11 @@
     "R"
    ]
   ],
-  "rizz": [
-   [
-    "c1",
-    "jacked"
-   ]
-  ],
+  "rizz": [],
   "punch": [
    [
-    "c1",
-    "transformation"
-   ],
-   [
-    "c1",
-    "big"
+    "hook",
+    "men"
    ],
    [
     "c1",
@@ -1271,29 +1256,53 @@
   ],
   "blowouts": [],
   "blackFlash": [],
-  "streaks": [],
+  "streaks": [
+   [
+    "c1"
+   ]
+  ],
   "extras": [
    {
     "at": [
-     "c1",
-     "jacked"
+     "hook",
+     "men"
     ],
     "kind": "txt",
-    "file": "BIG AND JACKED",
-    "color": "#FFE14A",
-    "size": 100,
+    "file": "FOR MEN??",
+    "color": "#FF2A2A",
+    "size": 130,
+    "off": 0,
+    "dur": 26,
+    "y": 560
+   },
+   {
+    "at": [
+     "hook",
+     "men"
+    ],
+    "kind": "sfx",
+    "file": "s_ayo.mp3",
+    "v": 0.5
+   },
+   {
+    "at": [
+     "c1"
+    ],
+    "kind": "txt",
+    "file": "WAIT, FROM THE START:",
+    "color": "#FFFFFF",
+    "size": 70,
     "off": 0,
     "dur": 30,
     "y": 560
    },
    {
     "at": [
-     "c1",
-     "jacked"
+     "c1"
     ],
     "kind": "sfx",
-    "file": "s_correct.mp3",
-    "v": 0.5
+    "file": "s_whoosh.mp3",
+    "v": 0.4
    },
    {
     "at": [
@@ -1305,7 +1314,7 @@
     "color": "#FF2A2A",
     "size": 130,
     "off": 0,
-    "dur": 36,
+    "dur": 30,
     "y": 560
    },
    {
@@ -1314,7 +1323,7 @@
      "men"
     ],
     "kind": "sfx",
-    "file": "s_ayo.mp3",
+    "file": "s_huh.mp3",
     "v": 0.5
    },
    {
@@ -1346,8 +1355,8 @@
     ],
     "kind": "png",
     "file": "e_laugh.png",
-    "off": 5,
-    "sfx": "s_huh.mp3",
+    "off": 11,
+    "sfx": "s_ahh.mp3",
     "sv": 0.45
    }
   ],
@@ -1442,24 +1451,24 @@
    {
     "at": [
      "c1",
-     "what"
+     "lat"
     ],
-    "kind": "txt",
-    "file": "WHAT IS A LAT??",
-    "color": "#FFE14A",
-    "size": 110,
-    "off": 0,
-    "dur": 36,
-    "y": 560
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.5
    },
    {
     "at": [
      "c1",
      "lat"
     ],
-    "kind": "sfx",
-    "file": "s_huh.mp3",
-    "v": 0.5
+    "kind": "txt",
+    "file": "LAT = A BACK MUSCLE",
+    "color": "#FFE14A",
+    "size": 90,
+    "off": 14,
+    "dur": 40,
+    "y": 560
    },
    {
     "at": [
@@ -1503,7 +1512,7 @@
     ],
     "kind": "png",
     "file": "skull.png",
-    "off": 0,
+    "off": 6,
     "sfx": "s_fahhh.mp3",
     "sv": 0.45
    }

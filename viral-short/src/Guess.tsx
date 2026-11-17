@@ -306,7 +306,7 @@ export const Guess: React.FC<{edit: string}> = ({edit}) => {
     </div>}
     {(cfg.ctaEnd || (f >= ctaFrom && f < ctaTo)) && <div style={{position: 'absolute', left: 0, width: 1080, top: cfg.ctaEnd ? 1745 : 1250, textAlign: 'center', fontFamily: MONT, fontWeight: 800, fontStyle: 'italic', fontSize: 42, color: '#fff', WebkitTextStroke: '5px #000', paintOrder: 'stroke fill', opacity: cfg.ctaEnd ? 0.8 : Math.min(1, (f - ctaFrom) / 5), ...(cfg.ctaEnd ? {fontSize: 34} : {})}}>{cfg.cta}</div>}
     {cfg.sub && <div style={{position: 'absolute', left: 30, right: 30, top: 1512, textAlign: 'center', fontFamily: MONT, fontWeight: 800, fontStyle: 'italic', fontSize: 40, lineHeight: '48px', color: '#FFE14A', WebkitTextStroke: '6px #000', paintOrder: 'stroke fill'}}>{cfg.sub}</div>}
-    {askI >= 0 && (() => { const k = f - askAt, s = interpolate(k, [0, 5, 8, 11], [0.3, 1.12, 0.97, 1], clamp) * (1 + 0.025 * Math.sin(k / 5));
+    {askI >= 0 && (() => { const k = f - askAt, s = (askAt === 0 ? 1 : interpolate(k, [0, 5, 8, 11], [0.3, 1.12, 0.97, 1], clamp)) * (1 + 0.025 * Math.sin(k / 5));
       return <div style={{position: 'absolute', left: 0, width: 1080, top: cfg.sub ? 1612 : 1560, display: 'flex', justifyContent: 'center', transform: `scale(${s})`}}>
         <div style={{display: 'flex', alignItems: 'center', gap: 18, background: '#fff', borderRadius: 26, padding: '16px 30px', boxShadow: '0 8px 24px rgba(0,0,0,0.6)', fontFamily: MONT, fontWeight: 800, fontSize: 50, color: '#111'}}>
           {ASKS[askI].text}<svg width="46" height="54" viewBox="0 0 46 54" style={{transform: `translateY(${6 * Math.abs(Math.sin(k / 6))}px)`}}><path d="M23 52 L2 26 H15 V2 H31 V26 H44 Z" fill="#FF2A2A" /></svg>
