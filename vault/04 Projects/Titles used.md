@@ -130,3 +130,4 @@
 - Her Answer Was THREE GRAND?! 💀 (R3born money Z, recreation of 30k top performer)
 - N3on Thought He WON… 💀 (R3born reveal Z, recreation of 19k)
 - "Stop Me, Stop Me!" N3on on the POLE 💀 (R3born pole Z, recreation of 17.8k)
+- This Workout Got SUS Real Quick 💀 (R3born sus: Pilates ball + silks "hips forward, arch")
