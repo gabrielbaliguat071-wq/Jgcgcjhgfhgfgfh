@@ -1,0 +1,924 @@
+{
+ "tvjosh": {
+  "top": "This Josh Allen card has a PLOT TWIST",
+  "hl": {
+   "PLOT": "#FF2A2A",
+   "TWIST": "#FF2A2A"
+  },
+  "cta": "*did you know he changed his name?*",
+  "music": [
+   "funkabn_n",
+   0.5
+  ],
+  "ctaAt": [
+   "c2",
+   "true"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "real"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "gold"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "josh"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "fire"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "rookie"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "josh"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "rookie"
+   ],
+   [
+    "hook",
+    "real"
+   ],
+   [
+    "hook",
+    "hines"
+   ],
+   [
+    "c1",
+    "true"
+   ],
+   [
+    "c2",
+    "teal",
+    1
+   ],
+   [
+    "c2",
+    "glove"
+   ],
+   [
+    "c2",
+    "josh"
+   ],
+   [
+    "c2",
+    "fire"
+   ],
+   [
+    "c2",
+    "rookie"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "hines"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2",
+    "no",
+    1
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "hines"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "hook",
+     "hines"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "glove"
+    ],
+    "kind": "sfx",
+    "file": "s_awk.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c2",
+     "josh"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34
+   },
+   {
+    "at": [
+     "c2",
+     "josh"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c2",
+     "rookie"
+    ],
+    "kind": "png",
+    "file": "e_think.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvjosh.mp4"
+ },
+ "tvgolf": {
+  "top": "His dream golf group starts with JESUS",
+  "hl": {
+   "JESUS": "#58EE28"
+  },
+  "cta": "*who is in YOUR dream foursome?*",
+  "music": [
+   "chess_n",
+   38
+  ],
+  "ctaAt": [
+   "c4",
+   "tiger"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "jesus"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "dream"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "week"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c4",
+     "tiger"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c4",
+     "goat",
+     1
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c4",
+    "tiger"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "jesus"
+   ],
+   [
+    "hook",
+    "good"
+   ],
+   [
+    "c1",
+    "dream"
+   ],
+   [
+    "c1",
+    "golf"
+   ],
+   [
+    "c2",
+    "anybody"
+   ],
+   [
+    "c3",
+    "week"
+   ],
+   [
+    "c4",
+    "tiger"
+   ],
+   [
+    "c4",
+    "goat"
+   ],
+   [
+    "c4",
+    "goat",
+    1
+   ],
+   [
+    "c4",
+    "sick"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "jesus"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c3"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ],
+   [
+    "c4"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "jesus"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "hook",
+     "jesus"
+    ],
+    "kind": "png",
+    "file": "e_heart.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "week"
+    ],
+    "kind": "sfx",
+    "file": "s_awk.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c3",
+     "think"
+    ],
+    "kind": "png",
+    "file": "e_think.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c4",
+     "tiger"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34
+   },
+   {
+    "at": [
+     "c4",
+     "goat",
+     1
+    ],
+    "kind": "sfx",
+    "file": "s_correct.mp3",
+    "v": 0.4
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvgolf.mp4"
+ },
+ "tvslab": {
+  "top": "He kept this card 4 YEARS\u2026 then gave it away",
+  "hl": {
+   "YEARS\u2026": "#58EE28",
+   "4": "#58EE28"
+  },
+  "cta": "*would you give this away?*",
+  "music": [
+   "brevis_n",
+   36
+  ],
+  "ctaAt": [
+   "c2",
+   "shirt"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "care"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "four"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "tiger"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "glove"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "wow"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "tiger"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "care"
+   ],
+   [
+    "hook",
+    "me?"
+   ],
+   [
+    "c1",
+    "four"
+   ],
+   [
+    "c1",
+    "exquisite"
+   ],
+   [
+    "c1",
+    "tiger"
+   ],
+   [
+    "c1",
+    "game"
+   ],
+   [
+    "c1",
+    "patch"
+   ],
+   [
+    "c2",
+    "tiger"
+   ],
+   [
+    "c2",
+    "shirt"
+   ],
+   [
+    "c2",
+    "cap"
+   ],
+   [
+    "c2",
+    "wow"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "tiger"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "me?"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "hook",
+     "me?"
+    ],
+    "kind": "png",
+    "file": "e_heart.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "tiger"
+    ],
+    "kind": "ov",
+    "file": "cashfall.mp4",
+    "dur": 52
+   },
+   {
+    "at": [
+     "c1",
+     "tiger"
+    ],
+    "kind": "sfx",
+    "file": "s_money.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c2",
+     "wow"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c2",
+     "wow"
+    ],
+    "kind": "png",
+    "file": "e_sob.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvslab.mp4"
+ },
+ "tvpeyton": {
+  "top": "He called PEYTON when his rookie year went BAD",
+  "hl": {
+   "BAD": "#FF2A2A",
+   "PEYTON": "#58EE28"
+  },
+  "cta": "*who would YOU call?*",
+  "music": [
+   "blue_n",
+   21.5
+  ],
+  "ctaAt": [
+   "c4",
+   "yeah"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "not"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "text"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "one"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c4",
+     "challenges"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c4",
+     "interceptions"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "text"
+   ],
+   [
+    "c3",
+    "one"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "rookie"
+   ],
+   [
+    "hook",
+    "not"
+   ],
+   [
+    "c1",
+    "text"
+   ],
+   [
+    "c1",
+    "season"
+   ],
+   [
+    "c2",
+    "look"
+   ],
+   [
+    "c3",
+    "one"
+   ],
+   [
+    "c4",
+    "perspective"
+   ],
+   [
+    "c4",
+    "challenges"
+   ],
+   [
+    "c4",
+    "indy"
+   ],
+   [
+    "c4",
+    "interceptions"
+   ],
+   [
+    "c4",
+    "rough"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c4",
+    "interceptions"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c4"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1"
+   ],
+   [
+    "c3"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "text"
+    ],
+    "kind": "png",
+    "file": "e_heart.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "one"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c4",
+     "interceptions"
+    ],
+    "kind": "sfx",
+    "file": "s_fahhh.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c4",
+     "interceptions"
+    ],
+    "kind": "png",
+    "file": "e_sob.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvpeyton.mp4"
+ },
+ "tvplays": {
+  "top": "NFL playbooks have HUNDREDS of plays",
+  "hl": {
+   "HUNDREDS": "#58EE28"
+  },
+  "cta": "*could you learn a playbook?*",
+  "music": [
+   "phonk_n",
+   0.5
+  ],
+  "ctaAt": [
+   "c4",
+   "inventory"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "eight"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "playbook"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "hundreds"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "everything"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c4",
+     "week"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "hundreds"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "new"
+   ],
+   [
+    "hook",
+    "eight"
+   ],
+   [
+    "hook",
+    "ten"
+   ],
+   [
+    "c1",
+    "playbook"
+   ],
+   [
+    "c1",
+    "week"
+   ],
+   [
+    "c2",
+    "entire"
+   ],
+   [
+    "c2",
+    "hundreds"
+   ],
+   [
+    "c2",
+    "ton"
+   ],
+   [
+    "c3",
+    "everything"
+   ],
+   [
+    "c4",
+    "whole"
+   ],
+   [
+    "c4",
+    "running"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "hundreds"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c3"
+   ],
+   [
+    "c4"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c2",
+     "hundreds"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34
+   },
+   {
+    "at": [
+     "c2",
+     "hundreds"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c3",
+     "everything"
+    ],
+    "kind": "png",
+    "file": "e_sob.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "everything"
+    ],
+    "kind": "sfx",
+    "file": "s_fahhh.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "hook",
+     "ten"
+    ],
+    "kind": "png",
+    "file": "e_think.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "ten"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvplays.mp4"
+ }
+}

@@ -141,3 +141,8 @@
 - He's 100 Calories BEHIND… Can He Come Back? 💀 (R3born top10 tsmoked)
 - She Introduced Him and FUMBLED Hard 💀 (R3born top10 tpretty)
 - He Asked What a Lat Was… It Got WORSE 💀 (R3born top10 tlat)
+- The Josh Allen Card With a PLOT TWIST 💀 (tv5 josh, VverPaldo)
+- His Dream Golf Foursome Starts With JESUS 💀 (tv5 golf, VverPaldo)
+- He Kept This Tiger Woods Card 4 YEARS… Then Gave It Away 💀 (tv5 slab, VverPaldo)
+- He Called PEYTON MANNING When His Rookie Year Went BAD 💀 (tv5 peyton, VverPaldo)
+- NFL Playbooks Have HUNDREDS of Plays… Plus 10 NEW Every Week 💀 (tv5 playbook, VverPaldo)

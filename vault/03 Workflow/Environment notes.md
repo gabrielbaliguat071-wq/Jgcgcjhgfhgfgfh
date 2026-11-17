@@ -12,3 +12,7 @@ Back to [[START HERE]]
 - **whisper.cpp model download** via `@remotion/install-whisper-cpp` writes a 0-byte file here; fetch the model with curl from huggingface instead (see `scripts/transcribe.mjs`). Preferred now: `scripts/transcribe_words.py` (faster-whisper large-v3, `pip install faster-whisper`).
 - **faster-whisper + PyAV mismatch**: the script decodes audio with ffmpeg itself to avoid it.
 - First `git push` failed with 403 until GitHub was reconnected (claude.ai/connect-github).
+- **YuNet model (2026-11-17):** `models/` is gitignored. GitHub's raw URL returns a 378-byte LFS pointer; fetch
+  `https://media.githubusercontent.com/media/opencv/opencv_zoo/main/models/face_detection_yunet/face_detection_yunet_2023mar.onnx` → `models/yunet.onnx`.
+- **Drive folder listing without the API:** `curl https://drive.google.com/embeddedfolderview?id=<folderId>` and parse `file/d/<id>` + `flip-entry-title`.
+- **Stills fast path:** `npx remotion bundle src/index.ts --out-dir=<tmp>` once, then `npx remotion still <tmp> <Comp> …` per frame (no rebundle).
