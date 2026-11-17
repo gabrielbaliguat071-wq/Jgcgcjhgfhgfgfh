@@ -28,91 +28,94 @@ def crops(a, b):
     first = prev[-1][1] if prev else (c[0][1] if c else 960)
     return [(a, first)] + [x for x in c if x[0] > a + 0.01]
 G, R = 'G', 'R'
-def pop(at, f, react=None, rv=0.45, off=0): return dict(at=at, kind='png', file=f, off=off, **({'sfx': react, 'sv': rv} if react else {}))
+def pop(at, f, react=None, rv=0.45, off=0, after=False): return dict(at=at, kind='png', file=f, off=off, after=after, **({'sfx': react, 'sv': rv} if react else {}))
 def ov(at, f, sfx, dur=34, sv=0.45): return dict(at=at, kind='ov', file=f, dur=dur, sfx=sfx, sv=sv)
 def sfx(at, f, v=0.5): return dict(at=at, kind='sfx', file=f, v=v)
 INS = lambda sid, f, d: (sid, 'insert', f, d)
-def txt(at, text, color='#58EE28', size=150, off=0, y=None, dur=30): return dict(at=at, kind='txt', file=text, color=color, size=size, off=off, dur=dur, **({'y': y} if y else {}))
-Y = '#FFE14A'
-UI = (1.18, 560)   # zoom that crops the stream widgets out of the pole footage
+def txt(at, text, color='#58EE28', size=150, off=0, y=None, dur=30, after=False): return dict(at=at, kind='txt', file=text, color=color, size=size, off=off, dur=dur, after=after, **({'y': y} if y else {}))
+Y = '#FFE14A'; W_ = '#FFFFFF'
+UI = (1.18, 560)
 E = {
- 'tmoney': dict(scenes=[('hook', 258.20, 260.35), ('c1', 261.38, 262.95), ('c2', 263.48, 266.70), ('c3', 250.98, 257.30)],
+ 'tmoney': dict(scenes=[('hook', 258.20, 260.35), ('c1', 261.38, 262.95), ('c2', 263.48, 266.70), ('c3', 252.05, 257.00)],
    top='She made HOW much in ONE night?!', hl={'HOW': R, 'ONE': R}, sub='She teaches pole dancing for a living', music=['aura_n', 0],
-   ask=[[['hook', 'money'], 'Guess how much'], [['c3', 'clarify'], 'Would YOU do it for $3K?']],
+   ask=[[['hook'], 'Would YOU do it for $3K?']],
    tints=[[['c1', 'three'], G], [['c2', 'strip'], R], [['c3', 'stripper', 1], R]], rizz=[['c1', 'three']],
-   punch=[['hook', 'most'], ['hook', 'money'], ['hook', 'night'], ['c1', 'three'], ['c1', 'grand'], ['c2', 'strip'], ['c2', 'sorry'], ['c3', 'clarify'], ['c3', 'stripper'], ['c3', 'stripper', 1]],
+   punch=[['hook', 'most'], ['hook', 'money'], ['hook', 'night'], ['c1', 'three'], ['c1', 'grand'], ['c2', 'strip'], ['c2', 'sorry'], ['c3', 'stripper'], ['c3', 'stripper', 1]],
    blowouts=[['c1', 'three']], blackFlash=[], streaks=[['c3']],
-   extras=[ov(['c1', 'three'], 'cashfall.mp4', 's_ding.mp3', 52), txt(['c1', 'three'], '$3,000', off=4), pop(['c2', 'dancing'], 'e_laugh.png', 's_huh.mp3', off=10),
-           pop(['c3', 'stripper', 1], 'skull.png', 's_ayo.mp3', off=10)]),
- 'treveal': dict(scenes=[('hook', 745.80, 747.40), ('c1', 726.40, 731.90), ('c2', 732.40, 741.80), ('c3', 759.85, 762.20)],
+   extras=[ov(['c1', 'three'], 'cashfall.mp4', 's_ding.mp3', 52), txt(['c1', 'three'], '$3,000', off=4), pop(['c2', 'dancing'], 'e_laugh.png', 's_huh.mp3', after=True),
+           pop(['c3', 'stripper', 1], 'skull.png', 's_ayo.mp3', after=True)]),
+ 'treveal': dict(scenes=[('c1', 726.40, 731.90), ('c2', 732.40, 737.75), ('c3', 741.00, 741.85), ('c4', 759.85, 763.60)],
    top='Loser gets WAXED… who lost?', hl={'WAXED': R}, sub='Bet: most calories burned wins', music=['suspense_n', 0],
-   ask=[[['hook', "that's"], 'Who wins? Guess'], [['c2', 'eyebrow'], 'Eyebrow or calf?']],
-   tints=[[['hook', 'hot'], R], [['c1', '326'], G], [['c2', '389'], R]], rizz=[['c1', '326']],
-   punch=[['hook', 'hot'], ['c1', 'grand'], ['c1', '326'], ['c2', '389'], ['c2', 'eyebrow'], ['c2', 'calf']],
-   blowouts=[['c2', '389']], blackFlash=[], streaks=[['c3']],
+   ask=[[['c1'], 'Who wins? Guess'], [['c4'], 'Rate his pain 1-10']],
+   tints=[[['c1', '326'], G], [['c2', '389'], R]], rizz=[['c1', '326']],
+   punch=[['c1', 'grand'], ['c1', '326'], ['c2', '389'], ['c3', 'calf']],
+   blowouts=[['c2', '389']], blackFlash=[], streaks=[['c3'], ['c4']],
    extras=[txt(['c1'], 'CALORIES BURNED', color=Y, size=72, y=560, dur=80), txt(['c1', '326'], '326', off=2), ov(['c2', '389'], 'greenflash2.mp4', 's_wow.mp3'),
-           txt(['c2', '389'], '389', color='#FF2A2A', off=2), sfx(['c3'], 's_rip.mp3', 0.6), pop(['c3'], 'e_sob.png', 's_fahhh.mp3', off=30)]),
- 'tpole': dict(scenes=[('hook', 353.20, 354.10), ('rw', 'rewind', 354.10, 333.90, 12), ('c1', 333.90, 338.85), ('c2', 351.30, 356.40)], zoom={'hook': UI, 'c2': UI},
+           txt(['c2', '389'], '389', color='#FF2A2A', off=2), txt(['c4'], 'RIIIP', color='#FF2A2A', size=170, y=560, off=10, dur=34), sfx(['c4'], 's_rip.mp3', 0.6) | {'off': 10},
+           pop(['c4'], 'e_sob.png', 's_fahhh.mp3', off=80)]),
+ 'tpole': dict(scenes=[('hook', 353.20, 354.10), ('rw', 'rewind', 354.10, 336.40, 12), ('c1', 336.40, 338.85), ('c2', 351.30, 356.90)], zoom={'hook': UI, 'c2': UI},
    top='His first pole class went…', hl={'pole': R}, sub='First time ever on a pole', music=['phonk_n', 40],
-   ask=[[['c2', 'just'], 'Rate his spin 1-10']],
-   tints=[[['c1', 'stupid'], R], [['c2', 'whoa'], R]], rizz=[],
-   punch=[['hook', 'whoa'], ['c1', 'hard'], ['c1', 'stupid'], ['c1', 'stupid', 1], ['c1', 'great'], ['c2', 'whoa'], ['c2', 'stop'], ['c2', 'stop', 2]],
+   ask=[[['c2'], 'Rate his spin 1-10']],
+   tints=[[['c2', 'oh'], R]], rizz=[],
+   punch=[['hook', 'whoa'], ['c1', 'stupid'], ['c1', 'stupid', 1], ['c1', 'great'], ['c2', 'whoa'], ['c2', 'stop'], ['c2', 'stop', 2], ['c2', 'oh']],
    blowouts=[], blackFlash=[], streaks=[['c2']],
-   extras=[txt(['rw'], 'HOW IT STARTED', color='#FFFFFF', size=90, y=560, dur=45), pop(['c1', 'pole'], 'e_laugh.png', 's_huh.mp3', off=8)]),
- 'trip': dict(scenes=[('c1', 753.00, 756.00), ('c2', 759.20, 762.10), ('c3', 764.85, 767.40)],
-   top='He said "sue me"… then THIS', hl={'THIS': R}, sub='He lost the bet. Loser gets waxed.', music=['empire_n', 20],
-   ask=[[['c1', 'sue'], 'Rate his pain 1-10']],
-   tints=[[['c1', 'sue'], R], [['c1', 'lawyers'], G], [['c3', 'wow'], G]], rizz=[['c1', 'lawyers']],
-   punch=[['c1', 'touch'], ['c1', 'sue'], ['c1', 'sue', 1], ['c1', 'lawyers'], ['c2', 'two'], ['c2', 'one'], ['c3', 'wow'], ['c3', 'good']],
-   blowouts=[], blackFlash=[], streaks=[['c3']],
-   extras=[pop(['c1', 'lawyers'], 'e_laugh.png', 's_ayo.mp3', off=10), sfx(['c2', 'one'], 's_rip.mp3', 0.6) | {'off': 17}, pop(['c2', 'one'], 'e_sob.png', 's_fahhh.mp3', off=40),
-           ov(['c3', 'wow'], 'greenflash2.mp4', 's_nice.mp3')]),
- 'tsus': dict(scenes=[('hook', 175.50, 177.05), ('c1', 171.20, 177.05), ('c2', 531.30, 535.40)],
+   extras=[txt(['rw'], 'HOW IT STARTED', color=W_, size=90, y=560, dur=45), txt(['c2', 'oh'], 'SHE HAD TO CATCH HIM', color=Y, size=80, y=560, dur=40), sfx(['c2', 'oh'], 'shock.mp3', 0.5),
+           pop(['c2', 'oh'], 'e_laugh.png', 's_huh.mp3', off=14)]),
+ 'trip': dict(scenes=[('c1', 753.00, 756.00), ('c2', 759.20, 762.20), ('c3', 764.85, 766.45)],
+   top='"I got good lawyers"… then THIS', hl={'THIS': R}, sub='He lost the bet. Loser gets waxed.', music=['empire_n', 20],
+   ask=[[['c1'], 'Rate his pain 1-10']],
+   tints=[[['c1', 'sue'], R], [['c1', 'lawyers'], G]], rizz=[['c1', 'lawyers']],
+   punch=[['c1', 'touch'], ['c1', 'sue'], ['c1', 'sue', 1], ['c1', 'lawyers'], ['c2', 'two'], ['c2', 'one']],
+   blowouts=[], blackFlash=[], streaks=[['c2']],
+   extras=[pop(['c1', 'lawyers'], 'e_laugh.png', 's_ayo.mp3', after=True), txt(['c2', 'one'], 'RIIIP', color='#FF2A2A', size=170, y=560, off=17, dur=34), sfx(['c2', 'one'], 's_rip.mp3', 0.6) | {'off': 17}]),
+ 'tsus': dict(scenes=[('c1', 171.20, 174.45), ('c2', 531.30, 537.60)],
    top='This workout got SUS real quick', hl={'SUS': R}, sub='Just Pilates instructions… right?', music=['brega_n', 0],
-   ask=[[['hook'], 'What did YOU hear?']],
+   ask=[[['c1'], 'Pilates or…?']],
    tints=[[['c1', 'between'], R], [['c2', 'hips'], R]], rizz=[['c1', 'thigh']],
-   punch=[['c1', 'ball'], ['c1', 'between'], ['c1', 'thigh'], ['c1', 'kneel'], ['c2', 'push'], ['c2', 'hips'], ['c2', 'forward'], ['c2', 'arch']],
+   punch=[['c1', 'ball'], ['c1', 'between'], ['c1', 'thigh'], ['c2', 'push'], ['c2', 'hips'], ['c2', 'forward'], ['c2', 'arch'], ['c2', 'hard']],
    blowouts=[['c2', 'arch']], blackFlash=[], streaks=[['c2']],
-   extras=[pop(['c1', 'thigh'], 'e_laugh.png', 's_twitch.mp3', off=8), pop(['c2', 'hips'], 'skull.png', 's_ayo.mp3', off=8), sfx(['c2', 'arch'], 's_twitch.mp3')]),
- 'tcheat': dict(scenes=[('hook', 684.80, 686.10), ('c1', 639.45, 642.70), INS('afml', 'afml.mp4', 1.6), ('c2', 659.20, 661.80),
-                        ('c4', 684.80, 692.20), ('c5', 694.00, 694.95), ('c6', 697.75, 701.80)],
+   extras=[txt(['c1', 'inner'], 'INNER THIGH', color=Y, size=110, y=560, dur=36), sfx(['c1', 'inner'], 's_twitch.mp3'), pop(['c1', 'thigh'], 'e_laugh.png', 's_huh.mp3', after=True),
+           txt(['c2', 'hips'], 'HIPS FORWARD', color=Y, size=110, y=560, dur=36), pop(['c2', 'arch'], 'skull.png', 's_ayo.mp3', after=True), sfx(['c2', 'hard'], 's_twitch.mp3')]),
+ 'tcheat': dict(scenes=[('hook', 684.80, 686.10), ('c1', 639.45, 642.70), INS('afml', 'afml.mp4', 0.8), ('c2', 659.20, 661.80),
+                        ('c4', 690.55, 692.20), ('c5', 694.00, 694.95), ('c6', 697.75, 701.80)],
    top='He said he had to use the BATHROOM…', hl={'BATHROOM…': R}, sub='Bet: most calories burned wins', music=['funkabn_n', 4],
-   ask=[[['hook', 'what'], 'Cheating or genius?']],
+   ask=[[['hook'], 'Cheating or genius?']],
    tints=[[['hook', 'f***'], R], [['c1', 'restroom'], G], [['c4', 'calories'], R]], rizz=[['c1', 'restroom']],
-   punch=[['hook', 'f***'], ['hook', 'doing'], ['c1', '50'], ['c1', 'restroom'], ['c4', 'tired'], ['c4', 'burn'], ['c4', 'calories'], ['c5', 'sorry'], ['c6', 'no'], ['c6', '50'], ['c6', 'sue']],
+   punch=[['hook', 'f***'], ['hook', 'doing'], ['c1', '50'], ['c1', 'restroom'], ['c4', 'burn'], ['c4', 'calories'], ['c5', 'sorry'], ['c6', 'no'], ['c6', '50'], ['c6', 'sue']],
    blowouts=[], blackFlash=[], streaks=[['c2'], ['c6']],
-   extras=[pop(['c1', 'restroom'], 'e_laugh.png', 's_ahh.mp3', off=10), sfx(['c2'], 's_loading.mp3', 0.4), txt(['c2'], 'SECRET WORKOUT', color=Y, size=90, y=560, dur=60),
-           ov(['c4', 'calories'], 'greenflash2.mp4', 's_wow.mp3'), pop(['c6', 'sue'], 'skull.png', 's_fahhh.mp3', off=10)]),
- 'tpilates': dict(scenes=[('hook', 214.90, 216.70), ('c1', 210.66, 214.90), ('c2', 216.70, 223.95)],
-   top='He burned 103 calories doing Pilates…', hl={'103': R}, sub='Same class. She burned way more.', music=['sentamento_n', 55],
-   ask=[[['hook', '103'], 'How many would YOU burn?']],
-   tints=[[['hook', '103'], R], [['c2', '161'], G]], rizz=[['c2', '161']],
-   punch=[['hook', '103'], ['hook', 'impossible'], ['c1', 'embarrassing'], ['c1', 'malfunction'], ['c2', 'generous'], ['c2', '161'], ['c2', 'close'], ['c2', '60']],
+   extras=[txt(['c1', '50'], "HE'S DOWN 50 CALORIES", color=Y, size=80, y=560, dur=36), pop(['c1', 'restroom'], 'e_laugh.png', 's_ahh.mp3', after=True), sfx(['c2'], 's_loading.mp3', 0.4),
+           txt(['c2'], 'SECRET WORKOUT', color=Y, size=90, y=560, dur=60), ov(['c4', 'calories'], 'greenflash2.mp4', 's_wow.mp3'), pop(['c6', 'sue'], 'skull.png', 's_fahhh.mp3', after=True)]),
+ 'tpilates': dict(scenes=[('c1', 214.90, 216.70), ('c2', 216.70, 223.95)],
+   top='He burned 103 calories doing Pilates…', hl={'103': R}, sub='Then she checked HER watch…', music=['sentamento_n', 55],
+   ask=[[['c1'], 'Malfunction or excuse?']],
+   tints=[[['c1', '103'], R], [['c2', '161'], G]], rizz=[['c2', '161']],
+   punch=[['c1', '103'], ['c1', 'impossible'], ['c2', 'generous'], ['c2', '161'], ['c2', 'close'], ['c2', '60']],
    blowouts=[['c2', '161']], blackFlash=[], streaks=[['c2']],
-   extras=[txt(['hook', '103'], '103', color='#FF2A2A', off=2), pop(['c1', 'embarrassing'], 'e_laugh.png', 's_huh.mp3', off=6), txt(['c2', '161'], '161', off=2),
-           ov(['c2', '161'], 'greenflash2.mp4', 's_correct.mp3'), pop(['c2', 'close', 1], 'e_sob.png', 's_awk.mp3', off=6)]),
- 'thand': dict(scenes=[('hook', 399.84, 402.10), ('c1', 384.84, 388.90), ('c2', 397.90, 402.20)],
-   top='His first handstand did NOT go well', hl={'NOT': R}, sub='Sarah offered to help…', music=['xcool_n', 0],
-   ask=[[['hook', 'trusted'], 'Who would YOU trust?']],
+   extras=[txt(['c1', '103'], '103', color='#FF2A2A', off=2), pop(['c1', 'impossible'], 'e_sob.png', 's_huh.mp3', after=True), txt(['c2', '161'], '161', off=2),
+           ov(['c2', '161'], 'greenflash2.mp4', 's_correct.mp3'), pop(['c2', 'close', 1], 'e_laugh.png', 's_awk.mp3', after=True)]),
+ 'thand': dict(scenes=[('c1', 384.84, 388.90), ('c2', 397.90, 402.20)], eq='eq=brightness=0.05:gamma=1.22',
+   top='She ROASTED him mid-handstand', hl={'ROASTED': R}, sub='Coach 1: Sarah. Coach 2: a former stripper.', music=['xcool_n', 0],
+   ask=[[['c1'], 'Rate that roast 1-10']],
    tints=[[['c1', 'butt'], R], [['c2', 'stripper'], R]], rizz=[],
-   punch=[['hook', 'trusted'], ['hook', 'stripper'], ['c1', 'tuck'], ['c1', 'butt'], ['c1', 'nothing'], ['c2', 'help'], ['c2', 'again'], ['c2', 'stripper'], ['c2', 'sarah']],
+   punch=[['c1', 'tuck'], ['c1', 'butt'], ['c1', 'nothing'], ['c2', 'help'], ['c2', 'again'], ['c2', 'stripper'], ['c2', 'sarah']],
    blowouts=[], blackFlash=[], streaks=[['c2']],
-   extras=[pop(['c1', 'nothing'], 'e_laugh.png', 's_ayo.mp3', off=12), pop(['c2', 'sarah'], 'skull.png', 's_awk.mp3', off=6)]),
- 'tclub': dict(scenes=[('hook', 418.00, 420.30), ('c1', 416.30, 421.60), ('c2', 427.50, 429.95)],
+   extras=[pop(['c1', 'at'], 'e_laugh.png', 's_ayo.mp3', after=True), pop(['c2', 'sarah'], 'skull.png', 's_awk.mp3', after=True)]),
+ 'tclub': dict(scenes=[('c1', 416.30, 425.70)],
    top='He admitted what he REALLY looks at', hl={'REALLY': R}, sub='After his first pole class', music=['montagem_n', 25],
-   ask=[[['hook', 'strip'], 'Is he wrong though?']],
-   tints=[[['hook', 'a**'], R], [['c1', 'technique'], G], [['c2', 'him'], R]], rizz=[['c1', 'technique']],
-   punch=[['hook', 'strip'], ['hook', 'a**'], ['c1', 'hard'], ['c1', 'a**'], ['c1', 'technique'], ['c2', 'him'], ['c2', 'brother']],
-   blowouts=[], blackFlash=[], streaks=[['c2']],
-   extras=[pop(['c1', 'a**'], 'e_laugh.png', 's_ayo.mp3', off=8), ov(['c1', 'technique'], 'greenflash.mp4', 's_nice.mp3'), pop(['c2', 'him'], 'skull.png', 's_huh.mp3', off=6)]),
- 'tgpt': dict(scenes=[('hook', 450.30, 453.20), ('c1', 431.40, 439.70), ('c2', 441.40, 444.00), ('c3', 448.15, 453.30), ('c4', 455.00, 457.45)],
+   ask=[[['c1'], 'Is he wrong though?']],
+   tints=[[['c1', 'a**'], R], [['c1', 'salute'], G]], rizz=[['c1', 'salute']],
+   punch=[['c1', 'hard'], ['c1', 'strip'], ['c1', 'a**'], ['c1', 'technique'], ['c1', 'salute']],
+   blowouts=[], blackFlash=[], streaks=[],
+   extras=[pop(['c1', 'technique'], 'e_laugh.png', 's_ayo.mp3', after=True), ov(['c1', 'salute'], 'greenflash.mp4', 's_nice.mp3'), pop(['c1', 'teaching'], 'skull.png', 's_huh.mp3', after=True)]),
+ 'tgpt': dict(scenes=[('hook', 450.30, 453.20), ('c1', 436.28, 439.70), ('c2', 441.40, 444.00), ('c3', 448.15, 450.30), ('c4', 455.00, 457.45)],
+   zoom={'c1': (1.3, 420), 'hook': (1.22, 560), 'c3': (1.22, 560)},
    top='His excuse for losing is CRAZY', hl={'CRAZY': R}, sub='She burned 100. He burned 50.', music=['alquimia_n', 0],
-   ask=[[['hook', 'ChatGPT'], 'Do men REALLY burn more?']],
+   ask=[[['hook'], 'Do men REALLY burn more?']],
    tints=[[['hook', 'men'], R], [['c1', 'crushed'], G], [['c3', 'woman'], R]], rizz=[['c1', 'crushed']],
-   punch=[['hook', 'ChatGPT'], ['hook', 'men'], ['c1', 'hundred'], ['c1', '50'], ['c1', 'crushed'], ['c2', 'women'], ['c3', 'genes'], ['c3', 'woman'], ['c4', 'comeback'], ['c4', 'LeBron']],
+   punch=[['hook', 'ChatGPT'], ['hook', 'men'], ['c1', '50'], ['c1', 'crushed'], ['c2', 'women'], ['c3', 'genes'], ['c3', 'woman'], ['c4', 'comeback'], ['c4', 'LeBron']],
    blowouts=[], blackFlash=[], streaks=[['c2'], ['c3']],
-   extras=[txt(['c1', '50'], '50', color='#FF2A2A', off=2), ov(['c1', 'crushed'], 'greenflash2.mp4', 's_wow.mp3'), pop(['c1', 'crushed'], 'e_sob.png', 's_fahhh.mp3', off=8),
-           pop(['c3', 'woman'], 'e_laugh.png', 's_ayo.mp3', off=6), pop(['c4', 'LeBron'], 'skull.png', 's_huh.mp3', off=10)]),
+   extras=[txt(['c1', '50'], '50', color='#FF2A2A', off=2), ov(['c1', 'crushed'], 'greenflash2.mp4', 's_wow.mp3'), pop(['c1', 'man'], 'e_sob.png', 's_fahhh.mp3', after=True),
+           pop(['c3', 'woman'], 'e_laugh.png', 's_ayo.mp3', after=True), pop(['c4', 'James'], 'skull.png', 's_huh.mp3', after=True)]),
 }
 
 gen = json.load(open('src/edits.gen.json')); CFG = {}
@@ -151,14 +154,18 @@ for eid, spec in E.items():
             cmd += ['-ss', f'{a:.3f}', '-t', f'{b - a:.3f}', '-i', SRC]
             fc.append(f'[{i}:v]fps=30,setpts=PTS-STARTPTS,scale=1920:1080,setsar=1,format=yuv420p[v{i}]')
             fc.append(f'[{i}:a]asetpts=PTS-STARTPTS,aresample=48000,aformat=channel_layouts=stereo,apad,atrim=0:{b - a:.3f}[a{i}]')
-        fc.append(''.join(f'[v{i}][a{i}]' for i in range(len(offs))) + f'concat=n={len(offs)}:v=1:a=1[cv][ca]'); fc.append('[cv]' + G67 + '[gv]')
+        fc.append(''.join(f'[v{i}][a{i}]' for i in range(len(offs))) + f'concat=n={len(offs)}:v=1:a=1[cv][ca]'); fc.append('[cv]' + G67 + (',' + spec['eq'] if spec.get('eq') else '') + '[gv]')
         subprocess.run(cmd + ['-filter_complex', ';'.join(fc), '-map', '[gv]', '-map', '[ca]', '-c:v', 'libx264', '-preset', 'medium', '-crf', '20',
                               '-g', '15', '-c:a', 'aac', '-b:a', '192k', '-map_metadata', '-1', f'public/g67_{eid}.mp4'], check=True)
-    c = {k: v for k, v in spec.items() if k not in ('scenes', 'zoom')}
+    c = {k: v for k, v in spec.items() if k not in ('scenes', 'zoom', 'eq')}
     c['hl'] = {w: ('#FF2A2A' if col == R else '#58EE28') for w, col in c['hl'].items()}
     c.update(cta='*full episode on @HardScope*', ctaAt=[scenes[-1]['id']], ask=[{'at': r, 'text': t} for r, t in c['ask']], track='none', calls=[], src=f'g67_{eid}.mp4',
-             intro=False, hardcut=True, cutSfx='s_camflash.mp3', sat=1.1, progress=True, popMid=True)
+             intro=False, ctaEnd=True, hardcut=True, cutSfx='s_camflash.mp3', sat=1.1, progress=True, popMid=True)
     sc = {s['id']: s for s in scenes}
+    for e in c['extras']:
+        if e.pop('after', False):
+            w = [x for x in sc[e['at'][0]]['words'] if x['word'].lower().startswith(e['at'][1].lower())][e['at'][2] if len(e['at']) > 2 else 0]
+            e['off'] = w['endFrame'] - w['startFrame'] + 4
     refs = [r for r, _ in c['tints']] + [c['ctaAt']] + [q['at'] for q in c['ask']] + [e['at'] for e in c['extras']] + sum((c[k] for k in ('rizz', 'punch', 'blowouts', 'blackFlash', 'streaks')), [])
     for r in refs:
         assert r[0] in sc, (eid, r)
