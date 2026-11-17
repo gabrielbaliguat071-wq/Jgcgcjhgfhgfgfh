@@ -300,6 +300,7 @@ export const Guess: React.FC<{edit: string}> = ({edit}) => {
     {!cfg.popMid && (cfg.extras ?? []).filter((e) => e.kind === 'png').map((e, i) => { const t0 = xat(e), d = e.dur ?? 36, k = f - t0; if (k < 0 || k >= d) return null;
       const sc = k < 6 ? interpolate(k, [0, 3, 6], [0.2, 1.25, 1], clamp) : 1, op = k > d - 6 ? (d - k) / 6 : 1, sz = e.size ?? 210;
       return <Img key={'png' + i} src={staticFile(`res/${e.file}`)} style={{position: 'absolute', left: (e.x ?? 800) - sz / 2, top: (e.y ?? 880) - sz / 2, width: sz, height: sz, objectFit: 'contain', opacity: op, transform: `scale(${sc}) rotate(${8 * Math.sin(k / 3)}deg)`, filter: 'drop-shadow(0 6px 10px rgba(0,0,0,0.5))'}} />; })}
+    {word && (word as {spk?: string}).spk && <div style={{position: 'absolute', left: 0, width: 1080, top: 985, textAlign: 'center'}}><span style={{fontFamily: MONT, fontWeight: 800, fontSize: 34, color: '#fff', background: (word as {spk?: string}).spk === 'HER' ? '#FF4F9A' : '#2F8CFF', borderRadius: 10, padding: '2px 14px'}}>{(word as {spk?: string}).spk}</span></div>}
     {word && <div style={{position: 'absolute', left: 0, width: 1080, top: 1060, textAlign: 'center', ...(wk < 2 ? {transform: `scaleX(${wk === 0 ? 1.35 : 1.15})`, filter: `blur(${wk === 0 ? 5 : 2.5}px)`, opacity: 0.85} : {})}}>
       <span style={{fontFamily: MONT, fontWeight: 800, fontSize: 68, color: '#FFFFFF', WebkitTextStroke: '7px #000', paintOrder: 'stroke fill', textShadow: '0 3px 8px rgba(0,0,0,0.7)'}}>{word.word}</span>
     </div>}
