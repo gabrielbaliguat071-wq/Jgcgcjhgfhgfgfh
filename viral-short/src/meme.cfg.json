@@ -1,0 +1,457 @@
+{
+ "mrogers": {
+  "top": "Jags fans vs Eagles fans got OUT OF HAND",
+  "hl": {
+   "OUT": "#E3201B",
+   "OF": "#E3201B",
+   "HAND": "#E3201B"
+  },
+  "label": "TREVOR LAWRENCE \u00b7 NFL QB",
+  "music": [
+   "dubist_n",
+   1.0
+  ],
+  "cta": "WHO WINS THIS FIGHT?",
+  "ctaAt": [
+   "c3",
+   "we"
+  ],
+  "kw": {
+   "jags": "#FFE14D",
+   "eagles": "#5CFF5C",
+   "philly": "#5CFF5C",
+   "insane": "#FF4D4D",
+   "nuts": "#FF4D4D",
+   "home": "#FFE14D",
+   "box": "#FF4D4D",
+   "versus": "#FF4D4D",
+   "rogers": "#5CFF5C",
+   "traveling": "#FFE14D",
+   "happen": "#5CFF5C",
+   "out": "#FF4D4D"
+  },
+  "emoji": [
+   [
+    [
+     "hook",
+     "versus"
+    ],
+    "1f94a"
+   ],
+   [
+    [
+     "c1",
+     "eagles"
+    ],
+    "1f985"
+   ],
+   [
+    [
+     "c2",
+     "insane"
+    ],
+    "1f631"
+   ],
+   [
+    [
+     "c2",
+     "philly"
+    ],
+    "1f62d"
+   ],
+   [
+    [
+     "c3",
+     "box"
+    ],
+    "1f94a"
+   ],
+   [
+    [
+     "c3",
+     "oh"
+    ],
+    "1f633"
+   ]
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "happen"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "philly"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c3",
+     "box"
+    ],
+    "R"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "versus"
+   ],
+   [
+    "hook",
+    "happen"
+   ],
+   [
+    "c1",
+    "cheering"
+   ],
+   [
+    "c1",
+    "eagles"
+   ],
+   [
+    "c2",
+    "insane"
+   ],
+   [
+    "c2",
+    "home"
+   ],
+   [
+    "c2",
+    "philly"
+   ],
+   [
+    "c3",
+    "rogers"
+   ],
+   [
+    "c3",
+    "god"
+   ],
+   [
+    "c3",
+    "box"
+   ],
+   [
+    "c3",
+    "out"
+   ]
+  ],
+  "sfx": [
+   [
+    [
+     "c3",
+     "box"
+    ],
+    "m_oh-hell-nah.mp3",
+    0.35
+   ],
+   [
+    [
+     "c2",
+     "philly"
+    ],
+    "m_record-scratch.mp3",
+    0.35
+   ]
+  ],
+  "src": "g67_mrogers.mp4"
+ },
+ "mlair": {
+  "top": "Would an NFL QB REALLY come hang at their place?",
+  "hl": {
+   "REALLY": "#1DB954"
+  },
+  "label": "TREVOR LAWRENCE \u00b7 NFL QB",
+  "music": [
+   "blue_n",
+   21.5
+  ],
+  "cta": "WOULD YOU INVITE HIM?",
+  "ctaAt": [
+   "c2",
+   "like"
+  ],
+  "kw": {
+   "always": "#5CFF5C",
+   "welcome": "#5CFF5C",
+   "jacksonville": "#FFE14D",
+   "awesome": "#5CFF5C",
+   "envisioned": "#FFE14D",
+   "honestly": "#5CFF5C",
+   "lair": "#FFE14D",
+   "florida": "#FFE14D",
+   "lauderdale": "#FFE14D",
+   "chill": "#5CFF5C"
+  },
+  "emoji": [
+   [
+    [
+     "hook",
+     "awesome"
+    ],
+    "1f91d"
+   ],
+   [
+    [
+     "hook",
+     "jacksonville"
+    ],
+    "1f3c8"
+   ],
+   [
+    [
+     "c1",
+     "honestly"
+    ],
+    "2764-fe0f-200d-1fa79"
+   ],
+   [
+    [
+     "c2",
+     "florida"
+    ],
+    "1f3dd-fe0f"
+   ],
+   [
+    [
+     "c2",
+     "chill"
+    ],
+    "1f60e"
+   ]
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "always"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "honestly"
+    ],
+    "G"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "awesome"
+   ],
+   [
+    "hook",
+    "always"
+   ],
+   [
+    "hook",
+    "jacksonville"
+   ],
+   [
+    "c1",
+    "everything"
+   ],
+   [
+    "c1",
+    "enjoy"
+   ],
+   [
+    "c1",
+    "honestly"
+   ],
+   [
+    "c2",
+    "lair"
+   ],
+   [
+    "c2",
+    "florida"
+   ],
+   [
+    "c2",
+    "lauderdale"
+   ],
+   [
+    "c2",
+    "chill"
+   ]
+  ],
+  "sfx": [
+   [
+    [
+     "c1",
+     "honestly"
+    ],
+    "m_anime-wow.mp3",
+    0.3
+   ]
+  ],
+  "src": "g67_mlair.mp4"
+ },
+ "mcoen": {
+  "top": "His coach taught him more in 1 YEAR than his WHOLE CAREER",
+  "hl": {
+   "1": "#1DB954",
+   "YEAR": "#1DB954",
+   "WHOLE": "#E3201B",
+   "CAREER": "#E3201B"
+  },
+  "label": "TREVOR LAWRENCE \u00b7 NFL QB",
+  "music": [
+   "sentamento_n",
+   57.0
+  ],
+  "cta": "BEST COACH IN THE NFL?",
+  "ctaAt": [
+   "c4",
+   "different"
+  ],
+  "kw": {
+   "confidence": "#5CFF5C",
+   "snapped": "#FFE14D",
+   "rip": "#FF4D4D",
+   "coen": "#5CFF5C",
+   "warner": "#FFE14D",
+   "year": "#5CFF5C",
+   "life": "#FF4D4D",
+   "true": "#FFE14D",
+   "definitely": "#5CFF5C",
+   "different": "#FFE14D",
+   "staff": "#5CFF5C",
+   "system": "#FFE14D"
+  },
+  "emoji": [
+   [
+    [
+     "hook",
+     "confidence"
+    ],
+    "1f60e"
+   ],
+   [
+    [
+     "c1",
+     "coen"
+    ],
+    "1f9e0"
+   ],
+   [
+    [
+     "c2",
+     "life"
+    ],
+    "1f92f"
+   ],
+   [
+    [
+     "c2",
+     "true"
+    ],
+    "1f914"
+   ],
+   [
+    [
+     "c3",
+     "definitely"
+    ],
+    "1f4af"
+   ],
+   [
+    [
+     "c4",
+     "different"
+    ],
+    "1f3c8"
+   ]
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "confidence"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "life"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c3",
+     "definitely"
+    ],
+    "G"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "most"
+   ],
+   [
+    "hook",
+    "confidence"
+   ],
+   [
+    "hook",
+    "rip"
+   ],
+   [
+    "c1",
+    "coen"
+   ],
+   [
+    "c1",
+    "taught"
+   ],
+   [
+    "c2",
+    "year"
+   ],
+   [
+    "c2",
+    "life"
+   ],
+   [
+    "c2",
+    "true"
+   ],
+   [
+    "c3",
+    "definitely"
+   ],
+   [
+    "c3",
+    "year"
+   ],
+   [
+    "c4",
+    "different"
+   ]
+  ],
+  "sfx": [
+   [
+    [
+     "c2",
+     "true"
+    ],
+    "m_record-scratch.mp3",
+    0.3
+   ]
+  ],
+  "src": "g67_mcoen.mp4"
+ }
+}

@@ -146,3 +146,6 @@
 - He Kept This Tiger Woods Card 4 YEARS… Then Gave It Away 💀 (tv5 slab, VverPaldo)
 - He Called PEYTON MANNING When His Rookie Year Went BAD 💀 (tv5 peyton, VverPaldo)
 - NFL Playbooks Have HUNDREDS of Plays… Plus 10 NEW Every Week 💀 (tv5 playbook, VverPaldo)
+- Jags Fans Got OUT-CHEERED at Home… Now It's a Fan War 🥊 (meme rogers)
+- Would an NFL QB REALLY Come Hang at Their Place? 🏠 (meme lair)
+- His Coach Taught Him More in 1 YEAR Than His WHOLE Career 🧠 (meme coen)
