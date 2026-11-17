@@ -61,7 +61,7 @@ E = {
    blowouts=[], blackFlash=[], streaks=[['c2']],
    extras=[txt(['c1'], 'HE WORKED OUT WITH THE CRIPS', color=RD, size=70, y=560, dur=45), txt(['c1', 'Crips'], 'THE CRIPS??', color=RD, size=120, y=560, dur=30), sfx(['c1', 'Crips'], 's_ayo.mp3'), txt(['c1', 'cool'], 'VERY COOL PEOPLE', color=W_, size=90, y=560, dur=30), sfx(['c1', 'cool'], 's_awk.mp3'),
            txt(['c2', 'nothing'], 'NOTHING IMPRESSIVE', color=Y, size=90, y=560, dur=40), sfx(['c2', 'nothing'], 's_huh.mp3'), pop(['c2', 'impressive'], 'skull.png', 's_fahhh.mp3', after=True)]),
- 'trip': dict(scenes=[('c1', 752.95, 756.00), ('c2', 759.20, 761.40), ('c3', 764.85, 766.60)], crop={'c1': [(753.00, 700), (754.00, 1100), (754.75, 700)]}, spk={'c1': [(753.0, 'HIM'), (754.3, 'HER'), (755.0, 'HIM')], 'c3': [(764.85, 'HER')]},
+ 'trip': dict(scenes=[('c1', 752.95, 756.00), ('c2', 759.20, 761.40), ('c3', 764.85, 766.75)], crop={'c1': [(752.95, 700), (754.00, 1100), (754.75, 700)]}, spk={'c1': [(753.0, 'HIM'), (754.3, 'HER'), (755.0, 'HIM')], 'c3': [(764.85, 'HER')]},
    top='"I got good lawyers"… then THIS', hl={'THIS': R}, sub='He lost the bet. Loser gets waxed.', music=['empire_n', 20],
    ask=[[['c1'], 'Rate his pain 1-10']],
    tints=[], rizz=[],
