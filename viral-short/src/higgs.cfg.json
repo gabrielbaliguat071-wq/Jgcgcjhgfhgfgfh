@@ -1,0 +1,590 @@
+{
+ "h4m": {
+  "src": "h4m.mp4",
+  "wm": "higgsfield_wm.png",
+  "hook": [
+   "They spend over $4M",
+   "a month on AI models"
+  ],
+  "hookFrames": 105,
+  "music": [
+   "loseyou_n",
+   13.0
+  ],
+  "musicVol": 0.07,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 27.62,
+    "durationInFrames": 310,
+    "crops": [
+     [
+      0,
+      1420,
+      1.45,
+      430
+     ],
+     [
+      85,
+      890,
+      1.15,
+      510
+     ],
+     [
+      250,
+      930,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "So",
+      "startFrame": 2,
+      "endFrame": 10,
+      "hi": false
+     },
+     {
+      "word": "how",
+      "startFrame": 7,
+      "endFrame": 17,
+      "hi": false
+     },
+     {
+      "word": "much",
+      "startFrame": 14,
+      "endFrame": 23,
+      "hi": false
+     },
+     {
+      "word": "do",
+      "startFrame": 20,
+      "endFrame": 28,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 25,
+      "endFrame": 31,
+      "hi": false
+     },
+     {
+      "word": "spend",
+      "startFrame": 28,
+      "endFrame": 38,
+      "hi": false
+     },
+     {
+      "word": "on",
+      "startFrame": 35,
+      "endFrame": 44,
+      "hi": false
+     },
+     {
+      "word": "models",
+      "startFrame": 41,
+      "endFrame": 55,
+      "hi": false
+     },
+     {
+      "word": "per",
+      "startFrame": 52,
+      "endFrame": 65,
+      "hi": false
+     },
+     {
+      "word": "month?",
+      "startFrame": 62,
+      "endFrame": 80,
+      "hi": false
+     },
+     {
+      "word": "So",
+      "startFrame": 91,
+      "endFrame": 95,
+      "hi": false
+     },
+     {
+      "word": "internal",
+      "startFrame": 92,
+      "endFrame": 115,
+      "hi": false
+     },
+     {
+      "word": "usage",
+      "startFrame": 112,
+      "endFrame": 139,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 136,
+      "endFrame": 161,
+      "hi": false
+     },
+     {
+      "word": "models",
+      "startFrame": 158,
+      "endFrame": 178,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 175,
+      "endFrame": 202,
+      "hi": false
+     },
+     {
+      "word": "month",
+      "startFrame": 199,
+      "endFrame": 209,
+      "hi": true
+     },
+     {
+      "word": "is",
+      "startFrame": 206,
+      "endFrame": 214,
+      "hi": false
+     },
+     {
+      "word": "over",
+      "startFrame": 211,
+      "endFrame": 220,
+      "hi": true
+     },
+     {
+      "word": "4",
+      "startFrame": 217,
+      "endFrame": 227,
+      "hi": true
+     },
+     {
+      "word": "million.",
+      "startFrame": 224,
+      "endFrame": 238,
+      "hi": true
+     },
+     {
+      "word": "Wow.",
+      "startFrame": 291,
+      "endFrame": 308,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 14.92,
+    "durationInFrames": 351,
+    "crops": [
+     [
+      0,
+      890,
+      1.15,
+      510
+     ],
+     [
+      53,
+      300,
+      1.45,
+      430
+     ]
+    ],
+    "words": [
+     {
+      "word": "Like",
+      "startFrame": 1,
+      "endFrame": 7,
+      "hi": false
+     },
+     {
+      "word": "on",
+      "startFrame": 4,
+      "endFrame": 12,
+      "hi": false
+     },
+     {
+      "word": "average",
+      "startFrame": 9,
+      "endFrame": 22,
+      "hi": false
+     },
+     {
+      "word": "at",
+      "startFrame": 19,
+      "endFrame": 29,
+      "hi": false
+     },
+     {
+      "word": "Higgsfield,",
+      "startFrame": 26,
+      "endFrame": 45,
+      "hi": true
+     },
+     {
+      "word": "person",
+      "startFrame": 50,
+      "endFrame": 68,
+      "hi": false
+     },
+     {
+      "word": "on",
+      "startFrame": 65,
+      "endFrame": 71,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 68,
+      "endFrame": 74,
+      "hi": false
+     },
+     {
+      "word": "team",
+      "startFrame": 71,
+      "endFrame": 79,
+      "hi": false
+     },
+     {
+      "word": "spends",
+      "startFrame": 76,
+      "endFrame": 88,
+      "hi": false
+     },
+     {
+      "word": "over",
+      "startFrame": 85,
+      "endFrame": 98,
+      "hi": true
+     },
+     {
+      "word": "$10,000",
+      "startFrame": 95,
+      "endFrame": 110,
+      "hi": true
+     },
+     {
+      "word": "a",
+      "startFrame": 194,
+      "endFrame": 206,
+      "hi": false
+     },
+     {
+      "word": "month",
+      "startFrame": 203,
+      "endFrame": 214,
+      "hi": true
+     },
+     {
+      "word": "on",
+      "startFrame": 211,
+      "endFrame": 234,
+      "hi": false
+     },
+     {
+      "word": "various",
+      "startFrame": 231,
+      "endFrame": 247,
+      "hi": false
+     },
+     {
+      "word": "models.",
+      "startFrame": 244,
+      "endFrame": 262,
+      "hi": false
+     },
+     {
+      "word": "And",
+      "startFrame": 269,
+      "endFrame": 274,
+      "hi": false
+     },
+     {
+      "word": "remember,",
+      "startFrame": 271,
+      "endFrame": 285,
+      "hi": false
+     },
+     {
+      "word": "like,",
+      "startFrame": 292,
+      "endFrame": 296,
+      "hi": false
+     },
+     {
+      "word": "we're",
+      "startFrame": 296,
+      "endFrame": 302,
+      "hi": false
+     },
+     {
+      "word": "split",
+      "startFrame": 299,
+      "endFrame": 310,
+      "hi": false
+     },
+     {
+      "word": "across",
+      "startFrame": 307,
+      "endFrame": 320,
+      "hi": false
+     },
+     {
+      "word": "United",
+      "startFrame": 317,
+      "endFrame": 328,
+      "hi": false
+     },
+     {
+      "word": "States",
+      "startFrame": 325,
+      "endFrame": 340,
+      "hi": false
+     },
+     {
+      "word": "and",
+      "startFrame": 337,
+      "endFrame": 347,
+      "hi": false
+     },
+     {
+      "word": "Asia.",
+      "startFrame": 344,
+      "endFrame": 351,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "videoStartSec": 37.95,
+    "durationInFrames": 383,
+    "crops": [
+     [
+      0,
+      930,
+      1.15,
+      510
+     ],
+     [
+      52,
+      890,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "How",
+      "startFrame": 8,
+      "endFrame": 14,
+      "hi": false
+     },
+     {
+      "word": "many",
+      "startFrame": 11,
+      "endFrame": 18,
+      "hi": false
+     },
+     {
+      "word": "people",
+      "startFrame": 15,
+      "endFrame": 27,
+      "hi": false
+     },
+     {
+      "word": "do",
+      "startFrame": 24,
+      "endFrame": 31,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 28,
+      "endFrame": 34,
+      "hi": false
+     },
+     {
+      "word": "have?",
+      "startFrame": 31,
+      "endFrame": 44,
+      "hi": false
+     },
+     {
+      "word": "We",
+      "startFrame": 52,
+      "endFrame": 61,
+      "hi": false
+     },
+     {
+      "word": "have",
+      "startFrame": 58,
+      "endFrame": 71,
+      "hi": false
+     },
+     {
+      "word": "close",
+      "startFrame": 68,
+      "endFrame": 88,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 85,
+      "endFrame": 93,
+      "hi": false
+     },
+     {
+      "word": "400",
+      "startFrame": 90,
+      "endFrame": 105,
+      "hi": true
+     },
+     {
+      "word": "people",
+      "startFrame": 102,
+      "endFrame": 119,
+      "hi": false
+     },
+     {
+      "word": "and",
+      "startFrame": 116,
+      "endFrame": 160,
+      "hi": false
+     },
+     {
+      "word": "just",
+      "startFrame": 157,
+      "endFrame": 167,
+      "hi": false
+     },
+     {
+      "word": "want",
+      "startFrame": 164,
+      "endFrame": 172,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 169,
+      "endFrame": 174,
+      "hi": false
+     },
+     {
+      "word": "make",
+      "startFrame": 171,
+      "endFrame": 180,
+      "hi": false
+     },
+     {
+      "word": "sure",
+      "startFrame": 177,
+      "endFrame": 185,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 182,
+      "endFrame": 191,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 188,
+      "endFrame": 195,
+      "hi": false
+     },
+     {
+      "word": "math",
+      "startFrame": 192,
+      "endFrame": 202,
+      "hi": false
+     },
+     {
+      "word": "adds",
+      "startFrame": 199,
+      "endFrame": 207,
+      "hi": false
+     },
+     {
+      "word": "up.",
+      "startFrame": 204,
+      "endFrame": 213,
+      "hi": false
+     },
+     {
+      "word": "Yes,",
+      "startFrame": 213,
+      "endFrame": 219,
+      "hi": false
+     },
+     {
+      "word": "it's",
+      "startFrame": 253,
+      "endFrame": 260,
+      "hi": false
+     },
+     {
+      "word": "definitely",
+      "startFrame": 257,
+      "endFrame": 269,
+      "hi": false
+     },
+     {
+      "word": "over",
+      "startFrame": 266,
+      "endFrame": 282,
+      "hi": true
+     },
+     {
+      "word": "$10,000",
+      "startFrame": 279,
+      "endFrame": 344,
+      "hi": true
+     },
+     {
+      "word": "per",
+      "startFrame": 358,
+      "endFrame": 376,
+      "hi": false
+     },
+     {
+      "word": "person.",
+      "startFrame": 373,
+      "endFrame": 383,
+      "hi": true
+     }
+    ]
+   }
+  ],
+  "cards": [
+   {
+    "at": [
+     "hook",
+     217
+    ],
+    "dur": 60,
+    "big": "$4M+",
+    "small": "per month on AI models"
+   },
+   {
+    "at": [
+     "c1",
+     95
+    ],
+    "dur": 75,
+    "big": "$10K+",
+    "small": "per person \u00b7 per month"
+   },
+   {
+    "at": [
+     "c2",
+     90
+    ],
+    "dur": 60,
+    "big": "~400",
+    "small": "people on the team"
+   }
+  ]
+ }
+}

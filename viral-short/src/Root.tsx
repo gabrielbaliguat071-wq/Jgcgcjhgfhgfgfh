@@ -5,6 +5,7 @@ import { TOTAL_FRAMES } from './clipData';
 import { Guess, EDITS, framesOf } from './Guess';
 import { Meme, MEME, memeFrames } from './Meme';
 import { Stack, STACK, stackFrames } from './Stack';
+import { Higgs, HIGGS, higgsFrames } from './Higgs';
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -25,6 +26,9 @@ export const RemotionRoot: React.FC = () => {
       ))}
       {Object.keys(STACK).map((id) => (
         <Composition key={'s' + id} id={`Stack-${id}`} component={Stack} defaultProps={{edit: id}} durationInFrames={stackFrames(id)} fps={30} width={1080} height={1920} />
+      ))}
+      {Object.keys(HIGGS).map((id) => (
+        <Composition key={'h' + id} id={`Higgs-${id}`} component={Higgs} defaultProps={{edit: id}} durationInFrames={higgsFrames(id)} fps={30} width={1080} height={1920} />
       ))}
     </>
   );
