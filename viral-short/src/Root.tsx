@@ -6,6 +6,7 @@ import { Guess, EDITS, framesOf } from './Guess';
 import { Meme, MEME, memeFrames } from './Meme';
 import { Stack, STACK, stackFrames } from './Stack';
 import { Higgs, HIGGS, higgsFrames } from './Higgs';
+import { Boxed, BOXED, boxedFrames } from './Boxed';
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -29,6 +30,9 @@ export const RemotionRoot: React.FC = () => {
       ))}
       {Object.keys(HIGGS).map((id) => (
         <Composition key={'h' + id} id={`Higgs-${id}`} component={Higgs} defaultProps={{edit: id}} durationInFrames={higgsFrames(id)} fps={30} width={1080} height={1920} />
+      ))}
+      {Object.keys(BOXED).map((id) => (
+        <Composition key={'b' + id} id={`Boxed-${id}`} component={Boxed} defaultProps={{edit: id}} durationInFrames={boxedFrames(id)} fps={30} width={1080} height={1920} />
       ))}
     </>
   );

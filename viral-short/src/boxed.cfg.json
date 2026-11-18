@@ -1,0 +1,1688 @@
+{
+ "holloway": {
+  "src": "bx_holloway.mp4",
+  "srcW": 1080,
+  "srcH": 1920,
+  "band": [
+   1175,
+   1355
+  ],
+  "capY": 1215,
+  "hook": [
+   "He pulled an",
+   "Expedition Charizard"
+  ],
+  "hookFrames": 90,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 52.45,
+    "durationInFrames": 171,
+    "crops": [
+     [
+      0,
+      540,
+      1.0,
+      960
+     ]
+    ],
+    "words": [
+     {
+      "word": "dude,",
+      "startFrame": 68,
+      "endFrame": 76,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 97,
+      "endFrame": 101,
+      "hi": false
+     },
+     {
+      "word": "Expedition",
+      "startFrame": 97,
+      "endFrame": 109,
+      "hi": true
+     },
+     {
+      "word": "Charizard,",
+      "startFrame": 106,
+      "endFrame": 132,
+      "hi": true
+     },
+     {
+      "word": "reverse",
+      "startFrame": 136,
+      "endFrame": 150,
+      "hi": false
+     },
+     {
+      "word": "holo",
+      "startFrame": 147,
+      "endFrame": 162,
+      "hi": true
+     },
+     {
+      "word": "dude.",
+      "startFrame": 159,
+      "endFrame": 169,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 14.65,
+    "durationInFrames": 222,
+    "crops": [
+     [
+      0,
+      540,
+      1.0,
+      960
+     ]
+    ],
+    "words": [
+     {
+      "word": "My",
+      "startFrame": 2,
+      "endFrame": 16,
+      "hi": false
+     },
+     {
+      "word": "grail",
+      "startFrame": 13,
+      "endFrame": 24,
+      "hi": true
+     },
+     {
+      "word": "card",
+      "startFrame": 21,
+      "endFrame": 35,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 32,
+      "endFrame": 39,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 36,
+      "endFrame": 43,
+      "hi": false
+     },
+     {
+      "word": "never",
+      "startFrame": 40,
+      "endFrame": 49,
+      "hi": false
+     },
+     {
+      "word": "had,",
+      "startFrame": 46,
+      "endFrame": 63,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 68,
+      "endFrame": 75,
+      "hi": false
+     },
+     {
+      "word": "actually",
+      "startFrame": 72,
+      "endFrame": 84,
+      "hi": false
+     },
+     {
+      "word": "had",
+      "startFrame": 81,
+      "endFrame": 91,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 88,
+      "endFrame": 95,
+      "hi": false
+     },
+     {
+      "word": "opportunity",
+      "startFrame": 92,
+      "endFrame": 105,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 102,
+      "endFrame": 111,
+      "hi": false
+     },
+     {
+      "word": "see",
+      "startFrame": 108,
+      "endFrame": 118,
+      "hi": false
+     },
+     {
+      "word": "when",
+      "startFrame": 115,
+      "endFrame": 127,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 124,
+      "endFrame": 130,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 127,
+      "endFrame": 135,
+      "hi": false
+     },
+     {
+      "word": "younger,",
+      "startFrame": 132,
+      "endFrame": 142,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 143,
+      "endFrame": 147,
+      "hi": false
+     },
+     {
+      "word": "older",
+      "startFrame": 144,
+      "endFrame": 151,
+      "hi": false
+     },
+     {
+      "word": "brother",
+      "startFrame": 148,
+      "endFrame": 159,
+      "hi": false
+     },
+     {
+      "word": "pulled",
+      "startFrame": 156,
+      "endFrame": 167,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 164,
+      "endFrame": 171,
+      "hi": false
+     },
+     {
+      "word": "card.",
+      "startFrame": 168,
+      "endFrame": 179,
+      "hi": false
+     },
+     {
+      "word": "It",
+      "startFrame": 181,
+      "endFrame": 185,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 181,
+      "endFrame": 187,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 184,
+      "endFrame": 190,
+      "hi": false
+     },
+     {
+      "word": "first",
+      "startFrame": 187,
+      "endFrame": 195,
+      "hi": false
+     },
+     {
+      "word": "edition",
+      "startFrame": 192,
+      "endFrame": 204,
+      "hi": false
+     },
+     {
+      "word": "Charizard",
+      "startFrame": 201,
+      "endFrame": 219,
+      "hi": true
+     },
+     {
+      "word": "brother.",
+      "startFrame": 216,
+      "endFrame": 222,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "videoStartSec": 28.1,
+    "durationInFrames": 102,
+    "crops": [
+     [
+      0,
+      540,
+      1.0,
+      960
+     ]
+    ],
+    "words": [
+     {
+      "word": "Do",
+      "startFrame": 2,
+      "endFrame": 9,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 6,
+      "endFrame": 10,
+      "hi": false
+     },
+     {
+      "word": "want",
+      "startFrame": 6,
+      "endFrame": 14,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 11,
+      "endFrame": 16,
+      "hi": false
+     },
+     {
+      "word": "try",
+      "startFrame": 13,
+      "endFrame": 22,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 19,
+      "endFrame": 28,
+      "hi": false
+     },
+     {
+      "word": "digital",
+      "startFrame": 25,
+      "endFrame": 38,
+      "hi": false
+     },
+     {
+      "word": "way",
+      "startFrame": 35,
+      "endFrame": 42,
+      "hi": false
+     },
+     {
+      "word": "on",
+      "startFrame": 39,
+      "endFrame": 46,
+      "hi": false
+     },
+     {
+      "word": "BOXED?",
+      "startFrame": 43,
+      "endFrame": 53,
+      "hi": true
+     },
+     {
+      "word": "Yeah,",
+      "startFrame": 57,
+      "endFrame": 64,
+      "hi": false
+     },
+     {
+      "word": "for",
+      "startFrame": 67,
+      "endFrame": 71,
+      "hi": false
+     },
+     {
+      "word": "sure.",
+      "startFrame": 68,
+      "endFrame": 76,
+      "hi": false
+     },
+     {
+      "word": "Let's",
+      "startFrame": 77,
+      "endFrame": 83,
+      "hi": false
+     },
+     {
+      "word": "go.",
+      "startFrame": 80,
+      "endFrame": 85,
+      "hi": false
+     },
+     {
+      "word": "Let's",
+      "startFrame": 84,
+      "endFrame": 88,
+      "hi": false
+     },
+     {
+      "word": "give",
+      "startFrame": 84,
+      "endFrame": 88,
+      "hi": false
+     },
+     {
+      "word": "it",
+      "startFrame": 84,
+      "endFrame": 90,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 87,
+      "endFrame": 91,
+      "hi": false
+     },
+     {
+      "word": "shot,",
+      "startFrame": 87,
+      "endFrame": 94,
+      "hi": false
+     },
+     {
+      "word": "let's",
+      "startFrame": 93,
+      "endFrame": 100,
+      "hi": false
+     },
+     {
+      "word": "do",
+      "startFrame": 97,
+      "endFrame": 102,
+      "hi": false
+     },
+     {
+      "word": "it.",
+      "startFrame": 100,
+      "endFrame": 102,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "videoStartSec": 64.95,
+    "durationInFrames": 295,
+    "crops": [
+     [
+      0,
+      540,
+      1.0,
+      960
+     ]
+    ],
+    "words": [
+     {
+      "word": "This",
+      "startFrame": 2,
+      "endFrame": 10,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 7,
+      "endFrame": 11,
+      "hi": false
+     },
+     {
+      "word": "sick.",
+      "startFrame": 8,
+      "endFrame": 21,
+      "hi": true
+     },
+     {
+      "word": "I",
+      "startFrame": 22,
+      "endFrame": 32,
+      "hi": false
+     },
+     {
+      "word": "collect",
+      "startFrame": 29,
+      "endFrame": 39,
+      "hi": false
+     },
+     {
+      "word": "cards",
+      "startFrame": 36,
+      "endFrame": 55,
+      "hi": false
+     },
+     {
+      "word": "with",
+      "startFrame": 52,
+      "endFrame": 62,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 59,
+      "endFrame": 65,
+      "hi": false
+     },
+     {
+      "word": "family,",
+      "startFrame": 62,
+      "endFrame": 79,
+      "hi": true
+     },
+     {
+      "word": "my",
+      "startFrame": 89,
+      "endFrame": 93,
+      "hi": false
+     },
+     {
+      "word": "beautiful",
+      "startFrame": 90,
+      "endFrame": 104,
+      "hi": false
+     },
+     {
+      "word": "wife,",
+      "startFrame": 101,
+      "endFrame": 118,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 122,
+      "endFrame": 126,
+      "hi": false
+     },
+     {
+      "word": "son",
+      "startFrame": 123,
+      "endFrame": 134,
+      "hi": true
+     },
+     {
+      "word": "is",
+      "startFrame": 131,
+      "endFrame": 138,
+      "hi": false
+     },
+     {
+      "word": "into",
+      "startFrame": 135,
+      "endFrame": 145,
+      "hi": false
+     },
+     {
+      "word": "it,",
+      "startFrame": 142,
+      "endFrame": 153,
+      "hi": false
+     },
+     {
+      "word": "opening",
+      "startFrame": 156,
+      "endFrame": 164,
+      "hi": false
+     },
+     {
+      "word": "on",
+      "startFrame": 161,
+      "endFrame": 171,
+      "hi": false
+     },
+     {
+      "word": "BOXED",
+      "startFrame": 168,
+      "endFrame": 179,
+      "hi": true
+     },
+     {
+      "word": "now",
+      "startFrame": 176,
+      "endFrame": 184,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 181,
+      "endFrame": 198,
+      "hi": false
+     },
+     {
+      "word": "pretty",
+      "startFrame": 195,
+      "endFrame": 205,
+      "hi": false
+     },
+     {
+      "word": "cool.",
+      "startFrame": 202,
+      "endFrame": 213,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 216,
+      "endFrame": 223,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 220,
+      "endFrame": 229,
+      "hi": false
+     },
+     {
+      "word": "blessed",
+      "startFrame": 226,
+      "endFrame": 240,
+      "hi": false
+     },
+     {
+      "word": "enough",
+      "startFrame": 237,
+      "endFrame": 249,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 246,
+      "endFrame": 253,
+      "hi": false
+     },
+     {
+      "word": "get",
+      "startFrame": 250,
+      "endFrame": 257,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 254,
+      "endFrame": 261,
+      "hi": false
+     },
+     {
+      "word": "own",
+      "startFrame": 258,
+      "endFrame": 268,
+      "hi": false
+     },
+     {
+      "word": "card.",
+      "startFrame": 265,
+      "endFrame": 277,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 279,
+      "endFrame": 283,
+      "hi": false
+     },
+     {
+      "word": "got",
+      "startFrame": 280,
+      "endFrame": 288,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 285,
+      "endFrame": 292,
+      "hi": false
+     },
+     {
+      "word": "Zard.",
+      "startFrame": 289,
+      "endFrame": 295,
+      "hi": true
+     }
+    ]
+   }
+  ]
+ },
+ "crosby": {
+  "src": "bx_crosby.mp4",
+  "srcW": 1080,
+  "srcH": 1920,
+  "band": [
+   1175,
+   1355
+  ],
+  "capY": 1215,
+  "hook": [
+   "Maxx Crosby vs Von Miller",
+   "last pack decides it"
+  ],
+  "hookFrames": 90,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 52.4,
+    "durationInFrames": 228,
+    "crops": [
+     [
+      0,
+      540,
+      1.0,
+      960
+     ],
+     [
+      93,
+      540,
+      3.4,
+      780
+     ],
+     [
+      150,
+      540,
+      2.2,
+      400
+     ],
+     [
+      214,
+      540,
+      1.0,
+      960
+     ]
+    ],
+    "words": [
+     {
+      "word": "I",
+      "startFrame": 2,
+      "endFrame": 6,
+      "hi": false
+     },
+     {
+      "word": "got",
+      "startFrame": 2,
+      "endFrame": 10,
+      "hi": false
+     },
+     {
+      "word": "this.",
+      "startFrame": 7,
+      "endFrame": 15,
+      "hi": true
+     },
+     {
+      "word": "Oh,",
+      "startFrame": 17,
+      "endFrame": 21,
+      "hi": false
+     },
+     {
+      "word": "last",
+      "startFrame": 17,
+      "endFrame": 28,
+      "hi": false
+     },
+     {
+      "word": "pack",
+      "startFrame": 25,
+      "endFrame": 35,
+      "hi": false
+     },
+     {
+      "word": "magic",
+      "startFrame": 32,
+      "endFrame": 46,
+      "hi": true
+     },
+     {
+      "word": "comes",
+      "startFrame": 43,
+      "endFrame": 54,
+      "hi": false
+     },
+     {
+      "word": "down",
+      "startFrame": 51,
+      "endFrame": 61,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 58,
+      "endFrame": 65,
+      "hi": false
+     },
+     {
+      "word": "this.",
+      "startFrame": 62,
+      "endFrame": 74,
+      "hi": true
+     },
+     {
+      "word": "Oh",
+      "startFrame": 163,
+      "endFrame": 173,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 170,
+      "endFrame": 179,
+      "hi": false
+     },
+     {
+      "word": "God.",
+      "startFrame": 176,
+      "endFrame": 188,
+      "hi": true
+     },
+     {
+      "word": "Oh",
+      "startFrame": 194,
+      "endFrame": 199,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 196,
+      "endFrame": 204,
+      "hi": false
+     },
+     {
+      "word": "God.",
+      "startFrame": 201,
+      "endFrame": 215,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 36.2,
+    "durationInFrames": 292,
+    "crops": [
+     [
+      0,
+      540,
+      1.0,
+      960
+     ],
+     [
+      276,
+      540,
+      3.4,
+      780
+     ]
+    ],
+    "words": [
+     {
+      "word": "Kobe",
+      "startFrame": 3,
+      "endFrame": 10,
+      "hi": true
+     },
+     {
+      "word": "Bean,",
+      "startFrame": 7,
+      "endFrame": 21,
+      "hi": false
+     },
+     {
+      "word": "Bryant.",
+      "startFrame": 23,
+      "endFrame": 34,
+      "hi": true
+     },
+     {
+      "word": "24",
+      "startFrame": 43,
+      "endFrame": 47,
+      "hi": true
+     },
+     {
+      "word": "24",
+      "startFrame": 67,
+      "endFrame": 71,
+      "hi": true
+     },
+     {
+      "word": "I'm",
+      "startFrame": 96,
+      "endFrame": 100,
+      "hi": false
+     },
+     {
+      "word": "going",
+      "startFrame": 97,
+      "endFrame": 103,
+      "hi": false
+     },
+     {
+      "word": "with",
+      "startFrame": 100,
+      "endFrame": 107,
+      "hi": false
+     },
+     {
+      "word": "Kobe.",
+      "startFrame": 104,
+      "endFrame": 115,
+      "hi": false
+     },
+     {
+      "word": "24",
+      "startFrame": 119,
+      "endFrame": 123,
+      "hi": true
+     },
+     {
+      "word": "Two",
+      "startFrame": 136,
+      "endFrame": 149,
+      "hi": false
+     },
+     {
+      "word": "goats",
+      "startFrame": 146,
+      "endFrame": 161,
+      "hi": true
+     },
+     {
+      "word": "going",
+      "startFrame": 158,
+      "endFrame": 174,
+      "hi": false
+     },
+     {
+      "word": "head",
+      "startFrame": 171,
+      "endFrame": 179,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 176,
+      "endFrame": 182,
+      "hi": false
+     },
+     {
+      "word": "head.",
+      "startFrame": 179,
+      "endFrame": 190,
+      "hi": true
+     },
+     {
+      "word": "Two",
+      "startFrame": 197,
+      "endFrame": 201,
+      "hi": false
+     },
+     {
+      "word": "goats",
+      "startFrame": 198,
+      "endFrame": 207,
+      "hi": true
+     },
+     {
+      "word": "here",
+      "startFrame": 204,
+      "endFrame": 213,
+      "hi": false
+     },
+     {
+      "word": "going",
+      "startFrame": 210,
+      "endFrame": 220,
+      "hi": false
+     },
+     {
+      "word": "head",
+      "startFrame": 217,
+      "endFrame": 226,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 223,
+      "endFrame": 228,
+      "hi": false
+     },
+     {
+      "word": "head.",
+      "startFrame": 225,
+      "endFrame": 234,
+      "hi": true
+     },
+     {
+      "word": "Whoever",
+      "startFrame": 238,
+      "endFrame": 246,
+      "hi": false
+     },
+     {
+      "word": "wins,",
+      "startFrame": 243,
+      "endFrame": 259,
+      "hi": false
+     },
+     {
+      "word": "winner",
+      "startFrame": 258,
+      "endFrame": 266,
+      "hi": false
+     },
+     {
+      "word": "takes",
+      "startFrame": 263,
+      "endFrame": 274,
+      "hi": false
+     },
+     {
+      "word": "both",
+      "startFrame": 271,
+      "endFrame": 280,
+      "hi": false
+     },
+     {
+      "word": "these",
+      "startFrame": 277,
+      "endFrame": 286,
+      "hi": false
+     },
+     {
+      "word": "cards",
+      "startFrame": 283,
+      "endFrame": 292,
+      "hi": false
+     },
+     {
+      "word": "home.",
+      "startFrame": 290,
+      "endFrame": 292,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "videoStartSec": 65.95,
+    "durationInFrames": 50,
+    "crops": [
+     [
+      0,
+      540,
+      1.0,
+      960
+     ]
+    ],
+    "words": [
+     {
+      "word": "Hey,",
+      "startFrame": 3,
+      "endFrame": 8,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 9,
+      "endFrame": 14,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 11,
+      "endFrame": 19,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 16,
+      "endFrame": 21,
+      "hi": false
+     },
+     {
+      "word": "great",
+      "startFrame": 18,
+      "endFrame": 27,
+      "hi": false
+     },
+     {
+      "word": "battle.",
+      "startFrame": 24,
+      "endFrame": 34,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "videoStartSec": 68.72,
+    "durationInFrames": 418,
+    "crops": [
+     [
+      0,
+      540,
+      1.0,
+      960
+     ]
+    ],
+    "words": [
+     {
+      "word": "Jeez,",
+      "startFrame": 1,
+      "endFrame": 5,
+      "hi": false
+     },
+     {
+      "word": "Louise.",
+      "startFrame": 10,
+      "endFrame": 14,
+      "hi": false
+     },
+     {
+      "word": "Wow.",
+      "startFrame": 20,
+      "endFrame": 35,
+      "hi": true
+     },
+     {
+      "word": "Signed",
+      "startFrame": 53,
+      "endFrame": 62,
+      "hi": true
+     },
+     {
+      "word": "Tommy",
+      "startFrame": 59,
+      "endFrame": 71,
+      "hi": true
+     },
+     {
+      "word": "B.",
+      "startFrame": 68,
+      "endFrame": 82,
+      "hi": true
+     },
+     {
+      "word": "Kobe",
+      "startFrame": 100,
+      "endFrame": 115,
+      "hi": true
+     },
+     {
+      "word": "Bean.",
+      "startFrame": 112,
+      "endFrame": 127,
+      "hi": false
+     },
+     {
+      "word": "Hey,",
+      "startFrame": 140,
+      "endFrame": 144,
+      "hi": false
+     },
+     {
+      "word": "I'm",
+      "startFrame": 163,
+      "endFrame": 170,
+      "hi": false
+     },
+     {
+      "word": "giving",
+      "startFrame": 167,
+      "endFrame": 187,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 184,
+      "endFrame": 193,
+      "hi": false
+     },
+     {
+      "word": "this.",
+      "startFrame": 190,
+      "endFrame": 199,
+      "hi": true
+     },
+     {
+      "word": "No,",
+      "startFrame": 208,
+      "endFrame": 212,
+      "hi": false
+     },
+     {
+      "word": "no,",
+      "startFrame": 218,
+      "endFrame": 222,
+      "hi": false
+     },
+     {
+      "word": "no,",
+      "startFrame": 237,
+      "endFrame": 241,
+      "hi": false
+     },
+     {
+      "word": "no.",
+      "startFrame": 241,
+      "endFrame": 245,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 250,
+      "endFrame": 254,
+      "hi": false
+     },
+     {
+      "word": "want",
+      "startFrame": 250,
+      "endFrame": 257,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 254,
+      "endFrame": 261,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 258,
+      "endFrame": 265,
+      "hi": false
+     },
+     {
+      "word": "have",
+      "startFrame": 262,
+      "endFrame": 269,
+      "hi": false
+     },
+     {
+      "word": "it.",
+      "startFrame": 266,
+      "endFrame": 272,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 270,
+      "endFrame": 277,
+      "hi": false
+     },
+     {
+      "word": "knew",
+      "startFrame": 274,
+      "endFrame": 281,
+      "hi": false
+     },
+     {
+      "word": "what",
+      "startFrame": 278,
+      "endFrame": 285,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 282,
+      "endFrame": 290,
+      "hi": false
+     },
+     {
+      "word": "were",
+      "startFrame": 287,
+      "endFrame": 293,
+      "hi": false
+     },
+     {
+      "word": "going",
+      "startFrame": 290,
+      "endFrame": 296,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 293,
+      "endFrame": 299,
+      "hi": false
+     },
+     {
+      "word": "get.",
+      "startFrame": 296,
+      "endFrame": 304,
+      "hi": false
+     },
+     {
+      "word": "We",
+      "startFrame": 320,
+      "endFrame": 324,
+      "hi": false
+     },
+     {
+      "word": "could",
+      "startFrame": 321,
+      "endFrame": 337,
+      "hi": false
+     },
+     {
+      "word": "split.",
+      "startFrame": 334,
+      "endFrame": 349,
+      "hi": false
+     },
+     {
+      "word": "Hey,",
+      "startFrame": 352,
+      "endFrame": 356,
+      "hi": false
+     },
+     {
+      "word": "but",
+      "startFrame": 377,
+      "endFrame": 381,
+      "hi": false
+     },
+     {
+      "word": "that's",
+      "startFrame": 377,
+      "endFrame": 386,
+      "hi": false
+     },
+     {
+      "word": "love,",
+      "startFrame": 383,
+      "endFrame": 392,
+      "hi": true
+     },
+     {
+      "word": "though.",
+      "startFrame": 394,
+      "endFrame": 398,
+      "hi": false
+     },
+     {
+      "word": "Two",
+      "startFrame": 398,
+      "endFrame": 403,
+      "hi": false
+     },
+     {
+      "word": "goats",
+      "startFrame": 400,
+      "endFrame": 412,
+      "hi": true
+     },
+     {
+      "word": "right",
+      "startFrame": 409,
+      "endFrame": 418,
+      "hi": false
+     },
+     {
+      "word": "here.",
+      "startFrame": 415,
+      "endFrame": 418,
+      "hi": false
+     }
+    ]
+   }
+  ]
+ },
+ "island": {
+  "src": "bx_island.mp4",
+  "srcW": 1080,
+  "srcH": 1920,
+  "band": null,
+  "capY": 1430,
+  "hook": [
+   "Golden Ticket night",
+   "on BOXED"
+  ],
+  "hookFrames": 90,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 19.3,
+    "durationInFrames": 73,
+    "crops": [
+     [
+      0,
+      540,
+      1.0,
+      960
+     ]
+    ],
+    "words": [
+     {
+      "word": "Solgaleo",
+      "startFrame": 2,
+      "endFrame": 21,
+      "hi": true
+     },
+     {
+      "word": "Lunala.",
+      "startFrame": 18,
+      "endFrame": 40,
+      "hi": true
+     },
+     {
+      "word": "Steelix",
+      "startFrame": 41,
+      "endFrame": 56,
+      "hi": true
+     },
+     {
+      "word": "and",
+      "startFrame": 53,
+      "endFrame": 61,
+      "hi": false
+     },
+     {
+      "word": "Jasmine",
+      "startFrame": 58,
+      "endFrame": 72,
+      "hi": true
+     },
+     {
+      "word": "there.",
+      "startFrame": 69,
+      "endFrame": 73,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 0.0,
+    "durationInFrames": 579,
+    "crops": [
+     [
+      0,
+      540,
+      1.0,
+      960
+     ]
+    ],
+    "words": [
+     {
+      "word": "The",
+      "startFrame": 0,
+      "endFrame": 9,
+      "hi": false
+     },
+     {
+      "word": "BOXED",
+      "startFrame": 6,
+      "endFrame": 22,
+      "hi": true
+     },
+     {
+      "word": "golden",
+      "startFrame": 19,
+      "endFrame": 29,
+      "hi": false
+     },
+     {
+      "word": "ticket",
+      "startFrame": 26,
+      "endFrame": 38,
+      "hi": false
+     },
+     {
+      "word": "event",
+      "startFrame": 35,
+      "endFrame": 44,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 41,
+      "endFrame": 50,
+      "hi": false
+     },
+     {
+      "word": "amazing.",
+      "startFrame": 47,
+      "endFrame": 61,
+      "hi": false
+     },
+     {
+      "word": "We",
+      "startFrame": 67,
+      "endFrame": 71,
+      "hi": false
+     },
+     {
+      "word": "opened",
+      "startFrame": 68,
+      "endFrame": 80,
+      "hi": false
+     },
+     {
+      "word": "two",
+      "startFrame": 77,
+      "endFrame": 89,
+      "hi": false
+     },
+     {
+      "word": "cosmic",
+      "startFrame": 86,
+      "endFrame": 101,
+      "hi": false
+     },
+     {
+      "word": "eclipse",
+      "startFrame": 98,
+      "endFrame": 111,
+      "hi": false
+     },
+     {
+      "word": "boxes.",
+      "startFrame": 108,
+      "endFrame": 124,
+      "hi": false
+     },
+     {
+      "word": "Check",
+      "startFrame": 128,
+      "endFrame": 133,
+      "hi": false
+     },
+     {
+      "word": "out",
+      "startFrame": 130,
+      "endFrame": 136,
+      "hi": false
+     },
+     {
+      "word": "some",
+      "startFrame": 133,
+      "endFrame": 140,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 137,
+      "endFrame": 143,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 140,
+      "endFrame": 147,
+      "hi": false
+     },
+     {
+      "word": "best",
+      "startFrame": 144,
+      "endFrame": 155,
+      "hi": false
+     },
+     {
+      "word": "pulls",
+      "startFrame": 152,
+      "endFrame": 163,
+      "hi": false
+     },
+     {
+      "word": "we",
+      "startFrame": 160,
+      "endFrame": 167,
+      "hi": false
+     },
+     {
+      "word": "got.",
+      "startFrame": 164,
+      "endFrame": 175,
+      "hi": false
+     },
+     {
+      "word": "So",
+      "startFrame": 180,
+      "endFrame": 188,
+      "hi": false
+     },
+     {
+      "word": "Silvally",
+      "startFrame": 185,
+      "endFrame": 209,
+      "hi": true
+     },
+     {
+      "word": "GX.",
+      "startFrame": 206,
+      "endFrame": 238,
+      "hi": true
+     },
+     {
+      "word": "Okay.",
+      "startFrame": 248,
+      "endFrame": 253,
+      "hi": false
+     },
+     {
+      "word": "Arceus",
+      "startFrame": 285,
+      "endFrame": 303,
+      "hi": true
+     },
+     {
+      "word": "Dialga",
+      "startFrame": 308,
+      "endFrame": 317,
+      "hi": true
+     },
+     {
+      "word": "Palkia.",
+      "startFrame": 314,
+      "endFrame": 334,
+      "hi": true
+     },
+     {
+      "word": "Charizard",
+      "startFrame": 340,
+      "endFrame": 358,
+      "hi": true
+     },
+     {
+      "word": "and",
+      "startFrame": 355,
+      "endFrame": 367,
+      "hi": false
+     },
+     {
+      "word": "Braixen.",
+      "startFrame": 364,
+      "endFrame": 385,
+      "hi": true
+     },
+     {
+      "word": "Beautiful",
+      "startFrame": 388,
+      "endFrame": 403,
+      "hi": false
+     },
+     {
+      "word": "Mimikyu",
+      "startFrame": 400,
+      "endFrame": 424,
+      "hi": true
+     },
+     {
+      "word": "here.",
+      "startFrame": 421,
+      "endFrame": 431,
+      "hi": false
+     },
+     {
+      "word": "Piplup",
+      "startFrame": 473,
+      "endFrame": 492,
+      "hi": true
+     },
+     {
+      "word": "character",
+      "startFrame": 489,
+      "endFrame": 505,
+      "hi": false
+     },
+     {
+      "word": "rare.",
+      "startFrame": 502,
+      "endFrame": 513,
+      "hi": false
+     },
+     {
+      "word": "Look",
+      "startFrame": 514,
+      "endFrame": 520,
+      "hi": false
+     },
+     {
+      "word": "at",
+      "startFrame": 517,
+      "endFrame": 523,
+      "hi": false
+     },
+     {
+      "word": "that.",
+      "startFrame": 520,
+      "endFrame": 531,
+      "hi": false
+     },
+     {
+      "word": "Rainbow",
+      "startFrame": 537,
+      "endFrame": 555,
+      "hi": true
+     },
+     {
+      "word": "Flygon.",
+      "startFrame": 552,
+      "endFrame": 578,
+      "hi": true
+     }
+    ]
+   }
+  ]
+ }
+}

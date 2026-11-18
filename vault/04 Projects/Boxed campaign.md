@@ -26,5 +26,21 @@ On-screen hook ideas: "He pulled a grail on BOXED." · "Mail day. The cards are 
 - Caption ideas from the brief: "Grow your collection with BOXED.GG…", "It's just like ripping packs IRL, except you can rip them digitally, anywhere.",
   "MMA star and card collector Max Holloway scored some grails on BOXED! What will you pull?"
 
+## Footage notes (batch 1)
+- Dropbox shared folders list with Playwright (`a` tags whose text ends in .mp4); add `dl=1` to the file link to download.
+- The creators' files are already 9:16 and have THEIR OWN burned-in captions (≈ y 1175–1355 in Holloway/Crosby). Some burned text is banned for us
+  ("BET IT", "$750" in Travon Walker's video) and the BOXED app screens show odds ("Rare: 30%", "Legendary: 100%") and gem values.
+  → template `viral-short/src/Boxed.tsx` blurs the caption band on full-frame shots; crops zoom past UI numbers; Walker skipped for now.
+- IslandGrown "5. Clips From Box Breaks EXPORTED" has no burned captions; chat with "rigged" comments shows from ~22 s → end before it.
+
+## Batch 1 (2026-11-18) — plan `viral-short/plan_boxed.py` → `src/boxed.cfg.json`, comps `Boxed-<id>`
+| id | source | hook → story | len | caption extra |
+|---|---|---|---|---|
+| holloway | Max Holloway Pokémon battles 90s | Expedition Charizard reveal → his childhood grail (brother's 1st edition Charizard) → tries BOXED → collects with family, "I got a Zard" | 26.3 s | — |
+| crosby | Sack Summit, Maxx Crosby 9x16 (w/ Von Miller) | "last pack magic… oh my God" → Kobe vs Brady GOAT battle → great battle, signed Tommy B. + Kobe, "I'm giving you this… that's love" | 32.9 s | code CROSBY |
+| island | IslandGrown Golden Ticket Aug 2026 | Solgaleo & Lunala GX → Golden Ticket night, Cosmic Eclipse pulls (Silvally, Arceus & Dialga & Palkia, Charizard & Braixen, Piplup, Rainbow Flygon) | 21.7 s | — |
+
+Gotcha: the battle screen's gem values sit right under the cards → card crops need zoom ≥3.4 (centre y ≈780) to keep them out; check the frames where the app screen comes in at the END of a talking line too.
+
 ## Feedback log
 - (waiting)

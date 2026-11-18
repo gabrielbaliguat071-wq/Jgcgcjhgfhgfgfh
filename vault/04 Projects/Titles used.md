@@ -158,3 +158,6 @@
 - One Full Day With His Son… in 3 Months (Higgsfield son)
 - They Don't Pay for ANY Ads (Higgsfield ads)
 - Top Creatives Could Spend $100K a Month on AI (Higgsfield 100k)
+- Max Holloway Finally Got His Childhood Grail Card 🔥 (BOXED holloway)
+- Maxx Crosby vs Von Miller: Last Pack Decides It 🏈 (BOXED crosby)
+- These Golden Ticket Pulls Were INSANE ✨ (BOXED island)
