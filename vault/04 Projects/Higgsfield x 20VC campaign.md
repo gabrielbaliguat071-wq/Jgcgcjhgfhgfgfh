@@ -26,6 +26,9 @@ Seats: Alex close-up x≈890, Harry close-up x≈930 (centre y 510, zoom 1.15 hi
 | son | "One full day with my son in three months" (1:00:14–1:00:55) | hook = the one-day line → 80–90 hrs/week → wife 3 h, son 5 h a week → no shortcut to hard work | 32.4 s |
 | ads | "We don't do any paid ads" (23:14–24:29) | hook = Harry "own content and distribution?" + "we don't do any paid ads" (brief: open at 24:27) → best commercial content made on Higgsfield, 150+ in-house creatives, ~half the workforce, launch videos + tutorials | 35.0 s |
 | 100k | "Top creatives could spend $100,000 a month" (35:27–35:57) | hook = "close to 50K and 100K a month" (his prediction) → Harry: $4M, ~$10K/head, in 12 months? → keeps growing → salary raises too | 33.1 s |
+| inv | "Investors shook hands, came back 30% lower" (46:38–47:01) | hook = "next day… pulled the syndicate… 30% lower valuation" → Harry: did you know Yuri would write the check? → shook hands… → "but it didn't happen with Yuri" | 33.0 s |
+| phd | "You don't need PhD-level AI to make a viral video" (31:08–31:53) | hook = the PhD line → ad creatives by the hundreds, cheaper steerable models → PhD line | 33.9 s (margins part left out on purpose) |
+| jensen | "What I learn from Jensen, Elon and Nik looks like micromanagement" (55:35–56:14) | hook = "knowing the details… corporate America would call it micromanagement" → taught corporate management, learns from Jensen/Elon/Nik, no 1:1s or soft feedback | 37.2 s |
 Night batch (user: "why low views?"): 30–35 s, strongest line in second 1. The "$500,000 a month for legal/finance" bit after 100k sounds wrong in the transcript → not used.
 Gotcha: add a crop at EVERY camera cut inside a scene (100k hook showed an empty studio when the wide shot came in).
 Note (legal): cut a 2 s pause + one unfinished half-sentence (39.0–46.5).

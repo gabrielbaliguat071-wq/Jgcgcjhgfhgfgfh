@@ -164,3 +164,6 @@
 - The Last Pack Had a Cooper Flagg Auto /10 🏀 (Topps flagg)
 - He Slid the Cover Off… Derek Jeter 1/1 ⚾ (Topps jeter)
 - Shohei Ohtani Patch Auto /10… He Couldn't Believe It 🤯 (Topps ohtani)
+- They Shook Hands… Then Came Back 30% Lower 🤝 (Higgsfield inv)
+- You Don't Need PhD-Level AI to Go Viral 🎓 (Higgsfield phd)
+- Jensen, Elon & Nik Break Every Management Rule 👔 (Higgsfield jensen)

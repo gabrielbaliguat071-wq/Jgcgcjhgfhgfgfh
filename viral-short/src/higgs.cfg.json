@@ -4519,5 +4519,1868 @@
     "small": "spent today, ~$10K per head"
    }
   ]
+ },
+ "inv": {
+  "src": "hinv.mp4",
+  "wm": "higgsfield_wm.png",
+  "hook": [
+   "They shook hands\u2026",
+   "then came back 30% lower"
+  ],
+  "hookFrames": 100,
+  "music": [
+   "loseyou_n",
+   60.0
+  ],
+  "musicVol": 0.07,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 38.45,
+    "durationInFrames": 235,
+    "crops": [
+     [
+      0,
+      960,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "Next",
+      "startFrame": 1,
+      "endFrame": 19,
+      "hi": true
+     },
+     {
+      "word": "day,",
+      "startFrame": 16,
+      "endFrame": 26,
+      "hi": true
+     },
+     {
+      "word": "what",
+      "startFrame": 28,
+      "endFrame": 33,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 30,
+      "endFrame": 37,
+      "hi": false
+     },
+     {
+      "word": "learned",
+      "startFrame": 34,
+      "endFrame": 45,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 42,
+      "endFrame": 51,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 48,
+      "endFrame": 56,
+      "hi": false
+     },
+     {
+      "word": "they",
+      "startFrame": 53,
+      "endFrame": 63,
+      "hi": false
+     },
+     {
+      "word": "called",
+      "startFrame": 60,
+      "endFrame": 69,
+      "hi": false
+     },
+     {
+      "word": "other",
+      "startFrame": 66,
+      "endFrame": 76,
+      "hi": false
+     },
+     {
+      "word": "investors",
+      "startFrame": 73,
+      "endFrame": 92,
+      "hi": false
+     },
+     {
+      "word": "and",
+      "startFrame": 89,
+      "endFrame": 103,
+      "hi": false
+     },
+     {
+      "word": "they",
+      "startFrame": 100,
+      "endFrame": 108,
+      "hi": false
+     },
+     {
+      "word": "pulled",
+      "startFrame": 105,
+      "endFrame": 115,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 112,
+      "endFrame": 120,
+      "hi": false
+     },
+     {
+      "word": "syndicate",
+      "startFrame": 117,
+      "endFrame": 135,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 132,
+      "endFrame": 146,
+      "hi": false
+     },
+     {
+      "word": "invest",
+      "startFrame": 143,
+      "endFrame": 161,
+      "hi": false
+     },
+     {
+      "word": "in",
+      "startFrame": 158,
+      "endFrame": 163,
+      "hi": false
+     },
+     {
+      "word": "30%",
+      "startFrame": 160,
+      "endFrame": 170,
+      "hi": true
+     },
+     {
+      "word": "lower",
+      "startFrame": 175,
+      "endFrame": 186,
+      "hi": true
+     },
+     {
+      "word": "valuation",
+      "startFrame": 183,
+      "endFrame": 202,
+      "hi": true
+     },
+     {
+      "word": "compared",
+      "startFrame": 199,
+      "endFrame": 223,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 220,
+      "endFrame": 228,
+      "hi": false
+     },
+     {
+      "word": "what",
+      "startFrame": 225,
+      "endFrame": 232,
+      "hi": false
+     },
+     {
+      "word": "we",
+      "startFrame": 229,
+      "endFrame": 235,
+      "hi": false
+     },
+     {
+      "word": "discussed.",
+      "startFrame": 233,
+      "endFrame": 235,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 25.7,
+    "durationInFrames": 753,
+    "crops": [
+     [
+      0,
+      960,
+      1.15,
+      500
+     ],
+     [
+      100,
+      960,
+      1.15,
+      510
+     ],
+     [
+      713,
+      260,
+      1.45,
+      430
+     ]
+    ],
+    "words": [
+     {
+      "word": "Did",
+      "startFrame": 1,
+      "endFrame": 14,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 11,
+      "endFrame": 17,
+      "hi": false
+     },
+     {
+      "word": "know",
+      "startFrame": 14,
+      "endFrame": 21,
+      "hi": false
+     },
+     {
+      "word": "when",
+      "startFrame": 18,
+      "endFrame": 25,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 22,
+      "endFrame": 29,
+      "hi": false
+     },
+     {
+      "word": "left",
+      "startFrame": 26,
+      "endFrame": 35,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 32,
+      "endFrame": 40,
+      "hi": false
+     },
+     {
+      "word": "meeting",
+      "startFrame": 37,
+      "endFrame": 46,
+      "hi": false
+     },
+     {
+      "word": "with",
+      "startFrame": 43,
+      "endFrame": 52,
+      "hi": false
+     },
+     {
+      "word": "Yuri",
+      "startFrame": 49,
+      "endFrame": 58,
+      "hi": true
+     },
+     {
+      "word": "that",
+      "startFrame": 55,
+      "endFrame": 64,
+      "hi": false
+     },
+     {
+      "word": "he",
+      "startFrame": 61,
+      "endFrame": 68,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 65,
+      "endFrame": 71,
+      "hi": false
+     },
+     {
+      "word": "going",
+      "startFrame": 68,
+      "endFrame": 76,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 73,
+      "endFrame": 77,
+      "hi": false
+     },
+     {
+      "word": "write",
+      "startFrame": 74,
+      "endFrame": 83,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 80,
+      "endFrame": 86,
+      "hi": false
+     },
+     {
+      "word": "check?",
+      "startFrame": 83,
+      "endFrame": 97,
+      "hi": true
+     },
+     {
+      "word": "You",
+      "startFrame": 94,
+      "endFrame": 107,
+      "hi": false
+     },
+     {
+      "word": "know,",
+      "startFrame": 104,
+      "endFrame": 113,
+      "hi": false
+     },
+     {
+      "word": "sophisticated",
+      "startFrame": 124,
+      "endFrame": 128,
+      "hi": false
+     },
+     {
+      "word": "investors,",
+      "startFrame": 124,
+      "endFrame": 151,
+      "hi": false
+     },
+     {
+      "word": "they",
+      "startFrame": 166,
+      "endFrame": 170,
+      "hi": false
+     },
+     {
+      "word": "can",
+      "startFrame": 167,
+      "endFrame": 175,
+      "hi": false
+     },
+     {
+      "word": "play",
+      "startFrame": 172,
+      "endFrame": 181,
+      "hi": false
+     },
+     {
+      "word": "games.",
+      "startFrame": 178,
+      "endFrame": 191,
+      "hi": true
+     },
+     {
+      "word": "I",
+      "startFrame": 190,
+      "endFrame": 195,
+      "hi": false
+     },
+     {
+      "word": "had",
+      "startFrame": 192,
+      "endFrame": 200,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 197,
+      "endFrame": 205,
+      "hi": false
+     },
+     {
+      "word": "so",
+      "startFrame": 202,
+      "endFrame": 211,
+      "hi": false
+     },
+     {
+      "word": "many",
+      "startFrame": 208,
+      "endFrame": 219,
+      "hi": false
+     },
+     {
+      "word": "scars.",
+      "startFrame": 216,
+      "endFrame": 231,
+      "hi": true
+     },
+     {
+      "word": "Like",
+      "startFrame": 248,
+      "endFrame": 253,
+      "hi": false
+     },
+     {
+      "word": "people",
+      "startFrame": 250,
+      "endFrame": 259,
+      "hi": false
+     },
+     {
+      "word": "really",
+      "startFrame": 256,
+      "endFrame": 271,
+      "hi": false
+     },
+     {
+      "word": "shook",
+      "startFrame": 268,
+      "endFrame": 284,
+      "hi": true
+     },
+     {
+      "word": "hands",
+      "startFrame": 281,
+      "endFrame": 295,
+      "hi": true
+     },
+     {
+      "word": "and",
+      "startFrame": 292,
+      "endFrame": 302,
+      "hi": false
+     },
+     {
+      "word": "said,",
+      "startFrame": 299,
+      "endFrame": 303,
+      "hi": false
+     },
+     {
+      "word": "we",
+      "startFrame": 304,
+      "endFrame": 308,
+      "hi": false
+     },
+     {
+      "word": "do",
+      "startFrame": 304,
+      "endFrame": 313,
+      "hi": false
+     },
+     {
+      "word": "at",
+      "startFrame": 310,
+      "endFrame": 317,
+      "hi": false
+     },
+     {
+      "word": "this",
+      "startFrame": 314,
+      "endFrame": 323,
+      "hi": false
+     },
+     {
+      "word": "price.",
+      "startFrame": 320,
+      "endFrame": 336,
+      "hi": true
+     },
+     {
+      "word": "Next",
+      "startFrame": 384,
+      "endFrame": 401,
+      "hi": true
+     },
+     {
+      "word": "day,",
+      "startFrame": 398,
+      "endFrame": 409,
+      "hi": true
+     },
+     {
+      "word": "what",
+      "startFrame": 410,
+      "endFrame": 415,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 412,
+      "endFrame": 419,
+      "hi": false
+     },
+     {
+      "word": "learned",
+      "startFrame": 416,
+      "endFrame": 428,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 425,
+      "endFrame": 434,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 431,
+      "endFrame": 439,
+      "hi": false
+     },
+     {
+      "word": "they",
+      "startFrame": 436,
+      "endFrame": 445,
+      "hi": false
+     },
+     {
+      "word": "called",
+      "startFrame": 442,
+      "endFrame": 451,
+      "hi": false
+     },
+     {
+      "word": "other",
+      "startFrame": 448,
+      "endFrame": 459,
+      "hi": false
+     },
+     {
+      "word": "investors",
+      "startFrame": 456,
+      "endFrame": 475,
+      "hi": false
+     },
+     {
+      "word": "and",
+      "startFrame": 472,
+      "endFrame": 485,
+      "hi": false
+     },
+     {
+      "word": "they",
+      "startFrame": 482,
+      "endFrame": 490,
+      "hi": false
+     },
+     {
+      "word": "pulled",
+      "startFrame": 487,
+      "endFrame": 498,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 495,
+      "endFrame": 503,
+      "hi": false
+     },
+     {
+      "word": "syndicate",
+      "startFrame": 500,
+      "endFrame": 518,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 515,
+      "endFrame": 529,
+      "hi": false
+     },
+     {
+      "word": "invest",
+      "startFrame": 526,
+      "endFrame": 543,
+      "hi": false
+     },
+     {
+      "word": "in",
+      "startFrame": 540,
+      "endFrame": 545,
+      "hi": false
+     },
+     {
+      "word": "30%",
+      "startFrame": 542,
+      "endFrame": 553,
+      "hi": true
+     },
+     {
+      "word": "lower",
+      "startFrame": 557,
+      "endFrame": 568,
+      "hi": true
+     },
+     {
+      "word": "valuation",
+      "startFrame": 565,
+      "endFrame": 584,
+      "hi": true
+     },
+     {
+      "word": "compared",
+      "startFrame": 581,
+      "endFrame": 606,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 603,
+      "endFrame": 611,
+      "hi": false
+     },
+     {
+      "word": "what",
+      "startFrame": 608,
+      "endFrame": 614,
+      "hi": false
+     },
+     {
+      "word": "we",
+      "startFrame": 611,
+      "endFrame": 619,
+      "hi": false
+     },
+     {
+      "word": "discussed.",
+      "startFrame": 616,
+      "endFrame": 628,
+      "hi": false
+     },
+     {
+      "word": "So",
+      "startFrame": 632,
+      "endFrame": 636,
+      "hi": false
+     },
+     {
+      "word": "like,",
+      "startFrame": 632,
+      "endFrame": 640,
+      "hi": false
+     },
+     {
+      "word": "look,",
+      "startFrame": 640,
+      "endFrame": 644,
+      "hi": false
+     },
+     {
+      "word": "these",
+      "startFrame": 646,
+      "endFrame": 652,
+      "hi": false
+     },
+     {
+      "word": "things",
+      "startFrame": 649,
+      "endFrame": 658,
+      "hi": false
+     },
+     {
+      "word": "just",
+      "startFrame": 655,
+      "endFrame": 664,
+      "hi": false
+     },
+     {
+      "word": "happen.",
+      "startFrame": 661,
+      "endFrame": 673,
+      "hi": false
+     },
+     {
+      "word": "So",
+      "startFrame": 678,
+      "endFrame": 682,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 678,
+      "endFrame": 687,
+      "hi": false
+     },
+     {
+      "word": "never",
+      "startFrame": 684,
+      "endFrame": 694,
+      "hi": false
+     },
+     {
+      "word": "can",
+      "startFrame": 691,
+      "endFrame": 704,
+      "hi": false
+     },
+     {
+      "word": "be",
+      "startFrame": 701,
+      "endFrame": 708,
+      "hi": false
+     },
+     {
+      "word": "sure.",
+      "startFrame": 705,
+      "endFrame": 716,
+      "hi": false
+     },
+     {
+      "word": "But",
+      "startFrame": 722,
+      "endFrame": 733,
+      "hi": false
+     },
+     {
+      "word": "it",
+      "startFrame": 730,
+      "endFrame": 736,
+      "hi": false
+     },
+     {
+      "word": "didn't",
+      "startFrame": 733,
+      "endFrame": 742,
+      "hi": false
+     },
+     {
+      "word": "happen",
+      "startFrame": 739,
+      "endFrame": 749,
+      "hi": false
+     },
+     {
+      "word": "with",
+      "startFrame": 746,
+      "endFrame": 753,
+      "hi": false
+     },
+     {
+      "word": "Yuri.",
+      "startFrame": 751,
+      "endFrame": 753,
+      "hi": true
+     }
+    ]
+   }
+  ],
+  "cards": [
+   {
+    "at": [
+     "hook",
+     160
+    ],
+    "dur": 60,
+    "big": "-30%",
+    "small": "on the deal they shook hands on"
+   }
+  ]
+ },
+ "phd": {
+  "src": "hphd.mp4",
+  "wm": "higgsfield_wm.png",
+  "hook": [
+   "You don't need PhD-level AI",
+   "to make a viral video"
+  ],
+  "hookFrames": 100,
+  "music": [
+   "interstellar_n",
+   40.0
+  ],
+  "musicVol": 0.07,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 29.95,
+    "durationInFrames": 252,
+    "crops": [
+     [
+      0,
+      960,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "Because",
+      "startFrame": 2,
+      "endFrame": 25,
+      "hi": false
+     },
+     {
+      "word": "like,",
+      "startFrame": 22,
+      "endFrame": 29,
+      "hi": false
+     },
+     {
+      "word": "PhD",
+      "startFrame": 36,
+      "endFrame": 43,
+      "hi": true
+     },
+     {
+      "word": "level",
+      "startFrame": 40,
+      "endFrame": 59,
+      "hi": true
+     },
+     {
+      "word": "intelligence",
+      "startFrame": 56,
+      "endFrame": 80,
+      "hi": true
+     },
+     {
+      "word": "is",
+      "startFrame": 77,
+      "endFrame": 108,
+      "hi": false
+     },
+     {
+      "word": "not",
+      "startFrame": 105,
+      "endFrame": 116,
+      "hi": false
+     },
+     {
+      "word": "necessarily",
+      "startFrame": 113,
+      "endFrame": 135,
+      "hi": false
+     },
+     {
+      "word": "needed",
+      "startFrame": 132,
+      "endFrame": 151,
+      "hi": true
+     },
+     {
+      "word": "for",
+      "startFrame": 148,
+      "endFrame": 183,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 180,
+      "endFrame": 190,
+      "hi": false
+     },
+     {
+      "word": "make",
+      "startFrame": 187,
+      "endFrame": 205,
+      "hi": false
+     },
+     {
+      "word": "viral",
+      "startFrame": 202,
+      "endFrame": 231,
+      "hi": true
+     },
+     {
+      "word": "social",
+      "startFrame": 228,
+      "endFrame": 240,
+      "hi": true
+     },
+     {
+      "word": "media",
+      "startFrame": 237,
+      "endFrame": 252,
+      "hi": true
+     },
+     {
+      "word": "video.",
+      "startFrame": 249,
+      "endFrame": 252,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 12.9,
+    "durationInFrames": 764,
+    "crops": [
+     [
+      0,
+      920,
+      1.15,
+      510
+     ],
+     [
+      147,
+      270,
+      1.45,
+      520
+     ],
+     [
+      427,
+      960,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "But",
+      "startFrame": 1,
+      "endFrame": 23,
+      "hi": false
+     },
+     {
+      "word": "for",
+      "startFrame": 20,
+      "endFrame": 38,
+      "hi": false
+     },
+     {
+      "word": "our",
+      "startFrame": 35,
+      "endFrame": 44,
+      "hi": false
+     },
+     {
+      "word": "markets,",
+      "startFrame": 41,
+      "endFrame": 56,
+      "hi": false
+     },
+     {
+      "word": "we're",
+      "startFrame": 58,
+      "endFrame": 62,
+      "hi": false
+     },
+     {
+      "word": "seeing",
+      "startFrame": 59,
+      "endFrame": 68,
+      "hi": false
+     },
+     {
+      "word": "completely",
+      "startFrame": 65,
+      "endFrame": 86,
+      "hi": false
+     },
+     {
+      "word": "different",
+      "startFrame": 83,
+      "endFrame": 97,
+      "hi": false
+     },
+     {
+      "word": "dynamics.",
+      "startFrame": 94,
+      "endFrame": 110,
+      "hi": false
+     },
+     {
+      "word": "What's",
+      "startFrame": 124,
+      "endFrame": 133,
+      "hi": false
+     },
+     {
+      "word": "actually",
+      "startFrame": 130,
+      "endFrame": 140,
+      "hi": false
+     },
+     {
+      "word": "happening",
+      "startFrame": 137,
+      "endFrame": 154,
+      "hi": false
+     },
+     {
+      "word": "in",
+      "startFrame": 151,
+      "endFrame": 161,
+      "hi": false
+     },
+     {
+      "word": "social",
+      "startFrame": 158,
+      "endFrame": 170,
+      "hi": true
+     },
+     {
+      "word": "media",
+      "startFrame": 167,
+      "endFrame": 179,
+      "hi": true
+     },
+     {
+      "word": "marketing,",
+      "startFrame": 176,
+      "endFrame": 193,
+      "hi": false
+     },
+     {
+      "word": "as",
+      "startFrame": 197,
+      "endFrame": 203,
+      "hi": false
+     },
+     {
+      "word": "companies",
+      "startFrame": 200,
+      "endFrame": 215,
+      "hi": false
+     },
+     {
+      "word": "start",
+      "startFrame": 212,
+      "endFrame": 223,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 220,
+      "endFrame": 229,
+      "hi": false
+     },
+     {
+      "word": "print",
+      "startFrame": 226,
+      "endFrame": 238,
+      "hi": false
+     },
+     {
+      "word": "hundreds",
+      "startFrame": 235,
+      "endFrame": 264,
+      "hi": true
+     },
+     {
+      "word": "of",
+      "startFrame": 261,
+      "endFrame": 300,
+      "hi": false
+     },
+     {
+      "word": "ad",
+      "startFrame": 297,
+      "endFrame": 304,
+      "hi": false
+     },
+     {
+      "word": "creatives",
+      "startFrame": 301,
+      "endFrame": 322,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 319,
+      "endFrame": 359,
+      "hi": false
+     },
+     {
+      "word": "week,",
+      "startFrame": 356,
+      "endFrame": 368,
+      "hi": true
+     },
+     {
+      "word": "they",
+      "startFrame": 383,
+      "endFrame": 396,
+      "hi": false
+     },
+     {
+      "word": "want",
+      "startFrame": 393,
+      "endFrame": 406,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 403,
+      "endFrame": 411,
+      "hi": false
+     },
+     {
+      "word": "have",
+      "startFrame": 408,
+      "endFrame": 425,
+      "hi": false
+     },
+     {
+      "word": "maybe",
+      "startFrame": 422,
+      "endFrame": 439,
+      "hi": false
+     },
+     {
+      "word": "cheapest,",
+      "startFrame": 436,
+      "endFrame": 461,
+      "hi": true
+     },
+     {
+      "word": "more",
+      "startFrame": 466,
+      "endFrame": 472,
+      "hi": false
+     },
+     {
+      "word": "steerable",
+      "startFrame": 469,
+      "endFrame": 490,
+      "hi": true
+     },
+     {
+      "word": "models,",
+      "startFrame": 487,
+      "endFrame": 506,
+      "hi": false
+     },
+     {
+      "word": "Because",
+      "startFrame": 513,
+      "endFrame": 536,
+      "hi": false
+     },
+     {
+      "word": "like,",
+      "startFrame": 533,
+      "endFrame": 541,
+      "hi": false
+     },
+     {
+      "word": "PhD",
+      "startFrame": 548,
+      "endFrame": 554,
+      "hi": true
+     },
+     {
+      "word": "level",
+      "startFrame": 551,
+      "endFrame": 571,
+      "hi": true
+     },
+     {
+      "word": "intelligence",
+      "startFrame": 568,
+      "endFrame": 592,
+      "hi": true
+     },
+     {
+      "word": "is",
+      "startFrame": 589,
+      "endFrame": 620,
+      "hi": false
+     },
+     {
+      "word": "not",
+      "startFrame": 617,
+      "endFrame": 627,
+      "hi": false
+     },
+     {
+      "word": "necessarily",
+      "startFrame": 624,
+      "endFrame": 647,
+      "hi": false
+     },
+     {
+      "word": "needed",
+      "startFrame": 644,
+      "endFrame": 663,
+      "hi": true
+     },
+     {
+      "word": "for",
+      "startFrame": 660,
+      "endFrame": 695,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 692,
+      "endFrame": 701,
+      "hi": false
+     },
+     {
+      "word": "make",
+      "startFrame": 698,
+      "endFrame": 716,
+      "hi": false
+     },
+     {
+      "word": "viral",
+      "startFrame": 713,
+      "endFrame": 742,
+      "hi": true
+     },
+     {
+      "word": "social",
+      "startFrame": 739,
+      "endFrame": 752,
+      "hi": true
+     },
+     {
+      "word": "media",
+      "startFrame": 749,
+      "endFrame": 763,
+      "hi": true
+     },
+     {
+      "word": "video.",
+      "startFrame": 760,
+      "endFrame": 764,
+      "hi": true
+     }
+    ]
+   }
+  ],
+  "cards": [
+   {
+    "at": [
+     "c1",
+     235
+    ],
+    "dur": 60,
+    "big": "100s",
+    "small": "of ad videos a week"
+   }
+  ]
+ },
+ "jensen": {
+  "src": "hjensen.mp4",
+  "wm": "higgsfield_wm.png",
+  "hook": [
+   "Jensen, Elon & Nik",
+   "break every management rule"
+  ],
+  "hookFrames": 100,
+  "music": [
+   "einaudi_n",
+   160.0
+  ],
+  "musicVol": 0.07,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 43.95,
+    "durationInFrames": 283,
+    "crops": [
+     [
+      0,
+      860,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "All",
+      "startFrame": 1,
+      "endFrame": 9,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 6,
+      "endFrame": 13,
+      "hi": false
+     },
+     {
+      "word": "them,",
+      "startFrame": 10,
+      "endFrame": 19,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 19,
+      "endFrame": 25,
+      "hi": false
+     },
+     {
+      "word": "think,",
+      "startFrame": 22,
+      "endFrame": 33,
+      "hi": false
+     },
+     {
+      "word": "are",
+      "startFrame": 41,
+      "endFrame": 45,
+      "hi": false
+     },
+     {
+      "word": "encourage,",
+      "startFrame": 41,
+      "endFrame": 65,
+      "hi": false
+     },
+     {
+      "word": "like,",
+      "startFrame": 72,
+      "endFrame": 76,
+      "hi": false
+     },
+     {
+      "word": "being",
+      "startFrame": 76,
+      "endFrame": 80,
+      "hi": false
+     },
+     {
+      "word": "down",
+      "startFrame": 76,
+      "endFrame": 85,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 82,
+      "endFrame": 90,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 87,
+      "endFrame": 94,
+      "hi": false
+     },
+     {
+      "word": "points,",
+      "startFrame": 91,
+      "endFrame": 105,
+      "hi": false
+     },
+     {
+      "word": "knowing",
+      "startFrame": 116,
+      "endFrame": 127,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 124,
+      "endFrame": 133,
+      "hi": false
+     },
+     {
+      "word": "details,",
+      "startFrame": 130,
+      "endFrame": 149,
+      "hi": true
+     },
+     {
+      "word": "while",
+      "startFrame": 165,
+      "endFrame": 174,
+      "hi": false
+     },
+     {
+      "word": "it",
+      "startFrame": 171,
+      "endFrame": 181,
+      "hi": false
+     },
+     {
+      "word": "would",
+      "startFrame": 178,
+      "endFrame": 186,
+      "hi": false
+     },
+     {
+      "word": "be",
+      "startFrame": 183,
+      "endFrame": 191,
+      "hi": false
+     },
+     {
+      "word": "called",
+      "startFrame": 188,
+      "endFrame": 202,
+      "hi": false
+     },
+     {
+      "word": "in",
+      "startFrame": 199,
+      "endFrame": 211,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 208,
+      "endFrame": 221,
+      "hi": false
+     },
+     {
+      "word": "corporate",
+      "startFrame": 218,
+      "endFrame": 239,
+      "hi": true
+     },
+     {
+      "word": "America",
+      "startFrame": 236,
+      "endFrame": 253,
+      "hi": false
+     },
+     {
+      "word": "something",
+      "startFrame": 250,
+      "endFrame": 265,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 262,
+      "endFrame": 281,
+      "hi": false
+     },
+     {
+      "word": "micromanagement.",
+      "startFrame": 278,
+      "endFrame": 283,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 16.15,
+    "durationInFrames": 834,
+    "crops": [
+     [
+      0,
+      960,
+      1.15,
+      510
+     ],
+     [
+      202,
+      280,
+      1.45,
+      440
+     ],
+     [
+      547,
+      860,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "I",
+      "startFrame": 1,
+      "endFrame": 16,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 13,
+      "endFrame": 25,
+      "hi": false
+     },
+     {
+      "word": "obviously",
+      "startFrame": 22,
+      "endFrame": 44,
+      "hi": false
+     },
+     {
+      "word": "taught",
+      "startFrame": 41,
+      "endFrame": 58,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 55,
+      "endFrame": 65,
+      "hi": false
+     },
+     {
+      "word": "corporate",
+      "startFrame": 62,
+      "endFrame": 77,
+      "hi": true
+     },
+     {
+      "word": "School",
+      "startFrame": 74,
+      "endFrame": 102,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 99,
+      "endFrame": 107,
+      "hi": false
+     },
+     {
+      "word": "Management",
+      "startFrame": 104,
+      "endFrame": 117,
+      "hi": true
+     },
+     {
+      "word": "in",
+      "startFrame": 114,
+      "endFrame": 126,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 123,
+      "endFrame": 129,
+      "hi": false
+     },
+     {
+      "word": "United",
+      "startFrame": 126,
+      "endFrame": 137,
+      "hi": false
+     },
+     {
+      "word": "States.",
+      "startFrame": 134,
+      "endFrame": 155,
+      "hi": false
+     },
+     {
+      "word": "And",
+      "startFrame": 179,
+      "endFrame": 194,
+      "hi": false
+     },
+     {
+      "word": "when",
+      "startFrame": 191,
+      "endFrame": 197,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 194,
+      "endFrame": 201,
+      "hi": false
+     },
+     {
+      "word": "look",
+      "startFrame": 198,
+      "endFrame": 209,
+      "hi": false
+     },
+     {
+      "word": "at",
+      "startFrame": 206,
+      "endFrame": 212,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 209,
+      "endFrame": 216,
+      "hi": false
+     },
+     {
+      "word": "CEOs",
+      "startFrame": 213,
+      "endFrame": 230,
+      "hi": false
+     },
+     {
+      "word": "whom",
+      "startFrame": 227,
+      "endFrame": 247,
+      "hi": false
+     },
+     {
+      "word": "I've",
+      "startFrame": 244,
+      "endFrame": 272,
+      "hi": false
+     },
+     {
+      "word": "learned",
+      "startFrame": 269,
+      "endFrame": 279,
+      "hi": false
+     },
+     {
+      "word": "from",
+      "startFrame": 276,
+      "endFrame": 287,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 284,
+      "endFrame": 293,
+      "hi": false
+     },
+     {
+      "word": "obviously",
+      "startFrame": 290,
+      "endFrame": 303,
+      "hi": false
+     },
+     {
+      "word": "Jensen,",
+      "startFrame": 300,
+      "endFrame": 317,
+      "hi": true
+     },
+     {
+      "word": "Elon",
+      "startFrame": 338,
+      "endFrame": 349,
+      "hi": true
+     },
+     {
+      "word": "and",
+      "startFrame": 346,
+      "endFrame": 382,
+      "hi": false
+     },
+     {
+      "word": "Nik.",
+      "startFrame": 379,
+      "endFrame": 392,
+      "hi": true
+     },
+     {
+      "word": "Nik",
+      "startFrame": 432,
+      "endFrame": 453,
+      "hi": true
+     },
+     {
+      "word": "was",
+      "startFrame": 450,
+      "endFrame": 460,
+      "hi": false
+     },
+     {
+      "word": "on",
+      "startFrame": 457,
+      "endFrame": 464,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 461,
+      "endFrame": 467,
+      "hi": false
+     },
+     {
+      "word": "show.",
+      "startFrame": 464,
+      "endFrame": 478,
+      "hi": false
+     },
+     {
+      "word": "So",
+      "startFrame": 488,
+      "endFrame": 492,
+      "hi": false
+     },
+     {
+      "word": "obviously,",
+      "startFrame": 488,
+      "endFrame": 515,
+      "hi": false
+     },
+     {
+      "word": "like,",
+      "startFrame": 522,
+      "endFrame": 526,
+      "hi": false
+     },
+     {
+      "word": "those",
+      "startFrame": 533,
+      "endFrame": 537,
+      "hi": false
+     },
+     {
+      "word": "three",
+      "startFrame": 533,
+      "endFrame": 545,
+      "hi": false
+     },
+     {
+      "word": "are,",
+      "startFrame": 542,
+      "endFrame": 556,
+      "hi": false
+     },
+     {
+      "word": "those",
+      "startFrame": 574,
+      "endFrame": 588,
+      "hi": false
+     },
+     {
+      "word": "three,",
+      "startFrame": 585,
+      "endFrame": 597,
+      "hi": false
+     },
+     {
+      "word": "they",
+      "startFrame": 597,
+      "endFrame": 603,
+      "hi": false
+     },
+     {
+      "word": "completely",
+      "startFrame": 600,
+      "endFrame": 619,
+      "hi": false
+     },
+     {
+      "word": "abandon",
+      "startFrame": 616,
+      "endFrame": 630,
+      "hi": true
+     },
+     {
+      "word": "all",
+      "startFrame": 627,
+      "endFrame": 645,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 642,
+      "endFrame": 650,
+      "hi": false
+     },
+     {
+      "word": "management",
+      "startFrame": 647,
+      "endFrame": 661,
+      "hi": true
+     },
+     {
+      "word": "principles.",
+      "startFrame": 658,
+      "endFrame": 678,
+      "hi": true
+     },
+     {
+      "word": "They",
+      "startFrame": 693,
+      "endFrame": 699,
+      "hi": false
+     },
+     {
+      "word": "don't",
+      "startFrame": 696,
+      "endFrame": 710,
+      "hi": false
+     },
+     {
+      "word": "necessarily",
+      "startFrame": 707,
+      "endFrame": 725,
+      "hi": false
+     },
+     {
+      "word": "are",
+      "startFrame": 722,
+      "endFrame": 732,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 729,
+      "endFrame": 741,
+      "hi": false
+     },
+     {
+      "word": "fans",
+      "startFrame": 738,
+      "endFrame": 750,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 747,
+      "endFrame": 757,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 754,
+      "endFrame": 764,
+      "hi": false
+     },
+     {
+      "word": "one-on-one",
+      "startFrame": 761,
+      "endFrame": 769,
+      "hi": false
+     },
+     {
+      "word": "and",
+      "startFrame": 779,
+      "endFrame": 795,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 792,
+      "endFrame": 800,
+      "hi": false
+     },
+     {
+      "word": "soft",
+      "startFrame": 797,
+      "endFrame": 807,
+      "hi": true
+     },
+     {
+      "word": "feedback.",
+      "startFrame": 804,
+      "endFrame": 823,
+      "hi": true
+     }
+    ]
+   }
+  ],
+  "cards": [
+   {
+    "at": [
+     "c1",
+     300
+    ],
+    "dur": 75,
+    "big": "Jensen \u00b7 Elon \u00b7 Nik",
+    "small": "the CEOs he learns from"
+   }
+  ]
  }
 }
