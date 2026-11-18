@@ -22,8 +22,14 @@ Seats: Alex close-up x≈890, Harry close-up x≈930 (centre y 510, zoom 1.15 hi
 |---|---|---|---|
 | h4m | "$4M a month on AI" (33:23–34:01) | Harry: how much per month? → "over 4 million" → Harry "Wow" → $10K+/person/month, US + Asia → ~400 people, >$10K each | 34.9 s |
 | homes | "I made $1M… I own none" (59:16–1:00:09) | Harry: mega pad in Kazakhstan? → "I don't own any property" → "What? Why?" → sold the company, $1M+, apartments for parents/relatives/wife's parents, culture to give back, parents sacrificed → Tesla Model 3, not a Lamborghini guy | 48.4 s |
+| legal | "I thought AI would replace legal and support. I was wrong." (36:27–37:21) | Harry: smaller teams with 10x people? → feeling legal/support would be replaced = one of our main mistakes, didn't grow those teams → legal 10+, customer success 40+, all use AI, no elimination → 60%+ first-line support by AI, but B2B doesn't work | 48.4 s |
+Note (legal): cut a 2 s pause + one unfinished half-sentence (39.0–46.5).
 Note (homes): cut a 1.7 s pause and the unclear words after "Tesla Model 3"; music = Einaudi piano (founder-life mood).
 Note: the sentence before "prohibitively expensive" names a model the transcript can't hear clearly → left out rather than captioned wrong.
 
 ## Feedback log
 - (waiting)
+
+## User's channels (2026-11-18)
+- #1 AI Founder Clips (@aifounderclips, blue) · #2 The Founder Files (@thefounderfiles, orange, YouTube) · #3 Big Money Talks (@bigmoneytalks, purple, YouTube).
+- Each clip goes on ONE account only (posting the same clip on several pages = spam = unpaid).

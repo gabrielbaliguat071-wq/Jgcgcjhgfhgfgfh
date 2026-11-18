@@ -154,3 +154,4 @@
 - This Fan War NEEDS to Happen 🥊 (stacked rogers)
 - They Spend Over $4M a Month on AI Models (Higgsfield h4m)
 - He Made Over $1M… and Owns ZERO Property (Higgsfield homes)
+- He Thought AI Would Replace His Support Team. He Was Wrong. (Higgsfield legal)
