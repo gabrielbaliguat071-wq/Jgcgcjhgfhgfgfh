@@ -23,3 +23,4 @@ Downloads: Drive file → `drive.usercontent…&confirm=t`, fall back to `yt-dlp
 
 ## Feedback log
 - (waiting)
+- User's card channel #2 for Topps (2026-11-18): **Grail Hunters** (@grailhuntersclips, gold on black, YouTube). Each clip goes on ONE channel only.
