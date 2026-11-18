@@ -161,3 +161,6 @@
 - Max Holloway Finally Got His Childhood Grail Card 🔥 (BOXED holloway)
 - Maxx Crosby vs Von Miller: Last Pack Decides It 🏈 (BOXED crosby)
 - These Golden Ticket Pulls Were INSANE ✨ (BOXED island)
+- The Last Pack Had a Cooper Flagg Auto /10 🏀 (Topps flagg)
+- He Slid the Cover Off… Derek Jeter 1/1 ⚾ (Topps jeter)
+- Shohei Ohtani Patch Auto /10… He Couldn't Believe It 🤯 (Topps ohtani)
