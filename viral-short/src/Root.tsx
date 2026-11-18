@@ -8,6 +8,7 @@ import { Stack, STACK, stackFrames } from './Stack';
 import { Higgs, HIGGS, higgsFrames } from './Higgs';
 import { Boxed, BOXED, boxedFrames } from './Boxed';
 import { Topps, TOPPS, toppsFrames } from './Topps';
+import { Cursed, CURSED, cursedFrames } from './Cursed';
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -37,6 +38,9 @@ export const RemotionRoot: React.FC = () => {
       ))}
       {Object.keys(TOPPS).map((id) => (
         <Composition key={'t' + id} id={`Topps-${id}`} component={Topps} defaultProps={{edit: id}} durationInFrames={toppsFrames(id)} fps={30} width={1080} height={1920} />
+      ))}
+      {Object.keys(CURSED).map((id) => (
+        <Composition key={'c' + id} id={`Cursed-${id}`} component={Cursed} defaultProps={{edit: id}} durationInFrames={cursedFrames(id)} fps={30} width={1080} height={1920} />
       ))}
     </>
   );
