@@ -586,5 +586,1025 @@
     "small": "people on the team"
    }
   ]
+ },
+ "homes": {
+  "src": "hhomes.mp4",
+  "wm": "higgsfield_wm.png",
+  "hook": [
+   "He made over $1M\u2026",
+   "and owns no property"
+  ],
+  "hookFrames": 105,
+  "music": [
+   "einaudi_n",
+   44.0
+  ],
+  "musicVol": 0.08,
+  "scenes": [
+   {
+    "id": "q",
+    "videoStartSec": 16.7,
+    "durationInFrames": 138,
+    "crops": [
+     [
+      0,
+      1540,
+      1.45,
+      530
+     ],
+     [
+      65,
+      1000,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "Do",
+      "startFrame": 2,
+      "endFrame": 7,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 4,
+      "endFrame": 10,
+      "hi": false
+     },
+     {
+      "word": "have",
+      "startFrame": 7,
+      "endFrame": 14,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 11,
+      "endFrame": 19,
+      "hi": false
+     },
+     {
+      "word": "mega",
+      "startFrame": 16,
+      "endFrame": 26,
+      "hi": false
+     },
+     {
+      "word": "pad",
+      "startFrame": 23,
+      "endFrame": 35,
+      "hi": false
+     },
+     {
+      "word": "in",
+      "startFrame": 32,
+      "endFrame": 40,
+      "hi": false
+     },
+     {
+      "word": "Kazakhstan?",
+      "startFrame": 37,
+      "endFrame": 53,
+      "hi": true
+     },
+     {
+      "word": "No,",
+      "startFrame": 71,
+      "endFrame": 78,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 79,
+      "endFrame": 83,
+      "hi": false
+     },
+     {
+      "word": "don't.",
+      "startFrame": 80,
+      "endFrame": 92,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 92,
+      "endFrame": 97,
+      "hi": false
+     },
+     {
+      "word": "don't",
+      "startFrame": 94,
+      "endFrame": 105,
+      "hi": false
+     },
+     {
+      "word": "own",
+      "startFrame": 102,
+      "endFrame": 114,
+      "hi": false
+     },
+     {
+      "word": "any",
+      "startFrame": 111,
+      "endFrame": 121,
+      "hi": false
+     },
+     {
+      "word": "property.",
+      "startFrame": 118,
+      "endFrame": 135,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "why",
+    "videoStartSec": 21.29,
+    "durationInFrames": 60,
+    "crops": [
+     [
+      0,
+      880,
+      1.15,
+      500
+     ]
+    ],
+    "words": [
+     {
+      "word": "What?",
+      "startFrame": 9,
+      "endFrame": 19,
+      "hi": true
+     },
+     {
+      "word": "Why?",
+      "startFrame": 37,
+      "endFrame": 46,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "a1",
+    "videoStartSec": 23.3,
+    "durationInFrames": 714,
+    "crops": [
+     [
+      0,
+      955,
+      1.15,
+      510
+     ],
+     [
+      510,
+      300,
+      1.45,
+      430
+     ],
+     [
+      597,
+      955,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "Remember",
+      "startFrame": 1,
+      "endFrame": 14,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 11,
+      "endFrame": 22,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 19,
+      "endFrame": 29,
+      "hi": false
+     },
+     {
+      "word": "come",
+      "startFrame": 26,
+      "endFrame": 34,
+      "hi": false
+     },
+     {
+      "word": "from",
+      "startFrame": 31,
+      "endFrame": 40,
+      "hi": false
+     },
+     {
+      "word": "Asian",
+      "startFrame": 37,
+      "endFrame": 46,
+      "hi": false
+     },
+     {
+      "word": "family.",
+      "startFrame": 43,
+      "endFrame": 59,
+      "hi": false
+     },
+     {
+      "word": "So",
+      "startFrame": 73,
+      "endFrame": 82,
+      "hi": false
+     },
+     {
+      "word": "whenever",
+      "startFrame": 79,
+      "endFrame": 129,
+      "hi": false
+     },
+     {
+      "word": "we",
+      "startFrame": 126,
+      "endFrame": 136,
+      "hi": false
+     },
+     {
+      "word": "sold",
+      "startFrame": 133,
+      "endFrame": 141,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 138,
+      "endFrame": 145,
+      "hi": false
+     },
+     {
+      "word": "company,",
+      "startFrame": 142,
+      "endFrame": 157,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 163,
+      "endFrame": 169,
+      "hi": false
+     },
+     {
+      "word": "made",
+      "startFrame": 166,
+      "endFrame": 182,
+      "hi": false
+     },
+     {
+      "word": "over",
+      "startFrame": 179,
+      "endFrame": 190,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 187,
+      "endFrame": 193,
+      "hi": false
+     },
+     {
+      "word": "million",
+      "startFrame": 190,
+      "endFrame": 198,
+      "hi": true
+     },
+     {
+      "word": "dollars",
+      "startFrame": 195,
+      "endFrame": 209,
+      "hi": true
+     },
+     {
+      "word": "and",
+      "startFrame": 206,
+      "endFrame": 229,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 226,
+      "endFrame": 232,
+      "hi": false
+     },
+     {
+      "word": "spent",
+      "startFrame": 229,
+      "endFrame": 242,
+      "hi": false
+     },
+     {
+      "word": "all",
+      "startFrame": 239,
+      "endFrame": 257,
+      "hi": false
+     },
+     {
+      "word": "this",
+      "startFrame": 254,
+      "endFrame": 264,
+      "hi": false
+     },
+     {
+      "word": "money",
+      "startFrame": 261,
+      "endFrame": 274,
+      "hi": false
+     },
+     {
+      "word": "buying",
+      "startFrame": 271,
+      "endFrame": 302,
+      "hi": false
+     },
+     {
+      "word": "apartments",
+      "startFrame": 299,
+      "endFrame": 319,
+      "hi": true
+     },
+     {
+      "word": "for",
+      "startFrame": 316,
+      "endFrame": 335,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 332,
+      "endFrame": 369,
+      "hi": false
+     },
+     {
+      "word": "parents,",
+      "startFrame": 366,
+      "endFrame": 391,
+      "hi": true
+     },
+     {
+      "word": "relatives,",
+      "startFrame": 400,
+      "endFrame": 416,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 436,
+      "endFrame": 440,
+      "hi": false
+     },
+     {
+      "word": "wife's",
+      "startFrame": 437,
+      "endFrame": 452,
+      "hi": false
+     },
+     {
+      "word": "parents,",
+      "startFrame": 449,
+      "endFrame": 464,
+      "hi": true
+     },
+     {
+      "word": "because",
+      "startFrame": 469,
+      "endFrame": 473,
+      "hi": false
+     },
+     {
+      "word": "this",
+      "startFrame": 469,
+      "endFrame": 476,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 473,
+      "endFrame": 478,
+      "hi": false
+     },
+     {
+      "word": "just",
+      "startFrame": 475,
+      "endFrame": 482,
+      "hi": false
+     },
+     {
+      "word": "part",
+      "startFrame": 479,
+      "endFrame": 487,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 484,
+      "endFrame": 491,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 488,
+      "endFrame": 496,
+      "hi": false
+     },
+     {
+      "word": "culture.",
+      "startFrame": 493,
+      "endFrame": 506,
+      "hi": true
+     },
+     {
+      "word": "And",
+      "startFrame": 517,
+      "endFrame": 521,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 517,
+      "endFrame": 523,
+      "hi": false
+     },
+     {
+      "word": "family,",
+      "startFrame": 520,
+      "endFrame": 529,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 529,
+      "endFrame": 536,
+      "hi": false
+     },
+     {
+      "word": "extended",
+      "startFrame": 533,
+      "endFrame": 545,
+      "hi": false
+     },
+     {
+      "word": "family",
+      "startFrame": 542,
+      "endFrame": 557,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 554,
+      "endFrame": 565,
+      "hi": false
+     },
+     {
+      "word": "not",
+      "startFrame": 562,
+      "endFrame": 569,
+      "hi": false
+     },
+     {
+      "word": "small",
+      "startFrame": 566,
+      "endFrame": 577,
+      "hi": false
+     },
+     {
+      "word": "by",
+      "startFrame": 574,
+      "endFrame": 582,
+      "hi": false
+     },
+     {
+      "word": "any",
+      "startFrame": 579,
+      "endFrame": 587,
+      "hi": false
+     },
+     {
+      "word": "means.",
+      "startFrame": 584,
+      "endFrame": 595,
+      "hi": false
+     },
+     {
+      "word": "But",
+      "startFrame": 605,
+      "endFrame": 610,
+      "hi": false
+     },
+     {
+      "word": "look,",
+      "startFrame": 607,
+      "endFrame": 614,
+      "hi": false
+     },
+     {
+      "word": "it's",
+      "startFrame": 614,
+      "endFrame": 625,
+      "hi": false
+     },
+     {
+      "word": "just",
+      "startFrame": 622,
+      "endFrame": 628,
+      "hi": false
+     },
+     {
+      "word": "part",
+      "startFrame": 625,
+      "endFrame": 634,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 631,
+      "endFrame": 638,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 635,
+      "endFrame": 642,
+      "hi": false
+     },
+     {
+      "word": "culture",
+      "startFrame": 639,
+      "endFrame": 652,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 649,
+      "endFrame": 661,
+      "hi": false
+     },
+     {
+      "word": "give",
+      "startFrame": 658,
+      "endFrame": 667,
+      "hi": false
+     },
+     {
+      "word": "back.",
+      "startFrame": 664,
+      "endFrame": 678,
+      "hi": true
+     },
+     {
+      "word": "And",
+      "startFrame": 695,
+      "endFrame": 699,
+      "hi": false
+     },
+     {
+      "word": "then",
+      "startFrame": 695,
+      "endFrame": 709,
+      "hi": false
+     },
+     {
+      "word": "when",
+      "startFrame": 706,
+      "endFrame": 714,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "a2",
+    "videoStartSec": 48.8,
+    "durationInFrames": 402,
+    "crops": [
+     [
+      0,
+      955,
+      1.15,
+      510
+     ],
+     [
+      293,
+      300,
+      1.45,
+      430
+     ]
+    ],
+    "words": [
+     {
+      "word": "it",
+      "startFrame": 1,
+      "endFrame": 8,
+      "hi": false
+     },
+     {
+      "word": "comes",
+      "startFrame": 5,
+      "endFrame": 16,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 13,
+      "endFrame": 28,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 25,
+      "endFrame": 36,
+      "hi": false
+     },
+     {
+      "word": "family,",
+      "startFrame": 33,
+      "endFrame": 55,
+      "hi": false
+     },
+     {
+      "word": "especially",
+      "startFrame": 63,
+      "endFrame": 74,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 71,
+      "endFrame": 83,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 80,
+      "endFrame": 88,
+      "hi": false
+     },
+     {
+      "word": "parents,",
+      "startFrame": 85,
+      "endFrame": 99,
+      "hi": true
+     },
+     {
+      "word": "they",
+      "startFrame": 98,
+      "endFrame": 104,
+      "hi": false
+     },
+     {
+      "word": "obviously",
+      "startFrame": 101,
+      "endFrame": 112,
+      "hi": false
+     },
+     {
+      "word": "sacrificed",
+      "startFrame": 109,
+      "endFrame": 124,
+      "hi": true
+     },
+     {
+      "word": "a",
+      "startFrame": 121,
+      "endFrame": 133,
+      "hi": false
+     },
+     {
+      "word": "lot.",
+      "startFrame": 130,
+      "endFrame": 137,
+      "hi": false
+     },
+     {
+      "word": "So",
+      "startFrame": 138,
+      "endFrame": 142,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 139,
+      "endFrame": 147,
+      "hi": false
+     },
+     {
+      "word": "felt",
+      "startFrame": 144,
+      "endFrame": 161,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 158,
+      "endFrame": 167,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 164,
+      "endFrame": 170,
+      "hi": false
+     },
+     {
+      "word": "had",
+      "startFrame": 167,
+      "endFrame": 175,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 172,
+      "endFrame": 179,
+      "hi": false
+     },
+     {
+      "word": "give",
+      "startFrame": 176,
+      "endFrame": 184,
+      "hi": false
+     },
+     {
+      "word": "back",
+      "startFrame": 181,
+      "endFrame": 191,
+      "hi": false
+     },
+     {
+      "word": "at",
+      "startFrame": 188,
+      "endFrame": 197,
+      "hi": false
+     },
+     {
+      "word": "least,",
+      "startFrame": 194,
+      "endFrame": 205,
+      "hi": false
+     },
+     {
+      "word": "at",
+      "startFrame": 202,
+      "endFrame": 223,
+      "hi": false
+     },
+     {
+      "word": "least",
+      "startFrame": 220,
+      "endFrame": 229,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 226,
+      "endFrame": 235,
+      "hi": false
+     },
+     {
+      "word": "things,",
+      "startFrame": 232,
+      "endFrame": 251,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 257,
+      "endFrame": 261,
+      "hi": false
+     },
+     {
+      "word": "monetary",
+      "startFrame": 257,
+      "endFrame": 289,
+      "hi": false
+     },
+     {
+      "word": "things,",
+      "startFrame": 286,
+      "endFrame": 298,
+      "hi": false
+     },
+     {
+      "word": "which",
+      "startFrame": 301,
+      "endFrame": 305,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 301,
+      "endFrame": 319,
+      "hi": false
+     },
+     {
+      "word": "could",
+      "startFrame": 316,
+      "endFrame": 325,
+      "hi": false
+     },
+     {
+      "word": "do.",
+      "startFrame": 322,
+      "endFrame": 331,
+      "hi": false
+     },
+     {
+      "word": "But",
+      "startFrame": 330,
+      "endFrame": 349,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 346,
+      "endFrame": 352,
+      "hi": false
+     },
+     {
+      "word": "drive",
+      "startFrame": 349,
+      "endFrame": 362,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 359,
+      "endFrame": 376,
+      "hi": false
+     },
+     {
+      "word": "Tesla",
+      "startFrame": 373,
+      "endFrame": 384,
+      "hi": true
+     },
+     {
+      "word": "Model",
+      "startFrame": 381,
+      "endFrame": 391,
+      "hi": true
+     },
+     {
+      "word": "3",
+      "startFrame": 388,
+      "endFrame": 402,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "a3",
+    "videoStartSec": 63.95,
+    "durationInFrames": 139,
+    "crops": [
+     [
+      0,
+      300,
+      1.45,
+      430
+     ]
+    ],
+    "words": [
+     {
+      "word": "So",
+      "startFrame": 6,
+      "endFrame": 10,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 6,
+      "endFrame": 24,
+      "hi": false
+     },
+     {
+      "word": "I'm",
+      "startFrame": 21,
+      "endFrame": 52,
+      "hi": false
+     },
+     {
+      "word": "not",
+      "startFrame": 49,
+      "endFrame": 55,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 52,
+      "endFrame": 61,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 58,
+      "endFrame": 64,
+      "hi": false
+     },
+     {
+      "word": "guy",
+      "startFrame": 61,
+      "endFrame": 70,
+      "hi": false
+     },
+     {
+      "word": "who's",
+      "startFrame": 67,
+      "endFrame": 80,
+      "hi": false
+     },
+     {
+      "word": "going",
+      "startFrame": 77,
+      "endFrame": 84,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 81,
+      "endFrame": 86,
+      "hi": false
+     },
+     {
+      "word": "just",
+      "startFrame": 83,
+      "endFrame": 92,
+      "hi": false
+     },
+     {
+      "word": "show",
+      "startFrame": 89,
+      "endFrame": 99,
+      "hi": false
+     },
+     {
+      "word": "up",
+      "startFrame": 96,
+      "endFrame": 108,
+      "hi": false
+     },
+     {
+      "word": "with",
+      "startFrame": 105,
+      "endFrame": 116,
+      "hi": false
+     },
+     {
+      "word": "Lamborghini",
+      "startFrame": 113,
+      "endFrame": 133,
+      "hi": true
+     },
+     {
+      "word": "or",
+      "startFrame": 130,
+      "endFrame": 137,
+      "hi": false
+     },
+     {
+      "word": "Porsche.",
+      "startFrame": 134,
+      "endFrame": 139,
+      "hi": true
+     }
+    ]
+   }
+  ],
+  "cards": [
+   {
+    "at": [
+     "q",
+     118
+    ],
+    "dur": 60,
+    "big": "0",
+    "small": "properties he owns"
+   },
+   {
+    "at": [
+     "a1",
+     190
+    ],
+    "dur": 75,
+    "big": "$1M+",
+    "small": "made when his company sold"
+   },
+   {
+    "at": [
+     "a2",
+     373
+    ],
+    "dur": 70,
+    "big": "Tesla Model 3",
+    "small": "what he drives"
+   }
+  ]
  }
 }

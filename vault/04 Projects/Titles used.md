@@ -153,3 +153,4 @@
 - This Card Has Pieces of Tiger's REAL Glove and Cap ⛳ (stacked slab)
 - This Fan War NEEDS to Happen 🥊 (stacked rogers)
 - They Spend Over $4M a Month on AI Models (Higgsfield h4m)
+- He Made Over $1M… and Owns ZERO Property (Higgsfield homes)

@@ -21,6 +21,8 @@ Seats: Alex close-up x≈890, Harry close-up x≈930 (centre y 510, zoom 1.15 hi
 | id | idea | structure | len |
 |---|---|---|---|
 | h4m | "$4M a month on AI" (33:23–34:01) | Harry: how much per month? → "over 4 million" → Harry "Wow" → $10K+/person/month, US + Asia → ~400 people, >$10K each | 34.9 s |
+| homes | "I made $1M… I own none" (59:16–1:00:09) | Harry: mega pad in Kazakhstan? → "I don't own any property" → "What? Why?" → sold the company, $1M+, apartments for parents/relatives/wife's parents, culture to give back, parents sacrificed → Tesla Model 3, not a Lamborghini guy | 48.4 s |
+Note (homes): cut a 1.7 s pause and the unclear words after "Tesla Model 3"; music = Einaudi piano (founder-life mood).
 Note: the sentence before "prohibitively expensive" names a model the transcript can't hear clearly → left out rather than captioned wrong.
 
 ## Feedback log
