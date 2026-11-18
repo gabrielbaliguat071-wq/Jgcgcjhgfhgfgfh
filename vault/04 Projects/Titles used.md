@@ -155,3 +155,6 @@
 - They Spend Over $4M a Month on AI Models (Higgsfield h4m)
 - He Made Over $1M… and Owns ZERO Property (Higgsfield homes)
 - He Thought AI Would Replace His Support Team. He Was Wrong. (Higgsfield legal)
+- One Full Day With His Son… in 3 Months (Higgsfield son)
+- They Don't Pay for ANY Ads (Higgsfield ads)
+- Top Creatives Could Spend $100K a Month on AI (Higgsfield 100k)
