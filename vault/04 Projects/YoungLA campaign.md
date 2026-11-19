@@ -20,3 +20,9 @@ Avoid: the "brand shutting down" joke ending (misleading), leading with the $1M 
 Same moments, Guess.tsx look (plan_youngla_vp.py converts ya* scenes -> yv*, cfg src/yv.cfg.json, registered in Guess.tsx).
 Crops: two-shot / wide -> (900, 1, 540) (keeps host + guest / sign + cars), runway model -> (x, 1.15, 560), close-up -> (x+40, 1.6, 460).
 Render: .work/render_youngla_vp.sh. The user prefers VverPaldo for this campaign.
+
+## Popular guests x3 (Big Marlon / Jay Cutler), VverPaldo — plan_marlon.py (ml*), cfg in yv.cfg.json
+Marlon = pink hoodie + white skully (transcribed "Marlin"). The interview mic holder = left (x~600), co-host right (x~1440).
+mlwalk (Burberry model, "don't know how much Gary paid him", skully bit) 164.8-192.4 | mlbrag (Calvin Klein, H&M, "not trying to brag", beats Burberry) 259-300 |
+mlaura (Jay Cutler vs Marlon aura battle) 130-146, 164-171, 233-257. Avoid 179-230 + 386-410 (giveaway talk + "EVERY $100" graphic = ad).
+Unused: the 0-22 s cold open (burned-in "COMING UP" text), Lukie's Skyline (349-360), Quave in pink (361-385).

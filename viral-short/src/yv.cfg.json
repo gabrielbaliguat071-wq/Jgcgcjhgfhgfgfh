@@ -988,5 +988,508 @@
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "src": "g67_yaceo.mp4"
+ },
+ "mlbrag": {
+  "top": "Big Marlon says the YoungLA runway BEATS Burberry",
+  "hl": {
+   "BEATS": "#58EE28"
+  },
+  "cta": "*better than Burberry?*",
+  "music": [
+   "phonk_n",
+   22.4
+  ],
+  "ctaAt": [
+   "c2",
+   "what"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "calvin"
+    ],
+    "G"
+   ],
+   [
+    [
+     "hook",
+     "brag"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "comparison"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "cake"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "belongs"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "calvin"
+   ],
+   [
+    "hook",
+    "h&m"
+   ],
+   [
+    "hook",
+    "brag"
+   ],
+   [
+    "c1",
+    "marlon"
+   ],
+   [
+    "c1",
+    "crushed"
+   ],
+   [
+    "c2",
+    "burberry"
+   ],
+   [
+    "c2",
+    "comparison"
+   ],
+   [
+    "c2",
+    "belongs"
+   ],
+   [
+    "c2",
+    "belong"
+   ],
+   [
+    "c3",
+    "cake"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "brag"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1"
+   ],
+   [
+    "c3"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "brag"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "wow"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c2",
+     "comparison"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c3",
+     "cake"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_mlbrag.mp4"
+ },
+ "mlaura": {
+  "top": "JAY CUTLER vs BIG MARLON \u2014 who has more aura?",
+  "hl": {
+   "JAY": "#58EE28",
+   "CUTLER": "#58EE28",
+   "MARLON": "#F40305",
+   "BIG": "#F40305"
+  },
+  "cta": "*Jay or Marlon?*",
+  "music": [
+   "empire_n",
+   18.8
+  ],
+  "ctaAt": [
+   "c3",
+   "people"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "jay"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "face"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "aura",
+     1
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "favorite"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "jay"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "vote"
+   ],
+   [
+    "hook",
+    "jay"
+   ],
+   [
+    "hook",
+    "old"
+   ],
+   [
+    "hook",
+    "look"
+   ],
+   [
+    "c1",
+    "mog"
+   ],
+   [
+    "c1",
+    "aura"
+   ],
+   [
+    "c1",
+    "face"
+   ],
+   [
+    "c1",
+    "aura",
+    1
+   ],
+   [
+    "c2",
+    "marlon"
+   ],
+   [
+    "c2",
+    "strong"
+   ],
+   [
+    "c3",
+    "big"
+   ],
+   [
+    "c3",
+    "favorite"
+   ],
+   [
+    "c4",
+    "looks"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "jay"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "we"
+   ],
+   [
+    "c3"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "look"
+    ],
+    "kind": "png",
+    "file": "e_think.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "face"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c3",
+     "favorite"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "hook",
+     "aura"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_mlaura.mp4"
+ },
+ "mlwalk": {
+  "top": "Nobody knows how much YoungLA paid Big Marlon",
+  "hl": {
+   "Big": "#58EE28",
+   "Marlon": "#58EE28"
+  },
+  "cta": "*would you wear the skully?*",
+  "music": [
+   "montagem_n",
+   24.0
+  ],
+  "ctaAt": [
+   "c2",
+   "two"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "burberry"
+    ],
+    "G"
+   ],
+   [
+    [
+     "hook",
+     "gary"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "skully",
+     1
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "dead"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "burberry"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "professional"
+   ],
+   [
+    "hook",
+    "burberry"
+   ],
+   [
+    "hook",
+    "gary"
+   ],
+   [
+    "c1",
+    "marlon"
+   ],
+   [
+    "c1",
+    "strong"
+   ],
+   [
+    "c1",
+    "clip"
+   ],
+   [
+    "c2",
+    "marley"
+   ],
+   [
+    "c2",
+    "not"
+   ],
+   [
+    "c2",
+    "skully",
+    1
+   ],
+   [
+    "c2",
+    "two"
+   ],
+   [
+    "c2",
+    "dead"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "gary"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "yeah"
+   ],
+   [
+    "c2",
+    "when"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "gary"
+    ],
+    "kind": "png",
+    "file": "e_think.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "not"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c2",
+     "dead"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "thought"
+    ],
+    "kind": "sfx",
+    "file": "s_fahhh.mp3",
+    "v": 0.3
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_mlwalk.mp4"
  }
 }

@@ -6,3 +6,8 @@
 - "I already have a G-Wagon… I'm already handsome" 😎
 - Jay Cutler's first ever fashion show 😳
 - YoungLA's owner almost leaked their next collab 👀
+
+## YoungLA popular guests (2026-11-19)
+- Nobody knows how much YoungLA paid Big Marlon 💀
+- Big Marlon says the YoungLA runway beats Burberry 😭
+- Jay Cutler vs Big Marlon: who has more aura? 🗿

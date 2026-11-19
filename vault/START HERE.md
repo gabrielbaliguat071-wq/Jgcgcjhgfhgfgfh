@@ -102,3 +102,7 @@ Edit podcast/streamer clips into viral vertical Shorts in a **meme / brainrot cl
 - **VverPaldo Trevor batch tv5 (2026-11-17):** see [[Trevor x5 VverPaldo (Nov 17)]].
 - **Keep usage low (2026-11-01):** batch similar clips in one file, check ONE stills grid per batch, render in one queue, no re-checks unless something is clearly broken.
 - Campaign rule: Shorts must be 15 s+ (aim 16+). Never ship under 15 s.
+
+## Clip choice + loudness (user, 2026-11-19)
+- Every clip must be FUNNY and engaging — a moment people will actually watch to the end. Skip moments that are only informative.
+- Don't make the volume too high: master to -16 LUFS / -2 dB true peak (was -14 / -1.5). Render scripts updated (render_youngla*, render_marlon).
