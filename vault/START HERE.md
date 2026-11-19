@@ -106,3 +106,4 @@ Edit podcast/streamer clips into viral vertical Shorts in a **meme / brainrot cl
 ## Clip choice + loudness (user, 2026-11-19)
 - Every clip must be FUNNY and engaging — a moment people will actually watch to the end. Skip moments that are only informative.
 - Don't make the volume too high: master to -16 LUFS / -2 dB true peak (was -14 / -1.5). Render scripts updated (render_youngla*, render_marlon).
+- Keep videos short — "just enough" (~18-25 s), no filler (user, 2026-11-19). Funny ones get meme SFX on the beats (record scratch, huh, fahhh, oh hell nah, awk).

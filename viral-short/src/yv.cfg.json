@@ -1491,5 +1491,209 @@
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "src": "g67_mlwalk.mp4"
+ },
+ "mlig": {
+  "top": "He needed 4 TAKES to catch a stick\u2026 for his IG",
+  "hl": {
+   "4": "#F40305",
+   "TAKES": "#F40305",
+   "IG": "#58EE28"
+  },
+  "cta": "*how many takes would YOU need?*",
+  "music": [
+   "funkabn_n",
+   33.2
+  ],
+  "ctaAt": [
+   "c4",
+   "no"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "ig"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "slipped"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c3",
+     "four"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c4",
+     "time"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "ig"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "ig"
+   ],
+   [
+    "hook",
+    "personal"
+   ],
+   [
+    "c1",
+    "run"
+   ],
+   [
+    "c2",
+    "slipped"
+   ],
+   [
+    "c2",
+    "hands"
+   ],
+   [
+    "c2",
+    "one"
+   ],
+   [
+    "c3",
+    "take"
+   ],
+   [
+    "c3",
+    "four"
+   ],
+   [
+    "c4",
+    "frame"
+   ],
+   [
+    "c4",
+    "time"
+   ],
+   [
+    "c4",
+    "huh"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c3",
+    "four"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c4"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1"
+   ],
+   [
+    "c3"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "ig"
+    ],
+    "kind": "sfx",
+    "file": "m_record-scratch.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "hook",
+     "personal"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c2",
+     "slipped"
+    ],
+    "kind": "sfx",
+    "file": "s_fahhh.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c2",
+     "slipped"
+    ],
+    "kind": "png",
+    "file": "e_sob.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "four"
+    ],
+    "kind": "sfx",
+    "file": "s_awk.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c3",
+     "four"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c4",
+     "huh"
+    ],
+    "kind": "sfx",
+    "file": "m_oh-hell-nah.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c4",
+     "no"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_mlig.mp4"
  }
 }

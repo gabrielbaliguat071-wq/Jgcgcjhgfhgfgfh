@@ -26,3 +26,7 @@ Marlon = pink hoodie + white skully (transcribed "Marlin"). The interview mic ho
 mlwalk (Burberry model, "don't know how much Gary paid him", skully bit) 164.8-192.4 | mlbrag (Calvin Klein, H&M, "not trying to brag", beats Burberry) 259-300 |
 mlaura (Jay Cutler vs Marlon aura battle) 130-146, 164-171, 233-257. Avoid 179-230 + 386-410 (giveaway talk + "EVERY $100" graphic = ad).
 Unused: the 0-22 s cold open (burned-in "COMING UP" text), Lukie's Skyline (349-360), Quave in pink (361-385).
+
+## Funny one: mlig (plan_funny.py, 19 s) — backstage reaction-stick test (866-917): keeps dropping it, "take four", then "I need this for my IG bro" -> "so we're all here on your time now, huh?"
+Other funny spots still unused: Gary "can I run? No." runway practice (1012-1047, b-roll heavy), "you can go home bro, we need 30 more" (676-686),
+Johnny's aura "felt it in my midsection… head, shoulders, knees and toes" (416-447).
