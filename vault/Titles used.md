@@ -12,3 +12,4 @@
 - Big Marlon says the YoungLA runway beats Burberry 😭
 - Jay Cutler vs Big Marlon: who has more aura? 🗿
 - He needed 4 takes to catch a stick… for his IG 💀 (YoungLA, 2026-11-19)
+- The KID vs the VILLAIN of Popdarts 😳 (Popdarts, 2026-11-19)

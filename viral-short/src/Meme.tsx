@@ -20,7 +20,7 @@ type Word = {word: string; startFrame: number; endFrame: number};
 type Scene = {id: string; videoStartSec: number; durationInFrames: number; crops: number[][]; words: Word[]};
 type MemeCfg = {top: string; hl: Record<string, string>; src: string; music: [string, number]; musicVol?: number; label?: string;
   kw: Record<string, string>; emoji: [Ref, string][]; tints: [Ref, string][]; punch: Ref[]; cta: string; ctaAt: Ref;
-  sfx?: [Ref, string, number][]; bgBlur?: number};
+  sfx?: [Ref, string, number][]; bgBlur?: number; noMusic?: boolean; noSfx?: boolean; after?: {text: string; emoji?: string}};
 export const MEME = CFG as unknown as Record<string, MemeCfg>;
 const SC = GEN as unknown as Record<string, Scene[]>;
 export const memeFrames = (id: string) => SC[id].reduce((a, s) => a + s.durationInFrames, 0);
@@ -75,6 +75,7 @@ export const Meme: React.FC<{edit: string}> = ({edit}) => {
   const emo = EMO.filter((x) => f >= x.t && f < x.t + 30).pop();
   const ctaFrom = at(cfg.ctaAt);
 
+  const AFTER = SCENES[1] ? START[SCENES[1].id] : 0, showAfter = !!cfg.after && f >= AFTER;
   const FX: [string, number, number][] = [];
   const add = (file: string, t: number, v: number) => { if (t >= 0 && !FX.some(([, u]) => Math.abs(u - t) < 4)) FX.push([file, t, v]); };
   if (SCENES[1]) add('s_camflash.mp3', START[SCENES[1].id], 0.45);
@@ -83,6 +84,7 @@ export const Meme: React.FC<{edit: string}> = ({edit}) => {
   EMO.forEach(({t}) => add('m_ding-2.mp3', t, 0.16));
   CUTS.filter((t) => t > 0).forEach((t) => add('m_fast-whoosh.mp3', t - 16, 0.3));   // whoosh peak (550 ms) on the cut
   PUNCH.forEach((t) => add('pop.mp3', t, 0.2));
+  if (cfg.noSfx) FX.length = 0;
 
   return <AbsoluteFill style={{background: '#000', overflow: 'hidden'}}>
     <AbsoluteFill style={{transform: `translateX(${wx + shake}px) scale(${zoomAll})`, filter: `saturate(1.12) contrast(1.05)${wb ? ` blur(${wb / 6}px)` : ''}`}}>
@@ -96,12 +98,17 @@ export const Meme: React.FC<{edit: string}> = ({edit}) => {
     {hard >= 0 && hard < 3 && <AbsoluteFill style={{background: '#fff', opacity: [0.95, 0.55, 0.2][hard]}} />}
     {f < 4 && <AbsoluteFill style={{background: '#fff', opacity: 1 - f / 4}} />}
 
-    {/* white hook banner, whole video */}
-    <div style={{position: 'absolute', top: 150, left: 50, right: 50, display: 'flex', justifyContent: 'center', transform: `scale(${interpolate(f, [0, 6, 9], [0.6, 1.05, 1], clamp)})`}}>
+    {/* white hook banner (whole video, or hook only when cfg.after swaps in the sponsor line) */}
+    {!showAfter && <div style={{position: 'absolute', top: 150, left: 50, right: 50, display: 'flex', justifyContent: 'center', transform: `scale(${interpolate(f, [0, 6, 9], [0.6, 1.05, 1], clamp)})`}}>
       <div style={{background: '#fff', borderRadius: 18, padding: '18px 30px', boxShadow: '0 8px 26px rgba(0,0,0,0.55)', fontFamily: MONT, fontWeight: 800, fontSize: 56, lineHeight: '64px', color: '#111', textAlign: 'center', textTransform: 'uppercase'}}>
         {cfg.top.split(' ').map((w, i) => <span key={i} style={{color: cfg.hl[w] ?? '#111'}}>{w} </span>)}
       </div>
-    </div>
+    </div>}
+    {showAfter && (() => { const k = spring({frame: f - AFTER, fps, config: {damping: 13, stiffness: 200}});
+      return <div style={{position: 'absolute', top: 150, left: 40, right: 40, display: 'flex', justifyContent: 'center', transform: `scale(${0.7 + 0.3 * k})`}}>
+        <div style={{background: '#CC0000', borderRadius: 18, padding: '16px 28px', boxShadow: '0 8px 26px rgba(0,0,0,0.55)', fontFamily: MONT, fontWeight: 800, fontSize: 50, lineHeight: '60px', color: '#fff', textAlign: 'center', textTransform: 'uppercase', display: 'flex', alignItems: 'center', gap: 14}}>
+          <span>{cfg.after!.text}</span>{cfg.after!.emoji && <Img src={staticFile(`res/emoji/${cfg.after!.emoji}.png`)} style={{width: 64, height: 64}} />}
+        </div></div>; })()}
     {cfg.label && f < 75 && <div style={{position: 'absolute', top: 395, left: 0, right: 0, textAlign: 'center', opacity: interpolate(f, [0, 6, 66, 75], [0, 1, 1, 0], clamp)}}>
       <span style={{fontFamily: MONT, fontWeight: 800, fontSize: 32, color: '#fff', background: 'rgba(0,0,0,0.65)', borderRadius: 12, padding: '6px 18px', letterSpacing: 1}}>{cfg.label}</span>
     </div>}
@@ -120,7 +127,7 @@ export const Meme: React.FC<{edit: string}> = ({edit}) => {
       <span style={{fontFamily: MONT, fontWeight: 800, fontSize: 44, color: '#111', background: YEL, borderRadius: 14, padding: '8px 22px', boxShadow: '0 6px 18px rgba(0,0,0,0.5)'}}>{cfg.cta}</span>
     </div>}
 
-    <Audio src={staticFile(`res/${cfg.music[0]}.mp3`)} startFrom={Math.round(cfg.music[1] * fps)} volume={cfg.musicVol ?? 0.45} loop />
+    {!cfg.noMusic && <Audio src={staticFile(`res/${cfg.music[0]}.mp3`)} startFrom={Math.round(cfg.music[1] * fps)} volume={cfg.musicVol ?? 0.45} loop />}
     {FX.map(([file, t, v], i) => <Sequence key={i} from={t}><Audio src={staticFile(`res/${file}`)} volume={v} /></Sequence>)}
     {/* tSrc kept for debugging stills */}
     <div style={{display: 'none'}}>{tSrc}</div>
