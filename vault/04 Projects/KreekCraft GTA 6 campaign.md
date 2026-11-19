@@ -7,3 +7,8 @@
   clean subtitles, zooms, SFX. No fake reactions / misleading context; max 5 near-identical posts.
 - Footage access (2026-11-19): yt-dlp lists the VOD, but downloads from the cloud box crawl (~40 KB/s, 12 MB in 5 min) → whole VOD impossible.
   Chat-replay scan via Twitch GQL was blocked by the permission system → don't retry. Need user to give timestamps or upload short clips.
+- **Footage that works:** Twitch clips list (`yt-dlp --flat-playlist "https://www.twitch.tv/kreekcraft/clips?filter=clips&range=7d"`) and each clip downloads in ~1 s
+  at 1080p. YouTube @Kreek streams: blocked (bot check). Skip clips whose joke is sexual (kreekwhat, woah).
+## Batch 1 (2026-11-19) — `viral-short/src/Kreek.tsx` (comps `Kreek-<id>`), plan `viral-short/plan_kreek.py`
+Layout: overlay top (required, whole clip), facecam panel (crop x55 y150 330×380), gameplay panel (x450 y50 1040×890, above the stream's own subs), captions on the seam.
+| croc | crocodile bet: "if I get eaten I give away an extra copy" → gets eaten | 27 s | shark | "where's the shark?" → "I got them" | 15 s | banned | nightclub "my stream's about to get banned… nice knowing y'all" | 19.5 s |
