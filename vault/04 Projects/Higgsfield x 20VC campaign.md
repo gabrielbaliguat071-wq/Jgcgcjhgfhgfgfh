@@ -29,6 +29,9 @@ Seats: Alex close-up x≈890, Harry close-up x≈930 (centre y 510, zoom 1.15 hi
 | inv | "Investors shook hands, came back 30% lower" (46:38–47:01) | hook = "next day… pulled the syndicate… 30% lower valuation" → Harry: did you know Yuri would write the check? → shook hands… → "but it didn't happen with Yuri" | 33.0 s |
 | phd | "You don't need PhD-level AI to make a viral video" (31:08–31:53) | hook = the PhD line → ad creatives by the hundreds, cheaper steerable models → PhD line | 33.9 s (margins part left out on purpose) |
 | jensen | "What I learn from Jensen, Elon and Nik looks like micromanagement" (55:35–56:14) | hook = "knowing the details… corporate America would call it micromanagement" → taught corporate management, learns from Jensen/Elon/Nik, no 1:1s or soft feedback | 37.2 s |
+| mom | "My mom worked three jobs" (50:23–51:17) | hook = "from the age of 7 to 12 my mother had to work three jobs" → Harry: regret one day with your son in 3.5 months? → goes beyond that → father dedicated his life (camps, he was a minor) → since 2021 Parkinson's, capital/exits can't change it → still misses birthdays, weddings | 43.7 s |
+| 30k | "$30K on AI in a week" (34:15–34:58) | hook = "caught a guy who spent over $30K in a week" → Harry: how has it changed? → vibe coding → did it himself, five nights straight → "wouldn't say production ready, but we learned a lot" → many spend $10K+/week → finance team: too relentless | 42.6 s |
+| plans | "Google & OpenAI will kill the $20 plans" (19:31–20:22) | hook = "completely demolish… $20 a month subscriptions" → can never win a $20/month market → why: Google/OpenAI → Harry rephrase, "I do believe that" → contrarian bet | 46.5 s |
 Night batch (user: "why low views?"): 30–35 s, strongest line in second 1. The "$500,000 a month for legal/finance" bit after 100k sounds wrong in the transcript → not used.
 Gotcha: add a crop at EVERY camera cut inside a scene (100k hook showed an empty studio when the wide shot came in).
 Note (legal): cut a 2 s pause + one unfinished half-sentence (39.0–46.5).
@@ -41,3 +44,8 @@ Note: the sentence before "prohibitively expensive" names a model the transcript
 ## User's channels (2026-11-18)
 - #1 AI Founder Clips (@aifounderclips, blue) · #2 The Founder Files (@thefounderfiles, orange, YouTube) · #3 Big Money Talks (@bigmoneytalks, purple, YouTube).
 - Each clip goes on ONE account only (posting the same clip on several pages = spam = unpaid).
+
+## Batch 4 (2026-11-19) for The Founder Files: plan_higgs6.py, excerpts footage/higgs/tx6 (hmom 3000 s, h30k 2040 s, hplans 1160 s), auto crops from a shot map, -16 LUFS.
+Captions: model name after "$30K in a week on …" is unclear ("Astra"?) → left out. "ability to capital" → "access to capital", "since 20 first" → 2021.
+Unused brief ideas left: churn/NRR (21:20), 90 min film = 100+ h footage (23:55), 3,000-word prompts (27:25), margins (31:52), two US incumbents/China four (32:58+26:23),
+AI support harder (37:35), researchers game tests (25:15), Claude→Codex (38:14), Europe (52:57), job-hopping (54:36), Yuri saw media shift (45:23).

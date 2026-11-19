@@ -13,3 +13,8 @@
 - Jay Cutler vs Big Marlon: who has more aura? 🗿
 - He needed 4 takes to catch a stick… for his IG 💀 (YoungLA, 2026-11-19)
 - The KID vs the VILLAIN of Popdarts 😳 (Popdarts, 2026-11-19)
+
+## Higgsfield batch 4 → The Founder Files (2026-11-19)
+- His mom worked 3 jobs. His dad gave up everything. 💔
+- One employee spent $30K on AI in ONE week 😳
+- Google & OpenAI will kill every $20/month AI app 💀
