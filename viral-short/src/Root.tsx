@@ -10,6 +10,7 @@ import { Boxed, BOXED, boxedFrames } from './Boxed';
 import { Topps, TOPPS, toppsFrames } from './Topps';
 import { Cursed, CURSED, cursedFrames } from './Cursed';
 import { Boxabl, BOXABL } from './Boxabl';
+import { BoxablPhoto, BXP, bxpFrames } from './BoxablPhoto';
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -45,6 +46,9 @@ export const RemotionRoot: React.FC = () => {
       ))}
       {Object.keys(BOXABL).map((id) => (
         <Composition key={'x' + id} id={`Boxabl-${id}`} component={Boxabl} defaultProps={{edit: id}} durationInFrames={Math.round(BOXABL[id].dur * 30)} fps={30} width={1080} height={1920} />
+      ))}
+      {Object.keys(BXP).map((id) => (
+        <Composition key={'p' + id} id={`BXP-${id}`} component={BoxablPhoto} defaultProps={{edit: id}} durationInFrames={bxpFrames(id)} fps={30} width={1080} height={1920} />
       ))}
     </>
   );

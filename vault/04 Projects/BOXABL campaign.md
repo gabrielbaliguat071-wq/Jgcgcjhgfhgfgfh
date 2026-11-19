@@ -17,3 +17,8 @@ roof fascia in every shot + end card "BOXABL" logo. SVG flat cartoon, scenes zoo
 | bxfly | hook: flying over traffic → stuck → thrusters → "Tesla. SpaceX. Flying cars. BOXABL." → lands in backyard | 14.1 s | Montagem Alquimia |
 | bxdoc | nature-doc narration (Kokoro bm_george, TTS input "Boxable" for pronunciation, captions forced to BOXABL), binocular open | 19.8 s | VO + Einaudi |
 Kokoro install: `pip install kokoro-onnx` + models in ~/kokoro (github thewh1teagle/kokoro-onnx model-files-v1.0).
+
+## Batch 2 (2026-11-19) — user's own photoreal AI images (house-only prompts we wrote: flying, unfold, Mars, dino, cowboy, aliens)
+`viral-short/src/BoxablPhoto.tsx` (comps `BXP-<id>`), images in `public/res/bxp/` (gitignored). BOXABL sign composited on each house's fascia
+(source-px coords in IMG), push-in + whip, big caption, BOXABL end card. User asked for Trump/Elon — declined (no realistic fakes of real people).
+| bxtraffic | fly → unfold (shake) → Mars | 10.9 s | bxanywhere | dino → cowboy → aliens | 10.9 s | bxpick | "where would YOU put your BOXABL?" 1–6 + comment CTA | 12.3 s |
