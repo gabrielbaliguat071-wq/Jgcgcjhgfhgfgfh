@@ -15,3 +15,8 @@ Avoid: the "brand shutting down" joke ending (misleading), leading with the $1M 
 | yahand | "I already have a G-Wagon. I'm already handsome" | 586-618 |
 | yajay | Jay Cutler's first fashion show, SF90, compression shirts | 1049-1146 |
 | yaceo | owner: craziest collab, biggest franchise -> Dragon Ball Z in April | 923-962 |
+
+## VverPaldo re-cut (user asked, 2026-11-19): yv*
+Same moments, Guess.tsx look (plan_youngla_vp.py converts ya* scenes -> yv*, cfg src/yv.cfg.json, registered in Guess.tsx).
+Crops: two-shot / wide -> (900, 1, 540) (keeps host + guest / sign + cars), runway model -> (x, 1.15, 560), close-up -> (x+40, 1.6, 460).
+Render: .work/render_youngla_vp.sh. The user prefers VverPaldo for this campaign.

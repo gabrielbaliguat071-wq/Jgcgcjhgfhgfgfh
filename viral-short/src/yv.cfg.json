@@ -1,0 +1,992 @@
+{
+ "yvneg": {
+  "top": "His bank account hit NEGATIVE $152,000",
+  "hl": {
+   "NEGATIVE": "#F40305",
+   "$152,000": "#F40305"
+  },
+  "cta": "*how do you even get here?*",
+  "music": [
+   "phonk_n",
+   22.4
+  ],
+  "ctaAt": [
+   "c3",
+   "okay"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "negative"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "zero"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1b",
+     "taxes"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "million"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "51"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c3",
+    "youngla"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "negative"
+   ],
+   [
+    "hook",
+    "$152"
+   ],
+   [
+    "c1",
+    "emptied"
+   ],
+   [
+    "c1",
+    "zero"
+   ],
+   [
+    "c1b",
+    "robbed"
+   ],
+   [
+    "c1b",
+    "taxes"
+   ],
+   [
+    "c1b",
+    "consent"
+   ],
+   [
+    "c1b",
+    "wild"
+   ],
+   [
+    "c2",
+    "million"
+   ],
+   [
+    "c3",
+    "equity"
+   ],
+   [
+    "c3",
+    "51"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "$152"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1b"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ],
+   [
+    "c3"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c1b",
+     "robbed"
+    ],
+    "kind": "png",
+    "file": "e_think.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1b",
+     "wild"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c1b",
+     "consent"
+    ],
+    "kind": "png",
+    "file": "e_sob.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "51"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34
+   },
+   {
+    "at": [
+     "c3",
+     "51"
+    ],
+    "kind": "sfx",
+    "file": "s_money.mp3",
+    "v": 0.35
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_yaneg.mp4"
+ },
+ "yvaura": {
+  "top": "The most aura at the show went to\u2026 the SOUND GUY",
+  "hl": {
+   "SOUND": "#58EE28",
+   "GUY": "#58EE28"
+  },
+  "cta": "*who has more aura than Griffin?*",
+  "music": [
+   "montagem_n",
+   24.0
+  ],
+  "ctaAt": [
+   "c3",
+   "volumes"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "produce"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "aura"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "awarded"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "speak"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c3",
+    "awarded"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "noise"
+   ],
+   [
+    "hook",
+    "produce"
+   ],
+   [
+    "hook",
+    "wow"
+   ],
+   [
+    "c1",
+    "aura"
+   ],
+   [
+    "c2",
+    "jay"
+   ],
+   [
+    "c3",
+    "sound"
+   ],
+   [
+    "c3",
+    "griffin"
+   ],
+   [
+    "c3",
+    "awarded"
+   ],
+   [
+    "c3",
+    "speak"
+   ],
+   [
+    "c3",
+    "volumes"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "wow"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c3"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ],
+   [
+    "c3",
+    "griffin",
+    1
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "wow"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c3",
+     "awarded"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "awarded"
+    ],
+    "kind": "sfx",
+    "file": "s_correct.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c3",
+     "volumes"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_yaaura.mp4"
+ },
+ "yvlate": {
+  "top": "He showed up 3 HOURS LATE to the YoungLA show",
+  "hl": {
+   "3": "#F40305",
+   "HOURS": "#F40305",
+   "LATE": "#F40305"
+  },
+  "cta": "*would you have waited?*",
+  "music": [
+   "funkabn_n",
+   33.2
+  ],
+  "ctaAt": [
+   "c2",
+   "go"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "bathroom"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "three"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "ready"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "mad"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "ready"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "directly"
+   ],
+   [
+    "hook",
+    "bathroom"
+   ],
+   [
+    "hook",
+    "long"
+   ],
+   [
+    "c1",
+    "three"
+   ],
+   [
+    "c1",
+    "literally"
+   ],
+   [
+    "c1",
+    "ready"
+   ],
+   [
+    "c1",
+    "pee"
+   ],
+   [
+    "c1",
+    "mad"
+   ],
+   [
+    "c2",
+    "go",
+    1
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "bathroom"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1",
+    "come"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "what"
+   ],
+   [
+    "c2"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "long"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "literally"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c1",
+     "pee",
+     1
+    ],
+    "kind": "png",
+    "file": "e_sob.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "go",
+     1
+    ],
+    "kind": "sfx",
+    "file": "s_fahhh.mp3",
+    "v": 0.3
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_yalate.mp4"
+ },
+ "yvhand": {
+  "top": "\"I already have a G-Wagon\u2026 I'm already HANDSOME\"",
+  "hl": {
+   "HANDSOME\"": "#58EE28"
+  },
+  "cta": "*what would YOU buy first?*",
+  "music": [
+   "brevis_n",
+   0.0
+  ],
+  "ctaAt": [
+   "c2",
+   "tough"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "handsome"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "mature"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "safe"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "tough"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "handsome"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "g-wagon"
+   ],
+   [
+    "hook",
+    "handsome"
+   ],
+   [
+    "c1",
+    "mature"
+   ],
+   [
+    "c1",
+    "apartment"
+   ],
+   [
+    "c1",
+    "crib"
+   ],
+   [
+    "c1",
+    "pool"
+   ],
+   [
+    "c1",
+    "safe"
+   ],
+   [
+    "c2",
+    "think"
+   ],
+   [
+    "c2",
+    "tough"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "handsome"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1",
+    "check",
+    2
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "backyard"
+   ],
+   [
+    "c2"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "handsome"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "mature"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c2",
+     "tough"
+    ],
+    "kind": "png",
+    "file": "e_think.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "tough"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.35
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_yahand.mp4"
+ },
+ "yvjay": {
+  "top": "JAY CUTLER'S first ever fashion show",
+  "hl": {
+   "JAY": "#58EE28",
+   "CUTLER'S": "#58EE28"
+  },
+  "cta": "*would you walk the runway?*",
+  "music": [
+   "empire_n",
+   18.8
+  ],
+  "ctaAt": [
+   "c3",
+   "keep"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "last"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "jay"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "ferrari"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "business"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "jay"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "first"
+   ],
+   [
+    "hook",
+    "last"
+   ],
+   [
+    "c1",
+    "jay"
+   ],
+   [
+    "c1",
+    "applause"
+   ],
+   [
+    "c2",
+    "ferrari"
+   ],
+   [
+    "c2",
+    "sf90"
+   ],
+   [
+    "c2",
+    "robbie"
+   ],
+   [
+    "c3",
+    "compressions"
+   ],
+   [
+    "c3",
+    "physique"
+   ],
+   [
+    "c3",
+    "business"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "sf90"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c3"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "last"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "applause"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c2",
+     "robbie"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c2",
+     "robbie"
+    ],
+    "kind": "png",
+    "file": "e_sob.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "business"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_yajay.mp4"
+ },
+ "yvceo": {
+  "top": "YoungLA's owner almost LEAKED their next collab",
+  "hl": {
+   "LEAKED": "#F40305"
+  },
+  "cta": "*what collab do you want next?*",
+  "music": [
+   "dubist_n",
+   1.0
+  ],
+  "ctaAt": [
+   "c3",
+   "april"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "insane"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "craziest"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "excited"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "dragon"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c3",
+    "dragon"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "biggest"
+   ],
+   [
+    "hook",
+    "insane"
+   ],
+   [
+    "c1",
+    "2027"
+   ],
+   [
+    "c1",
+    "craziest"
+   ],
+   [
+    "c1",
+    "collab"
+   ],
+   [
+    "c1",
+    "achievable"
+   ],
+   [
+    "c2",
+    "excited"
+   ],
+   [
+    "c2",
+    "done"
+   ],
+   [
+    "c3",
+    "dragon"
+   ],
+   [
+    "c3",
+    "april"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "insane"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c3"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "honestly"
+   ],
+   [
+    "c2"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "franchise"
+    ],
+    "kind": "png",
+    "file": "e_think.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "craziest"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c3",
+     "dragon"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c3",
+     "dragon"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_yaceo.mp4"
+ }
+}
