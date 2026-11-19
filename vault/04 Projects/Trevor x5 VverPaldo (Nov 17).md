@@ -27,3 +27,14 @@ comps `Guess-tvjosh|tvgolf|tvslab|tvpeyton|tvplays`, outputs `viral-short/out/fi
 
 ## Feedback log
 - (waiting)
+
+## Batch tv6 (2026-11-19): 6 more, fresh moments — `viral-short/plan_tv6.py` → `src/tv6.cfg.json`
+| id | source | hook → story | song | len |
+|---|---|---|---|---|
+| tvpresnap | presnap `1IFLtTD…` | "I know it should go here and it ends up going there" → % of pre-snap reads (50–65 %, coverage changes 15 %) | Sentamento | 32.2 s |
+| tvpacks | Backyard Packs `1OwYNUl…` | "every pack you open would be a Trevor Lawrence… every card?" → digital repacks shipped home | Funk Abnormal | 22.0 s |
+| tvking | entrance `1OQKwlc…` | "Boys. Here you go" → "All hail the king" ×3 | Empire | 17.3 s |
+| tvmarino | NT rip (50–80 s) | "Top ten? I mean, gotta be" → Atwater, "come on Trevor", Dan Marino all time? "he could sling it" | AURA phonk | 19.4 s |
+| tvartist | golf (58–78 s) | "Oh I love Chris (Stapleton)" → favorite artist → shout out mom and dad in the chat | Blue | 17.2 s |
+| tvkeepsake | ticket (40–71 s) | "I don't have the ticket for the national championship" → signed a ton for fans, kept a couple game-worn in his closet | Montagem | 25.2 s |
+Framing: Trevor crops need centre y ≈ 510–520 (face high, captions on chest). NT rip seat: Trevor x 980.
