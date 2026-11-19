@@ -20,7 +20,7 @@ type Word = {word: string; startFrame: number; endFrame: number};
 type Scene = {id: string; videoStartSec: number; durationInFrames: number; crops: number[][]; words: Word[]};
 type MemeCfg = {top: string; hl: Record<string, string>; src: string; music: [string, number]; musicVol?: number; label?: string;
   kw: Record<string, string>; emoji: [Ref, string][]; tints: [Ref, string][]; punch: Ref[]; cta: string; ctaAt: Ref;
-  sfx?: [Ref, string, number][]};
+  sfx?: [Ref, string, number][]; bgBlur?: number};
 export const MEME = CFG as unknown as Record<string, MemeCfg>;
 const SC = GEN as unknown as Record<string, Scene[]>;
 export const memeFrames = (id: string) => SC[id].reduce((a, s) => a + s.durationInFrames, 0);
@@ -87,7 +87,7 @@ export const Meme: React.FC<{edit: string}> = ({edit}) => {
   return <AbsoluteFill style={{background: '#000', overflow: 'hidden'}}>
     <AbsoluteFill style={{transform: `translateX(${wx + shake}px) scale(${zoomAll})`, filter: `saturate(1.12) contrast(1.05)${wb ? ` blur(${wb / 6}px)` : ''}`}}>
       {band ? <>
-        <AbsoluteFill style={{filter: 'blur(28px) brightness(0.55)', transform: 'scale(1.15)'}}>{video({position: 'absolute', top: 0, left: (1080 - 3413) / 2, width: 3413, height: 1920}, true)}</AbsoluteFill>
+        <AbsoluteFill style={{filter: `blur(${cfg.bgBlur ?? 28}px) brightness(0.55)`, transform: 'scale(1.15)'}}>{video({position: 'absolute', top: 0, left: (1080 - 3413) / 2, width: 3413, height: 1920}, true)}</AbsoluteFill>
         {video({position: 'absolute', left: 0, top: cy - 304, width: 1080, height: 608, boxShadow: '0 10px 40px #000'})}
       </> : video({position: 'absolute', left, top, width: vw, height: vh})}
       {tint && <AbsoluteFill style={{background: tint[1], opacity: tint[0], mixBlendMode: 'screen'}} />}

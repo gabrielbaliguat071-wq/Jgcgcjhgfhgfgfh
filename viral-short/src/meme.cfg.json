@@ -453,5 +453,887 @@
    ]
   ],
   "src": "g67_mcoen.mp4"
+ },
+ "yaneg": {
+  "top": "His bank account hit -$152,000",
+  "hl": {
+   "-$152,000": "#E3201B"
+  },
+  "music": [
+   "phonk_n",
+   0.0
+  ],
+  "cta": "HOW DO YOU EVEN GET HERE?",
+  "ctaAt": [
+   "c3",
+   "okay"
+  ],
+  "kw": {
+   "negative": "#FF4D4D",
+   "$152000": "#FF4D4D",
+   "zero": "#FF4D4D",
+   "robbed": "#FF4D4D",
+   "taxes": "#FFE14D",
+   "consent": "#FFE14D",
+   "wild": "#5CFF5C",
+   "million": "#5CFF5C",
+   "equity": "#5CFF5C",
+   "youngla": "#FFE14D",
+   "51": "#5CFF5C",
+   "emptied": "#FF4D4D"
+  },
+  "emoji": [
+   [
+    [
+     "hook",
+     "$152"
+    ],
+    "1f480"
+   ],
+   [
+    [
+     "c1b",
+     "robbed"
+    ],
+    "1f6a8"
+   ],
+   [
+    [
+     "c1b",
+     "taxes"
+    ],
+    "1f62d"
+   ],
+   [
+    [
+     "c2",
+     "million"
+    ],
+    "1f4b0"
+   ],
+   [
+    [
+     "c3",
+     "youngla"
+    ],
+    "1f60f"
+   ],
+   [
+    [
+     "c3",
+     "51"
+    ],
+    "1f92f"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "negative"
+   ],
+   [
+    "hook",
+    "$152"
+   ],
+   [
+    "c1",
+    "zero"
+   ],
+   [
+    "c1b",
+    "robbed"
+   ],
+   [
+    "c1b",
+    "taxes"
+   ],
+   [
+    "c1b",
+    "consent"
+   ],
+   [
+    "c1b",
+    "wild"
+   ],
+   [
+    "c2",
+    "million"
+   ],
+   [
+    "c3",
+    "equity"
+   ],
+   [
+    "c3",
+    "youngla"
+   ],
+   [
+    "c3",
+    "51"
+   ]
+  ],
+  "sfx": [
+   [
+    [
+     "hook",
+     "$152"
+    ],
+    "m_record-scratch.mp3",
+    0.3
+   ],
+   [
+    [
+     "c1b",
+     "wild"
+    ],
+    "s_huh.mp3",
+    0.3
+   ],
+   [
+    [
+     "c3",
+     "51"
+    ],
+    "m_cha-ching.mp3",
+    0.3
+   ]
+  ],
+  "src": "g67_yaneg.mp4",
+  "label": "YOUNGLA \u00b7 BODYBUILDERS VS MODELS",
+  "tints": [],
+  "bgBlur": 10
+ },
+ "yaaura": {
+  "top": "The most aura at the show went to\u2026 the SOUND GUY",
+  "hl": {
+   "SOUND": "#1DB954",
+   "GUY": "#1DB954"
+  },
+  "music": [
+   "montagem_n",
+   24.0
+  ],
+  "cta": "WHO HAS MORE AURA THAN GRIFFIN?",
+  "ctaAt": [
+   "c3",
+   "volumes"
+  ],
+  "kw": {
+   "noise": "#FFE14D",
+   "produce": "#5CFF5C",
+   "wow": "#5CFF5C",
+   "aura": "#FFE14D",
+   "jay": "#5CFF5C",
+   "cutler": "#5CFF5C",
+   "sound": "#FFE14D",
+   "griffin": "#5CFF5C",
+   "speak": "#FF4D4D",
+   "volumes": "#5CFF5C",
+   "awarded": "#FFE14D"
+  },
+  "emoji": [
+   [
+    [
+     "hook",
+     "noise"
+    ],
+    "1f3a7"
+   ],
+   [
+    [
+     "hook",
+     "wow"
+    ],
+    "1f5ff"
+   ],
+   [
+    [
+     "c1",
+     "aura"
+    ],
+    "2728"
+   ],
+   [
+    [
+     "c2",
+     "jay"
+    ],
+    "1f4aa"
+   ],
+   [
+    [
+     "c3",
+     "sound"
+    ],
+    "1f3a7"
+   ],
+   [
+    [
+     "c3",
+     "awarded"
+    ],
+    "1f3c6"
+   ],
+   [
+    [
+     "c3",
+     "speak"
+    ],
+    "1f5ff"
+   ],
+   [
+    [
+     "c3",
+     "volumes"
+    ],
+    "1f92f"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "noise"
+   ],
+   [
+    "hook",
+    "produce"
+   ],
+   [
+    "hook",
+    "wow"
+   ],
+   [
+    "c1",
+    "aura"
+   ],
+   [
+    "c2",
+    "jay"
+   ],
+   [
+    "c3",
+    "sound"
+   ],
+   [
+    "c3",
+    "griffin"
+   ],
+   [
+    "c3",
+    "awarded"
+   ],
+   [
+    "c3",
+    "speak"
+   ],
+   [
+    "c3",
+    "volumes"
+   ]
+  ],
+  "sfx": [
+   [
+    [
+     "hook",
+     "wow"
+    ],
+    "m_anime-wow.mp3",
+    0.3
+   ],
+   [
+    [
+     "c3",
+     "awarded"
+    ],
+    "m_crowd-cheer.mp3",
+    0.22
+   ]
+  ],
+  "src": "g67_yaaura.mp4",
+  "label": "YOUNGLA \u00b7 BODYBUILDERS VS MODELS",
+  "tints": [],
+  "bgBlur": 10
+ },
+ "yalate": {
+  "top": "Showed up 3 HOURS LATE to the YoungLA show",
+  "hl": {
+   "3": "#E3201B",
+   "HOURS": "#E3201B",
+   "LATE": "#E3201B"
+  },
+  "music": [
+   "funkabn_n",
+   2.0
+  ],
+  "cta": "WOULD YOU HAVE WAITED?",
+  "ctaAt": [
+   "c2",
+   "go"
+  ],
+  "kw": {
+   "bathroom": "#FFE14D",
+   "pss": "#FFE14D",
+   "long": "#FF4D4D",
+   "three": "#FF4D4D",
+   "hours": "#FF4D4D",
+   "late": "#FF4D4D",
+   "ready": "#5CFF5C",
+   "pee": "#FFE14D",
+   "bad": "#FF4D4D",
+   "aaron": "#5CFF5C",
+   "mad": "#FF4D4D",
+   "bro": "#5CFF5C"
+  },
+  "emoji": [
+   [
+    [
+     "hook",
+     "bathroom"
+    ],
+    "1f6bd"
+   ],
+   [
+    [
+     "hook",
+     "long"
+    ],
+    "1f62d"
+   ],
+   [
+    [
+     "c1",
+     "three"
+    ],
+    "23f0"
+   ],
+   [
+    [
+     "c1",
+     "ready"
+    ],
+    "1f440"
+   ],
+   [
+    [
+     "c1",
+     "pee"
+    ],
+    "1f6bd"
+   ],
+   [
+    [
+     "c1",
+     "aaron"
+    ],
+    "1f62c"
+   ],
+   [
+    [
+     "c2",
+     "go",
+     1
+    ],
+    "1f602"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "directly"
+   ],
+   [
+    "hook",
+    "bathroom"
+   ],
+   [
+    "hook",
+    "long"
+   ],
+   [
+    "c1",
+    "three"
+   ],
+   [
+    "c1",
+    "literally"
+   ],
+   [
+    "c1",
+    "ready"
+   ],
+   [
+    "c1",
+    "pee"
+   ],
+   [
+    "c1",
+    "mad"
+   ],
+   [
+    "c2",
+    "go",
+    1
+   ]
+  ],
+  "sfx": [
+   [
+    [
+     "hook",
+     "bathroom"
+    ],
+    "m_record-scratch.mp3",
+    0.3
+   ],
+   [
+    [
+     "c1",
+     "literally"
+    ],
+    "s_huh.mp3",
+    0.3
+   ]
+  ],
+  "src": "g67_yalate.mp4",
+  "label": "YOUNGLA \u00b7 BODYBUILDERS VS MODELS",
+  "tints": [],
+  "bgBlur": 10
+ },
+ "yahand": {
+  "top": "\"I already have a G-Wagon. I'm already HANDSOME\"",
+  "hl": {
+   "HANDSOME\"": "#1DB954"
+  },
+  "music": [
+   "brevis_n",
+   0.0
+  ],
+  "cta": "WHAT WOULD YOU BUY FIRST?",
+  "ctaAt": [
+   "c2",
+   "tough"
+  ],
+  "kw": {
+   "g-wagon": "#FFE14D",
+   "handsome": "#5CFF5C",
+   "mature": "#5CFF5C",
+   "apartment": "#FFE14D",
+   "six": "#FFE14D",
+   "crib": "#5CFF5C",
+   "lavish": "#FFE14D",
+   "pool": "#5CFF5C",
+   "safe": "#FF4D4D",
+   "tough": "#FF4D4D",
+   "check": "#5CFF5C",
+   "backyard": "#5CFF5C"
+  },
+  "emoji": [
+   [
+    [
+     "hook",
+     "g-wagon"
+    ],
+    "1f3ce-fe0f"
+   ],
+   [
+    [
+     "hook",
+     "handsome"
+    ],
+    "1f60e"
+   ],
+   [
+    [
+     "c1",
+     "mature"
+    ],
+    "1f9d0"
+   ],
+   [
+    [
+     "c1",
+     "crib"
+    ],
+    "1f4cd"
+   ],
+   [
+    [
+     "c1",
+     "pool"
+    ],
+    "1f3dd-fe0f"
+   ],
+   [
+    [
+     "c1",
+     "safe"
+    ],
+    "1f62c"
+   ],
+   [
+    [
+     "c2",
+     "tough"
+    ],
+    "1f914"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "g-wagon"
+   ],
+   [
+    "hook",
+    "handsome"
+   ],
+   [
+    "c1",
+    "mature"
+   ],
+   [
+    "c1",
+    "apartment"
+   ],
+   [
+    "c1",
+    "crib"
+   ],
+   [
+    "c1",
+    "pool"
+   ],
+   [
+    "c1",
+    "safe"
+   ],
+   [
+    "c2",
+    "think"
+   ],
+   [
+    "c2",
+    "tough"
+   ]
+  ],
+  "sfx": [
+   [
+    [
+     "hook",
+     "handsome"
+    ],
+    "m_rizz-sound-effect.mp3",
+    0.3
+   ],
+   [
+    [
+     "c2",
+     "tough"
+    ],
+    "s_huh.mp3",
+    0.25
+   ]
+  ],
+  "src": "g67_yahand.mp4",
+  "label": "YOUNGLA \u00b7 BODYBUILDERS VS MODELS",
+  "tints": [],
+  "bgBlur": 10
+ },
+ "yajay": {
+  "top": "JAY CUTLER'S first ever fashion show",
+  "hl": {
+   "JAY": "#1DB954",
+   "CUTLER'S": "#1DB954"
+  },
+  "music": [
+   "empire_n",
+   0.0
+  ],
+  "cta": "WOULD YOU WALK FOR YOUNGLA?",
+  "ctaAt": [
+   "c3",
+   "keep"
+  ],
+  "kw": {
+   "first": "#FFE14D",
+   "last": "#FF4D4D",
+   "jay": "#5CFF5C",
+   "cutler": "#5CFF5C",
+   "applause": "#FFE14D",
+   "ferrari": "#FF4D4D",
+   "sf90": "#FF4D4D",
+   "robbies": "#FFE14D",
+   "compressions": "#FFE14D",
+   "physique": "#5CFF5C",
+   "compression": "#FFE14D",
+   "business": "#5CFF5C"
+  },
+  "emoji": [
+   [
+    [
+     "hook",
+     "first"
+    ],
+    "1f633"
+   ],
+   [
+    [
+     "hook",
+     "last"
+    ],
+    "1f480"
+   ],
+   [
+    [
+     "c1",
+     "jay"
+    ],
+    "1f451"
+   ],
+   [
+    [
+     "c2",
+     "ferrari"
+    ],
+    "1f3ce-fe0f"
+   ],
+   [
+    [
+     "c2",
+     "robbie"
+    ],
+    "1f602"
+   ],
+   [
+    [
+     "c3",
+     "physique"
+    ],
+    "1f4aa"
+   ],
+   [
+    [
+     "c3",
+     "business"
+    ],
+    "1f4b0"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "first"
+   ],
+   [
+    "hook",
+    "last"
+   ],
+   [
+    "c1",
+    "jay"
+   ],
+   [
+    "c1",
+    "applause"
+   ],
+   [
+    "c2",
+    "ferrari"
+   ],
+   [
+    "c2",
+    "sf90"
+   ],
+   [
+    "c2",
+    "robbie"
+   ],
+   [
+    "c3",
+    "compressions"
+   ],
+   [
+    "c3",
+    "physique"
+   ],
+   [
+    "c3",
+    "business"
+   ]
+  ],
+  "sfx": [
+   [
+    [
+     "hook",
+     "last"
+    ],
+    "m_record-scratch.mp3",
+    0.3
+   ],
+   [
+    [
+     "c1",
+     "applause"
+    ],
+    "m_crowd-cheer.mp3",
+    0.25
+   ],
+   [
+    [
+     "c2",
+     "robbie"
+    ],
+    "s_huh.mp3",
+    0.3
+   ]
+  ],
+  "src": "g67_yajay.mp4",
+  "label": "YOUNGLA \u00b7 BODYBUILDERS VS MODELS",
+  "tints": [],
+  "bgBlur": 10
+ },
+ "yaceo": {
+  "top": "YoungLA's owner almost LEAKED their next collab",
+  "hl": {
+   "LEAKED": "#E3201B"
+  },
+  "music": [
+   "dubist_n",
+   1.0
+  ],
+  "cta": "WHAT COLLAB DO YOU WANT NEXT?",
+  "ctaAt": [
+   "c3",
+   "april"
+  ],
+  "kw": {
+   "biggest": "#FFE14D",
+   "franchise": "#FFE14D",
+   "insane": "#FF4D4D",
+   "2027": "#5CFF5C",
+   "craziest": "#FF4D4D",
+   "collab": "#FFE14D",
+   "achievable": "#5CFF5C",
+   "excited": "#5CFF5C",
+   "nobody": "#FF4D4D",
+   "dragon": "#FFE14D",
+   "ball": "#FFE14D",
+   "z": "#FFE14D",
+   "april": "#5CFF5C"
+  },
+  "emoji": [
+   [
+    [
+     "hook",
+     "franchise"
+    ],
+    "1f440"
+   ],
+   [
+    [
+     "hook",
+     "insane"
+    ],
+    "1f92f"
+   ],
+   [
+    [
+     "c1",
+     "craziest"
+    ],
+    "1f525"
+   ],
+   [
+    [
+     "c1",
+     "achievable"
+    ],
+    "1f633"
+   ],
+   [
+    [
+     "c2",
+     "excited"
+    ],
+    "1f525"
+   ],
+   [
+    [
+     "c3",
+     "dragon"
+    ],
+    "1f409"
+   ],
+   [
+    [
+     "c3",
+     "april"
+    ],
+    "1f4c5"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "biggest"
+   ],
+   [
+    "hook",
+    "insane"
+   ],
+   [
+    "c1",
+    "2027"
+   ],
+   [
+    "c1",
+    "craziest"
+   ],
+   [
+    "c1",
+    "collab"
+   ],
+   [
+    "c1",
+    "achievable"
+   ],
+   [
+    "c2",
+    "excited"
+   ],
+   [
+    "c2",
+    "done"
+   ],
+   [
+    "c3",
+    "dragon"
+   ],
+   [
+    "c3",
+    "april"
+   ]
+  ],
+  "sfx": [
+   [
+    [
+     "hook",
+     "insane"
+    ],
+    "m_record-scratch.mp3",
+    0.3
+   ],
+   [
+    [
+     "c3",
+     "dragon"
+    ],
+    "m_anime-wow.mp3",
+    0.3
+   ]
+  ],
+  "src": "g67_yaceo.mp4",
+  "label": "YOUNGLA \u00b7 BODYBUILDERS VS MODELS",
+  "tints": [],
+  "bgBlur": 10
  }
 }
