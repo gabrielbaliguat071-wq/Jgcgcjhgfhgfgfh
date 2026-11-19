@@ -19,3 +19,5 @@
 - One employee spent $30K on AI in ONE week 😳
 - Google & OpenAI will kill every $20/month AI app 💀
 - me prompting my roblox game with claude + forgegui mcp 😭 (ForgeGUI, 2026-11-19)
+- ForgeGUI: i only asked for a cute fish in my roblox game 🐟 · lil bro said i can't make attack on titan in roblox 💀 · i only asked for ONE ufo 🛸 (2026-11-19)
+- Backyard Breaks: Sam paid for his wedding 💍 (Josh Allen shield) · 1986 Fleer pack… who is in it? 👀 (MJ rookie) · Pick 3, choose 1… he picked THIS 😳 (Brady black diamond) (2026-11-19)

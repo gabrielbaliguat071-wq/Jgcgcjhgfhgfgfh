@@ -10,3 +10,8 @@ Music: MONTAGEM ALQUIMIA (SLOWED) from 15.2 s (drop at 26 s lands on prompt 5).
 Next ideas: Abyss Station "something is chasing me in my claude + forgegui mcp game", Cursed Sorcerers "which domain did claude make best? 1, 2 or 3",
 Titan Slayers "modeling titans in roblox is hard 😞 (so i use claude + forgegui mcp)", Beam Them Up "i asked for one ufo…".
 Declined campaigns: Onsight (lookalike domain gopiayonsight vs goplayonsight, fake $20K balance), Roblox "free Robux" reupload (scam aimed at kids).
+
+## Batch 2 (2026-11-19): 3 text-story edits — src/ForgeVO.tsx (cfg forgevo.cfg.json, plan_forgevo.py made the shots; `vo: ''` = text mode)
+fgfish (cute fish → monster with TEETH), fgtitan (lil bro: attack on titan → 1 prompt → he lives in my room), fgufo (ONE ufo → cows, crop circles, 12 ufos).
+User: "just do the normal edit for now" → no AI voice. Kokoro am_michael narration exists in plan_forgevo.py if wanted (user declined the ElevenLabs key form).
+Phone footage: zoom onto the monitor using the detected screen centre (cy) / height (sh). Avoid TS15 after 4 s (camera pans to a PC screen).

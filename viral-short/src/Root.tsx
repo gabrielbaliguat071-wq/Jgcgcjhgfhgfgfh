@@ -7,6 +7,8 @@ import { Meme, MEME, memeFrames } from './Meme';
 import { Stack, STACK, stackFrames } from './Stack';
 import { Higgs, HIGGS, higgsFrames } from './Higgs';
 import { Forge, FORGE, forgeFrames } from './Forge';
+import { ForgeVO, FVO, fvoFrames } from './ForgeVO';
+import { Pull, PULL, pullFrames } from './Pull';
 import { Boxed, BOXED, boxedFrames } from './Boxed';
 import { Topps, TOPPS, toppsFrames } from './Topps';
 import { Cursed, CURSED, cursedFrames } from './Cursed';
@@ -27,6 +29,12 @@ export const RemotionRoot: React.FC = () => {
       />
       {Object.keys(EDITS).map((id) => (
         <Composition key={id} id={`Guess-${id}`} component={Guess} defaultProps={{edit: id}} durationInFrames={framesOf(id)} fps={30} width={1080} height={1920} />
+      ))}
+      {Object.keys(PULL).map((id) => (
+        <Composition key={'pl' + id} id={`Pull-${id}`} component={Pull} defaultProps={{edit: id}} durationInFrames={pullFrames(id)} fps={30} width={1080} height={1920} />
+      ))}
+      {Object.keys(FVO).map((id) => (
+        <Composition key={'fv' + id} id={`FVO-${id}`} component={ForgeVO} defaultProps={{edit: id}} durationInFrames={fvoFrames(id)} fps={30} width={1080} height={1920} />
       ))}
       {Object.keys(FORGE).map((id) => (
         <Composition key={'fg' + id} id={`Forge-${id}`} component={Forge} defaultProps={{edit: id}} durationInFrames={forgeFrames(id)} fps={30} width={1080} height={1920} />
