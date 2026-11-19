@@ -18,3 +18,4 @@
 - His mom worked 3 jobs. His dad gave up everything. 💔
 - One employee spent $30K on AI in ONE week 😳
 - Google & OpenAI will kill every $20/month AI app 💀
+- me prompting my roblox game with claude + forgegui mcp 😭 (ForgeGUI, 2026-11-19)
