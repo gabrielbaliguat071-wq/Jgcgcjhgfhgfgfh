@@ -12,3 +12,4 @@
 ## Batch 1 (2026-11-19) — `viral-short/src/Kreek.tsx` (comps `Kreek-<id>`), plan `viral-short/plan_kreek.py`
 Layout: overlay top (required, whole clip), facecam panel (crop x55 y150 330×380), gameplay panel (x450 y50 1040×890, above the stream's own subs), captions on the seam.
 | croc | crocodile bet: "if I get eaten I give away an extra copy" → gets eaten | 27 s | shark | "where's the shark?" → "I got them" | 15 s | banned | nightclub "my stream's about to get banned… nice knowing y'all" | 19.5 s |
+| milk | 'give me that milk… wait that sounds weird' | 21.8 s | cooked | wife saw the shoe-store clip, 'it was AI, that was not me' | 31.5 s | door | enemy stuck in the door | 20.5 s |

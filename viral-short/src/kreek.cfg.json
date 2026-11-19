@@ -1196,5 +1196,1005 @@
     ]
    }
   ]
+ },
+ "milk": {
+  "src": "kr_milk.mp4",
+  "hook": [
+   "GTA 6 has the",
+   "MILK update"
+  ],
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 16.8,
+    "durationInFrames": 96,
+    "words": [
+     {
+      "word": "Give",
+      "startFrame": 2,
+      "endFrame": 6,
+      "hi": false
+     },
+     {
+      "word": "me",
+      "startFrame": 2,
+      "endFrame": 8,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 5,
+      "endFrame": 11,
+      "hi": false
+     },
+     {
+      "word": "milk.",
+      "startFrame": 8,
+      "endFrame": 15,
+      "hi": true
+     },
+     {
+      "word": "Wait,",
+      "startFrame": 16,
+      "endFrame": 21,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 22,
+      "endFrame": 26,
+      "hi": false
+     },
+     {
+      "word": "sounds",
+      "startFrame": 22,
+      "endFrame": 30,
+      "hi": false
+     },
+     {
+      "word": "weird.",
+      "startFrame": 27,
+      "endFrame": 37,
+      "hi": true
+     },
+     {
+      "word": "Wait,",
+      "startFrame": 42,
+      "endFrame": 48,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 52,
+      "endFrame": 56,
+      "hi": false
+     },
+     {
+      "word": "sounds",
+      "startFrame": 52,
+      "endFrame": 63,
+      "hi": false
+     },
+     {
+      "word": "weird.",
+      "startFrame": 60,
+      "endFrame": 73,
+      "hi": true
+     },
+     {
+      "word": "Wait,",
+      "startFrame": 77,
+      "endFrame": 81,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 77,
+      "endFrame": 81,
+      "hi": false
+     },
+     {
+      "word": "sounds",
+      "startFrame": 77,
+      "endFrame": 81,
+      "hi": false
+     },
+     {
+      "word": "weird.",
+      "startFrame": 77,
+      "endFrame": 81,
+      "hi": true
+     },
+     {
+      "word": "Wait!",
+      "startFrame": 89,
+      "endFrame": 93,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "s1",
+    "videoStartSec": 7.4,
+    "durationInFrames": 558,
+    "words": [
+     {
+      "word": "Okay,",
+      "startFrame": 1,
+      "endFrame": 18,
+      "hi": false
+     },
+     {
+      "word": "full",
+      "startFrame": 115,
+      "endFrame": 127,
+      "hi": false
+     },
+     {
+      "word": "fat",
+      "startFrame": 124,
+      "endFrame": 150,
+      "hi": false
+     },
+     {
+      "word": "milk.",
+      "startFrame": 147,
+      "endFrame": 161,
+      "hi": true
+     },
+     {
+      "word": "Give",
+      "startFrame": 189,
+      "endFrame": 193,
+      "hi": false
+     },
+     {
+      "word": "me",
+      "startFrame": 189,
+      "endFrame": 195,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 192,
+      "endFrame": 198,
+      "hi": false
+     },
+     {
+      "word": "milk.",
+      "startFrame": 195,
+      "endFrame": 205,
+      "hi": true
+     },
+     {
+      "word": "Give",
+      "startFrame": 217,
+      "endFrame": 221,
+      "hi": false
+     },
+     {
+      "word": "me",
+      "startFrame": 218,
+      "endFrame": 224,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 221,
+      "endFrame": 228,
+      "hi": false
+     },
+     {
+      "word": "milk,",
+      "startFrame": 225,
+      "endFrame": 234,
+      "hi": true
+     },
+     {
+      "word": "baby.",
+      "startFrame": 240,
+      "endFrame": 281,
+      "hi": true
+     },
+     {
+      "word": "Give",
+      "startFrame": 284,
+      "endFrame": 288,
+      "hi": false
+     },
+     {
+      "word": "me",
+      "startFrame": 284,
+      "endFrame": 290,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 287,
+      "endFrame": 293,
+      "hi": false
+     },
+     {
+      "word": "milk.",
+      "startFrame": 290,
+      "endFrame": 297,
+      "hi": true
+     },
+     {
+      "word": "Wait,",
+      "startFrame": 298,
+      "endFrame": 303,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 304,
+      "endFrame": 308,
+      "hi": false
+     },
+     {
+      "word": "sounds",
+      "startFrame": 304,
+      "endFrame": 312,
+      "hi": false
+     },
+     {
+      "word": "weird.",
+      "startFrame": 309,
+      "endFrame": 319,
+      "hi": true
+     },
+     {
+      "word": "Wait,",
+      "startFrame": 324,
+      "endFrame": 330,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 334,
+      "endFrame": 338,
+      "hi": false
+     },
+     {
+      "word": "sounds",
+      "startFrame": 334,
+      "endFrame": 345,
+      "hi": false
+     },
+     {
+      "word": "weird.",
+      "startFrame": 342,
+      "endFrame": 355,
+      "hi": true
+     },
+     {
+      "word": "Wait,",
+      "startFrame": 359,
+      "endFrame": 363,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 359,
+      "endFrame": 363,
+      "hi": false
+     },
+     {
+      "word": "sounds",
+      "startFrame": 359,
+      "endFrame": 363,
+      "hi": false
+     },
+     {
+      "word": "weird.",
+      "startFrame": 359,
+      "endFrame": 363,
+      "hi": true
+     },
+     {
+      "word": "Wait!",
+      "startFrame": 371,
+      "endFrame": 375,
+      "hi": false
+     },
+     {
+      "word": "Bro",
+      "startFrame": 509,
+      "endFrame": 516,
+      "hi": false
+     },
+     {
+      "word": "has",
+      "startFrame": 513,
+      "endFrame": 527,
+      "hi": false
+     },
+     {
+      "word": "three",
+      "startFrame": 524,
+      "endFrame": 543,
+      "hi": true
+     },
+     {
+      "word": "shirts.",
+      "startFrame": 540,
+      "endFrame": 554,
+      "hi": true
+     }
+    ]
+   }
+  ]
+ },
+ "cooked": {
+  "src": "kr_cooked.mp4",
+  "hook": [
+   "His wife saw THAT clip\u2026"
+  ],
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 49.4,
+    "durationInFrames": 117,
+    "words": [
+     {
+      "word": "at",
+      "startFrame": 0,
+      "endFrame": 4,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 0,
+      "endFrame": 7,
+      "hi": false
+     },
+     {
+      "word": "shoe",
+      "startFrame": 4,
+      "endFrame": 13,
+      "hi": true
+     },
+     {
+      "word": "store",
+      "startFrame": 10,
+      "endFrame": 22,
+      "hi": true
+     },
+     {
+      "word": "it",
+      "startFrame": 19,
+      "endFrame": 29,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 26,
+      "endFrame": 34,
+      "hi": false
+     },
+     {
+      "word": "AI",
+      "startFrame": 31,
+      "endFrame": 47,
+      "hi": true
+     },
+     {
+      "word": "That",
+      "startFrame": 44,
+      "endFrame": 72,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 69,
+      "endFrame": 77,
+      "hi": false
+     },
+     {
+      "word": "AI",
+      "startFrame": 74,
+      "endFrame": 83,
+      "hi": true
+     },
+     {
+      "word": "that",
+      "startFrame": 80,
+      "endFrame": 84,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 80,
+      "endFrame": 84,
+      "hi": false
+     },
+     {
+      "word": "AI",
+      "startFrame": 80,
+      "endFrame": 84,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 88,
+      "endFrame": 94,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 91,
+      "endFrame": 99,
+      "hi": false
+     },
+     {
+      "word": "not",
+      "startFrame": 96,
+      "endFrame": 106,
+      "hi": false
+     },
+     {
+      "word": "me",
+      "startFrame": 103,
+      "endFrame": 115,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 112,
+      "endFrame": 117,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "s1",
+    "videoStartSec": 18.8,
+    "durationInFrames": 306,
+    "words": [
+     {
+      "word": "girlfriend",
+      "startFrame": 4,
+      "endFrame": 16,
+      "hi": true
+     },
+     {
+      "word": "just",
+      "startFrame": 13,
+      "endFrame": 22,
+      "hi": false
+     },
+     {
+      "word": "texted",
+      "startFrame": 19,
+      "endFrame": 30,
+      "hi": false
+     },
+     {
+      "word": "me",
+      "startFrame": 27,
+      "endFrame": 36,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 86,
+      "endFrame": 115,
+      "hi": false
+     },
+     {
+      "word": "saw",
+      "startFrame": 112,
+      "endFrame": 124,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 121,
+      "endFrame": 129,
+      "hi": false
+     },
+     {
+      "word": "clip",
+      "startFrame": 126,
+      "endFrame": 138,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 135,
+      "endFrame": 146,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 143,
+      "endFrame": 156,
+      "hi": false
+     },
+     {
+      "word": "at",
+      "startFrame": 153,
+      "endFrame": 170,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 167,
+      "endFrame": 177,
+      "hi": false
+     },
+     {
+      "word": "shoe",
+      "startFrame": 174,
+      "endFrame": 186,
+      "hi": true
+     },
+     {
+      "word": "store",
+      "startFrame": 183,
+      "endFrame": 197,
+      "hi": true
+     },
+     {
+      "word": "Wait",
+      "startFrame": 249,
+      "endFrame": 281,
+      "hi": false
+     },
+     {
+      "word": "what?",
+      "startFrame": 278,
+      "endFrame": 290,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "s2",
+    "videoStartSec": 34.2,
+    "durationInFrames": 174,
+    "words": [
+     {
+      "word": "We",
+      "startFrame": 4,
+      "endFrame": 12,
+      "hi": false
+     },
+     {
+      "word": "need",
+      "startFrame": 9,
+      "endFrame": 17,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 14,
+      "endFrame": 21,
+      "hi": false
+     },
+     {
+      "word": "talk",
+      "startFrame": 18,
+      "endFrame": 31,
+      "hi": true
+     },
+     {
+      "word": "after",
+      "startFrame": 28,
+      "endFrame": 43,
+      "hi": false
+     },
+     {
+      "word": "your",
+      "startFrame": 40,
+      "endFrame": 49,
+      "hi": false
+     },
+     {
+      "word": "stream",
+      "startFrame": 46,
+      "endFrame": 59,
+      "hi": false
+     },
+     {
+      "word": "That's",
+      "startFrame": 122,
+      "endFrame": 139,
+      "hi": false
+     },
+     {
+      "word": "what",
+      "startFrame": 136,
+      "endFrame": 142,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 139,
+      "endFrame": 147,
+      "hi": false
+     },
+     {
+      "word": "wife",
+      "startFrame": 144,
+      "endFrame": 155,
+      "hi": true
+     },
+     {
+      "word": "just",
+      "startFrame": 152,
+      "endFrame": 160,
+      "hi": false
+     },
+     {
+      "word": "texted",
+      "startFrame": 157,
+      "endFrame": 169,
+      "hi": false
+     },
+     {
+      "word": "me",
+      "startFrame": 166,
+      "endFrame": 174,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "s3",
+    "videoStartSec": 42.8,
+    "durationInFrames": 348,
+    "words": [
+     {
+      "word": "Chat",
+      "startFrame": 4,
+      "endFrame": 17,
+      "hi": false
+     },
+     {
+      "word": "if",
+      "startFrame": 14,
+      "endFrame": 25,
+      "hi": false
+     },
+     {
+      "word": "anybody",
+      "startFrame": 22,
+      "endFrame": 38,
+      "hi": false
+     },
+     {
+      "word": "asked",
+      "startFrame": 35,
+      "endFrame": 53,
+      "hi": false
+     },
+     {
+      "word": "y'all",
+      "startFrame": 50,
+      "endFrame": 58,
+      "hi": false
+     },
+     {
+      "word": "did",
+      "startFrame": 56,
+      "endFrame": 65,
+      "hi": false
+     },
+     {
+      "word": "not",
+      "startFrame": 62,
+      "endFrame": 72,
+      "hi": false
+     },
+     {
+      "word": "see",
+      "startFrame": 69,
+      "endFrame": 81,
+      "hi": false
+     },
+     {
+      "word": "me",
+      "startFrame": 78,
+      "endFrame": 89,
+      "hi": false
+     },
+     {
+      "word": "Y'all",
+      "startFrame": 86,
+      "endFrame": 112,
+      "hi": false
+     },
+     {
+      "word": "did",
+      "startFrame": 109,
+      "endFrame": 117,
+      "hi": false
+     },
+     {
+      "word": "not",
+      "startFrame": 114,
+      "endFrame": 127,
+      "hi": false
+     },
+     {
+      "word": "see",
+      "startFrame": 124,
+      "endFrame": 134,
+      "hi": false
+     },
+     {
+      "word": "me",
+      "startFrame": 131,
+      "endFrame": 142,
+      "hi": false
+     },
+     {
+      "word": "Y'all",
+      "startFrame": 139,
+      "endFrame": 156,
+      "hi": false
+     },
+     {
+      "word": "did",
+      "startFrame": 170,
+      "endFrame": 178,
+      "hi": false
+     },
+     {
+      "word": "not",
+      "startFrame": 175,
+      "endFrame": 187,
+      "hi": false
+     },
+     {
+      "word": "see",
+      "startFrame": 184,
+      "endFrame": 194,
+      "hi": false
+     },
+     {
+      "word": "me",
+      "startFrame": 191,
+      "endFrame": 200,
+      "hi": false
+     },
+     {
+      "word": "at",
+      "startFrame": 197,
+      "endFrame": 201,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 197,
+      "endFrame": 205,
+      "hi": false
+     },
+     {
+      "word": "shoe",
+      "startFrame": 202,
+      "endFrame": 211,
+      "hi": true
+     },
+     {
+      "word": "store",
+      "startFrame": 208,
+      "endFrame": 220,
+      "hi": true
+     },
+     {
+      "word": "it",
+      "startFrame": 217,
+      "endFrame": 227,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 224,
+      "endFrame": 232,
+      "hi": false
+     },
+     {
+      "word": "AI",
+      "startFrame": 229,
+      "endFrame": 245,
+      "hi": true
+     },
+     {
+      "word": "That",
+      "startFrame": 242,
+      "endFrame": 270,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 267,
+      "endFrame": 275,
+      "hi": false
+     },
+     {
+      "word": "AI",
+      "startFrame": 272,
+      "endFrame": 281,
+      "hi": true
+     },
+     {
+      "word": "that",
+      "startFrame": 278,
+      "endFrame": 282,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 278,
+      "endFrame": 282,
+      "hi": false
+     },
+     {
+      "word": "AI",
+      "startFrame": 278,
+      "endFrame": 282,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 286,
+      "endFrame": 292,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 289,
+      "endFrame": 297,
+      "hi": false
+     },
+     {
+      "word": "not",
+      "startFrame": 294,
+      "endFrame": 304,
+      "hi": false
+     },
+     {
+      "word": "me",
+      "startFrame": 301,
+      "endFrame": 313,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 310,
+      "endFrame": 335,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 332,
+      "endFrame": 340,
+      "hi": false
+     },
+     {
+      "word": "not",
+      "startFrame": 337,
+      "endFrame": 348,
+      "hi": false
+     },
+     {
+      "word": "me",
+      "startFrame": 346,
+      "endFrame": 348,
+      "hi": false
+     }
+    ]
+   }
+  ]
+ },
+ "door": {
+  "src": "kr_door.mp4",
+  "hook": [
+   "GTA 6 enemy AI",
+   "is something else"
+  ],
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 4.4,
+    "durationInFrames": 60,
+    "words": [
+     {
+      "word": "Bro",
+      "startFrame": 5,
+      "endFrame": 21,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 18,
+      "endFrame": 34,
+      "hi": false
+     },
+     {
+      "word": "stuck",
+      "startFrame": 31,
+      "endFrame": 41,
+      "hi": true
+     },
+     {
+      "word": "in",
+      "startFrame": 38,
+      "endFrame": 45,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 42,
+      "endFrame": 48,
+      "hi": false
+     },
+     {
+      "word": "door.",
+      "startFrame": 45,
+      "endFrame": 55,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "s1",
+    "videoStartSec": 0.0,
+    "durationInFrames": 555,
+    "words": [
+     {
+      "word": "Bro",
+      "startFrame": 137,
+      "endFrame": 153,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 150,
+      "endFrame": 166,
+      "hi": false
+     },
+     {
+      "word": "stuck",
+      "startFrame": 163,
+      "endFrame": 173,
+      "hi": true
+     },
+     {
+      "word": "in",
+      "startFrame": 170,
+      "endFrame": 177,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 174,
+      "endFrame": 180,
+      "hi": false
+     },
+     {
+      "word": "door.",
+      "startFrame": 177,
+      "endFrame": 187,
+      "hi": true
+     },
+     {
+      "word": "Got",
+      "startFrame": 437,
+      "endFrame": 444,
+      "hi": false
+     },
+     {
+      "word": "him.",
+      "startFrame": 441,
+      "endFrame": 448,
+      "hi": true
+     }
+    ]
+   }
+  ]
  }
 }
