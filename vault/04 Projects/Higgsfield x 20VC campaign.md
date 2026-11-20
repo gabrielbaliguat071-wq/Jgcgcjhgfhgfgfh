@@ -52,3 +52,6 @@ AI support harder (37:35), researchers game tests (25:15), Claude→Codex (38:14
 
 ## Clip 13 (2026-11-20): bench — "Researchers game tests to get their bonuses" (25:15–25:50, Alex's view, no lab named). plan_higgs7.py, excerpt footage/higgs/tx7/hbench.mp4 (1490 s), 45 s.
 hook = "game benchmarks, get quarterly bonuses" → chasing benchmarks = corporate psyops → was in a large org, knows what happens → top researchers put test data into training → "couple million a year… can move to another lab easily".
+
+## Clip 14 (2026-11-20): hop — "Silicon Valley job-hopping is a weakness" (54:36–55:18). plan_higgs8.py, excerpt tx7/hhop.mp4 (3265 s), 31 s. "Fuhn" = Fulham (two models agree).
+hook = "people just jump between jobs every two years" → Europe/loyalty → Fulham fan won't root for Arsenal → US: Lakers bandwagon.

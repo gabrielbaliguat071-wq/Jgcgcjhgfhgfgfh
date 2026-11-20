@@ -10087,5 +10087,662 @@
     "small": "what he says lab researchers can make"
    }
   ]
+ },
+ "hop": {
+  "src": "hhop.mp4",
+  "wm": "higgsfield_wm.png",
+  "hook": [
+   "Silicon Valley has a",
+   "loyalty problem"
+  ],
+  "hookFrames": 100,
+  "music": [
+   "blue_n",
+   21.5
+  ],
+  "musicVol": 0.07,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 15.75,
+    "durationInFrames": 178,
+    "crops": [
+     [
+      0,
+      925,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "in",
+      "startFrame": 2,
+      "endFrame": 29,
+      "hi": false
+     },
+     {
+      "word": "Silicon",
+      "startFrame": 26,
+      "endFrame": 37,
+      "hi": true
+     },
+     {
+      "word": "Valley,",
+      "startFrame": 34,
+      "endFrame": 57,
+      "hi": true
+     },
+     {
+      "word": "unfortunately,",
+      "startFrame": 62,
+      "endFrame": 79,
+      "hi": false
+     },
+     {
+      "word": "what",
+      "startFrame": 82,
+      "endFrame": 86,
+      "hi": false
+     },
+     {
+      "word": "I'm",
+      "startFrame": 82,
+      "endFrame": 90,
+      "hi": false
+     },
+     {
+      "word": "seeing",
+      "startFrame": 87,
+      "endFrame": 99,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 96,
+      "endFrame": 104,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 101,
+      "endFrame": 107,
+      "hi": false
+     },
+     {
+      "word": "people",
+      "startFrame": 104,
+      "endFrame": 115,
+      "hi": false
+     },
+     {
+      "word": "just",
+      "startFrame": 112,
+      "endFrame": 121,
+      "hi": false
+     },
+     {
+      "word": "jump",
+      "startFrame": 118,
+      "endFrame": 128,
+      "hi": true
+     },
+     {
+      "word": "between",
+      "startFrame": 125,
+      "endFrame": 137,
+      "hi": false
+     },
+     {
+      "word": "jobs",
+      "startFrame": 134,
+      "endFrame": 150,
+      "hi": true
+     },
+     {
+      "word": "every",
+      "startFrame": 147,
+      "endFrame": 160,
+      "hi": false
+     },
+     {
+      "word": "two",
+      "startFrame": 157,
+      "endFrame": 178,
+      "hi": true
+     },
+     {
+      "word": "years.",
+      "startFrame": 175,
+      "endFrame": 178,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 22.55,
+    "durationInFrames": 201,
+    "crops": [
+     [
+      0,
+      925,
+      1.15,
+      510
+     ],
+     [
+      55,
+      290,
+      1.45,
+      470
+     ]
+    ],
+    "words": [
+     {
+      "word": "That's",
+      "startFrame": 2,
+      "endFrame": 13,
+      "hi": false
+     },
+     {
+      "word": "why",
+      "startFrame": 10,
+      "endFrame": 20,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 17,
+      "endFrame": 33,
+      "hi": false
+     },
+     {
+      "word": "think",
+      "startFrame": 30,
+      "endFrame": 43,
+      "hi": false
+     },
+     {
+      "word": "Europe",
+      "startFrame": 40,
+      "endFrame": 65,
+      "hi": true
+     },
+     {
+      "word": "can",
+      "startFrame": 62,
+      "endFrame": 77,
+      "hi": false
+     },
+     {
+      "word": "be",
+      "startFrame": 74,
+      "endFrame": 82,
+      "hi": false
+     },
+     {
+      "word": "so",
+      "startFrame": 79,
+      "endFrame": 90,
+      "hi": false
+     },
+     {
+      "word": "competitive,",
+      "startFrame": 87,
+      "endFrame": 104,
+      "hi": true
+     },
+     {
+      "word": "because",
+      "startFrame": 122,
+      "endFrame": 127,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 124,
+      "endFrame": 133,
+      "hi": false
+     },
+     {
+      "word": "sense",
+      "startFrame": 130,
+      "endFrame": 142,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 139,
+      "endFrame": 147,
+      "hi": false
+     },
+     {
+      "word": "loyalty",
+      "startFrame": 144,
+      "endFrame": 167,
+      "hi": true
+     },
+     {
+      "word": "matters",
+      "startFrame": 164,
+      "endFrame": 193,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 190,
+      "endFrame": 200,
+      "hi": false
+     },
+     {
+      "word": "lot.",
+      "startFrame": 197,
+      "endFrame": 201,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "videoStartSec": 33.75,
+    "durationInFrames": 241,
+    "crops": [
+     [
+      0,
+      290,
+      1.45,
+      470
+     ],
+     [
+      109,
+      925,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "Like,",
+      "startFrame": 2,
+      "endFrame": 8,
+      "hi": false
+     },
+     {
+      "word": "let's",
+      "startFrame": 13,
+      "endFrame": 17,
+      "hi": false
+     },
+     {
+      "word": "say",
+      "startFrame": 14,
+      "endFrame": 21,
+      "hi": false
+     },
+     {
+      "word": "if",
+      "startFrame": 18,
+      "endFrame": 27,
+      "hi": false
+     },
+     {
+      "word": "you're",
+      "startFrame": 24,
+      "endFrame": 34,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 31,
+      "endFrame": 39,
+      "hi": false
+     },
+     {
+      "word": "Fulham",
+      "startFrame": 36,
+      "endFrame": 47,
+      "hi": true
+     },
+     {
+      "word": "fan,",
+      "startFrame": 44,
+      "endFrame": 56,
+      "hi": false
+     },
+     {
+      "word": "you're",
+      "startFrame": 74,
+      "endFrame": 83,
+      "hi": false
+     },
+     {
+      "word": "not",
+      "startFrame": 80,
+      "endFrame": 86,
+      "hi": false
+     },
+     {
+      "word": "going",
+      "startFrame": 83,
+      "endFrame": 91,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 88,
+      "endFrame": 95,
+      "hi": false
+     },
+     {
+      "word": "root",
+      "startFrame": 92,
+      "endFrame": 101,
+      "hi": false
+     },
+     {
+      "word": "for",
+      "startFrame": 98,
+      "endFrame": 106,
+      "hi": false
+     },
+     {
+      "word": "Arsenal",
+      "startFrame": 103,
+      "endFrame": 119,
+      "hi": true
+     },
+     {
+      "word": "just",
+      "startFrame": 116,
+      "endFrame": 129,
+      "hi": false
+     },
+     {
+      "word": "because",
+      "startFrame": 126,
+      "endFrame": 138,
+      "hi": false
+     },
+     {
+      "word": "they",
+      "startFrame": 135,
+      "endFrame": 145,
+      "hi": false
+     },
+     {
+      "word": "won",
+      "startFrame": 142,
+      "endFrame": 156,
+      "hi": false
+     },
+     {
+      "word": "or",
+      "startFrame": 153,
+      "endFrame": 173,
+      "hi": false
+     },
+     {
+      "word": "played",
+      "startFrame": 170,
+      "endFrame": 186,
+      "hi": false
+     },
+     {
+      "word": "in",
+      "startFrame": 183,
+      "endFrame": 191,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 188,
+      "endFrame": 196,
+      "hi": false
+     },
+     {
+      "word": "Champions",
+      "startFrame": 193,
+      "endFrame": 232,
+      "hi": true
+     },
+     {
+      "word": "League",
+      "startFrame": 229,
+      "endFrame": 239,
+      "hi": true
+     },
+     {
+      "word": "final.",
+      "startFrame": 236,
+      "endFrame": 241,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "videoStartSec": 42.45,
+    "durationInFrames": 313,
+    "crops": [
+     [
+      0,
+      925,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "But",
+      "startFrame": 0,
+      "endFrame": 8,
+      "hi": false
+     },
+     {
+      "word": "in",
+      "startFrame": 5,
+      "endFrame": 18,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 15,
+      "endFrame": 21,
+      "hi": false
+     },
+     {
+      "word": "United",
+      "startFrame": 18,
+      "endFrame": 28,
+      "hi": true
+     },
+     {
+      "word": "States,",
+      "startFrame": 25,
+      "endFrame": 46,
+      "hi": true
+     },
+     {
+      "word": "if",
+      "startFrame": 68,
+      "endFrame": 74,
+      "hi": false
+     },
+     {
+      "word": "Lakers",
+      "startFrame": 71,
+      "endFrame": 95,
+      "hi": true
+     },
+     {
+      "word": "are",
+      "startFrame": 92,
+      "endFrame": 109,
+      "hi": false
+     },
+     {
+      "word": "on",
+      "startFrame": 106,
+      "endFrame": 113,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 110,
+      "endFrame": 117,
+      "hi": false
+     },
+     {
+      "word": "top,",
+      "startFrame": 114,
+      "endFrame": 123,
+      "hi": false
+     },
+     {
+      "word": "people",
+      "startFrame": 122,
+      "endFrame": 130,
+      "hi": false
+     },
+     {
+      "word": "are",
+      "startFrame": 127,
+      "endFrame": 134,
+      "hi": false
+     },
+     {
+      "word": "going",
+      "startFrame": 131,
+      "endFrame": 138,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 135,
+      "endFrame": 140,
+      "hi": false
+     },
+     {
+      "word": "say,",
+      "startFrame": 137,
+      "endFrame": 146,
+      "hi": false
+     },
+     {
+      "word": "yeah,",
+      "startFrame": 145,
+      "endFrame": 152,
+      "hi": false
+     },
+     {
+      "word": "I'm",
+      "startFrame": 160,
+      "endFrame": 169,
+      "hi": false
+     },
+     {
+      "word": "I'm",
+      "startFrame": 186,
+      "endFrame": 196,
+      "hi": false
+     },
+     {
+      "word": "fan",
+      "startFrame": 193,
+      "endFrame": 202,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 199,
+      "endFrame": 206,
+      "hi": false
+     },
+     {
+      "word": "Lakers",
+      "startFrame": 203,
+      "endFrame": 215,
+      "hi": true
+     },
+     {
+      "word": "because",
+      "startFrame": 212,
+      "endFrame": 224,
+      "hi": false
+     },
+     {
+      "word": "it",
+      "startFrame": 221,
+      "endFrame": 231,
+      "hi": false
+     },
+     {
+      "word": "just",
+      "startFrame": 228,
+      "endFrame": 241,
+      "hi": false
+     },
+     {
+      "word": "makes",
+      "startFrame": 238,
+      "endFrame": 255,
+      "hi": false
+     },
+     {
+      "word": "it",
+      "startFrame": 252,
+      "endFrame": 260,
+      "hi": false
+     },
+     {
+      "word": "easier",
+      "startFrame": 257,
+      "endFrame": 271,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 268,
+      "endFrame": 275,
+      "hi": false
+     },
+     {
+      "word": "start",
+      "startFrame": 272,
+      "endFrame": 281,
+      "hi": false
+     },
+     {
+      "word": "conversation,",
+      "startFrame": 278,
+      "endFrame": 301,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 304,
+      "endFrame": 310,
+      "hi": false
+     },
+     {
+      "word": "know.",
+      "startFrame": 307,
+      "endFrame": 313,
+      "hi": false
+     }
+    ]
+   }
+  ],
+  "cards": [
+   {
+    "at": [
+     "hook",
+     157
+    ],
+    "dur": 70,
+    "big": "Every 2 years",
+    "small": "how often he sees people switch jobs"
+   }
+  ]
  }
 }
