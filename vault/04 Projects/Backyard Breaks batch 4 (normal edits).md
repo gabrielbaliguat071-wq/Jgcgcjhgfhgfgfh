@@ -14,3 +14,5 @@ money stories / generosity / deals / collections beat plain pulls (Josh Allen 1/
 plan_bb4.py (appends to pull.cfg.json; Pull.tsx now has bannerY/capY; talk clips zoom 1.6 from the top since the table below is empty; reveal.at = -1 = no stack):
 bbsoup 28.7 s (broccoli cheddar "shampoo" advice) · bbjudge 41.7 s (Judge $5.2M sale, "cash is dead", Darren woke up +$100K) · bbgrail 29.9 s (LeBron 10/10 pop 7, bought a grail without knowing) · bbdeal 37.9 s ("I want it all", $5,500 vs $4,500 + Honors box).
 More from the Live Stream tab: "Aaron Judge outpays the S&P 500", "Grant talking about how cash is dead", "Big sales in the hobby", "Three nukes come back PSA 10", Wemby red /5 $30K, Flagg PSA 10 $15K.
+
+## Batch 6 (2026-11-20): plan_bb5.py — bbwemby (red auto /5, first ever in product) · bbflagg (Gold auto comes back PSA 10, "eight racks on your head") · bbsp500 (Judge card 25x the S&P; no zoom so captions sit above the phone) · bbtrevor (Silver PSA 9 "bang!") · bbsesko ("he created the light bulb") · bbnukes (3 for 3 PSA 10).

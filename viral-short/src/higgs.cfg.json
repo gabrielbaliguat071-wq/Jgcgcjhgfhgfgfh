@@ -10744,5 +10744,3659 @@
     "small": "how often he sees people switch jobs"
    }
   ]
+ },
+ "film": {
+  "src": "hfilm.mp4",
+  "wm": "higgsfield_wm.png",
+  "hook": [
+   "90 min of AI film took",
+   "100+ HOURS of AI footage"
+  ],
+  "hookFrames": 100,
+  "music": [
+   "interstellar_n",
+   40.0
+  ],
+  "musicVol": 0.07,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 15.75,
+    "durationInFrames": 289,
+    "crops": [
+     [
+      0,
+      800,
+      1.15,
+      510
+     ],
+     [
+      263,
+      290,
+      1.45,
+      470
+     ]
+    ],
+    "words": [
+     {
+      "word": "for",
+      "startFrame": 2,
+      "endFrame": 18,
+      "hi": false
+     },
+     {
+      "word": "90",
+      "startFrame": 15,
+      "endFrame": 36,
+      "hi": true
+     },
+     {
+      "word": "minutes",
+      "startFrame": 33,
+      "endFrame": 51,
+      "hi": true
+     },
+     {
+      "word": "of,",
+      "startFrame": 48,
+      "endFrame": 66,
+      "hi": false
+     },
+     {
+      "word": "like,",
+      "startFrame": 82,
+      "endFrame": 103,
+      "hi": false
+     },
+     {
+      "word": "let's",
+      "startFrame": 108,
+      "endFrame": 114,
+      "hi": false
+     },
+     {
+      "word": "say,",
+      "startFrame": 111,
+      "endFrame": 118,
+      "hi": false
+     },
+     {
+      "word": "TV",
+      "startFrame": 121,
+      "endFrame": 127,
+      "hi": true
+     },
+     {
+      "word": "quality",
+      "startFrame": 124,
+      "endFrame": 138,
+      "hi": false
+     },
+     {
+      "word": "content,",
+      "startFrame": 135,
+      "endFrame": 151,
+      "hi": false
+     },
+     {
+      "word": "it",
+      "startFrame": 167,
+      "endFrame": 172,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 169,
+      "endFrame": 177,
+      "hi": false
+     },
+     {
+      "word": "over",
+      "startFrame": 174,
+      "endFrame": 187,
+      "hi": false
+     },
+     {
+      "word": "100",
+      "startFrame": 184,
+      "endFrame": 222,
+      "hi": true
+     },
+     {
+      "word": "hours",
+      "startFrame": 219,
+      "endFrame": 246,
+      "hi": true
+     },
+     {
+      "word": "of",
+      "startFrame": 243,
+      "endFrame": 259,
+      "hi": false
+     },
+     {
+      "word": "AI-generated",
+      "startFrame": 256,
+      "endFrame": 265,
+      "hi": true
+     },
+     {
+      "word": "content.",
+      "startFrame": 278,
+      "endFrame": 289,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 1.95,
+    "durationInFrames": 344,
+    "crops": [
+     [
+      0,
+      800,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "for",
+      "startFrame": 2,
+      "endFrame": 7,
+      "hi": false
+     },
+     {
+      "word": "example,",
+      "startFrame": 4,
+      "endFrame": 16,
+      "hi": false
+     },
+     {
+      "word": "we",
+      "startFrame": 23,
+      "endFrame": 27,
+      "hi": false
+     },
+     {
+      "word": "made",
+      "startFrame": 23,
+      "endFrame": 42,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 39,
+      "endFrame": 45,
+      "hi": false
+     },
+     {
+      "word": "first",
+      "startFrame": 42,
+      "endFrame": 51,
+      "hi": false
+     },
+     {
+      "word": "AI-generated",
+      "startFrame": 48,
+      "endFrame": 56,
+      "hi": true
+     },
+     {
+      "word": "movie,",
+      "startFrame": 69,
+      "endFrame": 79,
+      "hi": true
+     },
+     {
+      "word": "which",
+      "startFrame": 109,
+      "endFrame": 115,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 112,
+      "endFrame": 119,
+      "hi": false
+     },
+     {
+      "word": "also,",
+      "startFrame": 116,
+      "endFrame": 127,
+      "hi": false
+     },
+     {
+      "word": "like,",
+      "startFrame": 131,
+      "endFrame": 135,
+      "hi": false
+     },
+     {
+      "word": "obviously,",
+      "startFrame": 153,
+      "endFrame": 157,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 206,
+      "endFrame": 210,
+      "hi": false
+     },
+     {
+      "word": "very",
+      "startFrame": 206,
+      "endFrame": 239,
+      "hi": false
+     },
+     {
+      "word": "sensitive",
+      "startFrame": 236,
+      "endFrame": 250,
+      "hi": false
+     },
+     {
+      "word": "topic.",
+      "startFrame": 247,
+      "endFrame": 264,
+      "hi": false
+     },
+     {
+      "word": "But",
+      "startFrame": 273,
+      "endFrame": 278,
+      "hi": false
+     },
+     {
+      "word": "what's",
+      "startFrame": 275,
+      "endFrame": 289,
+      "hi": false
+     },
+     {
+      "word": "important,",
+      "startFrame": 286,
+      "endFrame": 297,
+      "hi": true
+     },
+     {
+      "word": "we",
+      "startFrame": 297,
+      "endFrame": 304,
+      "hi": false
+     },
+     {
+      "word": "open-sourced",
+      "startFrame": 301,
+      "endFrame": 311,
+      "hi": true
+     },
+     {
+      "word": "all",
+      "startFrame": 320,
+      "endFrame": 332,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 329,
+      "endFrame": 336,
+      "hi": false
+     },
+     {
+      "word": "it.",
+      "startFrame": 333,
+      "endFrame": 342,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "videoStartSec": 25.7,
+    "durationInFrames": 336,
+    "crops": [
+     [
+      0,
+      290,
+      1.45,
+      470
+     ]
+    ],
+    "words": [
+     {
+      "word": "So",
+      "startFrame": 4,
+      "endFrame": 14,
+      "hi": false
+     },
+     {
+      "word": "creative",
+      "startFrame": 11,
+      "endFrame": 26,
+      "hi": true
+     },
+     {
+      "word": "decisioning,",
+      "startFrame": 23,
+      "endFrame": 49,
+      "hi": true
+     },
+     {
+      "word": "like,",
+      "startFrame": 59,
+      "endFrame": 66,
+      "hi": false
+     },
+     {
+      "word": "picking",
+      "startFrame": 76,
+      "endFrame": 80,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 76,
+      "endFrame": 85,
+      "hi": false
+     },
+     {
+      "word": "right",
+      "startFrame": 82,
+      "endFrame": 90,
+      "hi": false
+     },
+     {
+      "word": "piece,",
+      "startFrame": 87,
+      "endFrame": 101,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 123,
+      "endFrame": 128,
+      "hi": false
+     },
+     {
+      "word": "still,",
+      "startFrame": 125,
+      "endFrame": 131,
+      "hi": false
+     },
+     {
+      "word": "very",
+      "startFrame": 129,
+      "endFrame": 143,
+      "hi": false
+     },
+     {
+      "word": "important.",
+      "startFrame": 140,
+      "endFrame": 156,
+      "hi": true
+     },
+     {
+      "word": "So",
+      "startFrame": 181,
+      "endFrame": 185,
+      "hi": false
+     },
+     {
+      "word": "that's",
+      "startFrame": 182,
+      "endFrame": 192,
+      "hi": false
+     },
+     {
+      "word": "really",
+      "startFrame": 189,
+      "endFrame": 199,
+      "hi": false
+     },
+     {
+      "word": "what",
+      "startFrame": 196,
+      "endFrame": 206,
+      "hi": false
+     },
+     {
+      "word": "we",
+      "startFrame": 203,
+      "endFrame": 221,
+      "hi": false
+     },
+     {
+      "word": "are",
+      "startFrame": 218,
+      "endFrame": 224,
+      "hi": false
+     },
+     {
+      "word": "focused",
+      "startFrame": 221,
+      "endFrame": 235,
+      "hi": false
+     },
+     {
+      "word": "on",
+      "startFrame": 232,
+      "endFrame": 244,
+      "hi": false
+     },
+     {
+      "word": "and",
+      "startFrame": 241,
+      "endFrame": 249,
+      "hi": false
+     },
+     {
+      "word": "that's",
+      "startFrame": 246,
+      "endFrame": 256,
+      "hi": false
+     },
+     {
+      "word": "what's",
+      "startFrame": 253,
+      "endFrame": 264,
+      "hi": false
+     },
+     {
+      "word": "driving",
+      "startFrame": 261,
+      "endFrame": 276,
+      "hi": false
+     },
+     {
+      "word": "most",
+      "startFrame": 273,
+      "endFrame": 293,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 290,
+      "endFrame": 298,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 295,
+      "endFrame": 306,
+      "hi": false
+     },
+     {
+      "word": "revenue.",
+      "startFrame": 322,
+      "endFrame": 336,
+      "hi": true
+     }
+    ]
+   }
+  ],
+  "cards": [
+   {
+    "at": [
+     "hook",
+     184
+    ],
+    "dur": 70,
+    "big": "100+ hours",
+    "small": "of AI footage for a 90-minute film"
+   }
+  ]
+ },
+ "prompt": {
+  "src": "hprompt.mp4",
+  "wm": "higgsfield_wm.png",
+  "hook": [
+   "Their AI film prompts are",
+   "3,000 WORDS long"
+  ],
+  "hookFrames": 100,
+  "music": [
+   "investigations_n",
+   20.0
+  ],
+  "musicVol": 0.07,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 10.75,
+    "durationInFrames": 213,
+    "crops": [
+     [
+      0,
+      290,
+      1.45,
+      470
+     ],
+     [
+      2,
+      880,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "If",
+      "startFrame": 2,
+      "endFrame": 13,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 10,
+      "endFrame": 16,
+      "hi": false
+     },
+     {
+      "word": "just",
+      "startFrame": 13,
+      "endFrame": 23,
+      "hi": false
+     },
+     {
+      "word": "go",
+      "startFrame": 20,
+      "endFrame": 32,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 29,
+      "endFrame": 46,
+      "hi": false
+     },
+     {
+      "word": "our",
+      "startFrame": 43,
+      "endFrame": 54,
+      "hi": false
+     },
+     {
+      "word": "open",
+      "startFrame": 51,
+      "endFrame": 59,
+      "hi": false
+     },
+     {
+      "word": "source",
+      "startFrame": 56,
+      "endFrame": 67,
+      "hi": false
+     },
+     {
+      "word": "projects",
+      "startFrame": 64,
+      "endFrame": 80,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 77,
+      "endFrame": 85,
+      "hi": false
+     },
+     {
+      "word": "this",
+      "startFrame": 82,
+      "endFrame": 91,
+      "hi": false
+     },
+     {
+      "word": "movie,",
+      "startFrame": 88,
+      "endFrame": 99,
+      "hi": false
+     },
+     {
+      "word": "which",
+      "startFrame": 100,
+      "endFrame": 105,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 102,
+      "endFrame": 110,
+      "hi": false
+     },
+     {
+      "word": "mentioned,",
+      "startFrame": 107,
+      "endFrame": 119,
+      "hi": false
+     },
+     {
+      "word": "average",
+      "startFrame": 133,
+      "endFrame": 145,
+      "hi": false
+     },
+     {
+      "word": "prompt",
+      "startFrame": 142,
+      "endFrame": 155,
+      "hi": false
+     },
+     {
+      "word": "length",
+      "startFrame": 152,
+      "endFrame": 168,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 165,
+      "endFrame": 176,
+      "hi": false
+     },
+     {
+      "word": "over",
+      "startFrame": 173,
+      "endFrame": 183,
+      "hi": false
+     },
+     {
+      "word": "3,000",
+      "startFrame": 180,
+      "endFrame": 191,
+      "hi": true
+     },
+     {
+      "word": "words.",
+      "startFrame": 198,
+      "endFrame": 212,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 2.55,
+    "durationInFrames": 236,
+    "crops": [
+     [
+      0,
+      290,
+      1.45,
+      470
+     ]
+    ],
+    "words": [
+     {
+      "word": "And",
+      "startFrame": 2,
+      "endFrame": 6,
+      "hi": false
+     },
+     {
+      "word": "it's",
+      "startFrame": 3,
+      "endFrame": 12,
+      "hi": false
+     },
+     {
+      "word": "virtually",
+      "startFrame": 9,
+      "endFrame": 28,
+      "hi": false
+     },
+     {
+      "word": "impossible",
+      "startFrame": 25,
+      "endFrame": 47,
+      "hi": true
+     },
+     {
+      "word": "to",
+      "startFrame": 44,
+      "endFrame": 61,
+      "hi": false
+     },
+     {
+      "word": "really",
+      "startFrame": 58,
+      "endFrame": 83,
+      "hi": false
+     },
+     {
+      "word": "define",
+      "startFrame": 80,
+      "endFrame": 101,
+      "hi": false
+     },
+     {
+      "word": "visual",
+      "startFrame": 98,
+      "endFrame": 144,
+      "hi": false
+     },
+     {
+      "word": "output",
+      "startFrame": 141,
+      "endFrame": 161,
+      "hi": false
+     },
+     {
+      "word": "and",
+      "startFrame": 158,
+      "endFrame": 172,
+      "hi": false
+     },
+     {
+      "word": "direct",
+      "startFrame": 169,
+      "endFrame": 186,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 183,
+      "endFrame": 191,
+      "hi": false
+     },
+     {
+      "word": "execution",
+      "startFrame": 188,
+      "endFrame": 207,
+      "hi": false
+     },
+     {
+      "word": "just",
+      "startFrame": 204,
+      "endFrame": 227,
+      "hi": false
+     },
+     {
+      "word": "through",
+      "startFrame": 224,
+      "endFrame": 232,
+      "hi": false
+     },
+     {
+      "word": "text.",
+      "startFrame": 229,
+      "endFrame": 236,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "videoStartSec": 27.35,
+    "durationInFrames": 408,
+    "crops": [
+     [
+      0,
+      880,
+      1.15,
+      510
+     ],
+     [
+      88,
+      290,
+      1.45,
+      470
+     ]
+    ],
+    "words": [
+     {
+      "word": "And",
+      "startFrame": 1,
+      "endFrame": 9,
+      "hi": false
+     },
+     {
+      "word": "people",
+      "startFrame": 6,
+      "endFrame": 20,
+      "hi": false
+     },
+     {
+      "word": "who",
+      "startFrame": 17,
+      "endFrame": 25,
+      "hi": false
+     },
+     {
+      "word": "are",
+      "startFrame": 22,
+      "endFrame": 29,
+      "hi": false
+     },
+     {
+      "word": "labeling,",
+      "startFrame": 26,
+      "endFrame": 41,
+      "hi": false
+     },
+     {
+      "word": "they",
+      "startFrame": 45,
+      "endFrame": 52,
+      "hi": false
+     },
+     {
+      "word": "obviously",
+      "startFrame": 49,
+      "endFrame": 62,
+      "hi": false
+     },
+     {
+      "word": "don't,",
+      "startFrame": 59,
+      "endFrame": 71,
+      "hi": false
+     },
+     {
+      "word": "cannot",
+      "startFrame": 79,
+      "endFrame": 83,
+      "hi": false
+     },
+     {
+      "word": "read",
+      "startFrame": 79,
+      "endFrame": 88,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 85,
+      "endFrame": 94,
+      "hi": false
+     },
+     {
+      "word": "3,000",
+      "startFrame": 91,
+      "endFrame": 98,
+      "hi": true
+     },
+     {
+      "word": "long",
+      "startFrame": 105,
+      "endFrame": 131,
+      "hi": false
+     },
+     {
+      "word": "prompts,",
+      "startFrame": 128,
+      "endFrame": 160,
+      "hi": true
+     },
+     {
+      "word": "but",
+      "startFrame": 173,
+      "endFrame": 177,
+      "hi": false
+     },
+     {
+      "word": "also",
+      "startFrame": 174,
+      "endFrame": 190,
+      "hi": false
+     },
+     {
+      "word": "on",
+      "startFrame": 187,
+      "endFrame": 201,
+      "hi": false
+     },
+     {
+      "word": "average,",
+      "startFrame": 198,
+      "endFrame": 218,
+      "hi": false
+     },
+     {
+      "word": "there",
+      "startFrame": 241,
+      "endFrame": 245,
+      "hi": false
+     },
+     {
+      "word": "are",
+      "startFrame": 242,
+      "endFrame": 250,
+      "hi": false
+     },
+     {
+      "word": "at",
+      "startFrame": 247,
+      "endFrame": 254,
+      "hi": false
+     },
+     {
+      "word": "least",
+      "startFrame": 251,
+      "endFrame": 264,
+      "hi": false
+     },
+     {
+      "word": "10",
+      "startFrame": 261,
+      "endFrame": 285,
+      "hi": true
+     },
+     {
+      "word": "image",
+      "startFrame": 282,
+      "endFrame": 309,
+      "hi": true
+     },
+     {
+      "word": "references",
+      "startFrame": 306,
+      "endFrame": 330,
+      "hi": true
+     },
+     {
+      "word": "for",
+      "startFrame": 352,
+      "endFrame": 372,
+      "hi": false
+     },
+     {
+      "word": "every,",
+      "startFrame": 369,
+      "endFrame": 389,
+      "hi": false
+     },
+     {
+      "word": "for",
+      "startFrame": 391,
+      "endFrame": 400,
+      "hi": false
+     },
+     {
+      "word": "every",
+      "startFrame": 397,
+      "endFrame": 408,
+      "hi": false
+     },
+     {
+      "word": "scene.",
+      "startFrame": 405,
+      "endFrame": 408,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "videoStartSec": 53.0,
+    "durationInFrames": 186,
+    "crops": [
+     [
+      0,
+      880,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "And",
+      "startFrame": 0,
+      "endFrame": 8,
+      "hi": false
+     },
+     {
+      "word": "so",
+      "startFrame": 5,
+      "endFrame": 17,
+      "hi": false
+     },
+     {
+      "word": "that's",
+      "startFrame": 14,
+      "endFrame": 26,
+      "hi": false
+     },
+     {
+      "word": "why",
+      "startFrame": 23,
+      "endFrame": 32,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 29,
+      "endFrame": 40,
+      "hi": false
+     },
+     {
+      "word": "prompting",
+      "startFrame": 37,
+      "endFrame": 56,
+      "hi": false
+     },
+     {
+      "word": "and",
+      "startFrame": 53,
+      "endFrame": 64,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 61,
+      "endFrame": 69,
+      "hi": false
+     },
+     {
+      "word": "just",
+      "startFrame": 66,
+      "endFrame": 76,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 73,
+      "endFrame": 80,
+      "hi": false
+     },
+     {
+      "word": "workflow",
+      "startFrame": 77,
+      "endFrame": 91,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 88,
+      "endFrame": 99,
+      "hi": false
+     },
+     {
+      "word": "so",
+      "startFrame": 96,
+      "endFrame": 107,
+      "hi": false
+     },
+     {
+      "word": "complex.",
+      "startFrame": 104,
+      "endFrame": 122,
+      "hi": true
+     },
+     {
+      "word": "Benchmarks",
+      "startFrame": 131,
+      "endFrame": 145,
+      "hi": true
+     },
+     {
+      "word": "just",
+      "startFrame": 142,
+      "endFrame": 151,
+      "hi": false
+     },
+     {
+      "word": "don't",
+      "startFrame": 148,
+      "endFrame": 155,
+      "hi": false
+     },
+     {
+      "word": "represent",
+      "startFrame": 152,
+      "endFrame": 183,
+      "hi": true
+     },
+     {
+      "word": "that.",
+      "startFrame": 180,
+      "endFrame": 186,
+      "hi": false
+     }
+    ]
+   }
+  ],
+  "cards": [
+   {
+    "at": [
+     "hook",
+     180
+    ],
+    "dur": 70,
+    "big": "3,000+ words",
+    "small": "average prompt length"
+   }
+  ]
+ },
+ "support": {
+  "src": "hsupport.mp4",
+  "wm": "higgsfield_wm.png",
+  "hook": [
+   "Why AI support gets HARDER",
+   "the faster you ship"
+  ],
+  "hookFrames": 100,
+  "music": [
+   "chess_n",
+   40.0
+  ],
+  "musicVol": 0.07,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 40.05,
+    "durationInFrames": 281,
+    "crops": [
+     [
+      0,
+      880,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "Of",
+      "startFrame": 3,
+      "endFrame": 10,
+      "hi": false
+     },
+     {
+      "word": "course,",
+      "startFrame": 7,
+      "endFrame": 15,
+      "hi": false
+     },
+     {
+      "word": "because",
+      "startFrame": 22,
+      "endFrame": 26,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 22,
+      "endFrame": 39,
+      "hi": false
+     },
+     {
+      "word": "agents",
+      "startFrame": 36,
+      "endFrame": 55,
+      "hi": true
+     },
+     {
+      "word": "are",
+      "startFrame": 52,
+      "endFrame": 63,
+      "hi": false
+     },
+     {
+      "word": "as",
+      "startFrame": 60,
+      "endFrame": 70,
+      "hi": false
+     },
+     {
+      "word": "good",
+      "startFrame": 67,
+      "endFrame": 76,
+      "hi": false
+     },
+     {
+      "word": "as",
+      "startFrame": 73,
+      "endFrame": 83,
+      "hi": false
+     },
+     {
+      "word": "context",
+      "startFrame": 80,
+      "endFrame": 93,
+      "hi": true
+     },
+     {
+      "word": "and",
+      "startFrame": 90,
+      "endFrame": 101,
+      "hi": false
+     },
+     {
+      "word": "rules",
+      "startFrame": 98,
+      "endFrame": 105,
+      "hi": true
+     },
+     {
+      "word": "which",
+      "startFrame": 102,
+      "endFrame": 111,
+      "hi": false
+     },
+     {
+      "word": "they",
+      "startFrame": 108,
+      "endFrame": 115,
+      "hi": false
+     },
+     {
+      "word": "have.",
+      "startFrame": 112,
+      "endFrame": 125,
+      "hi": false
+     },
+     {
+      "word": "And",
+      "startFrame": 143,
+      "endFrame": 149,
+      "hi": false
+     },
+     {
+      "word": "if",
+      "startFrame": 146,
+      "endFrame": 155,
+      "hi": false
+     },
+     {
+      "word": "context",
+      "startFrame": 152,
+      "endFrame": 163,
+      "hi": true
+     },
+     {
+      "word": "and",
+      "startFrame": 160,
+      "endFrame": 170,
+      "hi": false
+     },
+     {
+      "word": "rules",
+      "startFrame": 167,
+      "endFrame": 175,
+      "hi": true
+     },
+     {
+      "word": "change",
+      "startFrame": 172,
+      "endFrame": 187,
+      "hi": false
+     },
+     {
+      "word": "pretty",
+      "startFrame": 184,
+      "endFrame": 195,
+      "hi": false
+     },
+     {
+      "word": "much",
+      "startFrame": 192,
+      "endFrame": 209,
+      "hi": false
+     },
+     {
+      "word": "twice",
+      "startFrame": 206,
+      "endFrame": 231,
+      "hi": true
+     },
+     {
+      "word": "a",
+      "startFrame": 228,
+      "endFrame": 237,
+      "hi": false
+     },
+     {
+      "word": "week,",
+      "startFrame": 234,
+      "endFrame": 244,
+      "hi": true
+     },
+     {
+      "word": "it",
+      "startFrame": 255,
+      "endFrame": 261,
+      "hi": false
+     },
+     {
+      "word": "gets",
+      "startFrame": 258,
+      "endFrame": 269,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 266,
+      "endFrame": 273,
+      "hi": false
+     },
+     {
+      "word": "little",
+      "startFrame": 270,
+      "endFrame": 276,
+      "hi": false
+     },
+     {
+      "word": "difficult.",
+      "startFrame": 273,
+      "endFrame": 281,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 10.55,
+    "durationInFrames": 652,
+    "crops": [
+     [
+      0,
+      880,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "also",
+      "startFrame": 5,
+      "endFrame": 18,
+      "hi": false
+     },
+     {
+      "word": "very",
+      "startFrame": 15,
+      "endFrame": 25,
+      "hi": false
+     },
+     {
+      "word": "important.",
+      "startFrame": 22,
+      "endFrame": 34,
+      "hi": false
+     },
+     {
+      "word": "The",
+      "startFrame": 37,
+      "endFrame": 41,
+      "hi": false
+     },
+     {
+      "word": "way",
+      "startFrame": 37,
+      "endFrame": 43,
+      "hi": false
+     },
+     {
+      "word": "how",
+      "startFrame": 40,
+      "endFrame": 51,
+      "hi": false
+     },
+     {
+      "word": "Nik",
+      "startFrame": 48,
+      "endFrame": 58,
+      "hi": false
+     },
+     {
+      "word": "thinks",
+      "startFrame": 55,
+      "endFrame": 67,
+      "hi": false
+     },
+     {
+      "word": "about",
+      "startFrame": 64,
+      "endFrame": 76,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 73,
+      "endFrame": 85,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 82,
+      "endFrame": 109,
+      "hi": false
+     },
+     {
+      "word": "in",
+      "startFrame": 106,
+      "endFrame": 113,
+      "hi": false
+     },
+     {
+      "word": "terms",
+      "startFrame": 110,
+      "endFrame": 120,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 117,
+      "endFrame": 124,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 121,
+      "endFrame": 129,
+      "hi": false
+     },
+     {
+      "word": "playbooks,",
+      "startFrame": 126,
+      "endFrame": 145,
+      "hi": true
+     },
+     {
+      "word": "we",
+      "startFrame": 165,
+      "endFrame": 171,
+      "hi": false
+     },
+     {
+      "word": "launch",
+      "startFrame": 168,
+      "endFrame": 182,
+      "hi": false
+     },
+     {
+      "word": "products,",
+      "startFrame": 179,
+      "endFrame": 199,
+      "hi": false
+     },
+     {
+      "word": "new",
+      "startFrame": 199,
+      "endFrame": 204,
+      "hi": false
+     },
+     {
+      "word": "products,",
+      "startFrame": 201,
+      "endFrame": 213,
+      "hi": false
+     },
+     {
+      "word": "pretty",
+      "startFrame": 219,
+      "endFrame": 223,
+      "hi": false
+     },
+     {
+      "word": "much",
+      "startFrame": 220,
+      "endFrame": 230,
+      "hi": false
+     },
+     {
+      "word": "every",
+      "startFrame": 227,
+      "endFrame": 237,
+      "hi": true
+     },
+     {
+      "word": "week.",
+      "startFrame": 234,
+      "endFrame": 246,
+      "hi": true
+     },
+     {
+      "word": "So",
+      "startFrame": 274,
+      "endFrame": 292,
+      "hi": false
+     },
+     {
+      "word": "we",
+      "startFrame": 289,
+      "endFrame": 308,
+      "hi": false
+     },
+     {
+      "word": "have",
+      "startFrame": 305,
+      "endFrame": 317,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 314,
+      "endFrame": 323,
+      "hi": false
+     },
+     {
+      "word": "keep",
+      "startFrame": 320,
+      "endFrame": 386,
+      "hi": false
+     },
+     {
+      "word": "update",
+      "startFrame": 383,
+      "endFrame": 396,
+      "hi": false
+     },
+     {
+      "word": "agents",
+      "startFrame": 393,
+      "endFrame": 418,
+      "hi": true
+     },
+     {
+      "word": "with",
+      "startFrame": 415,
+      "endFrame": 429,
+      "hi": false
+     },
+     {
+      "word": "all",
+      "startFrame": 426,
+      "endFrame": 435,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 432,
+      "endFrame": 439,
+      "hi": false
+     },
+     {
+      "word": "information",
+      "startFrame": 436,
+      "endFrame": 456,
+      "hi": false
+     },
+     {
+      "word": "and",
+      "startFrame": 453,
+      "endFrame": 463,
+      "hi": false
+     },
+     {
+      "word": "so",
+      "startFrame": 460,
+      "endFrame": 470,
+      "hi": false
+     },
+     {
+      "word": "on.",
+      "startFrame": 467,
+      "endFrame": 481,
+      "hi": false
+     },
+     {
+      "word": "And",
+      "startFrame": 486,
+      "endFrame": 497,
+      "hi": false
+     },
+     {
+      "word": "just",
+      "startFrame": 494,
+      "endFrame": 501,
+      "hi": false
+     },
+     {
+      "word": "due",
+      "startFrame": 498,
+      "endFrame": 514,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 511,
+      "endFrame": 519,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 516,
+      "endFrame": 523,
+      "hi": false
+     },
+     {
+      "word": "high",
+      "startFrame": 520,
+      "endFrame": 531,
+      "hi": false
+     },
+     {
+      "word": "velocity,",
+      "startFrame": 528,
+      "endFrame": 546,
+      "hi": true
+     },
+     {
+      "word": "having",
+      "startFrame": 543,
+      "endFrame": 562,
+      "hi": false
+     },
+     {
+      "word": "an",
+      "startFrame": 559,
+      "endFrame": 572,
+      "hi": false
+     },
+     {
+      "word": "extremely",
+      "startFrame": 569,
+      "endFrame": 591,
+      "hi": false
+     },
+     {
+      "word": "smart",
+      "startFrame": 588,
+      "endFrame": 601,
+      "hi": true
+     },
+     {
+      "word": "coordinated",
+      "startFrame": 598,
+      "endFrame": 618,
+      "hi": false
+     },
+     {
+      "word": "team",
+      "startFrame": 615,
+      "endFrame": 628,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 625,
+      "endFrame": 642,
+      "hi": false
+     },
+     {
+      "word": "very",
+      "startFrame": 639,
+      "endFrame": 649,
+      "hi": false
+     },
+     {
+      "word": "important.",
+      "startFrame": 646,
+      "endFrame": 652,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "videoStartSec": 32.65,
+    "durationInFrames": 199,
+    "crops": [
+     [
+      0,
+      930,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "That's",
+      "startFrame": 2,
+      "endFrame": 12,
+      "hi": false
+     },
+     {
+      "word": "really",
+      "startFrame": 9,
+      "endFrame": 19,
+      "hi": false
+     },
+     {
+      "word": "interesting",
+      "startFrame": 16,
+      "endFrame": 30,
+      "hi": false
+     },
+     {
+      "word": "how",
+      "startFrame": 27,
+      "endFrame": 38,
+      "hi": false
+     },
+     {
+      "word": "product",
+      "startFrame": 35,
+      "endFrame": 50,
+      "hi": false
+     },
+     {
+      "word": "velocity",
+      "startFrame": 47,
+      "endFrame": 70,
+      "hi": true
+     },
+     {
+      "word": "increases",
+      "startFrame": 67,
+      "endFrame": 92,
+      "hi": false
+     },
+     {
+      "word": "leads",
+      "startFrame": 89,
+      "endFrame": 104,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 101,
+      "endFrame": 109,
+      "hi": false
+     },
+     {
+      "word": "harder",
+      "startFrame": 106,
+      "endFrame": 126,
+      "hi": true
+     },
+     {
+      "word": "customer",
+      "startFrame": 123,
+      "endFrame": 155,
+      "hi": false
+     },
+     {
+      "word": "support",
+      "startFrame": 152,
+      "endFrame": 174,
+      "hi": false
+     },
+     {
+      "word": "for",
+      "startFrame": 171,
+      "endFrame": 193,
+      "hi": false
+     },
+     {
+      "word": "agents.",
+      "startFrame": 190,
+      "endFrame": 199,
+      "hi": true
+     }
+    ]
+   }
+  ],
+  "cards": []
+ },
+ "codex": {
+  "src": "hcodex.mp4",
+  "wm": "higgsfield_wm.png",
+  "hook": [
+   "His whole team switched",
+   "from Claude to Codex"
+  ],
+  "hookFrames": 100,
+  "music": [
+   "blue_n",
+   21.5
+  ],
+  "musicVol": 0.07,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 34.15,
+    "durationInFrames": 314,
+    "crops": [
+     [
+      0,
+      290,
+      1.45,
+      470
+     ],
+     [
+      205,
+      880,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "But",
+      "startFrame": 3,
+      "endFrame": 9,
+      "hi": false
+     },
+     {
+      "word": "then",
+      "startFrame": 6,
+      "endFrame": 18,
+      "hi": false
+     },
+     {
+      "word": "we",
+      "startFrame": 15,
+      "endFrame": 42,
+      "hi": false
+     },
+     {
+      "word": "started",
+      "startFrame": 39,
+      "endFrame": 53,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 50,
+      "endFrame": 60,
+      "hi": false
+     },
+     {
+      "word": "see",
+      "startFrame": 57,
+      "endFrame": 71,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 68,
+      "endFrame": 81,
+      "hi": false
+     },
+     {
+      "word": "all",
+      "startFrame": 78,
+      "endFrame": 100,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 97,
+      "endFrame": 105,
+      "hi": false
+     },
+     {
+      "word": "coders",
+      "startFrame": 102,
+      "endFrame": 119,
+      "hi": true
+     },
+     {
+      "word": "quickly",
+      "startFrame": 116,
+      "endFrame": 134,
+      "hi": false
+     },
+     {
+      "word": "moved",
+      "startFrame": 131,
+      "endFrame": 151,
+      "hi": false
+     },
+     {
+      "word": "from",
+      "startFrame": 148,
+      "endFrame": 196,
+      "hi": false
+     },
+     {
+      "word": "Claude",
+      "startFrame": 193,
+      "endFrame": 222,
+      "hi": true
+     },
+     {
+      "word": "to",
+      "startFrame": 219,
+      "endFrame": 231,
+      "hi": false
+     },
+     {
+      "word": "Codex",
+      "startFrame": 228,
+      "endFrame": 252,
+      "hi": true
+     },
+     {
+      "word": "as",
+      "startFrame": 249,
+      "endFrame": 297,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 294,
+      "endFrame": 305,
+      "hi": false
+     },
+     {
+      "word": "mid-June.",
+      "startFrame": 302,
+      "endFrame": 312,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 9.75,
+    "durationInFrames": 218,
+    "crops": [
+     [
+      0,
+      880,
+      1.15,
+      510
+     ],
+     [
+      2,
+      930,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "When",
+      "startFrame": 3,
+      "endFrame": 11,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 8,
+      "endFrame": 15,
+      "hi": false
+     },
+     {
+      "word": "look",
+      "startFrame": 12,
+      "endFrame": 20,
+      "hi": false
+     },
+     {
+      "word": "at",
+      "startFrame": 17,
+      "endFrame": 23,
+      "hi": false
+     },
+     {
+      "word": "your",
+      "startFrame": 20,
+      "endFrame": 26,
+      "hi": false
+     },
+     {
+      "word": "engineering",
+      "startFrame": 23,
+      "endFrame": 39,
+      "hi": false
+     },
+     {
+      "word": "team",
+      "startFrame": 36,
+      "endFrame": 48,
+      "hi": false
+     },
+     {
+      "word": "today,",
+      "startFrame": 45,
+      "endFrame": 58,
+      "hi": false
+     },
+     {
+      "word": "what",
+      "startFrame": 69,
+      "endFrame": 75,
+      "hi": false
+     },
+     {
+      "word": "are",
+      "startFrame": 72,
+      "endFrame": 78,
+      "hi": false
+     },
+     {
+      "word": "they",
+      "startFrame": 75,
+      "endFrame": 83,
+      "hi": false
+     },
+     {
+      "word": "on?",
+      "startFrame": 80,
+      "endFrame": 91,
+      "hi": false
+     },
+     {
+      "word": "Are",
+      "startFrame": 95,
+      "endFrame": 99,
+      "hi": false
+     },
+     {
+      "word": "they",
+      "startFrame": 96,
+      "endFrame": 103,
+      "hi": false
+     },
+     {
+      "word": "on",
+      "startFrame": 100,
+      "endFrame": 109,
+      "hi": false
+     },
+     {
+      "word": "Cursor?",
+      "startFrame": 106,
+      "endFrame": 122,
+      "hi": false
+     },
+     {
+      "word": "Are",
+      "startFrame": 129,
+      "endFrame": 135,
+      "hi": false
+     },
+     {
+      "word": "they",
+      "startFrame": 132,
+      "endFrame": 144,
+      "hi": false
+     },
+     {
+      "word": "on",
+      "startFrame": 141,
+      "endFrame": 152,
+      "hi": false
+     },
+     {
+      "word": "Codex?",
+      "startFrame": 149,
+      "endFrame": 180,
+      "hi": true
+     },
+     {
+      "word": "Are",
+      "startFrame": 183,
+      "endFrame": 187,
+      "hi": false
+     },
+     {
+      "word": "they",
+      "startFrame": 184,
+      "endFrame": 191,
+      "hi": false
+     },
+     {
+      "word": "on",
+      "startFrame": 188,
+      "endFrame": 196,
+      "hi": false
+     },
+     {
+      "word": "Claude",
+      "startFrame": 193,
+      "endFrame": 202,
+      "hi": true
+     },
+     {
+      "word": "Code?",
+      "startFrame": 199,
+      "endFrame": 218,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "videoStartSec": 17.45,
+    "durationInFrames": 236,
+    "crops": [
+     [
+      0,
+      930,
+      1.15,
+      510
+     ],
+     [
+      1,
+      880,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "So",
+      "startFrame": 1,
+      "endFrame": 10,
+      "hi": false
+     },
+     {
+      "word": "from",
+      "startFrame": 7,
+      "endFrame": 18,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 15,
+      "endFrame": 22,
+      "hi": false
+     },
+     {
+      "word": "period",
+      "startFrame": 19,
+      "endFrame": 27,
+      "hi": false
+     },
+     {
+      "word": "from",
+      "startFrame": 24,
+      "endFrame": 36,
+      "hi": false
+     },
+     {
+      "word": "March",
+      "startFrame": 33,
+      "endFrame": 54,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 51,
+      "endFrame": 72,
+      "hi": false
+     },
+     {
+      "word": "June,",
+      "startFrame": 69,
+      "endFrame": 108,
+      "hi": false
+     },
+     {
+      "word": "everyone",
+      "startFrame": 119,
+      "endFrame": 134,
+      "hi": true
+     },
+     {
+      "word": "really",
+      "startFrame": 131,
+      "endFrame": 144,
+      "hi": false
+     },
+     {
+      "word": "moved",
+      "startFrame": 141,
+      "endFrame": 152,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 149,
+      "endFrame": 159,
+      "hi": false
+     },
+     {
+      "word": "Claude,",
+      "startFrame": 156,
+      "endFrame": 188,
+      "hi": true
+     },
+     {
+      "word": "including",
+      "startFrame": 200,
+      "endFrame": 218,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 215,
+      "endFrame": 224,
+      "hi": false
+     },
+     {
+      "word": "creative",
+      "startFrame": 221,
+      "endFrame": 234,
+      "hi": true
+     },
+     {
+      "word": "team.",
+      "startFrame": 231,
+      "endFrame": 236,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "videoStartSec": 45.65,
+    "durationInFrames": 344,
+    "crops": [
+     [
+      0,
+      880,
+      1.15,
+      510
+     ],
+     [
+      310,
+      930,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "And",
+      "startFrame": 0,
+      "endFrame": 12,
+      "hi": false
+     },
+     {
+      "word": "over",
+      "startFrame": 9,
+      "endFrame": 39,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 36,
+      "endFrame": 45,
+      "hi": false
+     },
+     {
+      "word": "time,",
+      "startFrame": 42,
+      "endFrame": 60,
+      "hi": false
+     },
+     {
+      "word": "creative,",
+      "startFrame": 84,
+      "endFrame": 98,
+      "hi": true
+     },
+     {
+      "word": "especially",
+      "startFrame": 101,
+      "endFrame": 112,
+      "hi": false
+     },
+     {
+      "word": "10x",
+      "startFrame": 109,
+      "endFrame": 129,
+      "hi": true
+     },
+     {
+      "word": "creatives,",
+      "startFrame": 126,
+      "endFrame": 144,
+      "hi": false
+     },
+     {
+      "word": "moves",
+      "startFrame": 155,
+      "endFrame": 163,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 160,
+      "endFrame": 168,
+      "hi": false
+     },
+     {
+      "word": "Codex",
+      "startFrame": 165,
+      "endFrame": 179,
+      "hi": true
+     },
+     {
+      "word": "as",
+      "startFrame": 176,
+      "endFrame": 184,
+      "hi": false
+     },
+     {
+      "word": "well.",
+      "startFrame": 181,
+      "endFrame": 191,
+      "hi": false
+     },
+     {
+      "word": "But",
+      "startFrame": 201,
+      "endFrame": 207,
+      "hi": false
+     },
+     {
+      "word": "look,",
+      "startFrame": 204,
+      "endFrame": 212,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 213,
+      "endFrame": 217,
+      "hi": false
+     },
+     {
+      "word": "do",
+      "startFrame": 214,
+      "endFrame": 222,
+      "hi": false
+     },
+     {
+      "word": "believe",
+      "startFrame": 219,
+      "endFrame": 231,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 228,
+      "endFrame": 240,
+      "hi": false
+     },
+     {
+      "word": "it's",
+      "startFrame": 237,
+      "endFrame": 276,
+      "hi": false
+     },
+     {
+      "word": "cyclical.",
+      "startFrame": 273,
+      "endFrame": 300,
+      "hi": true
+     },
+     {
+      "word": "It's",
+      "startFrame": 312,
+      "endFrame": 334,
+      "hi": false
+     },
+     {
+      "word": "so",
+      "startFrame": 331,
+      "endFrame": 339,
+      "hi": false
+     },
+     {
+      "word": "cyclical.",
+      "startFrame": 336,
+      "endFrame": 344,
+      "hi": true
+     }
+    ]
+   }
+  ],
+  "cards": []
+ },
+ "europe": {
+  "src": "heurope.mp4",
+  "wm": "higgsfield_wm.png",
+  "hook": [
+   "Without this European company",
+   "AI wouldn't happen"
+  ],
+  "hookFrames": 100,
+  "music": [
+   "empire_n",
+   18.8
+  ],
+  "musicVol": 0.07,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 73.05,
+    "durationInFrames": 245,
+    "crops": [
+     [
+      0,
+      880,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "But",
+      "startFrame": 2,
+      "endFrame": 7,
+      "hi": false
+     },
+     {
+      "word": "on",
+      "startFrame": 4,
+      "endFrame": 12,
+      "hi": false
+     },
+     {
+      "word": "every",
+      "startFrame": 9,
+      "endFrame": 24,
+      "hi": false
+     },
+     {
+      "word": "other",
+      "startFrame": 21,
+      "endFrame": 32,
+      "hi": false
+     },
+     {
+      "word": "layer,",
+      "startFrame": 29,
+      "endFrame": 45,
+      "hi": false
+     },
+     {
+      "word": "Europe",
+      "startFrame": 75,
+      "endFrame": 86,
+      "hi": true
+     },
+     {
+      "word": "is",
+      "startFrame": 83,
+      "endFrame": 90,
+      "hi": false
+     },
+     {
+      "word": "extremely",
+      "startFrame": 87,
+      "endFrame": 101,
+      "hi": false
+     },
+     {
+      "word": "competitive.",
+      "startFrame": 98,
+      "endFrame": 116,
+      "hi": true
+     },
+     {
+      "word": "Like,",
+      "startFrame": 137,
+      "endFrame": 141,
+      "hi": false
+     },
+     {
+      "word": "ASML,",
+      "startFrame": 144,
+      "endFrame": 159,
+      "hi": true
+     },
+     {
+      "word": "like,",
+      "startFrame": 163,
+      "endFrame": 171,
+      "hi": false
+     },
+     {
+      "word": "without",
+      "startFrame": 179,
+      "endFrame": 183,
+      "hi": false
+     },
+     {
+      "word": "ASML,",
+      "startFrame": 179,
+      "endFrame": 198,
+      "hi": true
+     },
+     {
+      "word": "this",
+      "startFrame": 200,
+      "endFrame": 205,
+      "hi": false
+     },
+     {
+      "word": "whole",
+      "startFrame": 202,
+      "endFrame": 212,
+      "hi": false
+     },
+     {
+      "word": "thing",
+      "startFrame": 209,
+      "endFrame": 222,
+      "hi": false
+     },
+     {
+      "word": "just",
+      "startFrame": 219,
+      "endFrame": 228,
+      "hi": false
+     },
+     {
+      "word": "wouldn't",
+      "startFrame": 225,
+      "endFrame": 245,
+      "hi": false
+     },
+     {
+      "word": "happen.",
+      "startFrame": 242,
+      "endFrame": 245,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 11.45,
+    "durationInFrames": 148,
+    "crops": [
+     [
+      0,
+      930,
+      1.15,
+      510
+     ],
+     [
+      5,
+      880,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "I",
+      "startFrame": 3,
+      "endFrame": 11,
+      "hi": false
+     },
+     {
+      "word": "think",
+      "startFrame": 8,
+      "endFrame": 16,
+      "hi": false
+     },
+     {
+      "word": "one",
+      "startFrame": 13,
+      "endFrame": 22,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 19,
+      "endFrame": 26,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 23,
+      "endFrame": 29,
+      "hi": false
+     },
+     {
+      "word": "things",
+      "startFrame": 26,
+      "endFrame": 38,
+      "hi": false
+     },
+     {
+      "word": "why",
+      "startFrame": 35,
+      "endFrame": 52,
+      "hi": false
+     },
+     {
+      "word": "Europe",
+      "startFrame": 49,
+      "endFrame": 87,
+      "hi": true
+     },
+     {
+      "word": "thrives",
+      "startFrame": 84,
+      "endFrame": 120,
+      "hi": true
+     },
+     {
+      "word": "so",
+      "startFrame": 117,
+      "endFrame": 143,
+      "hi": false
+     },
+     {
+      "word": "much,",
+      "startFrame": 140,
+      "endFrame": 148,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "videoStartSec": 23.65,
+    "durationInFrames": 488,
+    "crops": [
+     [
+      0,
+      880,
+      1.15,
+      510
+     ],
+     [
+      232,
+      930,
+      1.15,
+      510
+     ],
+     [
+      277,
+      880,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "who",
+      "startFrame": 2,
+      "endFrame": 6,
+      "hi": false
+     },
+     {
+      "word": "are",
+      "startFrame": 2,
+      "endFrame": 11,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 8,
+      "endFrame": 15,
+      "hi": false
+     },
+     {
+      "word": "most",
+      "startFrame": 12,
+      "endFrame": 28,
+      "hi": false
+     },
+     {
+      "word": "relevant",
+      "startFrame": 25,
+      "endFrame": 41,
+      "hi": false
+     },
+     {
+      "word": "neoclouds",
+      "startFrame": 38,
+      "endFrame": 58,
+      "hi": false
+     },
+     {
+      "word": "today?",
+      "startFrame": 55,
+      "endFrame": 68,
+      "hi": false
+     },
+     {
+      "word": "It's",
+      "startFrame": 72,
+      "endFrame": 88,
+      "hi": false
+     },
+     {
+      "word": "Nscale,",
+      "startFrame": 85,
+      "endFrame": 94,
+      "hi": false
+     },
+     {
+      "word": "IREN,",
+      "startFrame": 119,
+      "endFrame": 131,
+      "hi": false
+     },
+     {
+      "word": "and",
+      "startFrame": 153,
+      "endFrame": 164,
+      "hi": false
+     },
+     {
+      "word": "Nebius",
+      "startFrame": 191,
+      "endFrame": 208,
+      "hi": false
+     },
+     {
+      "word": "and",
+      "startFrame": 205,
+      "endFrame": 222,
+      "hi": false
+     },
+     {
+      "word": "Crusoe.",
+      "startFrame": 219,
+      "endFrame": 240,
+      "hi": false
+     },
+     {
+      "word": "Crusoe,",
+      "startFrame": 268,
+      "endFrame": 284,
+      "hi": false
+     },
+     {
+      "word": "okay,",
+      "startFrame": 287,
+      "endFrame": 292,
+      "hi": false
+     },
+     {
+      "word": "Silicon",
+      "startFrame": 304,
+      "endFrame": 308,
+      "hi": false
+     },
+     {
+      "word": "Valley",
+      "startFrame": 304,
+      "endFrame": 317,
+      "hi": false
+     },
+     {
+      "word": "story,",
+      "startFrame": 314,
+      "endFrame": 332,
+      "hi": false
+     },
+     {
+      "word": "IREN",
+      "startFrame": 340,
+      "endFrame": 344,
+      "hi": false
+     },
+     {
+      "word": "from",
+      "startFrame": 341,
+      "endFrame": 360,
+      "hi": false
+     },
+     {
+      "word": "Australia",
+      "startFrame": 357,
+      "endFrame": 388,
+      "hi": true
+     },
+     {
+      "word": "and",
+      "startFrame": 385,
+      "endFrame": 397,
+      "hi": false
+     },
+     {
+      "word": "Nscale",
+      "startFrame": 394,
+      "endFrame": 406,
+      "hi": false
+     },
+     {
+      "word": "from",
+      "startFrame": 403,
+      "endFrame": 413,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 410,
+      "endFrame": 417,
+      "hi": false
+     },
+     {
+      "word": "UK.",
+      "startFrame": 414,
+      "endFrame": 429,
+      "hi": true
+     },
+     {
+      "word": "And",
+      "startFrame": 446,
+      "endFrame": 450,
+      "hi": false
+     },
+     {
+      "word": "Nebius",
+      "startFrame": 447,
+      "endFrame": 458,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 455,
+      "endFrame": 464,
+      "hi": false
+     },
+     {
+      "word": "UK",
+      "startFrame": 461,
+      "endFrame": 473,
+      "hi": true
+     },
+     {
+      "word": "and",
+      "startFrame": 470,
+      "endFrame": 480,
+      "hi": false
+     },
+     {
+      "word": "Netherlands.",
+      "startFrame": 477,
+      "endFrame": 488,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "videoStartSec": 40.65,
+    "durationInFrames": 404,
+    "crops": [
+     [
+      0,
+      880,
+      1.15,
+      510
+     ],
+     [
+      352,
+      290,
+      1.45,
+      470
+     ]
+    ],
+    "words": [
+     {
+      "word": "Let's",
+      "startFrame": 3,
+      "endFrame": 15,
+      "hi": false
+     },
+     {
+      "word": "talk",
+      "startFrame": 12,
+      "endFrame": 25,
+      "hi": false
+     },
+     {
+      "word": "about",
+      "startFrame": 22,
+      "endFrame": 37,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 34,
+      "endFrame": 45,
+      "hi": false
+     },
+     {
+      "word": "companies",
+      "startFrame": 42,
+      "endFrame": 57,
+      "hi": false
+     },
+     {
+      "word": "on",
+      "startFrame": 54,
+      "endFrame": 62,
+      "hi": false
+     },
+     {
+      "word": "application",
+      "startFrame": 59,
+      "endFrame": 74,
+      "hi": false
+     },
+     {
+      "word": "layer",
+      "startFrame": 71,
+      "endFrame": 86,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 83,
+      "endFrame": 100,
+      "hi": false
+     },
+     {
+      "word": "matter.",
+      "startFrame": 97,
+      "endFrame": 110,
+      "hi": true
+     },
+     {
+      "word": "I",
+      "startFrame": 122,
+      "endFrame": 129,
+      "hi": false
+     },
+     {
+      "word": "know",
+      "startFrame": 126,
+      "endFrame": 137,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 134,
+      "endFrame": 143,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 140,
+      "endFrame": 150,
+      "hi": false
+     },
+     {
+      "word": "mentioned",
+      "startFrame": 147,
+      "endFrame": 166,
+      "hi": false
+     },
+     {
+      "word": "Mercor",
+      "startFrame": 163,
+      "endFrame": 195,
+      "hi": true
+     },
+     {
+      "word": "and",
+      "startFrame": 192,
+      "endFrame": 220,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 217,
+      "endFrame": 229,
+      "hi": false
+     },
+     {
+      "word": "mentioned",
+      "startFrame": 226,
+      "endFrame": 251,
+      "hi": false
+     },
+     {
+      "word": "Harvey,",
+      "startFrame": 248,
+      "endFrame": 271,
+      "hi": true
+     },
+     {
+      "word": "but",
+      "startFrame": 284,
+      "endFrame": 291,
+      "hi": false
+     },
+     {
+      "word": "Legora,",
+      "startFrame": 288,
+      "endFrame": 310,
+      "hi": false
+     },
+     {
+      "word": "ElevenLabs,",
+      "startFrame": 319,
+      "endFrame": 332,
+      "hi": false
+     },
+     {
+      "word": "Lovable,",
+      "startFrame": 363,
+      "endFrame": 374,
+      "hi": false
+     },
+     {
+      "word": "they",
+      "startFrame": 380,
+      "endFrame": 385,
+      "hi": false
+     },
+     {
+      "word": "all",
+      "startFrame": 382,
+      "endFrame": 393,
+      "hi": false
+     },
+     {
+      "word": "deeply",
+      "startFrame": 390,
+      "endFrame": 401,
+      "hi": false
+     },
+     {
+      "word": "matter.",
+      "startFrame": 398,
+      "endFrame": 404,
+      "hi": true
+     }
+    ]
+   }
+  ],
+  "cards": [
+   {
+    "at": [
+     "hook",
+     144
+    ],
+    "dur": 70,
+    "big": "ASML",
+    "small": "the Dutch chip-machine maker"
+   }
+  ]
+ },
+ "yuri": {
+  "src": "hyuri.mp4",
+  "wm": "higgsfield_wm.png",
+  "hook": [
+   "What Yuri Milner saw",
+   "before everyone else"
+  ],
+  "hookFrames": 100,
+  "music": [
+   "einaudi_n",
+   160.0
+  ],
+  "musicVol": 0.07,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 33.45,
+    "durationInFrames": 195,
+    "crops": [
+     [
+      0,
+      880,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "and",
+      "startFrame": 0,
+      "endFrame": 4,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 0,
+      "endFrame": 9,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 6,
+      "endFrame": 18,
+      "hi": false
+     },
+     {
+      "word": "truly",
+      "startFrame": 15,
+      "endFrame": 34,
+      "hi": false
+     },
+     {
+      "word": "surprised",
+      "startFrame": 31,
+      "endFrame": 64,
+      "hi": true
+     },
+     {
+      "word": "that",
+      "startFrame": 61,
+      "endFrame": 90,
+      "hi": false
+     },
+     {
+      "word": "Yuri",
+      "startFrame": 87,
+      "endFrame": 102,
+      "hi": true
+     },
+     {
+      "word": "deeply",
+      "startFrame": 99,
+      "endFrame": 112,
+      "hi": false
+     },
+     {
+      "word": "understands",
+      "startFrame": 109,
+      "endFrame": 127,
+      "hi": false
+     },
+     {
+      "word": "this",
+      "startFrame": 124,
+      "endFrame": 134,
+      "hi": false
+     },
+     {
+      "word": "transformation",
+      "startFrame": 131,
+      "endFrame": 148,
+      "hi": true
+     },
+     {
+      "word": "of",
+      "startFrame": 145,
+      "endFrame": 160,
+      "hi": false
+     },
+     {
+      "word": "content",
+      "startFrame": 157,
+      "endFrame": 170,
+      "hi": true
+     },
+     {
+      "word": "first",
+      "startFrame": 167,
+      "endFrame": 179,
+      "hi": false
+     },
+     {
+      "word": "and",
+      "startFrame": 176,
+      "endFrame": 185,
+      "hi": false
+     },
+     {
+      "word": "foremost,",
+      "startFrame": 182,
+      "endFrame": 195,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 6.95,
+    "durationInFrames": 166,
+    "crops": [
+     [
+      0,
+      930,
+      1.15,
+      510
+     ],
+     [
+      101,
+      880,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "What",
+      "startFrame": 0,
+      "endFrame": 21,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 18,
+      "endFrame": 26,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 23,
+      "endFrame": 31,
+      "hi": false
+     },
+     {
+      "word": "best",
+      "startFrame": 28,
+      "endFrame": 40,
+      "hi": false
+     },
+     {
+      "word": "VC",
+      "startFrame": 37,
+      "endFrame": 51,
+      "hi": false
+     },
+     {
+      "word": "meeting",
+      "startFrame": 48,
+      "endFrame": 64,
+      "hi": false
+     },
+     {
+      "word": "you've",
+      "startFrame": 61,
+      "endFrame": 72,
+      "hi": false
+     },
+     {
+      "word": "ever",
+      "startFrame": 69,
+      "endFrame": 77,
+      "hi": false
+     },
+     {
+      "word": "had?",
+      "startFrame": 74,
+      "endFrame": 91,
+      "hi": false
+     },
+     {
+      "word": "Obviously,",
+      "startFrame": 106,
+      "endFrame": 126,
+      "hi": false
+     },
+     {
+      "word": "Yuri",
+      "startFrame": 141,
+      "endFrame": 149,
+      "hi": true
+     },
+     {
+      "word": "Milner",
+      "startFrame": 146,
+      "endFrame": 158,
+      "hi": true
+     },
+     {
+      "word": "gets",
+      "startFrame": 155,
+      "endFrame": 166,
+      "hi": false
+     },
+     {
+      "word": "it.",
+      "startFrame": 164,
+      "endFrame": 166,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "videoStartSec": 13.55,
+    "durationInFrames": 325,
+    "crops": [
+     [
+      0,
+      930,
+      1.15,
+      510
+     ],
+     [
+      88,
+      290,
+      1.45,
+      470
+     ]
+    ],
+    "words": [
+     {
+      "word": "How",
+      "startFrame": 1,
+      "endFrame": 7,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 4,
+      "endFrame": 22,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 19,
+      "endFrame": 28,
+      "hi": false
+     },
+     {
+      "word": "meeting?",
+      "startFrame": 25,
+      "endFrame": 39,
+      "hi": false
+     },
+     {
+      "word": "Was",
+      "startFrame": 45,
+      "endFrame": 53,
+      "hi": false
+     },
+     {
+      "word": "it",
+      "startFrame": 50,
+      "endFrame": 68,
+      "hi": false
+     },
+     {
+      "word": "in",
+      "startFrame": 65,
+      "endFrame": 73,
+      "hi": false
+     },
+     {
+      "word": "person?",
+      "startFrame": 70,
+      "endFrame": 84,
+      "hi": false
+     },
+     {
+      "word": "Yeah,",
+      "startFrame": 92,
+      "endFrame": 99,
+      "hi": false
+     },
+     {
+      "word": "definitely",
+      "startFrame": 112,
+      "endFrame": 116,
+      "hi": false
+     },
+     {
+      "word": "in",
+      "startFrame": 112,
+      "endFrame": 120,
+      "hi": false
+     },
+     {
+      "word": "person.",
+      "startFrame": 117,
+      "endFrame": 132,
+      "hi": false
+     },
+     {
+      "word": "Definitely,",
+      "startFrame": 142,
+      "endFrame": 153,
+      "hi": false
+     },
+     {
+      "word": "Yuri",
+      "startFrame": 159,
+      "endFrame": 165,
+      "hi": true
+     },
+     {
+      "word": "stays",
+      "startFrame": 162,
+      "endFrame": 175,
+      "hi": false
+     },
+     {
+      "word": "on",
+      "startFrame": 172,
+      "endFrame": 180,
+      "hi": false
+     },
+     {
+      "word": "top",
+      "startFrame": 177,
+      "endFrame": 185,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 182,
+      "endFrame": 189,
+      "hi": false
+     },
+     {
+      "word": "all",
+      "startFrame": 186,
+      "endFrame": 192,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 189,
+      "endFrame": 195,
+      "hi": false
+     },
+     {
+      "word": "trends.",
+      "startFrame": 192,
+      "endFrame": 208,
+      "hi": true
+     },
+     {
+      "word": "Where",
+      "startFrame": 212,
+      "endFrame": 221,
+      "hi": false
+     },
+     {
+      "word": "was",
+      "startFrame": 218,
+      "endFrame": 227,
+      "hi": false
+     },
+     {
+      "word": "it?",
+      "startFrame": 224,
+      "endFrame": 232,
+      "hi": false
+     },
+     {
+      "word": "Were",
+      "startFrame": 234,
+      "endFrame": 240,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 237,
+      "endFrame": 243,
+      "hi": false
+     },
+     {
+      "word": "nervous?",
+      "startFrame": 240,
+      "endFrame": 258,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 284,
+      "endFrame": 305,
+      "hi": false
+     },
+     {
+      "word": "wouldn't",
+      "startFrame": 302,
+      "endFrame": 321,
+      "hi": false
+     },
+     {
+      "word": "say",
+      "startFrame": 318,
+      "endFrame": 325,
+      "hi": false
+     },
+     {
+      "word": "nervous.",
+      "startFrame": 324,
+      "endFrame": 325,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "videoStartSec": 39.95,
+    "durationInFrames": 241,
+    "crops": [
+     [
+      0,
+      880,
+      1.15,
+      510
+     ],
+     [
+      1,
+      290,
+      1.45,
+      470
+     ]
+    ],
+    "words": [
+     {
+      "word": "obviously",
+      "startFrame": 16,
+      "endFrame": 26,
+      "hi": false
+     },
+     {
+      "word": "it",
+      "startFrame": 23,
+      "endFrame": 32,
+      "hi": false
+     },
+     {
+      "word": "starts",
+      "startFrame": 29,
+      "endFrame": 41,
+      "hi": false
+     },
+     {
+      "word": "with",
+      "startFrame": 38,
+      "endFrame": 47,
+      "hi": false
+     },
+     {
+      "word": "this",
+      "startFrame": 44,
+      "endFrame": 57,
+      "hi": false
+     },
+     {
+      "word": "direct-to-consumer",
+      "startFrame": 54,
+      "endFrame": 67,
+      "hi": false
+     },
+     {
+      "word": "AI",
+      "startFrame": 82,
+      "endFrame": 97,
+      "hi": true
+     },
+     {
+      "word": "ads.",
+      "startFrame": 94,
+      "endFrame": 111,
+      "hi": true
+     },
+     {
+      "word": "It",
+      "startFrame": 113,
+      "endFrame": 117,
+      "hi": false
+     },
+     {
+      "word": "starts",
+      "startFrame": 113,
+      "endFrame": 124,
+      "hi": false
+     },
+     {
+      "word": "with",
+      "startFrame": 121,
+      "endFrame": 131,
+      "hi": false
+     },
+     {
+      "word": "short-form",
+      "startFrame": 128,
+      "endFrame": 139,
+      "hi": true
+     },
+     {
+      "word": "dramas.",
+      "startFrame": 143,
+      "endFrame": 160,
+      "hi": true
+     },
+     {
+      "word": "All",
+      "startFrame": 174,
+      "endFrame": 180,
+      "hi": false
+     },
+     {
+      "word": "these",
+      "startFrame": 177,
+      "endFrame": 185,
+      "hi": false
+     },
+     {
+      "word": "trends",
+      "startFrame": 182,
+      "endFrame": 193,
+      "hi": true
+     },
+     {
+      "word": "come",
+      "startFrame": 190,
+      "endFrame": 199,
+      "hi": false
+     },
+     {
+      "word": "from",
+      "startFrame": 196,
+      "endFrame": 205,
+      "hi": false
+     },
+     {
+      "word": "Asia",
+      "startFrame": 202,
+      "endFrame": 217,
+      "hi": true
+     },
+     {
+      "word": "to",
+      "startFrame": 214,
+      "endFrame": 237,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 234,
+      "endFrame": 241,
+      "hi": false
+     },
+     {
+      "word": "West.",
+      "startFrame": 238,
+      "endFrame": 241,
+      "hi": true
+     }
+    ]
+   }
+  ],
+  "cards": []
  }
 }

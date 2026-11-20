@@ -55,3 +55,6 @@ hook = "game benchmarks, get quarterly bonuses" → chasing benchmarks = corpora
 
 ## Clip 14 (2026-11-20): hop — "Silicon Valley job-hopping is a weakness" (54:36–55:18). plan_higgs8.py, excerpt tx7/hhop.mp4 (3265 s), 31 s. "Fuhn" = Fulham (two models agree).
 hook = "people just jump between jobs every two years" → Europe/loyalty → Fulham fan won't root for Arsenal → US: Lakers bandwagon.
+
+## Batch 5 (2026-11-20): plan_higgs9.py, excerpts footage/higgs/tx8 — film (100+ h for 90 min), prompt (3,000 words), support (harder the faster you ship), codex (Claude→Codex, true when filmed), europe (ASML; Nscale/IREN/Nebius/Crusoe; Legora/ElevenLabs/Lovable), yuri (Milner). 31–43 s.
+All 22 brief ideas except churn/NRR (21:20) and margins (31:52) and two-incumbents/China (32:58) are now clipped.
