@@ -1684,5 +1684,598 @@
     ]
    }
   ]
+ },
+ "camjordan": {
+  "src": "bx_camjordan.mp4",
+  "srcW": 1080,
+  "srcH": 1920,
+  "band": [
+   1175,
+   1355
+  ],
+  "capY": 1215,
+  "hook": [
+   "\"I didn't want this anyway\"",
+   "Cam Jordan after his BOXED battle"
+  ],
+  "hookFrames": 90,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 69.6,
+    "durationInFrames": 93,
+    "crops": [
+     [
+      0,
+      540,
+      1.0,
+      960
+     ]
+    ],
+    "words": [
+     {
+      "word": "Cam,",
+      "startFrame": 4,
+      "endFrame": 15,
+      "hi": false
+     },
+     {
+      "word": "sorry,",
+      "startFrame": 16,
+      "endFrame": 23,
+      "hi": false
+     },
+     {
+      "word": "man.",
+      "startFrame": 29,
+      "endFrame": 33,
+      "hi": false
+     },
+     {
+      "word": "Didn't",
+      "startFrame": 47,
+      "endFrame": 53,
+      "hi": false
+     },
+     {
+      "word": "work",
+      "startFrame": 50,
+      "endFrame": 57,
+      "hi": false
+     },
+     {
+      "word": "out",
+      "startFrame": 54,
+      "endFrame": 61,
+      "hi": false
+     },
+     {
+      "word": "this",
+      "startFrame": 58,
+      "endFrame": 64,
+      "hi": false
+     },
+     {
+      "word": "time.",
+      "startFrame": 61,
+      "endFrame": 65,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 61,
+      "endFrame": 65,
+      "hi": false
+     },
+     {
+      "word": "didn't",
+      "startFrame": 61,
+      "endFrame": 68,
+      "hi": false
+     },
+     {
+      "word": "want",
+      "startFrame": 65,
+      "endFrame": 71,
+      "hi": false
+     },
+     {
+      "word": "this",
+      "startFrame": 68,
+      "endFrame": 74,
+      "hi": false
+     },
+     {
+      "word": "anyway.",
+      "startFrame": 71,
+      "endFrame": 83,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 0.0,
+    "durationInFrames": 112,
+    "crops": [
+     [
+      0,
+      540,
+      1.0,
+      960
+     ]
+    ],
+    "words": [
+     {
+      "word": "Hey,",
+      "startFrame": 0,
+      "endFrame": 10,
+      "hi": false
+     },
+     {
+      "word": "it's",
+      "startFrame": 11,
+      "endFrame": 15,
+      "hi": false
+     },
+     {
+      "word": "Cam",
+      "startFrame": 12,
+      "endFrame": 20,
+      "hi": true
+     },
+     {
+      "word": "Jordan,",
+      "startFrame": 17,
+      "endFrame": 33,
+      "hi": true
+     },
+     {
+      "word": "battling",
+      "startFrame": 38,
+      "endFrame": 47,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 44,
+      "endFrame": 51,
+      "hi": false
+     },
+     {
+      "word": "guy,",
+      "startFrame": 48,
+      "endFrame": 58,
+      "hi": false
+     },
+     {
+      "word": "Greg",
+      "startFrame": 59,
+      "endFrame": 66,
+      "hi": true
+     },
+     {
+      "word": "Rousseau,",
+      "startFrame": 63,
+      "endFrame": 82,
+      "hi": true
+     },
+     {
+      "word": "ripping",
+      "startFrame": 83,
+      "endFrame": 94,
+      "hi": false
+     },
+     {
+      "word": "packs.",
+      "startFrame": 91,
+      "endFrame": 109,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "videoStartSec": 45.4,
+    "durationInFrames": 206,
+    "crops": [
+     [
+      0,
+      540,
+      1.0,
+      960
+     ]
+    ],
+    "words": [
+     {
+      "word": "Ooh,",
+      "startFrame": 2,
+      "endFrame": 16,
+      "hi": false
+     },
+     {
+      "word": "rookie",
+      "startFrame": 27,
+      "endFrame": 31,
+      "hi": false
+     },
+     {
+      "word": "Steph",
+      "startFrame": 27,
+      "endFrame": 42,
+      "hi": true
+     },
+     {
+      "word": "Curry",
+      "startFrame": 39,
+      "endFrame": 52,
+      "hi": true
+     },
+     {
+      "word": "cards,",
+      "startFrame": 49,
+      "endFrame": 63,
+      "hi": true
+     },
+     {
+      "word": "crazy.",
+      "startFrame": 68,
+      "endFrame": 72,
+      "hi": false
+     },
+     {
+      "word": "I'm",
+      "startFrame": 80,
+      "endFrame": 88,
+      "hi": false
+     },
+     {
+      "word": "gonna",
+      "startFrame": 85,
+      "endFrame": 91,
+      "hi": false
+     },
+     {
+      "word": "stick",
+      "startFrame": 88,
+      "endFrame": 95,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 92,
+      "endFrame": 98,
+      "hi": false
+     },
+     {
+      "word": "football",
+      "startFrame": 95,
+      "endFrame": 106,
+      "hi": false
+     },
+     {
+      "word": "just",
+      "startFrame": 103,
+      "endFrame": 112,
+      "hi": false
+     },
+     {
+      "word": "because",
+      "startFrame": 109,
+      "endFrame": 116,
+      "hi": false
+     },
+     {
+      "word": "I'm",
+      "startFrame": 113,
+      "endFrame": 123,
+      "hi": false
+     },
+     {
+      "word": "loyal.",
+      "startFrame": 120,
+      "endFrame": 133,
+      "hi": true
+     },
+     {
+      "word": "I",
+      "startFrame": 138,
+      "endFrame": 142,
+      "hi": false
+     },
+     {
+      "word": "gotta",
+      "startFrame": 139,
+      "endFrame": 146,
+      "hi": false
+     },
+     {
+      "word": "go",
+      "startFrame": 143,
+      "endFrame": 151,
+      "hi": false
+     },
+     {
+      "word": "Pat",
+      "startFrame": 148,
+      "endFrame": 157,
+      "hi": false
+     },
+     {
+      "word": "Mahomes,",
+      "startFrame": 154,
+      "endFrame": 169,
+      "hi": true
+     },
+     {
+      "word": "number",
+      "startFrame": 170,
+      "endFrame": 175,
+      "hi": false
+     },
+     {
+      "word": "five",
+      "startFrame": 172,
+      "endFrame": 188,
+      "hi": true
+     },
+     {
+      "word": "out",
+      "startFrame": 185,
+      "endFrame": 193,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 190,
+      "endFrame": 196,
+      "hi": false
+     },
+     {
+      "word": "25.",
+      "startFrame": 193,
+      "endFrame": 206,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "videoStartSec": 59.25,
+    "durationInFrames": 194,
+    "crops": [
+     [
+      0,
+      540,
+      2.2,
+      500
+     ]
+    ],
+    "words": [
+     {
+      "word": "Oh",
+      "startFrame": 3,
+      "endFrame": 15,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 12,
+      "endFrame": 24,
+      "hi": false
+     },
+     {
+      "word": "God.",
+      "startFrame": 21,
+      "endFrame": 39,
+      "hi": true
+     },
+     {
+      "word": "Ooh.",
+      "startFrame": 48,
+      "endFrame": 52,
+      "hi": false
+     },
+     {
+      "word": "That",
+      "startFrame": 92,
+      "endFrame": 96,
+      "hi": false
+     },
+     {
+      "word": "hurts.",
+      "startFrame": 92,
+      "endFrame": 107,
+      "hi": true
+     },
+     {
+      "word": "Come",
+      "startFrame": 114,
+      "endFrame": 120,
+      "hi": false
+     },
+     {
+      "word": "on,",
+      "startFrame": 117,
+      "endFrame": 129,
+      "hi": false
+     },
+     {
+      "word": "pull",
+      "startFrame": 134,
+      "endFrame": 140,
+      "hi": false
+     },
+     {
+      "word": "some.",
+      "startFrame": 137,
+      "endFrame": 153,
+      "hi": false
+     },
+     {
+      "word": "Oh,",
+      "startFrame": 164,
+      "endFrame": 168,
+      "hi": false
+     },
+     {
+      "word": "there",
+      "startFrame": 177,
+      "endFrame": 182,
+      "hi": false
+     },
+     {
+      "word": "we",
+      "startFrame": 179,
+      "endFrame": 186,
+      "hi": false
+     },
+     {
+      "word": "go.",
+      "startFrame": 183,
+      "endFrame": 191,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "videoStartSec": 67.25,
+    "durationInFrames": 29,
+    "crops": [
+     [
+      0,
+      540,
+      1.0,
+      960
+     ]
+    ],
+    "words": [
+     {
+      "word": "That's",
+      "startFrame": 1,
+      "endFrame": 13,
+      "hi": false
+     },
+     {
+      "word": "what",
+      "startFrame": 10,
+      "endFrame": 17,
+      "hi": false
+     },
+     {
+      "word": "I'm",
+      "startFrame": 14,
+      "endFrame": 20,
+      "hi": false
+     },
+     {
+      "word": "talking",
+      "startFrame": 17,
+      "endFrame": 27,
+      "hi": false
+     },
+     {
+      "word": "about.",
+      "startFrame": 24,
+      "endFrame": 29,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "videoStartSec": 73.65,
+    "durationInFrames": 109,
+    "crops": [
+     [
+      0,
+      540,
+      1.0,
+      960
+     ]
+    ],
+    "words": [
+     {
+      "word": "Greg,",
+      "startFrame": 3,
+      "endFrame": 10,
+      "hi": false
+     },
+     {
+      "word": "congrats,",
+      "startFrame": 14,
+      "endFrame": 25,
+      "hi": true
+     },
+     {
+      "word": "buddy.",
+      "startFrame": 28,
+      "endFrame": 32,
+      "hi": false
+     },
+     {
+      "word": "So",
+      "startFrame": 39,
+      "endFrame": 45,
+      "hi": false
+     },
+     {
+      "word": "in",
+      "startFrame": 42,
+      "endFrame": 48,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 45,
+      "endFrame": 51,
+      "hi": false
+     },
+     {
+      "word": "classic",
+      "startFrame": 48,
+      "endFrame": 63,
+      "hi": false
+     },
+     {
+      "word": "BOXED",
+      "startFrame": 60,
+      "endFrame": 73,
+      "hi": true
+     },
+     {
+      "word": "battle,",
+      "startFrame": 70,
+      "endFrame": 82,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 86,
+      "endFrame": 91,
+      "hi": false
+     },
+     {
+      "word": "get",
+      "startFrame": 88,
+      "endFrame": 97,
+      "hi": false
+     },
+     {
+      "word": "both",
+      "startFrame": 94,
+      "endFrame": 103,
+      "hi": true
+     },
+     {
+      "word": "cards,",
+      "startFrame": 100,
+      "endFrame": 109,
+      "hi": true
+     }
+    ]
+   }
+  ]
  }
 }

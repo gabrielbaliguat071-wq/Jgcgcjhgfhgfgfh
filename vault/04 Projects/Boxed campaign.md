@@ -44,3 +44,9 @@ Gotcha: the battle screen's gem values sit right under the cards → card crops 
 
 ## Feedback log
 - (waiting)
+
+## Batch 3 (2026-11-20) — plan_boxed3.py (appends camjordan to boxed.cfg.json), render .work/render_boxed3.sh (-16 LUFS)
+| camjordan | Sack Summit 9x16 "Cam Jordan" (vs Greg Rousseau) | hook = "Cam, sorry man… I didn't want this anyway" → intro → Steph Curry rookie, "I'm loyal", Pat Mahomes 5/25 → battle (crop 2.2× on the players: app UI with gem values + their burned captions below) → "That's what I'm talking about" → "Greg, congrats… you get both cards" | 24.8 s | code ROUSSEAU |
+Sack Summit 9x16 folder also has: BJ Ojulari, Donovan Ezeiruaku, Greg Rousseau, Jared Verse (cornhole "side hustle" bit — skip its odds/value explainer at 35–54 s), Reuben Bain Jr, Shawne Merriman (Reuben Bain wins), Travon Walker, Von Miller (= the same Kobe/Brady battle as crosby → don't reuse).
+Other folders: Community Creators 2026 (BrokensTCG, Chloe, Jseto, PokeMew, …), Sponsored Influencers 2026, US Open 2026 Activation Clips, Rush Podcast 15/30 s clips.
+New account for this campaign (user, 2026-11-20): "Grail Pulls" @grailpulls (pfp vault/assets/grail_pulls_pfp.png) — TikTok + IG + YT Shorts.

@@ -23,3 +23,4 @@
 - Backyard Breaks: Sam paid for his wedding 💍 (Josh Allen shield) · 1986 Fleer pack… who is in it? 👀 (MJ rookie) · Pick 3, choose 1… he picked THIS 😳 (Brady black diamond) (2026-11-19)
 - AI researchers game the tests to get quarterly bonuses (Higgsfield, 2026-11-20)
 - Silicon Valley has a loyalty problem (Higgsfield, 2026-11-20)
+- "I didn't want this anyway" Cam Jordan after his BOXED battle (BOXED, 2026-11-20)
