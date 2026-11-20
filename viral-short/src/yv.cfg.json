@@ -1695,5 +1695,742 @@
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "src": "g67_mlig.mp4"
+ },
+ "yigjohnny": {
+  "top": "They felt his AURA from 100 miles away",
+  "hl": {
+   "AURA": "#58EE28"
+  },
+  "cta": "*who has the most aura?*",
+  "music": [
+   "montagem_n",
+   24.0
+  ],
+  "ctaAt": [
+   "c2",
+   "head"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "100"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "pants"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "toes"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "100"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "100"
+   ],
+   [
+    "hook",
+    "mid"
+   ],
+   [
+    "hook",
+    "toe"
+   ],
+   [
+    "c1",
+    "pants"
+   ],
+   [
+    "c1",
+    "face"
+   ],
+   [
+    "c1",
+    "goosebumps"
+   ],
+   [
+    "c2",
+    "head"
+   ],
+   [
+    "c2",
+    "knees"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "toe"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "mid"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "pants"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c2",
+     "knees"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_yigjohnny.mp4"
+ },
+ "yiglex": {
+  "top": "He looks like a DISNEY VILLAIN",
+  "hl": {
+   "DISNEY": "#F40305",
+   "VILLAIN": "#F40305"
+  },
+  "cta": "*hero or villain?*",
+  "music": [
+   "investigations_n",
+   20.0
+  ],
+  "ctaAt": [
+   "c2",
+   "evil"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "villain"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "evil"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "lex"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "super"
+   ],
+   [
+    "hook",
+    "disney"
+   ],
+   [
+    "c1",
+    "lex"
+   ],
+   [
+    "c1",
+    "good"
+   ],
+   [
+    "c2",
+    "antagonist"
+   ],
+   [
+    "c2",
+    "evil"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "evil"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "disney"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "evil"
+    ],
+    "kind": "sfx",
+    "file": "s_fahhh.mp3",
+    "v": 0.3
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_yiglex.mp4"
+ },
+ "yigbald": {
+  "top": "\"This flash is gonna make my BALD SPOT go crazy\"",
+  "hl": {
+   "BALD": "#F40305",
+   "SPOT": "#F40305"
+  },
+  "cta": "*would you get retouched?*",
+  "music": [
+   "funkabn_n",
+   33.2
+  ],
+  "ctaAt": [
+   "c2",
+   "none"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "bald"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "retoucher"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "none"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "retoucher"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "flash"
+   ],
+   [
+    "hook",
+    "bald"
+   ],
+   [
+    "hook",
+    "crazy"
+   ],
+   [
+    "c1",
+    "edit"
+   ],
+   [
+    "c1",
+    "retoucher"
+   ],
+   [
+    "c1",
+    "steam"
+   ],
+   [
+    "c2",
+    "none"
+   ],
+   [
+    "c2",
+    "shot"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "bald"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "crazy"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "retoucher"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c2",
+     "none"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_yigbald.mp4"
+ },
+ "yigrun": {
+  "top": "He asked if he could RUN the runway",
+  "hl": {
+   "RUN": "#F40305"
+  },
+  "cta": "*would you run it?*",
+  "music": [
+   "empire_n",
+   18.8
+  ],
+  "ctaAt": [
+   "c2",
+   "fire"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "no"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "swag"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "fire"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "swag"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "run"
+   ],
+   [
+    "hook",
+    "no"
+   ],
+   [
+    "c1",
+    "runway"
+   ],
+   [
+    "c1",
+    "swag"
+   ],
+   [
+    "c2",
+    "practice"
+   ],
+   [
+    "c2",
+    "dare"
+   ],
+   [
+    "c2",
+    "fire"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "no"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "no"
+    ],
+    "kind": "sfx",
+    "file": "m_record-scratch.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "hook",
+     "no"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "fire"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_yigrun.mp4"
+ },
+ "yighome": {
+  "top": "\"You can go home, bro\u2026 we need 30 MORE\"",
+  "hl": {
+   "30": "#F40305",
+   "MORE\"": "#F40305"
+  },
+  "cta": "*how many takes do YOU need?*",
+  "music": [
+   "dubist_n",
+   1.0
+  ],
+  "ctaAt": [
+   "c2",
+   "thumbnail"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "home"
+    ],
+    "R"
+   ],
+   [
+    [
+     "hook",
+     "30"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "photoshop"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "home"
+   ],
+   [
+    "hook",
+    "guy"
+   ],
+   [
+    "hook",
+    "30"
+   ],
+   [
+    "c1",
+    "that"
+   ],
+   [
+    "c2",
+    "thumbnail"
+   ],
+   [
+    "c2",
+    "photoshop"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "30"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "home"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "30"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_yighome.mp4"
+ },
+ "yigpink": {
+  "top": "It takes a LEVEL of man to rock pink",
+  "hl": {
+   "LEVEL": "#58EE28"
+  },
+  "cta": "*could YOU pull off pink?*",
+  "music": [
+   "brevis_n",
+   0.0
+  ],
+  "ctaAt": [
+   "c2",
+   "tough"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "pink"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "bieber"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "tough"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "level"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "pink"
+   ],
+   [
+    "hook",
+    "level"
+   ],
+   [
+    "hook",
+    "man"
+   ],
+   [
+    "c1",
+    "headphones"
+   ],
+   [
+    "c1",
+    "bieber"
+   ],
+   [
+    "c1",
+    "2008"
+   ],
+   [
+    "c2",
+    "chain"
+   ],
+   [
+    "c2",
+    "tough"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "level"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "bieber"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "2008"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c2",
+     "tough"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_yigpink.mp4"
  }
 }

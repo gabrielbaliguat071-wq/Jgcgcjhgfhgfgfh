@@ -32,3 +32,4 @@
 - Hört Meta wirklich mit? 👂 (Meta-Klage, 2026-11-20)
 - Steven Ogg interrogating a guy who recorded the movie 💀 · Steven Ogg's sigma male moment 🗿 · When your high school rival asks how the job is going 💀 · The best way to pick what movie to watch 🥹 (CONCESSIONS, 2026-11-20)
 - His advice for being sick is INSANE · A card just sold for $5.2 MILLION · He bought a grail without knowing it · "I want it all" Grant makes a deal (BYB, 2026-11-20)
+- YoungLA IG: They felt his AURA from 100 miles away · He looks like a DISNEY VILLAIN · bald spot · can I RUN · 30 MORE · LEVEL of man to rock pink (2026-11-20)

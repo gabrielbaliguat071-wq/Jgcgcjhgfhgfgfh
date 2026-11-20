@@ -30,3 +30,6 @@ Unused: the 0-22 s cold open (burned-in "COMING UP" text), Lukie's Skyline (349-
 ## Funny one: mlig (plan_funny.py, 19 s) — backstage reaction-stick test (866-917): keeps dropping it, "take four", then "I need this for my IG bro" -> "so we're all here on your time now, huh?"
 Other funny spots still unused: Gary "can I run? No." runway practice (1012-1047, b-roll heavy), "you can go home bro, we need 30 more" (676-686),
 Johnny's aura "felt it in my midsection… head, shoulders, knees and toes" (416-447).
+
+## Instagram x6 (2026-11-20): plan_youngla_ig.py (yig*, VverPaldo, cfg yv.cfg.json): johnny aura 31.5 s · lex disney villain 16.3 s · bald spot 18.2 s · can I run 21.4 s · go home 30 more 13.4 s · pink 24.2 s.
+IG account: "Gym Fits & Laughs" @gymfitsandlaughs (pfp vault/assets/gymfits_pfp.png).
