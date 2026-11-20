@@ -49,3 +49,6 @@ Note: the sentence before "prohibitively expensive" names a model the transcript
 Captions: model name after "$30K in a week on …" is unclear ("Astra"?) → left out. "ability to capital" → "access to capital", "since 20 first" → 2021.
 Unused brief ideas left: churn/NRR (21:20), 90 min film = 100+ h footage (23:55), 3,000-word prompts (27:25), margins (31:52), two US incumbents/China four (32:58+26:23),
 AI support harder (37:35), researchers game tests (25:15), Claude→Codex (38:14), Europe (52:57), job-hopping (54:36), Yuri saw media shift (45:23).
+
+## Clip 13 (2026-11-20): bench — "Researchers game tests to get their bonuses" (25:15–25:50, Alex's view, no lab named). plan_higgs7.py, excerpt footage/higgs/tx7/hbench.mp4 (1490 s), 45 s.
+hook = "game benchmarks, get quarterly bonuses" → chasing benchmarks = corporate psyops → was in a large org, knows what happens → top researchers put test data into training → "couple million a year… can move to another lab easily".
