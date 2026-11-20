@@ -16,3 +16,7 @@ bbsoup 28.7 s (broccoli cheddar "shampoo" advice) · bbjudge 41.7 s (Judge $5.2M
 More from the Live Stream tab: "Aaron Judge outpays the S&P 500", "Grant talking about how cash is dead", "Big sales in the hobby", "Three nukes come back PSA 10", Wemby red /5 $30K, Flagg PSA 10 $15K.
 
 ## Batch 6 (2026-11-20): plan_bb5.py — bbwemby (red auto /5, first ever in product) · bbflagg (Gold auto comes back PSA 10, "eight racks on your head") · bbsp500 (Judge card 25x the S&P; no zoom so captions sit above the phone) · bbtrevor (Silver PSA 9 "bang!") · bbsesko ("he created the light bulb") · bbnukes (3 for 3 PSA 10).
+
+## Trevor batch (2026-11-20, user: Trevor clips = high virality): plan_bb6.py — every Trevor row on the sheet is now used (tab 1 stream clips all done earlier; u1_playbook has no speech after 60 s).
+tlkaboom (Green Kaboom 1/1 \$15K) · tlshield (NFL shield auto \$40–100K) · tltalk (football talk: sat 74 min in last 11, up 30) · tlred (red /5 "Trevor forever") · tlteal (teal /199 "He's the NFL!").
+More Trevor = new rows on the sheet (team adds clips after streams) — re-export tab gid 133317179 and grep trevor.
