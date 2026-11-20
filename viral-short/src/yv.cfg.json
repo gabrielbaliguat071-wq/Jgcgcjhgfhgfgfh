@@ -2432,5 +2432,396 @@
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "src": "g67_yigpink.mp4"
+ },
+ "tvleft": {
+  "top": "Why Trevor throws better rolling LEFT",
+  "hl": {
+   "LEFT": "#58EE28"
+  },
+  "cta": "*can you throw on the run?*",
+  "music": [
+   "sentamento_n",
+   57.5
+  ],
+  "ctaAt": [
+   "c2",
+   "left",
+   2
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "best"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "hated"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "left"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "best"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "best"
+   ],
+   [
+    "hook",
+    "quarterback"
+   ],
+   [
+    "c1",
+    "accuracy"
+   ],
+   [
+    "c1",
+    "velocity"
+   ],
+   [
+    "c2",
+    "rollouts"
+   ],
+   [
+    "c2",
+    "hated"
+   ],
+   [
+    "c2",
+    "left"
+   ],
+   [
+    "c2",
+    "better"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "best"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "life"
+    ],
+    "kind": "png",
+    "file": "e_heart.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "hated"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c2",
+     "better"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvleft.mp4"
+ },
+ "tvfields": {
+  "top": "This card was $20,000\u2026 now it's worth THIS",
+  "hl": {
+   "$20,000\u2026": "#58EE28",
+   "THIS": "#F40305"
+  },
+  "cta": "*would you still keep it?*",
+  "music": [
+   "funkabn_n",
+   33.2
+  ],
+  "ctaAt": [
+   "c1",
+   "fields"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "$20"
+    ],
+    "G"
+   ],
+   [
+    [
+     "hook",
+     "200"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "fields"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "$20"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "2021"
+   ],
+   [
+    "hook",
+    "$20"
+   ],
+   [
+    "hook",
+    "200"
+   ],
+   [
+    "hook",
+    "500"
+   ],
+   [
+    "c1",
+    "chase"
+   ],
+   [
+    "c1",
+    "rpa"
+   ],
+   [
+    "c1",
+    "davis"
+   ],
+   [
+    "c1",
+    "fields"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "200"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "once"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "200"
+    ],
+    "kind": "sfx",
+    "file": "m_record-scratch.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "hook",
+     "500"
+    ],
+    "kind": "png",
+    "file": "e_sob.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "fields"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvfields.mp4"
+ },
+ "tvsweat": {
+  "top": "Grant teaching Trevor how to SWEAT a card",
+  "hl": {
+   "SWEAT": "#58EE28"
+  },
+  "cta": "*do you sweat your cards?*",
+  "music": [
+   "montagem_n",
+   24.0
+  ],
+  "ctaAt": [
+   "c3",
+   "steve"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "trevor"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "sweat"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "corners"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "sweat"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "come"
+   ],
+   [
+    "hook",
+    "trevor"
+   ],
+   [
+    "c1",
+    "risk"
+   ],
+   [
+    "c1",
+    "hands"
+   ],
+   [
+    "c1",
+    "sweat"
+   ],
+   [
+    "c2",
+    "back"
+   ],
+   [
+    "c2",
+    "corners"
+   ],
+   [
+    "c2",
+    "slide"
+   ],
+   [
+    "c3",
+    "micah"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "sweat"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c3"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "trevor"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "corners"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.3
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvsweat.mp4"
  }
 }

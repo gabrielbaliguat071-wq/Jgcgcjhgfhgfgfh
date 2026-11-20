@@ -20,3 +20,6 @@ More from the Live Stream tab: "Aaron Judge outpays the S&P 500", "Grant talking
 ## Trevor batch (2026-11-20, user: Trevor clips = high virality): plan_bb6.py — every Trevor row on the sheet is now used (tab 1 stream clips all done earlier; u1_playbook has no speech after 60 s).
 tlkaboom (Green Kaboom 1/1 \$15K) · tlshield (NFL shield auto \$40–100K) · tltalk (football talk: sat 74 min in last 11, up 30) · tlred (red /5 "Trevor forever") · tlteal (teal /199 "He's the NFL!").
 More Trevor = new rows on the sheet (team adds clips after streams) — re-export tab gid 133317179 and grep trevor.
+
+## Trevor stream, fresh moments (2026-11-20): plan_tv7.py (VverPaldo) — tvleft (t3 0–56: "best QB I've ever seen" + rolls LEFT), tvfields (nt_rip 94–134: Justin Fields RPA \$20K→\$200–500), tvsweat (nt_rip 14–60: Grant teaches Trevor to sweat a card).
+Still unused in sources: nt_rip 0–14 (Jaguar-face patch value), nt_rip 134–141 (redemptions), t4 0–8 (bought for 10, now 20), t4 71–83 (1/1 Clemson vs NFL value).
