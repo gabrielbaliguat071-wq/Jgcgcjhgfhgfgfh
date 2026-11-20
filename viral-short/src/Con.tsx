@@ -10,7 +10,7 @@ const MONT = 'Montserrat';
 loadFont({family: MONT, url: staticFile('res/Montserrat-Black.woff2'), weight: '800'});
 const clamp = {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'} as const;
 type W = {w: string; s: number; e: number};
-type C = {src: string; dur: number; hook: string[]; hookEmoji: string; hl: string[]; kw: Record<string, string>; words: W[]};
+type C = {src: string; dur: number; start?: number; hook: string[]; hookEmoji: string; hl: string[]; kw: Record<string, string>; words: W[]};
 export const CON = CFG as unknown as Record<string, C>;
 export const conFrames = (id: string) => Math.round(CON[id].dur * 30);
 const VT = 656, VH = 608;   // 1920x1080 scaled to 1080 wide, centred
@@ -26,7 +26,7 @@ export const Con: React.FC<{edit: string}> = ({edit}) => {
   const pop = ch ? spring({frame: f - Math.round(ch[0].s * fps), fps, config: {damping: 12, stiffness: 230}}) : 1;
   const hk = interpolate(f, [0, 6, 9], [0.7, 1.05, 1], clamp);
   return <AbsoluteFill style={{background: '#000'}}>
-    <OffthreadVideo src={staticFile(c.src)} style={{position: 'absolute', left: 0, top: VT, width: 1080, height: VH}} />
+    <OffthreadVideo src={staticFile(c.src)} startFrom={Math.round((c.start ?? 0) * fps)} style={{position: 'absolute', left: 0, top: VT, width: 1080, height: VH}} />
     <div style={{position: 'absolute', top: 330, left: 50, right: 50, textAlign: 'center', transform: `scale(${hk})`}}>
       {c.hook.map((l, i) => <div key={i} style={{fontFamily: MONT, fontWeight: 800, fontSize: 52, lineHeight: '70px', color: '#fff', whiteSpace: 'nowrap'}}>
         {l.split(' ').map((w, j) => <span key={j} style={{color: c.hl.includes(w) ? '#FFE14D' : '#fff'}}>{w} </span>)}

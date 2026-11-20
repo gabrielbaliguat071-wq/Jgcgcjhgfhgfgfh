@@ -25,3 +25,4 @@
 - Silicon Valley has a loyalty problem (Higgsfield, 2026-11-20)
 - "I didn't want this anyway" Cam Jordan after his BOXED battle (BOXED, 2026-11-20)
 - When you're late to the movies and the manager is Steven Ogg 💀 (CONCESSIONS, 2026-11-20)
+- Michael Madsen swearing he was Kevin Bacon's stunt double 😭 (CONCESSIONS, 2026-11-20)

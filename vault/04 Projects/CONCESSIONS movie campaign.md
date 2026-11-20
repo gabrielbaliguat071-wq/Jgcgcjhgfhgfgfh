@@ -10,3 +10,5 @@ Made: conyells (43.9 s) — "003/004 Ogg Yells at Customers": late couple, "No l
 Next picks: Ogg Coffee, Ogg Fights the Hippies, Ogg Hires Randy (very sweary), Madsen Gets In Free, Madsen flirts and watches his own movie, What Movie Do You Want to See?, Canadian Lovers.
 
 Channel (user, 2026-11-20): "Reel Laughs" @reellaughs (YouTube) — pfp vault/assets/reel_laughs_pfp.png, banner in deliver/concessions.
+
+Made: confree (48.4 s) — "002 Madsen Gets In Free", one continuous take 52.0–100.3 s: Rex says he was Kevin Bacon's stunt double in Footloose ("the Baconator"). Uncertain names (Rex's surname, "Wesley Frederick's") captioned as "…". Con.tsx now takes `start`.
