@@ -14,3 +14,6 @@ Channel (user, 2026-11-20): "Reel Laughs" @reellaughs (YouTube) — pfp vault/as
 Made: confree (48.4 s) — "002 Madsen Gets In Free", one continuous take 52.0–100.3 s: Rex says he was Kevin Bacon's stunt double in Footloose ("the Baconator"). Uncertain names (Rex's surname, "Wesley Frederick's") captioned as "…". Con.tsx now takes `start`.
 
 Made: conhippies (49.7 s) — "003 Ogg Fights the Hippies", continuous 0–49.65 s (Hunter's 3rd cigarette → dirt merchants → "we're artists" → "what customers if we're closing").
+
+Batch 2 (2026-11-20): conrival (38.2 s, Hunter's rival snack order 61.6–99.75), conhorse (20.5 s, horse tranquilizer, cut before the long silence), conrandy (30.4 s, Randy 12.2–42.6, swears starred).
+Skipped: Canadian Lovers (explicit + Nazi-logo joke = brand risk), Madsen Hung Over (song, no dialogue), Ogg Coffee (no dialogue).
