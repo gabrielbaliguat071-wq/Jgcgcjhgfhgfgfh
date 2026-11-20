@@ -8,3 +8,9 @@ whip + whoosh, glow captions, reveal = flash + shake + punch on the card + NAME 
 | bbjordan | Michael Jordan 1986 Fleer rookie ($3–5K) | crowd erupting (card blurred) → "sweat of a lifetime", "Clark Kellogg, the goat", "more MJs in chat", "did I just see what I think I saw?" | 28.0 s |
 | bbbrady | Tom Brady Black Diamond 1/1 ($8K+, real diamond) | "Oh my God!" → Pick 3 Choose 1 → fireworks | 25.3 s |
 Disk: Remotion bundles copy all of public/ → keep public small (old g67/bx/h excerpts deleted 2026-11-19; regenerate from plan scripts).
+
+## Batch 5 (2026-11-20) — user: "I only made $1" → copy BYB's own viral pattern (sheet tab gid 183567664 "Historical Viral Content"):
+money stories / generosity / deals / collections beat plain pulls (Josh Allen 1/1 given to a kid 227K, "cards I lost a house on" 210K, "never profit on" 150K, buyback 146K).
+plan_bb4.py (appends to pull.cfg.json; Pull.tsx now has bannerY/capY; talk clips zoom 1.6 from the top since the table below is empty; reveal.at = -1 = no stack):
+bbsoup 28.7 s (broccoli cheddar "shampoo" advice) · bbjudge 41.7 s (Judge $5.2M sale, "cash is dead", Darren woke up +$100K) · bbgrail 29.9 s (LeBron 10/10 pop 7, bought a grail without knowing) · bbdeal 37.9 s ("I want it all", $5,500 vs $4,500 + Honors box).
+More from the Live Stream tab: "Aaron Judge outpays the S&P 500", "Grant talking about how cash is dead", "Big sales in the hobby", "Three nukes come back PSA 10", Wemby red /5 $30K, Flagg PSA 10 $15K.

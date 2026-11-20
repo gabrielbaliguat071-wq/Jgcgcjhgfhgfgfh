@@ -13,7 +13,7 @@ const clamp = {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'} as const;
 type W = {w: string; s: number; e: number};
 type Sc = {a: number; b: number; zoom?: [number, number, number]; words: W[]; blur?: boolean};
 type P = {src: string; srcW: number; top: string[]; hl: Record<string, string>; scenes: Sc[]; reveal: {at: number; name: string; card: string; price: string; cx: number; cy: number; ty?: number};
-  question: string; qAt: number; tEmoji: string; qEmoji: string; music: [string, number]; kw: Record<string, string>; emoji: {at: number; e: string}[]; cardY: number};
+  question: string; qAt: number; tEmoji: string; qEmoji: string; bannerY?: number; capY?: number; music: [string, number]; kw: Record<string, string>; emoji: {at: number; e: string}[]; cardY: number};
 export const PULL = CFG as unknown as Record<string, P>;
 const F = (s: number) => Math.round(s * 30);
 export const pullFrames = (id: string) => PULL[id].scenes.reduce((a, s) => a + F(s.b - s.a), 0);
@@ -59,14 +59,14 @@ export const Pull: React.FC<{edit: string}> = ({edit}) => {
       <Img src={staticFile('res/emoji/2753.png')} style={{width: 200, height: 200, transform: `scale(${1 + 0.08 * Math.sin(f / 4)})`}} /></div>}
     {rd >= 0 && rd < 3 && <AbsoluteFill style={{background: '#fff', opacity: [1, 0.7, 0.3][rd]}} />}
     {/* hook banner over the stream bar */}
-    <div style={{position: 'absolute', top: 500, left: 40, right: 40, display: 'flex', justifyContent: 'center', transform: `scale(${interpolate(f, [0, 6, 9], [0.6, 1.05, 1], clamp)})`}}>
+    <div style={{position: 'absolute', top: p.bannerY ?? 500, left: 40, right: 40, display: 'flex', justifyContent: 'center', transform: `scale(${interpolate(f, [0, 6, 9], [0.6, 1.05, 1], clamp)})`}}>
       <div style={{background: '#fff', borderRadius: 18, padding: '14px 26px', boxShadow: '0 8px 26px rgba(0,0,0,0.6)', fontFamily: MONT, fontWeight: 800, fontSize: 52, lineHeight: '60px', color: '#111', textAlign: 'center', textTransform: 'uppercase'}}>
         {p.top.map((l, i) => <div key={i}>{l.split(' ').map((w, j) => <span key={j} style={{color: p.hl[w] ?? '#111'}}>{w} </span>)}{i === p.top.length - 1 && <Img src={staticFile(`res/emoji/${p.tEmoji}.png`)} style={{width: 56, height: 56, verticalAlign: 'middle'}} />}</div>)}
       </div>
     </div>
     {emo && (() => { const d = f - emo.t, s = interpolate(d, [0, 4, 7], [0.2, 1.2, 1], clamp);
       return <Img src={staticFile(`res/emoji/${emo.e}.png`)} style={{position: 'absolute', left: 465, top: 1440, width: 150, height: 150, transform: `scale(${s}) rotate(${6 * Math.sin(d / 4)}deg)`, opacity: d > 24 ? (30 - d) / 6 : 1}} />; })()}
-    {capOn && <div style={{position: 'absolute', top: 1600, left: 30, right: 30, textAlign: 'center', transform: `scale(${0.8 + 0.2 * cp})`}}>
+    {capOn && <div style={{position: 'absolute', top: p.capY ?? 1600, left: 30, right: 30, textAlign: 'center', transform: `scale(${0.8 + 0.2 * cp})`}}>
       {ch!.map((w, i) => { const key = w.w.toLowerCase().replace(/[^a-z0-9$-]/g, ''), col = p.kw[key] ?? '#FFFFFF';
         return <span key={i} style={{display: 'inline-block', margin: '0 14px', fontFamily: MONT, fontWeight: 800, fontSize: 80, lineHeight: '94px', textTransform: 'uppercase', color: col,
           textShadow: glow(col === '#FFFFFF' ? '#ffffff' : col), opacity: f >= w.at ? 1 : 0}}>{w.w.replace(/[.,!]+$/, '')}</span>; })}
