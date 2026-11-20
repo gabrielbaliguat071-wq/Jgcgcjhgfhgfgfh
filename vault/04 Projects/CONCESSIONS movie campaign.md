@@ -8,3 +8,5 @@ Caption: point to @concessionsmovie + link in bio, #concessionsclips required, p
 Template src/Con.tsx (cfg con.cfg.json): full 16:9 frame scaled to 1080 wide (y 656–1264), hook above, captions below, official title card + CTA at the bottom.
 Made: conyells (43.9 s) — "003/004 Ogg Yells at Customers": late couple, "No late admission", goobers, "Scram! My theater!", "What's playing at Regal?".
 Next picks: Ogg Coffee, Ogg Fights the Hippies, Ogg Hires Randy (very sweary), Madsen Gets In Free, Madsen flirts and watches his own movie, What Movie Do You Want to See?, Canadian Lovers.
+
+Channel (user, 2026-11-20): "Reel Laughs" @reellaughs (YouTube) — pfp vault/assets/reel_laughs_pfp.png, banner in deliver/concessions.
