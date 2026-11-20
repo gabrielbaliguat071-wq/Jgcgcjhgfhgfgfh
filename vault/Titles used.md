@@ -29,3 +29,4 @@
 - Steven Ogg vs the hippies outside his movie theater 💀 (CONCESSIONS, 2026-11-20)
 - Double tweener into an ERNE?! 🤯 · He's DOWN… the rally KEEPS GOING 😳 (CNPL, 2026-11-20)
 - When your high school rival orders at your snack bar 💀 · Steven Ogg's secret to dealing with stress 😭 · Steven Ogg describing the scariest guy he knows 💀 (CONCESSIONS, 2026-11-20)
+- Hört Meta wirklich mit? 👂 (Meta-Klage, 2026-11-20)
