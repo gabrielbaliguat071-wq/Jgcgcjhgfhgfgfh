@@ -27,3 +27,4 @@
 - When you're late to the movies and the manager is Steven Ogg 💀 (CONCESSIONS, 2026-11-20)
 - Michael Madsen swearing he was Kevin Bacon's stunt double 😭 (CONCESSIONS, 2026-11-20)
 - Steven Ogg vs the hippies outside his movie theater 💀 (CONCESSIONS, 2026-11-20)
+- Double tweener into an ERNE?! 🤯 · He's DOWN… the rally KEEPS GOING 😳 (CNPL, 2026-11-20)

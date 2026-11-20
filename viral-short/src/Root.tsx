@@ -10,6 +10,7 @@ import { Forge, FORGE, forgeFrames } from './Forge';
 import { ForgeVO, FVO, fvoFrames } from './ForgeVO';
 import { Pull, PULL, pullFrames } from './Pull';
 import { Con, CON, conFrames } from './Con';
+import { Pickle, PICKLE, pickleFrames } from './Pickle';
 import { Boxed, BOXED, boxedFrames } from './Boxed';
 import { Topps, TOPPS, toppsFrames } from './Topps';
 import { Cursed, CURSED, cursedFrames } from './Cursed';
@@ -30,6 +31,9 @@ export const RemotionRoot: React.FC = () => {
       />
       {Object.keys(EDITS).map((id) => (
         <Composition key={id} id={`Guess-${id}`} component={Guess} defaultProps={{edit: id}} durationInFrames={framesOf(id)} fps={30} width={1080} height={1920} />
+      ))}
+      {Object.keys(PICKLE).map((id) => (
+        <Composition key={'pk' + id} id={`Pickle-${id}`} component={Pickle} defaultProps={{edit: id}} durationInFrames={pickleFrames(id)} fps={30} width={1080} height={1920} />
       ))}
       {Object.keys(CON).map((id) => (
         <Composition key={'cn' + id} id={`Con-${id}`} component={Con} defaultProps={{edit: id}} durationInFrames={conFrames(id)} fps={30} width={1080} height={1920} />
