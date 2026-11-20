@@ -17,3 +17,7 @@ Made: conhippies (49.7 s) — "003 Ogg Fights the Hippies", continuous 0–49.65
 
 Batch 2 (2026-11-20): conrival (38.2 s, Hunter's rival snack order 61.6–99.75), conhorse (20.5 s, horse tranquilizer, cut before the long silence), conrandy (30.4 s, Randy 12.2–42.6, swears starred).
 Skipped: Canadian Lovers (explicit + Nazi-logo joke = brand risk), Madsen Hung Over (song, no dialogue), Ogg Coffee (no dialogue).
+
+Batch 3 (2026-11-20): coninterrog (56 s, interrogation room 22.3–78.2, "caught red-handed"), consigma (24.6 s, no dialogue), conrival2 (22.4 s, rival 99.6–122.0 quitting/closing), conwhatmovie (52.8 s, "who are you today?").
+Rejected: Star Wars gag (racism argument), Taft (immigrant stereotypes), Murder at the Movies (spoiler), Drunk (spoiler-ish, not funny), Madsen Last Fan (silence + title touches his passing), Madsen watches son (unclear dialogue).
+Disk: keep public/ and footage/ lean — renders crash when the disk is near full (Chrome ERR_INSUFFICIENT_RESOURCES).

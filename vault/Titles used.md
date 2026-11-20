@@ -30,3 +30,4 @@
 - Double tweener into an ERNE?! 🤯 · He's DOWN… the rally KEEPS GOING 😳 (CNPL, 2026-11-20)
 - When your high school rival orders at your snack bar 💀 · Steven Ogg's secret to dealing with stress 😭 · Steven Ogg describing the scariest guy he knows 💀 (CONCESSIONS, 2026-11-20)
 - Hört Meta wirklich mit? 👂 (Meta-Klage, 2026-11-20)
+- Steven Ogg interrogating a guy who recorded the movie 💀 · Steven Ogg's sigma male moment 🗿 · When your high school rival asks how the job is going 💀 · The best way to pick what movie to watch 🥹 (CONCESSIONS, 2026-11-20)
