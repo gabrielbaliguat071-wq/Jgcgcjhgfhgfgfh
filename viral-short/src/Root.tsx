@@ -14,6 +14,7 @@ import { Pickle, PICKLE, pickleFrames } from './Pickle';
 import { MK, MKC, mkFrames } from './MK';
 import { Kai, KAI, kaiFrames } from './Kai';
 import { YLM, YLMS, ylmFrames } from './YLM';
+import { MRW, MRWS, mrwFrames } from './MRW';
 import { Boxed, BOXED, boxedFrames } from './Boxed';
 import { Topps, TOPPS, toppsFrames } from './Topps';
 import { Cursed, CURSED, cursedFrames } from './Cursed';
@@ -35,6 +36,7 @@ export const RemotionRoot: React.FC = () => {
       {Object.keys(EDITS).map((id) => (
         <Composition key={id} id={`Guess-${id}`} component={Guess} defaultProps={{edit: id}} durationInFrames={framesOf(id)} fps={30} width={1080} height={1920} />
       ))}
+      {Object.keys(MRWS).map((id) => <Composition key={"mrw" + id} id={`MRW-${id}`} component={MRW} defaultProps={{edit: id}} durationInFrames={mrwFrames(id)} fps={30} width={1080} height={1920} />)}
       {Object.keys(YLMS).map((id) => <Composition key={"ylm" + id} id={`YLM-${id}`} component={YLM} defaultProps={{edit: id}} durationInFrames={ylmFrames(id)} fps={30} width={1080} height={1920} />)}
       {Object.keys(KAI).map((id) => (
         <Composition key={'kai' + id} id={`Kai-${id}`} component={Kai} defaultProps={{edit: id}} durationInFrames={kaiFrames(id)} fps={30} width={1080} height={1920} />

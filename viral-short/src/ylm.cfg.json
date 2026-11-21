@@ -933,5 +933,266 @@
     "e": 18.5
    }
   ]
+ },
+ "qh": {
+  "baseVol": 1,
+  "music": [
+   "funkabn_n",
+   0,
+   0
+  ],
+  "wordsY": 1540,
+  "wordSize": 60,
+  "whooshVol": 0.12,
+  "punch": true,
+  "freezes": [],
+  "sfx": [],
+  "base": "mrf/qh.mp4",
+  "dur": 19.1,
+  "cuts": [
+   3.6,
+   13.3
+  ],
+  "texts": [
+   {
+    "from": 0,
+    "to": 3.6,
+    "lines": [
+     "Heismay's line that",
+     "hits different"
+    ],
+    "y": 170,
+    "size": 62,
+    "box": true,
+    "hl": [
+     "hits",
+     "different"
+    ]
+   },
+   {
+    "from": 3.6,
+    "to": 19.1,
+    "lines": [
+     "\u2014 Heismay"
+    ],
+    "y": 170,
+    "size": 44,
+    "box": true
+   }
+  ],
+  "words": [
+   {
+    "w": "\u201cThe only way to beat the darkness",
+    "s": 0.02
+   },
+   {
+    "w": "is to confront it.\u201d",
+    "s": 1.78,
+    "e": 3.6,
+    "hl": true
+   },
+   {
+    "w": "\u201cI'd thought for a long time",
+    "s": 3.69
+   },
+   {
+    "w": "that if I wanted to feel accepted,",
+    "s": 5.59
+   },
+   {
+    "w": "I'd need power.\u201d",
+    "s": 7.97,
+    "e": 9.9,
+    "hl": true
+   },
+   {
+    "w": "\u201cBut you know,",
+    "s": 10.55
+   },
+   {
+    "w": "you lot have helped me realize something.\u201d",
+    "s": 11.45,
+    "e": 13.3
+   },
+   {
+    "w": "\u201cStep by meager step.\u201d",
+    "s": 13.42,
+    "e": 15.7,
+    "hl": true
+   },
+   {
+    "w": "\u201cWe'll fight,",
+    "s": 15.84
+   },
+   {
+    "w": "but not in justice's name.\u201d",
+    "s": 16.4,
+    "e": 19.1
+   }
+  ]
+ },
+ "ql": {
+  "baseVol": 1,
+  "music": [
+   "funkabn_n",
+   0,
+   0
+  ],
+  "wordsY": 1540,
+  "wordSize": 60,
+  "whooshVol": 0.12,
+  "punch": true,
+  "freezes": [],
+  "sfx": [],
+  "base": "mrf/ql.mp4",
+  "dur": 16.7,
+  "cuts": [
+   2.6,
+   8.8,
+   11.1,
+   13.7
+  ],
+  "texts": [
+   {
+    "from": 0,
+    "to": 2.6,
+    "lines": [
+     "Louis's most villain lines"
+    ],
+    "y": 170,
+    "size": 60,
+    "box": true,
+    "emoji": "1f608"
+   },
+   {
+    "from": 2.6,
+    "to": 13.7,
+    "lines": [
+     "\u2014 Louis"
+    ],
+    "y": 170,
+    "size": 44,
+    "box": true
+   },
+   {
+    "from": 13.7,
+    "to": 16.7,
+    "lines": [
+     "villain of the year?"
+    ],
+    "y": 170,
+    "size": 60,
+    "box": true,
+    "emoji": "1f914"
+   }
+  ],
+  "words": [
+   {
+    "w": "\u201cI am the rightful king,",
+    "s": 2.71
+   },
+   {
+    "w": "he who will forge anew",
+    "s": 4.65
+   },
+   {
+    "w": "this unworthy country into a utopia.\u201d",
+    "s": 5.77,
+    "e": 8.8
+   },
+   {
+    "w": "\u201cBehold, the new world dawns.\u201d",
+    "s": 13.83,
+    "e": 16.7,
+    "hl": true
+   }
+  ]
+ },
+ "qa": {
+  "baseVol": 1,
+  "music": [
+   "funkabn_n",
+   0,
+   0
+  ],
+  "wordsY": 1540,
+  "wordSize": 60,
+  "whooshVol": 0.12,
+  "punch": true,
+  "freezes": [],
+  "sfx": [],
+  "base": "mrf/qa.mp4",
+  "dur": 15.05,
+  "cuts": [
+   3.0,
+   6.7,
+   7.9,
+   11.15
+  ],
+  "texts": [
+   {
+    "from": 0,
+    "to": 3.0,
+    "lines": [
+     "Metaphor: ReFantazio",
+     "quotes that hit different"
+    ],
+    "y": 170,
+    "size": 58,
+    "box": true,
+    "hl": [
+     "hit",
+     "different"
+    ]
+   },
+   {
+    "from": 11.15,
+    "to": 15.05,
+    "lines": [
+     "which line hit you hardest?"
+    ],
+    "y": 170,
+    "size": 56,
+    "box": true,
+    "emoji": "1f914"
+   }
+  ],
+  "words": [
+   {
+    "w": "\u201cIn my ideal world,",
+    "s": 3.08
+   },
+   {
+    "w": "people can believe in their future.",
+    "s": 5.18,
+    "e": 6.7,
+    "hl": true
+   },
+   {
+    "w": "Their birth doesn't matter.\u201d",
+    "s": 6.82,
+    "e": 7.9
+   },
+   {
+    "w": "\u201cNo matter who someone is,",
+    "s": 7.98
+   },
+   {
+    "w": "they deserve a fair country.\u201d",
+    "s": 9.84,
+    "e": 11.15,
+    "hl": true
+   },
+   {
+    "w": "\u201cChange the world by thine own hand",
+    "s": 11.15
+   },
+   {
+    "w": "and venture forth.\u201d",
+    "s": 13.51,
+    "e": 15.05,
+    "hl": true
+   }
+  ]
  }
 }
