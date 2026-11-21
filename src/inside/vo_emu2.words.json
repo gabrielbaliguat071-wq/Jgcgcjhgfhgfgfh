@@ -1,0 +1,1316 @@
+[
+{
+"text": "In",
+"startMs": 0,
+"endMs": 160,
+"p": 0.94
+},
+{
+"text": "1932",
+"startMs": 160,
+"endMs": 880,
+"p": 0.99
+},
+{
+"text": "Australia",
+"startMs": 1320,
+"endMs": 1700,
+"p": 1.0
+},
+{
+"text": "declared",
+"startMs": 1700,
+"endMs": 2040,
+"p": 1.0
+},
+{
+"text": "war",
+"startMs": 2040,
+"endMs": 2460,
+"p": 0.99
+},
+{
+"text": "on",
+"startMs": 2460,
+"endMs": 3120,
+"p": 0.39
+},
+{
+"text": "birds",
+"startMs": 3120,
+"endMs": 3460,
+"p": 0.96
+},
+{
+"text": "and",
+"startMs": 3460,
+"endMs": 3720,
+"p": 0.98
+},
+{
+"text": "lost.",
+"startMs": 3720,
+"endMs": 4020,
+"p": 0.99
+},
+{
+"text": "After",
+"startMs": 4680,
+"endMs": 4900,
+"p": 0.99
+},
+{
+"text": "World",
+"startMs": 4900,
+"endMs": 5100,
+"p": 0.92
+},
+{
+"text": "War",
+"startMs": 5100,
+"endMs": 5300,
+"p": 1.0
+},
+{
+"text": "One,",
+"startMs": 5300,
+"endMs": 5560,
+"p": 0.77
+},
+{
+"text": "thousands",
+"startMs": 5700,
+"endMs": 5900,
+"p": 0.99
+},
+{
+"text": "of",
+"startMs": 5900,
+"endMs": 6160,
+"p": 1.0
+},
+{
+"text": "soldiers",
+"startMs": 6160,
+"endMs": 6440,
+"p": 0.99
+},
+{
+"text": "were",
+"startMs": 6440,
+"endMs": 6700,
+"p": 1.0
+},
+{
+"text": "given",
+"startMs": 6700,
+"endMs": 6880,
+"p": 1.0
+},
+{
+"text": "land",
+"startMs": 6880,
+"endMs": 7160,
+"p": 1.0
+},
+{
+"text": "in",
+"startMs": 7160,
+"endMs": 7360,
+"p": 1.0
+},
+{
+"text": "Western",
+"startMs": 7360,
+"endMs": 7600,
+"p": 0.9
+},
+{
+"text": "Australia",
+"startMs": 7600,
+"endMs": 8160,
+"p": 1.0
+},
+{
+"text": "to",
+"startMs": 8160,
+"endMs": 8400,
+"p": 0.99
+},
+{
+"text": "grow",
+"startMs": 8400,
+"endMs": 8620,
+"p": 1.0
+},
+{
+"text": "wheat.",
+"startMs": 8620,
+"endMs": 8920,
+"p": 1.0
+},
+{
+"text": "Then",
+"startMs": 9420,
+"endMs": 9580,
+"p": 0.99
+},
+{
+"text": "about",
+"startMs": 9580,
+"endMs": 9820,
+"p": 0.86
+},
+{
+"text": "20,000",
+"startMs": 9820,
+"endMs": 10600,
+"p": 0.94
+},
+{
+"text": "emus",
+"startMs": 10600,
+"endMs": 10920,
+"p": 0.93
+},
+{
+"text": "showed",
+"startMs": 10920,
+"endMs": 11200,
+"p": 0.99
+},
+{
+"text": "up.",
+"startMs": 11200,
+"endMs": 11520,
+"p": 1.0
+},
+{
+"text": "They",
+"startMs": 11760,
+"endMs": 11960,
+"p": 0.99
+},
+{
+"text": "ate",
+"startMs": 11960,
+"endMs": 12140,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 12140,
+"endMs": 12280,
+"p": 1.0
+},
+{
+"text": "crops,",
+"startMs": 12280,
+"endMs": 12560,
+"p": 1.0
+},
+{
+"text": "they",
+"startMs": 12740,
+"endMs": 12840,
+"p": 0.97
+},
+{
+"text": "smashed",
+"startMs": 12840,
+"endMs": 13120,
+"p": 0.99
+},
+{
+"text": "the",
+"startMs": 13120,
+"endMs": 13340,
+"p": 1.0
+},
+{
+"text": "fences,",
+"startMs": 13340,
+"endMs": 13620,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 13840,
+"endMs": 13940,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 13940,
+"endMs": 14040,
+"p": 1.0
+},
+{
+"text": "holes",
+"startMs": 14040,
+"endMs": 14280,
+"p": 0.94
+},
+{
+"text": "let",
+"startMs": 14280,
+"endMs": 14500,
+"p": 0.98
+},
+{
+"text": "the",
+"startMs": 14500,
+"endMs": 14620,
+"p": 0.99
+},
+{
+"text": "rabbits",
+"startMs": 14620,
+"endMs": 14880,
+"p": 1.0
+},
+{
+"text": "in",
+"startMs": 14880,
+"endMs": 15140,
+"p": 0.97
+},
+{
+"text": "too,",
+"startMs": 15140,
+"endMs": 15400,
+"p": 0.76
+},
+{
+"text": "so",
+"startMs": 15660,
+"endMs": 15840,
+"p": 0.99
+},
+{
+"text": "the",
+"startMs": 15840,
+"endMs": 15960,
+"p": 0.99
+},
+{
+"text": "farmers",
+"startMs": 15960,
+"endMs": 16220,
+"p": 0.99
+},
+{
+"text": "went",
+"startMs": 16220,
+"endMs": 16480,
+"p": 1.0
+},
+{
+"text": "to",
+"startMs": 16480,
+"endMs": 16600,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 16600,
+"endMs": 16720,
+"p": 0.99
+},
+{
+"text": "Minister",
+"startMs": 16720,
+"endMs": 16900,
+"p": 0.75
+},
+{
+"text": "of",
+"startMs": 16900,
+"endMs": 17140,
+"p": 1.0
+},
+{
+"text": "Defense",
+"startMs": 17140,
+"endMs": 17440,
+"p": 0.79
+},
+{
+"text": "and",
+"startMs": 17440,
+"endMs": 17680,
+"p": 0.97
+},
+{
+"text": "asked",
+"startMs": 17680,
+"endMs": 17880,
+"p": 1.0
+},
+{
+"text": "for",
+"startMs": 17880,
+"endMs": 18100,
+"p": 1.0
+},
+{
+"text": "machine",
+"startMs": 18100,
+"endMs": 18400,
+"p": 0.99
+},
+{
+"text": "guns.",
+"startMs": 18400,
+"endMs": 18740,
+"p": 0.99
+},
+{
+"text": "The",
+"startMs": 19320,
+"endMs": 19500,
+"p": 1.0
+},
+{
+"text": "army",
+"startMs": 19500,
+"endMs": 19700,
+"p": 0.85
+},
+{
+"text": "sent",
+"startMs": 19700,
+"endMs": 20000,
+"p": 1.0
+},
+{
+"text": "Major",
+"startMs": 20000,
+"endMs": 20380,
+"p": 0.97
+},
+{
+"text": "Meredith,",
+"startMs": 20380,
+"endMs": 20720,
+"p": 0.99
+},
+{
+"text": "two",
+"startMs": 21040,
+"endMs": 21180,
+"p": 0.94
+},
+{
+"text": "soldiers,",
+"startMs": 21180,
+"endMs": 21660,
+"p": 1.0
+},
+{
+"text": "two",
+"startMs": 21940,
+"endMs": 22080,
+"p": 0.99
+},
+{
+"text": "machine",
+"startMs": 22080,
+"endMs": 22440,
+"p": 1.0
+},
+{
+"text": "guns,",
+"startMs": 22440,
+"endMs": 22780,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 22920,
+"endMs": 23080,
+"p": 1.0
+},
+{
+"text": "10,000",
+"startMs": 23080,
+"endMs": 23700,
+"p": 0.79
+},
+{
+"text": "bullets.",
+"startMs": 23700,
+"endMs": 23980,
+"p": 1.0
+},
+{
+"text": "They",
+"startMs": 24440,
+"endMs": 24620,
+"p": 0.99
+},
+{
+"text": "even",
+"startMs": 24620,
+"endMs": 24840,
+"p": 1.0
+},
+{
+"text": "brought",
+"startMs": 24840,
+"endMs": 25060,
+"p": 1.0
+},
+{
+"text": "a",
+"startMs": 25060,
+"endMs": 25200,
+"p": 1.0
+},
+{
+"text": "cameraman",
+"startMs": 25200,
+"endMs": 25600,
+"p": 0.99
+},
+{
+"text": "to",
+"startMs": 25600,
+"endMs": 25800,
+"p": 1.0
+},
+{
+"text": "film",
+"startMs": 25800,
+"endMs": 26020,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 26020,
+"endMs": 26180,
+"p": 0.87
+},
+{
+"text": "victory.",
+"startMs": 26180,
+"endMs": 26500,
+"p": 0.98
+},
+{
+"text": "Day",
+"startMs": 26500,
+"endMs": 27100,
+"p": 0.17
+},
+{
+"text": "one,",
+"startMs": 27100,
+"endMs": 27380,
+"p": 0.19
+},
+{
+"text": "the",
+"startMs": 27700,
+"endMs": 27820,
+"p": 0.94
+},
+{
+"text": "emus",
+"startMs": 27820,
+"endMs": 28220,
+"p": 0.75
+},
+{
+"text": "saw",
+"startMs": 28220,
+"endMs": 28400,
+"p": 0.99
+},
+{
+"text": "them",
+"startMs": 28400,
+"endMs": 28560,
+"p": 0.99
+},
+{
+"text": "coming",
+"startMs": 28560,
+"endMs": 28800,
+"p": 0.99
+},
+{
+"text": "and",
+"startMs": 28800,
+"endMs": 29040,
+"p": 0.96
+},
+{
+"text": "ran",
+"startMs": 29040,
+"endMs": 29200,
+"p": 0.99
+},
+{
+"text": "out",
+"startMs": 29200,
+"endMs": 29380,
+"p": 1.0
+},
+{
+"text": "of",
+"startMs": 29380,
+"endMs": 29500,
+"p": 0.99
+},
+{
+"text": "range.",
+"startMs": 29500,
+"endMs": 29800,
+"p": 1.0
+},
+{
+"text": "Day",
+"startMs": 30040,
+"endMs": 30120,
+"p": 0.98
+},
+{
+"text": "three,",
+"startMs": 30120,
+"endMs": 30480,
+"p": 0.94
+},
+{
+"text": "about",
+"startMs": 30880,
+"endMs": 31020,
+"p": 0.93
+},
+{
+"text": "1,000",
+"startMs": 31020,
+"endMs": 31580,
+"p": 0.1
+},
+{
+"text": "emus",
+"startMs": 31580,
+"endMs": 31940,
+"p": 0.98
+},
+{
+"text": "walked",
+"startMs": 31940,
+"endMs": 32220,
+"p": 0.99
+},
+{
+"text": "right",
+"startMs": 32220,
+"endMs": 32540,
+"p": 0.97
+},
+{
+"text": "into",
+"startMs": 32540,
+"endMs": 32740,
+"p": 0.99
+},
+{
+"text": "an",
+"startMs": 32740,
+"endMs": 32900,
+"p": 1.0
+},
+{
+"text": "ambush.",
+"startMs": 32900,
+"endMs": 33240,
+"p": 1.0
+},
+{
+"text": "The",
+"startMs": 33720,
+"endMs": 33740,
+"p": 0.99
+},
+{
+"text": "soldiers",
+"startMs": 33740,
+"endMs": 34120,
+"p": 0.99
+},
+{
+"text": "opened",
+"startMs": 34120,
+"endMs": 34600,
+"p": 0.99
+},
+{
+"text": "fire,",
+"startMs": 34600,
+"endMs": 35060,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 35340,
+"endMs": 35460,
+"p": 0.99
+},
+{
+"text": "the",
+"startMs": 35460,
+"endMs": 35560,
+"p": 0.99
+},
+{
+"text": "gun",
+"startMs": 35560,
+"endMs": 35740,
+"p": 0.99
+},
+{
+"text": "jammed,",
+"startMs": 35740,
+"endMs": 36080,
+"p": 1.0
+},
+{
+"text": "so",
+"startMs": 36280,
+"endMs": 36400,
+"p": 1.0
+},
+{
+"text": "they",
+"startMs": 36400,
+"endMs": 36520,
+"p": 0.99
+},
+{
+"text": "put",
+"startMs": 36520,
+"endMs": 36620,
+"p": 1.0
+},
+{
+"text": "a",
+"startMs": 36620,
+"endMs": 36740,
+"p": 0.99
+},
+{
+"text": "gun",
+"startMs": 36740,
+"endMs": 36880,
+"p": 1.0
+},
+{
+"text": "on",
+"startMs": 36880,
+"endMs": 37020,
+"p": 1.0
+},
+{
+"text": "a",
+"startMs": 37020,
+"endMs": 37140,
+"p": 0.99
+},
+{
+"text": "truck.",
+"startMs": 37140,
+"endMs": 37380,
+"p": 1.0
+},
+{
+"text": "But",
+"startMs": 37660,
+"endMs": 37780,
+"p": 0.99
+},
+{
+"text": "the",
+"startMs": 37780,
+"endMs": 37900,
+"p": 0.98
+},
+{
+"text": "emus",
+"startMs": 37900,
+"endMs": 38220,
+"p": 1.0
+},
+{
+"text": "were",
+"startMs": 38220,
+"endMs": 38400,
+"p": 0.99
+},
+{
+"text": "faster,",
+"startMs": 38400,
+"endMs": 38760,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 38920,
+"endMs": 39020,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 39020,
+"endMs": 39120,
+"p": 1.0
+},
+{
+"text": "ride",
+"startMs": 39120,
+"endMs": 39380,
+"p": 1.0
+},
+{
+"text": "was",
+"startMs": 39380,
+"endMs": 39560,
+"p": 1.0
+},
+{
+"text": "so",
+"startMs": 39560,
+"endMs": 39740,
+"p": 0.99
+},
+{
+"text": "bumpy",
+"startMs": 39740,
+"endMs": 40240,
+"p": 1.0
+},
+{
+"text": "nobody",
+"startMs": 40240,
+"endMs": 40500,
+"p": 0.62
+},
+{
+"text": "could",
+"startMs": 40500,
+"endMs": 40840,
+"p": 1.0
+},
+{
+"text": "aim.",
+"startMs": 40840,
+"endMs": 41140,
+"p": 1.0
+},
+{
+"text": "Meredith",
+"startMs": 41900,
+"endMs": 41900,
+"p": 0.99
+},
+{
+"text": "said",
+"startMs": 41900,
+"endMs": 42180,
+"p": 1.0
+},
+{
+"text": "these",
+"startMs": 42180,
+"endMs": 42400,
+"p": 0.98
+},
+{
+"text": "birds",
+"startMs": 42400,
+"endMs": 42740,
+"p": 0.99
+},
+{
+"text": "could",
+"startMs": 42740,
+"endMs": 43000,
+"p": 1.0
+},
+{
+"text": "face",
+"startMs": 43000,
+"endMs": 43260,
+"p": 1.0
+},
+{
+"text": "machine",
+"startMs": 43260,
+"endMs": 43680,
+"p": 1.0
+},
+{
+"text": "guns",
+"startMs": 43680,
+"endMs": 44020,
+"p": 0.99
+},
+{
+"text": "with",
+"startMs": 44020,
+"endMs": 44280,
+"p": 0.98
+},
+{
+"text": "the",
+"startMs": 44280,
+"endMs": 44440,
+"p": 1.0
+},
+{
+"text": "invulnerability",
+"startMs": 44440,
+"endMs": 45020,
+"p": 1.0
+},
+{
+"text": "of",
+"startMs": 45020,
+"endMs": 45400,
+"p": 1.0
+},
+{
+"text": "tanks.",
+"startMs": 45400,
+"endMs": 45700,
+"p": 1.0
+},
+{
+"text": "After",
+"startMs": 46220,
+"endMs": 46460,
+"p": 0.99
+},
+{
+"text": "six",
+"startMs": 46460,
+"endMs": 46700,
+"p": 0.94
+},
+{
+"text": "days,",
+"startMs": 46700,
+"endMs": 47020,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 47160,
+"endMs": 47240,
+"p": 1.0
+},
+{
+"text": "army",
+"startMs": 47240,
+"endMs": 47560,
+"p": 0.89
+},
+{
+"text": "went",
+"startMs": 47560,
+"endMs": 47820,
+"p": 1.0
+},
+{
+"text": "home.",
+"startMs": 47820,
+"endMs": 48100,
+"p": 1.0
+},
+{
+"text": "Then",
+"startMs": 48480,
+"endMs": 48600,
+"p": 0.99
+},
+{
+"text": "the",
+"startMs": 48600,
+"endMs": 48720,
+"p": 0.95
+},
+{
+"text": "emus",
+"startMs": 48720,
+"endMs": 49080,
+"p": 1.0
+},
+{
+"text": "came",
+"startMs": 49080,
+"endMs": 49340,
+"p": 1.0
+},
+{
+"text": "back,",
+"startMs": 49340,
+"endMs": 49700,
+"p": 1.0
+},
+{
+"text": "so",
+"startMs": 49860,
+"endMs": 50040,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 50040,
+"endMs": 50180,
+"p": 1.0
+},
+{
+"text": "army",
+"startMs": 50180,
+"endMs": 50460,
+"p": 0.99
+},
+{
+"text": "came",
+"startMs": 50460,
+"endMs": 50740,
+"p": 1.0
+},
+{
+"text": "back",
+"startMs": 50740,
+"endMs": 51060,
+"p": 1.0
+},
+{
+"text": "too.",
+"startMs": 51060,
+"endMs": 51360,
+"p": 0.72
+},
+{
+"text": "In",
+"startMs": 51800,
+"endMs": 51960,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 51960,
+"endMs": 52080,
+"p": 1.0
+},
+{
+"text": "end,",
+"startMs": 52080,
+"endMs": 52280,
+"p": 1.0
+},
+{
+"text": "they",
+"startMs": 52320,
+"endMs": 52440,
+"p": 1.0
+},
+{
+"text": "claimed",
+"startMs": 52440,
+"endMs": 52700,
+"p": 1.0
+},
+{
+"text": "nearly",
+"startMs": 52700,
+"endMs": 53120,
+"p": 1.0
+},
+{
+"text": "1,000",
+"startMs": 53120,
+"endMs": 53740,
+"p": 0.82
+},
+{
+"text": "emus",
+"startMs": 53740,
+"endMs": 54200,
+"p": 1.0
+},
+{
+"text": "with",
+"startMs": 54200,
+"endMs": 54380,
+"p": 0.91
+},
+{
+"text": "almost",
+"startMs": 54380,
+"endMs": 54640,
+"p": 1.0
+},
+{
+"text": "10,000",
+"startMs": 54640,
+"endMs": 55400,
+"p": 0.99
+},
+{
+"text": "bullets.",
+"startMs": 55400,
+"endMs": 55700,
+"p": 1.0
+},
+{
+"text": "That's",
+"startMs": 56080,
+"endMs": 56380,
+"p": 0.66
+},
+{
+"text": "about",
+"startMs": 56380,
+"endMs": 56560,
+"p": 0.99
+},
+{
+"text": "10",
+"startMs": 56560,
+"endMs": 56900,
+"p": 0.63
+},
+{
+"text": "bullets",
+"startMs": 56900,
+"endMs": 57200,
+"p": 0.99
+},
+{
+"text": "per",
+"startMs": 57200,
+"endMs": 57460,
+"p": 0.99
+},
+{
+"text": "bird.",
+"startMs": 57460,
+"endMs": 57820,
+"p": 0.99
+},
+{
+"text": "Years",
+"startMs": 58280,
+"endMs": 58440,
+"p": 0.98
+},
+{
+"text": "later,",
+"startMs": 58440,
+"endMs": 58800,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 58800,
+"endMs": 59000,
+"p": 1.0
+},
+{
+"text": "farmers",
+"startMs": 59000,
+"endMs": 59300,
+"p": 0.97
+},
+{
+"text": "asked",
+"startMs": 59300,
+"endMs": 59680,
+"p": 0.99
+},
+{
+"text": "for",
+"startMs": 59680,
+"endMs": 59900,
+"p": 0.99
+},
+{
+"text": "the",
+"startMs": 59900,
+"endMs": 60020,
+"p": 0.99
+},
+{
+"text": "army",
+"startMs": 60020,
+"endMs": 60280,
+"p": 0.91
+},
+{
+"text": "again.",
+"startMs": 60280,
+"endMs": 60620,
+"p": 1.0
+},
+{
+"text": "The",
+"startMs": 61080,
+"endMs": 61160,
+"p": 1.0
+},
+{
+"text": "answer",
+"startMs": 61160,
+"endMs": 61420,
+"p": 1.0
+},
+{
+"text": "was",
+"startMs": 61420,
+"endMs": 61700,
+"p": 1.0
+},
+{
+"text": "no.",
+"startMs": 61700,
+"endMs": 62000,
+"p": 0.86
+},
+{
+"text": "Instead,",
+"startMs": 62480,
+"endMs": 62860,
+"p": 1.0
+},
+{
+"text": "farmers",
+"startMs": 63100,
+"endMs": 63340,
+"p": 0.98
+},
+{
+"text": "got",
+"startMs": 63340,
+"endMs": 63640,
+"p": 0.99
+},
+{
+"text": "paid",
+"startMs": 63640,
+"endMs": 63900,
+"p": 1.0
+},
+{
+"text": "for",
+"startMs": 63900,
+"endMs": 64160,
+"p": 1.0
+},
+{
+"text": "every",
+"startMs": 64160,
+"endMs": 64460,
+"p": 1.0
+},
+{
+"text": "emu,",
+"startMs": 64460,
+"endMs": 64920,
+"p": 0.93
+},
+{
+"text": "and",
+"startMs": 65060,
+"endMs": 65100,
+"p": 0.99
+},
+{
+"text": "that",
+"startMs": 65100,
+"endMs": 65260,
+"p": 1.0
+},
+{
+"text": "worked",
+"startMs": 65260,
+"endMs": 65500,
+"p": 1.0
+},
+{
+"text": "better.",
+"startMs": 65500,
+"endMs": 65840,
+"p": 1.0
+},
+{
+"text": "And",
+"startMs": 66260,
+"endMs": 66360,
+"p": 0.98
+},
+{
+"text": "that's",
+"startMs": 66360,
+"endMs": 66600,
+"p": 0.99
+},
+{
+"text": "how",
+"startMs": 66600,
+"endMs": 66760,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 66760,
+"endMs": 66920,
+"p": 0.99
+},
+{
+"text": "Australian",
+"startMs": 66920,
+"endMs": 67360,
+"p": 0.98
+},
+{
+"text": "army",
+"startMs": 67360,
+"endMs": 67920,
+"p": 0.84
+},
+{
+"text": "lost",
+"startMs": 67920,
+"endMs": 68240,
+"p": 1.0
+},
+{
+"text": "a",
+"startMs": 68240,
+"endMs": 68440,
+"p": 0.99
+},
+{
+"text": "war,",
+"startMs": 68440,
+"endMs": 68740,
+"p": 1.0
+},
+{
+"text": "to",
+"startMs": 69100,
+"endMs": 69240,
+"p": 0.98
+},
+{
+"text": "birds.",
+"startMs": 69240,
+"endMs": 69540,
+"p": 0.99
+}
+]
