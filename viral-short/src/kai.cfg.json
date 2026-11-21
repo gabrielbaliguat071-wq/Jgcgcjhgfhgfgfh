@@ -194,57 +194,8 @@
    {
     "id": "c2",
     "videoStartSec": 22.3,
-    "durationInFrames": 231,
-    "words": [
-     {
-      "word": "press",
-      "startFrame": 92,
-      "endFrame": 105,
-      "hi": false
-     },
-     {
-      "word": "square",
-      "startFrame": 102,
-      "endFrame": 115,
-      "hi": false
-     },
-     {
-      "word": "to",
-      "startFrame": 112,
-      "endFrame": 121,
-      "hi": false
-     },
-     {
-      "word": "enable",
-      "startFrame": 118,
-      "endFrame": 131,
-      "hi": false
-     },
-     {
-      "word": "screen",
-      "startFrame": 128,
-      "endFrame": 145,
-      "hi": false
-     },
-     {
-      "word": "narration",
-      "startFrame": 142,
-      "endFrame": 160,
-      "hi": false
-     },
-     {
-      "word": "no",
-      "startFrame": 157,
-      "endFrame": 181,
-      "hi": false
-     },
-     {
-      "word": "all",
-      "startFrame": 178,
-      "endFrame": 193,
-      "hi": false
-     }
-    ]
+    "durationInFrames": 87,
+    "words": []
    }
   ]
  },
