@@ -1194,5 +1194,293 @@
     "hl": true
    }
   ]
+ },
+ "yfun": {
+  "base": "ylm/yfun.mp4",
+  "dur": 24.767,
+  "baseVol": 1,
+  "music": [
+   "funkabn_n",
+   30,
+   0.1
+  ],
+  "punch": true,
+  "whooshVol": 0.2,
+  "cuts": [
+   1.167,
+   3.233,
+   7.233,
+   9.233,
+   11.533,
+   14.433,
+   15.4,
+   18.767
+  ],
+  "freezes": [
+   {
+    "a": 2.617,
+    "b": 3.233,
+    "z": 1.12,
+    "flash": true
+   },
+   {
+    "a": 23.467,
+    "b": 99,
+    "z": 1.12,
+    "flash": true
+   }
+  ],
+  "texts": [
+   {
+    "from": 0,
+    "to": 3.233,
+    "lines": [
+     "bro is NOT humble"
+    ],
+    "y": 210,
+    "size": 60,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f480",
+    "hl": [
+     "NOT"
+    ]
+   },
+   {
+    "from": 2.617,
+    "to": 3.233,
+    "lines": [
+     "THE CONFIDENCE"
+    ],
+    "y": 1300,
+    "size": 104,
+    "box": false,
+    "rot": -4,
+    "emoji": "1f62d"
+   },
+   {
+    "from": 3.233,
+    "to": 7.233,
+    "lines": [
+     "when they ask for",
+     "\"a little dance move\""
+    ],
+    "y": 210,
+    "size": 56,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f602",
+    "hl": [
+     "dance"
+    ]
+   },
+   {
+    "from": 7.233,
+    "to": 9.233,
+    "lines": [
+     "the judges:"
+    ],
+    "y": 210,
+    "size": 64,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f923"
+   },
+   {
+    "from": 9.233,
+    "to": 11.533,
+    "lines": [
+     "showing up in the",
+     "SAME fit"
+    ],
+    "y": 210,
+    "size": 58,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f440",
+    "hl": [
+     "SAME"
+    ]
+   },
+   {
+    "from": 11.533,
+    "to": 15.4,
+    "lines": [
+     "it took him FOUR takes"
+    ],
+    "y": 210,
+    "size": 58,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f62d",
+    "hl": [
+     "FOUR"
+    ]
+   },
+   {
+    "from": 15.4,
+    "to": 18.767,
+    "lines": [
+     "he really doesn't know"
+    ],
+    "y": 210,
+    "size": 58,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f480"
+   },
+   {
+    "from": 18.767,
+    "to": 24.767,
+    "lines": [
+     "his bank account",
+     "at one point:"
+    ],
+    "y": 210,
+    "size": 58,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f4b8"
+   },
+   {
+    "from": 23.467,
+    "to": 24.767,
+    "lines": [
+     "-$152,000"
+    ],
+    "y": 1300,
+    "size": 120,
+    "box": false,
+    "rot": -4,
+    "emoji": "1f480"
+   }
+  ],
+  "words": [
+   {
+    "w": "I ALREADY HAVE A G-WAGON",
+    "s": 0.3,
+    "e": 1.167
+   },
+   {
+    "w": "I'M ALREADY",
+    "s": 1.267
+   },
+   {
+    "w": "HANDSOME",
+    "s": 1.867,
+    "e": 2.617,
+    "hl": true
+   },
+   {
+    "w": "WHAT'S UP?",
+    "s": 9.433
+   },
+   {
+    "w": "WE'RE TWINNING",
+    "s": 11.033,
+    "e": 11.533,
+    "hl": true
+   },
+   {
+    "w": "THEY JUST SLIPPED",
+    "s": 11.833
+   },
+   {
+    "w": "OUT OF MY HANDS, DOG",
+    "s": 12.733,
+    "e": 14.433
+   },
+   {
+    "w": "TAKE FOUR",
+    "s": 14.633,
+    "e": 15.4,
+    "hl": true
+   },
+   {
+    "w": "ARE YOU WALKING AGAIN?",
+    "s": 15.5
+   },
+   {
+    "w": "I DON'T KNOW",
+    "s": 16.7
+   },
+   {
+    "w": "OKAY, HE DOESN'T KNOW",
+    "s": 17.3
+   },
+   {
+    "w": "I DON'T KNOW",
+    "s": 18.5,
+    "e": 18.767,
+    "hl": true
+   },
+   {
+    "w": "THE BANK ACCOUNT IS AT ZERO",
+    "s": 18.867
+   },
+   {
+    "w": "TRY NEGATIVE",
+    "s": 20.867
+   },
+   {
+    "w": "$152,000",
+    "s": 21.367,
+    "e": 22.667,
+    "hl": true,
+    "emoji": "1f480"
+   },
+   {
+    "w": "AT ONE POINT",
+    "s": 22.667,
+    "e": 23.467
+   }
+  ],
+  "sfx": [
+   [
+    "s_huh",
+    1.95,
+    0.3
+   ],
+   [
+    "m_record-scratch",
+    2.617,
+    0.28
+   ],
+   [
+    "s_awk",
+    4.4,
+    0.25
+   ],
+   [
+    "m_rizz-sound-effect",
+    11.0,
+    0.25
+   ],
+   [
+    "s_fahhh",
+    13.0,
+    0.25
+   ],
+   [
+    "s_awk",
+    14.5,
+    0.25
+   ],
+   [
+    "s_huh",
+    17.4,
+    0.3
+   ],
+   [
+    "m_oh-hell-nah",
+    21.6,
+    0.3
+   ],
+   [
+    "m_record-scratch",
+    23.467,
+    0.25
+   ]
+  ]
  }
 }

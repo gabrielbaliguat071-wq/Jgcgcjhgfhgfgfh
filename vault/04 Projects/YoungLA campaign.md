@@ -40,3 +40,5 @@ IG account: "Gym Fits & Laughs" @gymfitsandlaughs (pfp vault/assets/gymfits_pfp.
 - reel8 "little dance move" (dance): 650.3 dance flex hook + freeze, Jay & friend laughing (653.5 band), twins same fit (635.6), double bicep on stage (600.2 slow-mo), dance pt 2 (647.6), navy flex end "who had the best moves?"
 - reel9 "rating runway walks" (rate): 1112 entrance / 1078.6 / 1092.3 back / 966 beanie / 934 chains / 1132 stare; score stamps, base audio muted
 - reel10 "$1M answer" (million): commentator interview audio 749-797 (the table guy, NOT the navy-tee bodybuilder) over runway b-roll; ends on his face-cover freeze at "51%"
+
+## Funniest moments compilation (Nov 21): yfun (build_ylm.py SEGS 'yfun' + ylm.cfg.json) — handsome / dance + judges / twinning / slipped + take four / he doesn't know / -$152,000. 25 s.
