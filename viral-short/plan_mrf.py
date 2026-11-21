@@ -9,7 +9,7 @@ EDITS = {
  'wl': dict(top=["LOUIS'S MOST", 'VILLAIN LINES'], end='METAPHOR: REFANTAZIO'),
  'wa': dict(top=['METAPHOR: REFANTAZIO', 'QUOTES THAT HIT DIFFERENT'], end='METAPHOR: REFANTAZIO'),
 }
-cfg = {}
+cfg = json.load(open('src/mrw.cfg.json'))
 for eid, e in EDITS.items():
     t = 0; words = []; cuts = []
     for seg in SEGS[eid]:

@@ -19,3 +19,8 @@ Brief needs ORIGINAL trailer audio audible → audio = one continuous stretch of
 build_amv.py (modes full/stack/wide) → public/mrf/amv_<id>.mp4, captions + flash + glitch via MRW.tsx (cfg ids amvawaken/amvfantasy; comp ids can't have "_").
 - m7 awaken: pro 28.30–44.78 ("I choose life… Grief is its own death… not powerless… Awaken!") 16.5 s
 - m8 fantasy: louis 40.25–55.37 ("Behold, the new world dawns… Your fantasy is nought but LIES!" → logo) 15 s
+
+## Feedback (Nov 21): "Dont cut their voices when they are not finished talking. Just use the tiktok links ive sent."
+- RULE: every voice line must finish — run `python3 audit_mrf.py` (flags words cut at segment edges / sentences that continue). Fixed: wh "power."/"one.",
+  wl "name." (video held on last Louis frame, 7th SEGS field = video length), wa "life!" + black end frame, awaken now starts at "Come! I will show you a world with honor!".
+- Only the two reference styles from now on (word-by-word MRW, beat AMV). m1–m3 (boxed style) moved to deliver/metaphor/old_style — don't post.
