@@ -33,3 +33,5 @@ Johnny's aura "felt it in my midsection… head, shoulders, knees and toes" (416
 
 ## Instagram x6 (2026-11-20): plan_youngla_ig.py (yig*, VverPaldo, cfg yv.cfg.json): johnny aura 31.5 s · lex disney villain 16.3 s · bald spot 18.2 s · can I run 21.4 s · go home 30 more 13.4 s · pink 24.2 s.
 IG account: "Gym Fits & Laughs" @gymfitsandlaughs (pfp vault/assets/gymfits_pfp.png).
+
+## Runway montage (2026-11-21, user brief: 10–25 s, funny, freeze-frames/slow-mo, end on "who won?"): src/YLM.tsx over a pre-built ffmpeg cut (public/ylm/base.mp4, script in chat history: segments 1204.05–1206.6 slow 0.6 + 0.7 s freeze cx920 · 1181.6–1185.4 band · 1228.6–1231.6 Jay cx840 · 1276.4–1279.0 slow 0.7 + freeze cx660 · 1291–1295 + 1.2 s freeze cx560). 21.4 s.

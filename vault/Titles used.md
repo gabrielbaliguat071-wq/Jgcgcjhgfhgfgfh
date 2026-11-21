@@ -35,3 +35,4 @@
 - YoungLA IG: They felt his AURA from 100 miles away · He looks like a DISNEY VILLAIN · bald spot · can I RUN · 30 MORE · LEVEL of man to rock pink (2026-11-20)
 - Higgsfield 6: 100+ HOURS of AI footage · 3,000 WORDS prompts · AI support gets HARDER · Claude to Codex · Without this European company · Yuri Milner (2026-11-20)
 - BYB 6: First time ever in this product · $5K card if it comes back a 10 · This card beat the stock market · What is this PSA pull · Who is this guy · 3 for 3 all PSA 10 (2026-11-20)
+- Bodybuilders were NOT made for the runway 💀 (YoungLA runway montage, 2026-11-21)

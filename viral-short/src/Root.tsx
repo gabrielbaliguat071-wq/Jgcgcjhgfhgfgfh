@@ -13,6 +13,7 @@ import { Con, CON, conFrames } from './Con';
 import { Pickle, PICKLE, pickleFrames } from './Pickle';
 import { MK, MKC, mkFrames } from './MK';
 import { Kai, KAI, kaiFrames } from './Kai';
+import { YLM, YLM_FRAMES } from './YLM';
 import { Boxed, BOXED, boxedFrames } from './Boxed';
 import { Topps, TOPPS, toppsFrames } from './Topps';
 import { Cursed, CURSED, cursedFrames } from './Cursed';
@@ -34,6 +35,7 @@ export const RemotionRoot: React.FC = () => {
       {Object.keys(EDITS).map((id) => (
         <Composition key={id} id={`Guess-${id}`} component={Guess} defaultProps={{edit: id}} durationInFrames={framesOf(id)} fps={30} width={1080} height={1920} />
       ))}
+      <Composition id="YLM-runway" component={YLM} durationInFrames={YLM_FRAMES} fps={30} width={1080} height={1920} />
       {Object.keys(KAI).map((id) => (
         <Composition key={'kai' + id} id={`Kai-${id}`} component={Kai} defaultProps={{edit: id}} durationInFrames={kaiFrames(id)} fps={30} width={1080} height={1920} />
       ))}
