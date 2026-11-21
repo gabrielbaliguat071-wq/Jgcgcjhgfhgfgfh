@@ -13,7 +13,7 @@ const F = (s: number) => Math.round(s * 30);
 type T = {from: number; to: number; lines: string[]; y: number; size: number; emoji?: string; box?: boolean; hl?: string[]; rot?: number};
 type W = {w: string; s: number; e?: number; emoji?: string; hl?: boolean};
 type C = {base: string; dur: number; baseVol: number; music: [string, number, number]; cuts: number[]; freezes: {a: number; b: number; z: number; flash?: boolean}[];
-  texts: T[]; words: W[]; sfx: [string, number, number][]};
+  texts: T[]; words: W[]; sfx: [string, number, number][]; wordsY?: number; wordSize?: number; whooshVol?: number; punch?: boolean};
 export const YLMS = CFG as unknown as Record<string, C>;
 export const ylmFrames = (id: string) => F(YLMS[id].dur);
 const stroke = (w: number): React.CSSProperties => ({WebkitTextStroke: `${w}px #000`, paintOrder: 'stroke fill', textShadow: '0 6px 16px rgba(0,0,0,0.6)'});
@@ -23,7 +23,8 @@ export const YLM: React.FC<{edit: string}> = ({edit}) => {
   const cutD = c.cuts.map((x) => f - F(x)).filter((d) => d >= 0 && d < 5).pop();
   const whip = cutD === undefined ? 0 : [-90, -40, -12, -3, 0][cutD];
   const fz = c.freezes.find((x) => t >= x.a && t < x.b);
-  const zoom = fz ? interpolate(t, [fz.a, fz.a + 0.15], [1, fz.z], clamp) : 1;
+  const pz = c.punch && cutD !== undefined ? [1.07, 1.045, 1.025, 1.01, 1][cutD] : 1;
+  const zoom = (fz ? interpolate(t, [fz.a, fz.a + 0.15], [1, fz.z], clamp) : 1) * pz;
   let wi = -1; c.words.forEach((w, i) => { if (t >= w.s) wi = i; }); const wd = wi >= 0 ? c.words[wi] : undefined;
   const wEnd = wd ? (wd.e ?? c.words[wi + 1]?.s ?? 99) : 0, wOn = wd && t < wEnd;
   const wp = wd ? spring({frame: f - F(wd.s), fps, config: {damping: 9, stiffness: 320}}) : 1;
@@ -39,12 +40,12 @@ export const YLM: React.FC<{edit: string}> = ({edit}) => {
             {l.split(' ').map((w, m) => <span key={m} style={{color: x.hl?.includes(w) ? '#E3201B' : undefined}}>{w} </span>)}
             {j === x.lines.length - 1 && x.emoji && <Img src={staticFile(`res/emoji/${x.emoji}.png`)} style={{width: x.size * 1.05, height: x.size * 1.05, verticalAlign: 'middle'}} />}</div>)}
         </div></div>; })}
-    {wOn && <div style={{position: 'absolute', top: 1400, left: 30, right: 30, textAlign: 'center', transform: `scale(${0.7 + 0.3 * wp})`}}>
-      <span style={{fontFamily: MONT, fontWeight: 800, fontSize: wd!.w.length > 14 ? 80 : 104, lineHeight: 1.1, color: wd!.hl ? '#FFE14D' : '#fff', ...stroke(16)}}>{wd!.w}</span>
-      {wd!.emoji && <Img src={staticFile(`res/emoji/${wd!.emoji}.png`)} style={{width: 100, height: 100, verticalAlign: 'middle', marginLeft: 12}} />}
+    {wOn && <div style={{position: 'absolute', top: c.wordsY ?? 1400, left: 30, right: 30, textAlign: 'center', transform: `scale(${0.7 + 0.3 * wp})`}}>
+      <span style={{fontFamily: MONT, fontWeight: 800, fontSize: c.wordSize ?? (wd!.w.length > 14 ? 80 : 104), lineHeight: 1.1, color: wd!.hl ? '#FFE14D' : '#fff', ...stroke(16)}}>{wd!.w}</span>
+      {wd!.emoji && <Img src={staticFile(`res/emoji/${wd!.emoji}.png`)} style={{width: (c.wordSize ?? 100), height: (c.wordSize ?? 100), verticalAlign: 'middle', marginLeft: 12}} />}
     </div>}
-    <Audio src={staticFile(`res/${c.music[0]}.mp3`)} startFrom={F(c.music[1])} volume={c.music[2]} />
-    {c.cuts.map((x, i) => <Sequence key={'c' + i} from={Math.max(0, F(x) - 14)}><Audio src={staticFile('res/m_fast-whoosh.mp3')} volume={0.25} /></Sequence>)}
+    {c.music[2] > 0 && <Audio src={staticFile(`res/${c.music[0]}.mp3`)} startFrom={F(c.music[1])} volume={c.music[2]} />}
+    {c.cuts.map((x, i) => <Sequence key={'c' + i} from={Math.max(0, F(x) - 14)}><Audio src={staticFile('res/m_fast-whoosh.mp3')} volume={c.whooshVol ?? 0.25} /></Sequence>)}
     {c.sfx.map(([s, at, v], i) => <Sequence key={'s' + i} from={F(at)}><Audio src={staticFile(`res/${s}.mp3`)} volume={v} /></Sequence>)}
   </AbsoluteFill>;
 };

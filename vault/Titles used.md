@@ -40,3 +40,6 @@
 - YoungLA: Rating bodybuilders' runway walks 💀
 - YoungLA: His answer to "what would you do with $1M" 💀
 - Higgsfield: Only ONE US tech giant is relevant in AI models
+- Metaphor: This is Heismay…
+- Metaphor: The villain of Metaphor: ReFantazio / whose side are you on?
+- Metaphor: this trailer goes so hard

@@ -661,5 +661,277 @@
     0.25
    ]
   ]
+ },
+ "hm": {
+  "baseVol": 1,
+  "music": [
+   "funkabn_n",
+   0,
+   0
+  ],
+  "wordsY": 1560,
+  "wordSize": 60,
+  "whooshVol": 0.12,
+  "punch": true,
+  "freezes": [],
+  "sfx": [],
+  "base": "mrf/hm.mp4",
+  "dur": 22.1,
+  "cuts": [
+   1.8,
+   5.1,
+   7.7,
+   11.3,
+   14.8,
+   18.7
+  ],
+  "texts": [
+   {
+    "from": 0,
+    "to": 5.1,
+    "lines": [
+     "This is Heismay\u2026"
+    ],
+    "y": 180,
+    "size": 74,
+    "box": true
+   },
+   {
+    "from": 18.7,
+    "to": 22.1,
+    "lines": [
+     "Heismay's character trailer"
+    ],
+    "y": 180,
+    "size": 56,
+    "box": true
+   }
+  ],
+  "words": [
+   {
+    "w": "You've no time for prayers.",
+    "s": 0.16,
+    "e": 1.8
+   },
+   {
+    "w": "By these hands,",
+    "s": 1.82
+   },
+   {
+    "w": "soiled or sinless,",
+    "s": 2.72
+   },
+   {
+    "w": "I fight!",
+    "s": 4.54,
+    "e": 5.1
+   },
+   {
+    "w": "The only way to beat the darkness",
+    "s": 7.72
+   },
+   {
+    "w": "is to confront it.",
+    "s": 9.48,
+    "e": 11.3
+   },
+   {
+    "w": "We'll fight,",
+    "s": 11.44
+   },
+   {
+    "w": "but not in justice's name.",
+    "s": 12.0,
+    "e": 14.8
+   },
+   {
+    "w": "Grief is its own death.",
+    "s": 14.78
+   },
+   {
+    "w": "So we will show you life.",
+    "s": 17.14,
+    "e": 18.7
+   },
+   {
+    "w": "My heart and soul are one.",
+    "s": 20.37,
+    "e": 22.1
+   }
+  ]
+ },
+ "hv": {
+  "baseVol": 1,
+  "music": [
+   "funkabn_n",
+   0,
+   0
+  ],
+  "wordsY": 1560,
+  "wordSize": 60,
+  "whooshVol": 0.12,
+  "punch": true,
+  "freezes": [],
+  "sfx": [],
+  "base": "mrf/hv.mp4",
+  "dur": 22.15,
+  "cuts": [
+   2.9,
+   5.1,
+   7.7,
+   10.5,
+   13.5,
+   16.5,
+   18.5
+  ],
+  "texts": [
+   {
+    "from": 0,
+    "to": 2.9,
+    "lines": [
+     "The villain of",
+     "Metaphor: ReFantazio"
+    ],
+    "y": 180,
+    "size": 62,
+    "box": true
+   },
+   {
+    "from": 7.7,
+    "to": 10.5,
+    "lines": [
+     "the hero's side:"
+    ],
+    "y": 180,
+    "size": 62,
+    "box": true
+   },
+   {
+    "from": 18.5,
+    "to": 22.15,
+    "lines": [
+     "whose side are you on?"
+    ],
+    "y": 180,
+    "size": 60,
+    "box": true,
+    "emoji": "1f914"
+   }
+  ],
+  "words": [
+   {
+    "w": "I am the rightful king,",
+    "s": 3.5,
+    "e": 5.1
+   },
+   {
+    "w": "I have a new world to build",
+    "s": 18.61
+   },
+   {
+    "w": "and you will die in its name.",
+    "s": 20.45,
+    "e": 22.15
+   }
+  ]
+ },
+ "fan": {
+  "baseVol": 1,
+  "music": [
+   "funkabn_n",
+   0,
+   0
+  ],
+  "wordsY": 1560,
+  "wordSize": 60,
+  "whooshVol": 0.12,
+  "punch": true,
+  "freezes": [],
+  "sfx": [],
+  "base": "mrf/fan.mp4",
+  "dur": 18.5,
+  "cuts": [
+   2.0,
+   6.4,
+   8.0,
+   11.0,
+   13.6,
+   15.8
+  ],
+  "texts": [
+   {
+    "from": 0,
+    "to": 2.0,
+    "lines": [
+     "this trailer goes so hard"
+    ],
+    "y": 180,
+    "size": 62,
+    "box": true,
+    "emoji": "1f525"
+   },
+   {
+    "from": 15.8,
+    "to": 18.5,
+    "lines": [
+     "Metaphor: ReFantazio",
+     "out now on Nintendo Switch 2"
+    ],
+    "y": 180,
+    "size": 54,
+    "box": true
+   }
+  ],
+  "words": [
+   {
+    "w": "Fantasy is more than",
+    "s": 0.06
+   },
+   {
+    "w": "an empty dream.",
+    "s": 1.22,
+    "e": 2.0
+   },
+   {
+    "w": "In your eyes,",
+    "s": 2.08
+   },
+   {
+    "w": "my entire world",
+    "s": 3.24
+   },
+   {
+    "w": "is but the dawn",
+    "s": 4.22
+   },
+   {
+    "w": "of a story yet untold.",
+    "s": 5.1,
+    "e": 6.4
+   },
+   {
+    "w": "I am the one",
+    "s": 11.1
+   },
+   {
+    "w": "who would save this country!",
+    "s": 12.1,
+    "e": 13.6
+   },
+   {
+    "w": "And I deny your world.",
+    "s": 14.43,
+    "e": 15.8
+   },
+   {
+    "w": "It's a dream with the power",
+    "s": 15.88
+   },
+   {
+    "w": "to change the world!",
+    "s": 17.62,
+    "e": 18.5
+   }
+  ]
  }
 }
