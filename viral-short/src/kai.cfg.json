@@ -1,0 +1,1287 @@
+{
+ "kfirst": {
+  "src": "kai/774011141.mp4",
+  "hook": [
+   "Kai Cenat opens",
+   "GTA 6 for the FIRST time"
+  ],
+  "title": [
+   "Kai Cenat opening",
+   "GTA 6 for the FIRST time"
+  ],
+  "titleEmoji": "1f631",
+  "cam": {
+   "x": 12,
+   "y": 357,
+   "w": 370,
+   "h": 208
+  },
+  "game": {
+   "x": 420,
+   "y": 40,
+   "w": 1300,
+   "h": 1000
+  },
+  "music": [
+   "phonk_n",
+   22.4
+  ],
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 16.4,
+    "durationInFrames": 177,
+    "words": [
+     {
+      "word": "my",
+      "startFrame": 9,
+      "endFrame": 21,
+      "hi": false
+     },
+     {
+      "word": "f***ing",
+      "startFrame": 18,
+      "endFrame": 28,
+      "hi": false
+     },
+     {
+      "word": "god",
+      "startFrame": 25,
+      "endFrame": 51,
+      "hi": true
+     },
+     {
+      "word": "oh",
+      "startFrame": 125,
+      "endFrame": 134,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 131,
+      "endFrame": 137,
+      "hi": false
+     },
+     {
+      "word": "god",
+      "startFrame": 134,
+      "endFrame": 162,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 0.0,
+    "durationInFrames": 288,
+    "words": [
+     {
+      "word": "go",
+      "startFrame": 0,
+      "endFrame": 9,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 6,
+      "endFrame": 71,
+      "hi": false
+     },
+     {
+      "word": "monitor",
+      "startFrame": 140,
+      "endFrame": 160,
+      "hi": true
+     },
+     {
+      "word": "the",
+      "startFrame": 157,
+      "endFrame": 175,
+      "hi": false
+     },
+     {
+      "word": "best",
+      "startFrame": 172,
+      "endFrame": 185,
+      "hi": true
+     },
+     {
+      "word": "monitor",
+      "startFrame": 182,
+      "endFrame": 196,
+      "hi": true
+     },
+     {
+      "word": "so",
+      "startFrame": 193,
+      "endFrame": 203,
+      "hi": false
+     },
+     {
+      "word": "everything",
+      "startFrame": 200,
+      "endFrame": 215,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 212,
+      "endFrame": 233,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 230,
+      "endFrame": 236,
+      "hi": false
+     },
+     {
+      "word": "want",
+      "startFrame": 233,
+      "endFrame": 241,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 238,
+      "endFrame": 243,
+      "hi": false
+     },
+     {
+      "word": "see",
+      "startFrame": 240,
+      "endFrame": 247,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 244,
+      "endFrame": 251,
+      "hi": false
+     },
+     {
+      "word": "have",
+      "startFrame": 248,
+      "endFrame": 256,
+      "hi": false
+     },
+     {
+      "word": "no",
+      "startFrame": 253,
+      "endFrame": 262,
+      "hi": false
+     },
+     {
+      "word": "shot",
+      "startFrame": 259,
+      "endFrame": 270,
+      "hi": true
+     },
+     {
+      "word": "on",
+      "startFrame": 267,
+      "endFrame": 276,
+      "hi": false
+     },
+     {
+      "word": "oh",
+      "startFrame": 273,
+      "endFrame": 287,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "videoStartSec": 22.3,
+    "durationInFrames": 231,
+    "words": [
+     {
+      "word": "press",
+      "startFrame": 92,
+      "endFrame": 105,
+      "hi": false
+     },
+     {
+      "word": "square",
+      "startFrame": 102,
+      "endFrame": 115,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 112,
+      "endFrame": 121,
+      "hi": false
+     },
+     {
+      "word": "enable",
+      "startFrame": 118,
+      "endFrame": 131,
+      "hi": false
+     },
+     {
+      "word": "screen",
+      "startFrame": 128,
+      "endFrame": 145,
+      "hi": false
+     },
+     {
+      "word": "narration",
+      "startFrame": 142,
+      "endFrame": 160,
+      "hi": false
+     },
+     {
+      "word": "no",
+      "startFrame": 157,
+      "endFrame": 181,
+      "hi": false
+     },
+     {
+      "word": "all",
+      "startFrame": 178,
+      "endFrame": 193,
+      "hi": false
+     }
+    ]
+   }
+  ]
+ },
+ "kbaby": {
+  "src": "kai/3671060798.mp4",
+  "hook": [
+   "Kai Cenat found the",
+   "first BABY in GTA 6"
+  ],
+  "title": [
+   "Kai Cenat found the",
+   "first BABY in GTA 6"
+  ],
+  "titleEmoji": "1f62d",
+  "cam": {
+   "x": 12,
+   "y": 357,
+   "w": 370,
+   "h": 208
+  },
+  "game": {
+   "x": 420,
+   "y": 40,
+   "w": 1300,
+   "h": 1000
+  },
+  "music": [
+   "funkabn_n",
+   2.0
+  ],
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 21.7,
+    "durationInFrames": 198,
+    "words": [
+     {
+      "word": "first",
+      "startFrame": 6,
+      "endFrame": 17,
+      "hi": true
+     },
+     {
+      "word": "in",
+      "startFrame": 28,
+      "endFrame": 78,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 75,
+      "endFrame": 81,
+      "hi": false
+     },
+     {
+      "word": "f***ing",
+      "startFrame": 78,
+      "endFrame": 90,
+      "hi": false
+     },
+     {
+      "word": "GTA!",
+      "startFrame": 87,
+      "endFrame": 101,
+      "hi": true
+     },
+     {
+      "word": "Oh",
+      "startFrame": 98,
+      "endFrame": 102,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 98,
+      "endFrame": 102,
+      "hi": false
+     },
+     {
+      "word": "god,",
+      "startFrame": 98,
+      "endFrame": 161,
+      "hi": true
+     },
+     {
+      "word": "the",
+      "startFrame": 167,
+      "endFrame": 171,
+      "hi": false
+     },
+     {
+      "word": "first",
+      "startFrame": 167,
+      "endFrame": 180,
+      "hi": true
+     },
+     {
+      "word": "baby",
+      "startFrame": 177,
+      "endFrame": 191,
+      "hi": true
+     },
+     {
+      "word": "ever!",
+      "startFrame": 188,
+      "endFrame": 198,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 0.6,
+    "durationInFrames": 579,
+    "words": [
+     {
+      "word": "You",
+      "startFrame": 5,
+      "endFrame": 23,
+      "hi": false
+     },
+     {
+      "word": "what's",
+      "startFrame": 20,
+      "endFrame": 33,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 30,
+      "endFrame": 34,
+      "hi": false
+     },
+     {
+      "word": "in",
+      "startFrame": 31,
+      "endFrame": 37,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 34,
+      "endFrame": 40,
+      "hi": false
+     },
+     {
+      "word": "car?",
+      "startFrame": 37,
+      "endFrame": 46,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 60,
+      "endFrame": 68,
+      "hi": false
+     },
+     {
+      "word": "gotta",
+      "startFrame": 65,
+      "endFrame": 74,
+      "hi": false
+     },
+     {
+      "word": "get",
+      "startFrame": 71,
+      "endFrame": 77,
+      "hi": false
+     },
+     {
+      "word": "back",
+      "startFrame": 74,
+      "endFrame": 83,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 80,
+      "endFrame": 85,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 82,
+      "endFrame": 89,
+      "hi": false
+     },
+     {
+      "word": "coffee",
+      "startFrame": 86,
+      "endFrame": 95,
+      "hi": true
+     },
+     {
+      "word": "shop,",
+      "startFrame": 92,
+      "endFrame": 103,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 103,
+      "endFrame": 107,
+      "hi": false
+     },
+     {
+      "word": "don't",
+      "startFrame": 104,
+      "endFrame": 110,
+      "hi": false
+     },
+     {
+      "word": "understand?",
+      "startFrame": 107,
+      "endFrame": 121,
+      "hi": false
+     },
+     {
+      "word": "What's",
+      "startFrame": 222,
+      "endFrame": 235,
+      "hi": false
+     },
+     {
+      "word": "she",
+      "startFrame": 232,
+      "endFrame": 240,
+      "hi": false
+     },
+     {
+      "word": "saying?",
+      "startFrame": 237,
+      "endFrame": 252,
+      "hi": false
+     },
+     {
+      "word": "Something",
+      "startFrame": 274,
+      "endFrame": 280,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 277,
+      "endFrame": 287,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 284,
+      "endFrame": 293,
+      "hi": false
+     },
+     {
+      "word": "coffee",
+      "startFrame": 290,
+      "endFrame": 303,
+      "hi": true
+     },
+     {
+      "word": "shop,",
+      "startFrame": 300,
+      "endFrame": 313,
+      "hi": false
+     },
+     {
+      "word": "she",
+      "startFrame": 313,
+      "endFrame": 318,
+      "hi": false
+     },
+     {
+      "word": "left",
+      "startFrame": 315,
+      "endFrame": 321,
+      "hi": false
+     },
+     {
+      "word": "something",
+      "startFrame": 318,
+      "endFrame": 327,
+      "hi": false
+     },
+     {
+      "word": "behind?",
+      "startFrame": 324,
+      "endFrame": 338,
+      "hi": false
+     },
+     {
+      "word": "Copy.",
+      "startFrame": 362,
+      "endFrame": 366,
+      "hi": false
+     },
+     {
+      "word": "Yep,",
+      "startFrame": 375,
+      "endFrame": 380,
+      "hi": false
+     },
+     {
+      "word": "copy",
+      "startFrame": 383,
+      "endFrame": 390,
+      "hi": false
+     },
+     {
+      "word": "that.",
+      "startFrame": 387,
+      "endFrame": 395,
+      "hi": false
+     },
+     {
+      "word": "We're",
+      "startFrame": 417,
+      "endFrame": 431,
+      "hi": false
+     },
+     {
+      "word": "here.",
+      "startFrame": 428,
+      "endFrame": 438,
+      "hi": false
+     },
+     {
+      "word": "Oh",
+      "startFrame": 450,
+      "endFrame": 456,
+      "hi": false
+     },
+     {
+      "word": "yeah,",
+      "startFrame": 453,
+      "endFrame": 461,
+      "hi": false
+     },
+     {
+      "word": "we've",
+      "startFrame": 462,
+      "endFrame": 469,
+      "hi": false
+     },
+     {
+      "word": "been",
+      "startFrame": 466,
+      "endFrame": 471,
+      "hi": false
+     },
+     {
+      "word": "calling",
+      "startFrame": 468,
+      "endFrame": 481,
+      "hi": false
+     },
+     {
+      "word": "you.",
+      "startFrame": 478,
+      "endFrame": 487,
+      "hi": false
+     },
+     {
+      "word": "She",
+      "startFrame": 491,
+      "endFrame": 495,
+      "hi": false
+     },
+     {
+      "word": "just",
+      "startFrame": 492,
+      "endFrame": 499,
+      "hi": false
+     },
+     {
+      "word": "walked",
+      "startFrame": 496,
+      "endFrame": 508,
+      "hi": false
+     },
+     {
+      "word": "out",
+      "startFrame": 505,
+      "endFrame": 514,
+      "hi": false
+     },
+     {
+      "word": "and",
+      "startFrame": 511,
+      "endFrame": 518,
+      "hi": false
+     },
+     {
+      "word": "left",
+      "startFrame": 515,
+      "endFrame": 522,
+      "hi": false
+     },
+     {
+      "word": "it",
+      "startFrame": 519,
+      "endFrame": 528,
+      "hi": false
+     },
+     {
+      "word": "here.",
+      "startFrame": 525,
+      "endFrame": 531,
+      "hi": false
+     },
+     {
+      "word": "We",
+      "startFrame": 531,
+      "endFrame": 535,
+      "hi": false
+     },
+     {
+      "word": "don't",
+      "startFrame": 531,
+      "endFrame": 539,
+      "hi": false
+     },
+     {
+      "word": "know",
+      "startFrame": 536,
+      "endFrame": 544,
+      "hi": false
+     },
+     {
+      "word": "what",
+      "startFrame": 541,
+      "endFrame": 548,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 545,
+      "endFrame": 553,
+      "hi": false
+     },
+     {
+      "word": "do",
+      "startFrame": 550,
+      "endFrame": 558,
+      "hi": false
+     },
+     {
+      "word": "with",
+      "startFrame": 555,
+      "endFrame": 564,
+      "hi": false
+     },
+     {
+      "word": "this,",
+      "startFrame": 561,
+      "endFrame": 571,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 573,
+      "endFrame": 577,
+      "hi": false
+     },
+     {
+      "word": "know?",
+      "startFrame": 574,
+      "endFrame": 579,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "videoStartSec": 34.2,
+    "durationInFrames": 93,
+    "words": [
+     {
+      "word": "Does",
+      "startFrame": 4,
+      "endFrame": 21,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 18,
+      "endFrame": 25,
+      "hi": false
+     },
+     {
+      "word": "actual",
+      "startFrame": 22,
+      "endFrame": 33,
+      "hi": false
+     },
+     {
+      "word": "baby",
+      "startFrame": 30,
+      "endFrame": 48,
+      "hi": true
+     },
+     {
+      "word": "in",
+      "startFrame": 45,
+      "endFrame": 54,
+      "hi": false
+     },
+     {
+      "word": "GTA?",
+      "startFrame": 51,
+      "endFrame": 67,
+      "hi": true
+     },
+     {
+      "word": "Do",
+      "startFrame": 68,
+      "endFrame": 72,
+      "hi": false
+     },
+     {
+      "word": "I?",
+      "startFrame": 68,
+      "endFrame": 93,
+      "hi": false
+     }
+    ]
+   }
+  ]
+ },
+ "khands": {
+  "src": "kai/1340057959.mp4",
+  "hook": [
+   "Kai Cenat noticed",
+   "THIS in GTA 6"
+  ],
+  "title": [
+   "Kai Cenat noticed THIS",
+   "detail in GTA 6"
+  ],
+  "titleEmoji": "1f92f",
+  "cam": {
+   "x": 30,
+   "y": 437,
+   "w": 360,
+   "h": 208
+  },
+  "game": {
+   "x": 420,
+   "y": 40,
+   "w": 1300,
+   "h": 1000
+  },
+  "music": [
+   "investigations_n",
+   20.0
+  ],
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 19.8,
+    "durationInFrames": 306,
+    "words": [
+     {
+      "word": "watch",
+      "startFrame": 5,
+      "endFrame": 9,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 5,
+      "endFrame": 11,
+      "hi": false
+     },
+     {
+      "word": "hand.",
+      "startFrame": 8,
+      "endFrame": 28,
+      "hi": true
+     },
+     {
+      "word": "No.",
+      "startFrame": 26,
+      "endFrame": 43,
+      "hi": false
+     },
+     {
+      "word": "Wow.",
+      "startFrame": 101,
+      "endFrame": 110,
+      "hi": true
+     },
+     {
+      "word": "Yeah,",
+      "startFrame": 165,
+      "endFrame": 172,
+      "hi": false
+     },
+     {
+      "word": "nah.",
+      "startFrame": 180,
+      "endFrame": 189,
+      "hi": false
+     },
+     {
+      "word": "Watch",
+      "startFrame": 271,
+      "endFrame": 278,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 275,
+      "endFrame": 283,
+      "hi": false
+     },
+     {
+      "word": "hands",
+      "startFrame": 280,
+      "endFrame": 290,
+      "hi": true
+     },
+     {
+      "word": "every",
+      "startFrame": 287,
+      "endFrame": 302,
+      "hi": false
+     },
+     {
+      "word": "day.",
+      "startFrame": 299,
+      "endFrame": 306,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 3.0,
+    "durationInFrames": 504,
+    "words": []
+   }
+  ]
+ },
+ "kcalm": {
+  "src": "kai/3907402066.mp4",
+  "hook": [
+   "Kai Cenat trying to",
+   "calm her down"
+  ],
+  "title": [
+   "Kai Cenat trying to",
+   "calm her down in GTA 6"
+  ],
+  "titleEmoji": "1f602",
+  "cam": {
+   "x": 30,
+   "y": 437,
+   "w": 360,
+   "h": 208
+  },
+  "game": {
+   "x": 420,
+   "y": 40,
+   "w": 1300,
+   "h": 1000
+  },
+  "music": [
+   "montagem_n",
+   24.0
+  ],
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 0.3,
+    "durationInFrames": 390,
+    "words": [
+     {
+      "word": "No,",
+      "startFrame": 6,
+      "endFrame": 11,
+      "hi": false
+     },
+     {
+      "word": "no,",
+      "startFrame": 13,
+      "endFrame": 17,
+      "hi": false
+     },
+     {
+      "word": "no,",
+      "startFrame": 40,
+      "endFrame": 44,
+      "hi": false
+     },
+     {
+      "word": "no,",
+      "startFrame": 44,
+      "endFrame": 48,
+      "hi": false
+     },
+     {
+      "word": "no,",
+      "startFrame": 46,
+      "endFrame": 50,
+      "hi": false
+     },
+     {
+      "word": "no,",
+      "startFrame": 49,
+      "endFrame": 53,
+      "hi": false
+     },
+     {
+      "word": "no.",
+      "startFrame": 61,
+      "endFrame": 65,
+      "hi": false
+     },
+     {
+      "word": "Listen,",
+      "startFrame": 68,
+      "endFrame": 72,
+      "hi": true
+     },
+     {
+      "word": "listen,",
+      "startFrame": 75,
+      "endFrame": 79,
+      "hi": true
+     },
+     {
+      "word": "listen.",
+      "startFrame": 80,
+      "endFrame": 84,
+      "hi": true
+     },
+     {
+      "word": "Listen,",
+      "startFrame": 107,
+      "endFrame": 115,
+      "hi": true
+     },
+     {
+      "word": "listen,",
+      "startFrame": 122,
+      "endFrame": 126,
+      "hi": true
+     },
+     {
+      "word": "listen.",
+      "startFrame": 128,
+      "endFrame": 132,
+      "hi": true
+     },
+     {
+      "word": "Listen,",
+      "startFrame": 170,
+      "endFrame": 174,
+      "hi": true
+     },
+     {
+      "word": "listen,",
+      "startFrame": 199,
+      "endFrame": 203,
+      "hi": true
+     },
+     {
+      "word": "listen.",
+      "startFrame": 199,
+      "endFrame": 203,
+      "hi": true
+     },
+     {
+      "word": "Listen,",
+      "startFrame": 199,
+      "endFrame": 203,
+      "hi": true
+     },
+     {
+      "word": "listen,",
+      "startFrame": 227,
+      "endFrame": 231,
+      "hi": true
+     },
+     {
+      "word": "listen,",
+      "startFrame": 227,
+      "endFrame": 231,
+      "hi": true
+     },
+     {
+      "word": "calm",
+      "startFrame": 229,
+      "endFrame": 233,
+      "hi": true
+     },
+     {
+      "word": "down.",
+      "startFrame": 229,
+      "endFrame": 239,
+      "hi": true
+     },
+     {
+      "word": "This",
+      "startFrame": 279,
+      "endFrame": 284,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 281,
+      "endFrame": 289,
+      "hi": false
+     },
+     {
+      "word": "okay.",
+      "startFrame": 286,
+      "endFrame": 297,
+      "hi": false
+     },
+     {
+      "word": "Listen.",
+      "startFrame": 314,
+      "endFrame": 318,
+      "hi": true
+     },
+     {
+      "word": "Do",
+      "startFrame": 326,
+      "endFrame": 330,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 326,
+      "endFrame": 337,
+      "hi": false
+     },
+     {
+      "word": "look",
+      "startFrame": 334,
+      "endFrame": 349,
+      "hi": false
+     },
+     {
+      "word": "okay?",
+      "startFrame": 346,
+      "endFrame": 367,
+      "hi": true
+     },
+     {
+      "word": "Okay.",
+      "startFrame": 378,
+      "endFrame": 383,
+      "hi": false
+     }
+    ]
+   }
+  ]
+ },
+ "kbigfoot": {
+  "src": "kai/2131405255.mp4",
+  "hook": [
+   "Kai Cenat found",
+   "BIGFOOT in GTA 6"
+  ],
+  "title": [],
+  "titleEmoji": "1f440",
+  "cam": {
+   "x": 30,
+   "y": 437,
+   "w": 360,
+   "h": 208
+  },
+  "game": {
+   "x": 420,
+   "y": 40,
+   "w": 1300,
+   "h": 1000
+  },
+  "music": [
+   "investigations_n",
+   20.0
+  ],
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 17.9,
+    "durationInFrames": 144,
+    "words": [
+     {
+      "word": "Oh",
+      "startFrame": 6,
+      "endFrame": 26,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 23,
+      "endFrame": 28,
+      "hi": false
+     },
+     {
+      "word": "god!",
+      "startFrame": 25,
+      "endFrame": 34,
+      "hi": true
+     },
+     {
+      "word": "Oh",
+      "startFrame": 44,
+      "endFrame": 48,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 44,
+      "endFrame": 101,
+      "hi": false
+     },
+     {
+      "word": "god!",
+      "startFrame": 98,
+      "endFrame": 113,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 1.8,
+    "durationInFrames": 483,
+    "words": [
+     {
+      "word": "Hey!",
+      "startFrame": 8,
+      "endFrame": 34,
+      "hi": false
+     },
+     {
+      "word": "Oh",
+      "startFrame": 107,
+      "endFrame": 113,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 110,
+      "endFrame": 127,
+      "hi": false
+     },
+     {
+      "word": "god!",
+      "startFrame": 124,
+      "endFrame": 249,
+      "hi": true
+     },
+     {
+      "word": "Hey!",
+      "startFrame": 250,
+      "endFrame": 275,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 292,
+      "endFrame": 296,
+      "hi": false
+     },
+     {
+      "word": "found",
+      "startFrame": 292,
+      "endFrame": 317,
+      "hi": true
+     },
+     {
+      "word": "him.",
+      "startFrame": 314,
+      "endFrame": 320,
+      "hi": true
+     },
+     {
+      "word": "He's",
+      "startFrame": 324,
+      "endFrame": 329,
+      "hi": false
+     },
+     {
+      "word": "over",
+      "startFrame": 326,
+      "endFrame": 333,
+      "hi": false
+     },
+     {
+      "word": "here!",
+      "startFrame": 330,
+      "endFrame": 341,
+      "hi": false
+     },
+     {
+      "word": "Get",
+      "startFrame": 361,
+      "endFrame": 370,
+      "hi": false
+     },
+     {
+      "word": "after!",
+      "startFrame": 367,
+      "endFrame": 380,
+      "hi": false
+     },
+     {
+      "word": "Catch",
+      "startFrame": 395,
+      "endFrame": 409,
+      "hi": true
+     },
+     {
+      "word": "him",
+      "startFrame": 406,
+      "endFrame": 415,
+      "hi": false
+     },
+     {
+      "word": "right",
+      "startFrame": 412,
+      "endFrame": 418,
+      "hi": false
+     },
+     {
+      "word": "now!",
+      "startFrame": 415,
+      "endFrame": 437,
+      "hi": false
+     }
+    ]
+   }
+  ]
+ }
+}
