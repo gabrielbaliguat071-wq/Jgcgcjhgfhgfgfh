@@ -16,6 +16,8 @@ SEGS = {
            dict(a=157.35, b=160.1, cx=1210)],
  'skully': [dict(a=188.85, b=191.35, band=1, fz=0.6), dict(a=178.55, b=181.95, cx=600, src=179.0), dict(a=181.95, b=192.35, band=1)],
  'walkout': [dict(a=329.6, b=331.45, cx=1230, z=1.3, top=1, fz=0.7), dict(a=318.0, b=322.3, cx=900), dict(a=327.4, b=328.9, cx=900), dict(a=328.9, b=337.75, cx=1230, z=1.3, top=1)],
+ 'soclose': [dict(a=459.2, b=462.2, sq=1, cx=860, fz=0.6), dict(a=360.2, b=363.2, cx=960, src=361.0), dict(a=363.2, b=367.0, sq=1, cx=860),
+             dict(a=367.0, b=371.9, cx=920, src=368.0), dict(a=459.2, b=462.3, sq=1, cx=860, fz=1.1)],
  'million': [dict(a=749.0, b=752.75, cx=920, src=778.0), dict(a=766.3, b=769.0, cx=1380, br=1), dict(a=783.2, b=786.3, cx=920),
              dict(a=790.6, b=793.7, cx=900), dict(a=794.0, b=795.9, cx=940, r=0.7), dict(a=796.8, b=797.7, cx=1380, fz=1.4, br=1)],
 }
@@ -23,7 +25,10 @@ eid = sys.argv[1]; BR = ',eq=gamma=1.4:brightness=0.04'; os.makedirs(f'/tmp/clau
 for i, s in enumerate(SEGS[eid]):
     a, b, r, fz, z = s['a'], s['b'], s.get('r', 1), s.get('fz', 0), s.get('z', 1)
     d = b - a; at = f'atempo={r}' if r < 1 else 'anull'; out = f'/tmp/claude-0/ya/{eid}/s{i}.mp4'
-    if s.get('band'):
+    if s.get('sq'):   # 1080x1080 native crop (three people at the table) in the middle of a dark frame
+        x = max(0, min(840, s['cx'] - 540))
+        v = f'[0:v]crop=1080:1080:{x}:0,{G},eq=gamma=1.25:brightness=0.03,pad=1080:1920:0:420:0x0b0b10,setpts=PTS/{r},fps=30,tpad=stop_mode=clone:stop_duration={fz}[v]'
+    elif s.get('band'):
         v = f'[0:v]split[p][q];[p]scale=3414:1920,crop=1080:1920,boxblur=20:2,eq=brightness=-0.25[bg];[q]scale=1080:608,{G}{BR if s.get("br") else ""}[fg];[bg][fg]overlay=0:656,setpts=PTS/{r},fps=30,tpad=stop_mode=clone:stop_duration={fz}[v]'
     else:
         w, h = round(608 / z / 2) * 2, round(1080 / z / 2) * 2; x = max(0, min(1920 - w, s['cx'] - w // 2)); y = 0 if s.get('top') else 1080 - h
