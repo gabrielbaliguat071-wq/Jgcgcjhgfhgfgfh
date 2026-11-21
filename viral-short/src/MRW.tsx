@@ -9,7 +9,7 @@ import CFG from './mrw.cfg.json';
 loadFont({family: 'Cinzel', url: staticFile('res/Cinzel-Bold.woff2'), weight: '700'});
 const clamp = {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'} as const;
 type W = {w: string; s: number; e: number; big: boolean};
-type C = {base: string; dur: number; cuts: number[]; flash: number; top: string[]; end: string; words: W[]};
+type C = {base: string; dur: number; cuts: number[]; flash: number; top: string[]; end: string; words: W[]; glitch?: boolean};
 export const MRWS = CFG as unknown as Record<string, C>;
 export const mrwFrames = (id: string) => Math.round(MRWS[id].dur * 30);
 const glow = '0 0 18px rgba(0,0,0,0.85), 0 0 40px rgba(0,0,0,0.6), 0 4px 10px rgba(0,0,0,0.9)';
@@ -24,7 +24,7 @@ export const MRW: React.FC<{edit: string}> = ({edit}) => {
   const label = (lines: string[], o: number) => <div style={{position: 'absolute', top: 210, left: 30, right: 30, textAlign: 'center', opacity: o}}>
     {lines.map((l, i) => <div key={i} style={{fontFamily: 'Cinzel', fontWeight: 700, fontSize: 50, letterSpacing: 8, color: i === lines.length - 1 ? '#FFE9A8' : '#fff', textShadow: glow, lineHeight: 1.25}}>{l}</div>)}</div>;
   return <AbsoluteFill style={{background: '#000', overflow: 'hidden'}}>
-    <AbsoluteFill style={{transform: `scale(${zoom})`}}><OffthreadVideo src={staticFile(c.base)} style={{width: 1080, height: 1920}} /></AbsoluteFill>
+    <AbsoluteFill style={{transform: `scale(${zoom}) translateX(${c.glitch && cutD !== undefined && cutD < 3 ? [-26, 14, -6][cutD] : 0}px)`, filter: c.glitch && cutD !== undefined && cutD < 2 ? 'saturate(1.7) contrast(1.25) hue-rotate(-12deg)' : undefined}}><OffthreadVideo src={staticFile(c.base)} style={{width: 1080, height: 1920}} /></AbsoluteFill>
     <AbsoluteFill style={{background: 'radial-gradient(ellipse at center, rgba(0,0,0,0.35) 0%, rgba(0,0,0,0) 45%, rgba(0,0,0,0.45) 100%)'}} />
     {t < 2.8 && label(c.top, interpolate(t, [2.4, 2.8], [1, 0], clamp))}
     {t >= c.flash && label([c.end], interpolate(t, [c.flash, c.flash + 0.4], [0, 1], clamp))}

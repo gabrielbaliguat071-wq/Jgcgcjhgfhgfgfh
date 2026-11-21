@@ -13,3 +13,9 @@ punch-in on cuts, white flash into the finale, spaced hook label on top for 2.8 
 - m4 wh: Heismay ("The only way to beat the darkness…", "I'd thought… I'd need power", "Step by meager step", ends on his Persona) 21 s
 - m5 wl: Louis ("Only fair thing in this world is power", "I am the rightful king…", "I have a new world to build…") 15 s
 - m6 wa: quotes ("Grief is its own death…", "In my ideal world…", "No matter who someone is…", "Fantasy is more than an empty dream…") 17 s
+
+## Batch 3 (Nov 21) — user's 2nd reference (vt.tiktok.com/ZSpomF9Qd, 42 s music AMV: beat cuts, stacked-panel collages, glowing-eye run, flashes).
+Brief needs ORIGINAL trailer audio audible → audio = one continuous stretch of a trailer (its own music + lines), cuts on its beats (librosa beat_track).
+build_amv.py (modes full/stack/wide) → public/mrf/amv_<id>.mp4, captions + flash + glitch via MRW.tsx (cfg ids amvawaken/amvfantasy; comp ids can't have "_").
+- m7 awaken: pro 28.30–44.78 ("I choose life… Grief is its own death… not powerless… Awaken!") 16.5 s
+- m8 fantasy: louis 40.25–55.37 ("Behold, the new world dawns… Your fantasy is nought but LIES!" → logo) 15 s
