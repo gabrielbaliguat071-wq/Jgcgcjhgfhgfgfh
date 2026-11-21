@@ -35,3 +35,8 @@ Johnny's aura "felt it in my midsection… head, shoulders, knees and toes" (416
 IG account: "Gym Fits & Laughs" @gymfitsandlaughs (pfp vault/assets/gymfits_pfp.png).
 
 ## Runway montage (2026-11-21, user brief: 10–25 s, funny, freeze-frames/slow-mo, end on "who won?"): src/YLM.tsx over a pre-built ffmpeg cut (public/ylm/base.mp4, script in chat history: segments 1204.05–1206.6 slow 0.6 + 0.7 s freeze cx920 · 1181.6–1185.4 band · 1228.6–1231.6 Jay cx840 · 1276.4–1279.0 slow 0.7 + freeze cx660 · 1291–1295 + 1.2 s freeze cx560). 21.4 s.
+
+## Runway montages 2-4 (Nov 21) — YLM.tsx is now cfg-driven (src/ylm.cfg.json, bases built by build_ylm.py)
+- reel8 "little dance move" (dance): 650.3 dance flex hook + freeze, Jay & friend laughing (653.5 band), twins same fit (635.6), double bicep on stage (600.2 slow-mo), dance pt 2 (647.6), navy flex end "who had the best moves?"
+- reel9 "rating runway walks" (rate): 1112 entrance / 1078.6 / 1092.3 back / 966 beanie / 934 chains / 1132 stare; score stamps, base audio muted
+- reel10 "$1M answer" (million): commentator interview audio 749-797 (the table guy, NOT the navy-tee bodybuilder) over runway b-roll; ends on his face-cover freeze at "51%"

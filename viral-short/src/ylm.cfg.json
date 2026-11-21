@@ -1,0 +1,665 @@
+{
+ "runway": {
+  "base": "ylm/base.mp4",
+  "dur": 21.3,
+  "baseVol": 1,
+  "music": [
+   "funkabn_n",
+   2,
+   0.12
+  ],
+  "cuts": [
+   4.967,
+   8.8,
+   11.8,
+   16.1
+  ],
+  "freezes": [
+   {
+    "a": 4.267,
+    "b": 4.967,
+    "z": 1.12,
+    "flash": true
+   },
+   {
+    "a": 15.5,
+    "b": 16.1,
+    "z": 1.12,
+    "flash": true
+   },
+   {
+    "a": 20.1,
+    "b": 99,
+    "z": 1.08
+   }
+  ],
+  "texts": [
+   {
+    "from": 0,
+    "to": 4.967,
+    "lines": [
+     "Bodybuilders were NOT",
+     "made for the runway"
+    ],
+    "y": 210,
+    "size": 64,
+    "emoji": "1f480",
+    "box": true,
+    "hl": [
+     "NOT"
+    ]
+   },
+   {
+    "from": 4.267,
+    "to": 4.967,
+    "lines": [
+     "THE POSE"
+    ],
+    "y": 1300,
+    "size": 120,
+    "emoji": "1f62d",
+    "rot": -4
+   },
+   {
+    "from": 8.8,
+    "to": 10.9,
+    "lines": [
+     "Jay Cutler's runway walk"
+    ],
+    "y": 210,
+    "size": 60,
+    "emoji": "1f410",
+    "box": true
+   },
+   {
+    "from": 15.5,
+    "to": 16.1,
+    "lines": [
+     "RUNWAY READY?"
+    ],
+    "y": 1300,
+    "size": 104,
+    "emoji": "1f4aa",
+    "rot": 4
+   },
+   {
+    "from": 17.8,
+    "to": 21.3,
+    "lines": [
+     "GYM BROS vs MODELS",
+     "who won?"
+    ],
+    "y": 230,
+    "size": 70,
+    "emoji": "1f914",
+    "box": true,
+    "hl": [
+     "who",
+     "won?"
+    ]
+   }
+  ],
+  "words": [
+   {
+    "w": "INSANE",
+    "s": 5.07
+   },
+   {
+    "w": "WOW",
+    "s": 5.61
+   },
+   {
+    "w": "OH",
+    "s": 6.81,
+    "emoji": "1f602"
+   },
+   {
+    "w": "OH OH",
+    "s": 7.25,
+    "emoji": "1f602"
+   },
+   {
+    "w": "OH OH OH",
+    "s": 7.9,
+    "e": 8.8,
+    "emoji": "1f602"
+   }
+  ],
+  "sfx": [
+   [
+    "m_record-scratch",
+    4.267,
+    0.3
+   ],
+   [
+    "m_record-scratch",
+    15.5,
+    0.25
+   ],
+   [
+    "m_ding-2",
+    17.8,
+    0.2
+   ]
+  ]
+ },
+ "dance": {
+  "base": "ylm/dance.mp4",
+  "dur": 17.9,
+  "baseVol": 1,
+  "music": [
+   "montagem_n",
+   0,
+   0.1
+  ],
+  "cuts": [
+   3.0,
+   5.1,
+   7.7,
+   11.3,
+   14.0
+  ],
+  "freezes": [
+   {
+    "a": 2.3,
+    "b": 3.0,
+    "z": 1.12,
+    "flash": true
+   },
+   {
+    "a": 10.7,
+    "b": 11.3,
+    "z": 1.12,
+    "flash": true
+   },
+   {
+    "a": 16.714,
+    "b": 99,
+    "z": 1.08
+   }
+  ],
+  "texts": [
+   {
+    "from": 0,
+    "to": 3.0,
+    "lines": [
+     "when the host says",
+     "\"do a little dance move\""
+    ],
+    "y": 210,
+    "size": 58,
+    "emoji": "1f480",
+    "box": true,
+    "hl": [
+     "dance"
+    ]
+   },
+   {
+    "from": 2.3,
+    "to": 3.0,
+    "lines": [
+     "THE MOVES"
+    ],
+    "y": 1300,
+    "size": 120,
+    "emoji": "1f62d",
+    "rot": -4
+   },
+   {
+    "from": 3.0,
+    "to": 5.1,
+    "lines": [
+     "the judges:"
+    ],
+    "y": 300,
+    "size": 64,
+    "emoji": "1f923",
+    "box": true
+   },
+   {
+    "from": 5.1,
+    "to": 7.7,
+    "lines": [
+     "when you both show up",
+     "in the SAME fit"
+    ],
+    "y": 260,
+    "size": 58,
+    "emoji": "1f440",
+    "box": true,
+    "hl": [
+     "SAME"
+    ]
+   },
+   {
+    "from": 7.7,
+    "to": 10.7,
+    "lines": [
+     "bro thought it was a",
+     "bodybuilding show"
+    ],
+    "y": 210,
+    "size": 58,
+    "emoji": "1f480",
+    "box": true
+   },
+   {
+    "from": 10.7,
+    "to": 11.3,
+    "lines": [
+     "MOST MUSCULAR"
+    ],
+    "y": 1300,
+    "size": 104,
+    "emoji": "1f4aa",
+    "rot": 4
+   },
+   {
+    "from": 11.3,
+    "to": 14.0,
+    "lines": [
+     "he wasn't done"
+    ],
+    "y": 210,
+    "size": 64,
+    "emoji": "1f62d",
+    "box": true
+   },
+   {
+    "from": 15.0,
+    "to": 17.9,
+    "lines": [
+     "who had the",
+     "best moves?"
+    ],
+    "y": 230,
+    "size": 70,
+    "emoji": "1f914",
+    "box": true,
+    "hl": [
+     "best",
+     "moves?"
+    ]
+   }
+  ],
+  "words": [],
+  "sfx": [
+   [
+    "m_record-scratch",
+    2.3,
+    0.3
+   ],
+   [
+    "s_huh",
+    5.2,
+    0.3
+   ],
+   [
+    "m_anime-wow",
+    10.7,
+    0.3
+   ],
+   [
+    "m_ding-2",
+    15.0,
+    0.2
+   ]
+  ]
+ },
+ "rate": {
+  "base": "ylm/rate.mp4",
+  "dur": 16.267,
+  "baseVol": 0,
+  "music": [
+   "funkabn_n",
+   10,
+   0.2
+  ],
+  "cuts": [
+   3.6,
+   6.0,
+   8.0,
+   10.3,
+   12.067
+  ],
+  "freezes": [
+   {
+    "a": 15.067,
+    "b": 99,
+    "z": 1.1,
+    "flash": true
+   }
+  ],
+  "texts": [
+   {
+    "from": 0,
+    "to": 3.6,
+    "lines": [
+     "Rating bodybuilders'",
+     "runway walks"
+    ],
+    "y": 210,
+    "size": 64,
+    "emoji": "1f480",
+    "box": true
+   },
+   {
+    "from": 2.0,
+    "to": 3.6,
+    "lines": [
+     "ENTRANCE 10/10"
+    ],
+    "y": 1300,
+    "size": 96,
+    "emoji": "1f525",
+    "rot": -4
+   },
+   {
+    "from": 3.6,
+    "to": 6.0,
+    "lines": [
+     "walking like he hit",
+     "legs yesterday"
+    ],
+    "y": 210,
+    "size": 58,
+    "emoji": "1f62d",
+    "box": true,
+    "hl": [
+     "legs"
+    ]
+   },
+   {
+    "from": 4.8,
+    "to": 6.0,
+    "lines": [
+     "6/10"
+    ],
+    "y": 1300,
+    "size": 130,
+    "rot": 4
+   },
+   {
+    "from": 6.0,
+    "to": 8.0,
+    "lines": [
+     "lats too wide to",
+     "walk normal"
+    ],
+    "y": 210,
+    "size": 58,
+    "emoji": "1f480",
+    "box": true,
+    "hl": [
+     "wide"
+    ]
+   },
+   {
+    "from": 7.0,
+    "to": 8.0,
+    "lines": [
+     "BACK 10/10"
+    ],
+    "y": 1300,
+    "size": 110,
+    "rot": -4
+   },
+   {
+    "from": 8.0,
+    "to": 10.3,
+    "lines": [
+     "the slow turn tho"
+    ],
+    "y": 210,
+    "size": 62,
+    "emoji": "1f60e",
+    "box": true
+   },
+   {
+    "from": 9.0,
+    "to": 10.3,
+    "lines": [
+     "9/10"
+    ],
+    "y": 1300,
+    "size": 130,
+    "rot": 4
+   },
+   {
+    "from": 10.3,
+    "to": 12.067,
+    "lines": [
+     "chain check"
+    ],
+    "y": 210,
+    "size": 62,
+    "emoji": "1f48e",
+    "box": true
+   },
+   {
+    "from": 11.0,
+    "to": 12.067,
+    "lines": [
+     "8/10"
+    ],
+    "y": 1300,
+    "size": 130,
+    "rot": -4
+   },
+   {
+    "from": 12.067,
+    "to": 15.067,
+    "lines": [
+     "the stare"
+    ],
+    "y": 210,
+    "size": 64,
+    "emoji": "1f5ff",
+    "box": true
+   },
+   {
+    "from": 13.4,
+    "to": 15.067,
+    "lines": [
+     "11/10"
+    ],
+    "y": 1300,
+    "size": 130,
+    "emoji": "1f525",
+    "rot": 4
+   },
+   {
+    "from": 15.067,
+    "to": 16.267,
+    "lines": [
+     "who walked it best?"
+    ],
+    "y": 230,
+    "size": 66,
+    "emoji": "1f914",
+    "box": true,
+    "hl": [
+     "best?"
+    ]
+   }
+  ],
+  "words": [],
+  "sfx": [
+   [
+    "m_ding-2",
+    2.0,
+    0.15
+   ],
+   [
+    "m_ding-2",
+    4.8,
+    0.15
+   ],
+   [
+    "m_ding-2",
+    7.0,
+    0.15
+   ],
+   [
+    "m_ding-2",
+    9.0,
+    0.15
+   ],
+   [
+    "m_ding-2",
+    11.0,
+    0.15
+   ],
+   [
+    "m_rizz-sound-effect",
+    13.4,
+    0.25
+   ],
+   [
+    "m_record-scratch",
+    15.067,
+    0.25
+   ]
+  ]
+ },
+ "million": {
+  "base": "ylm/million.mp4",
+  "dur": 17.668,
+  "baseVol": 1,
+  "music": [
+   "funkabn_n",
+   20,
+   0.07
+  ],
+  "cuts": [
+   3.767,
+   6.467,
+   9.567,
+   12.667,
+   15.368
+  ],
+  "freezes": [
+   {
+    "a": 16.268,
+    "b": 99,
+    "z": 1.12,
+    "flash": true
+   }
+  ],
+  "texts": [
+   {
+    "from": 0,
+    "to": 3.767,
+    "lines": [
+     "his answer to \"what would",
+     "you do with $1M\""
+    ],
+    "y": 210,
+    "size": 58,
+    "emoji": "1f4b0",
+    "box": true,
+    "hl": [
+     "$1M"
+    ]
+   },
+   {
+    "from": 16.268,
+    "to": 17.668,
+    "lines": [
+     "he wants to OWN",
+     "the whole brand"
+    ],
+    "y": 230,
+    "size": 64,
+    "emoji": "1f62d",
+    "box": true,
+    "hl": [
+     "OWN"
+    ]
+   }
+  ],
+  "words": [
+   {
+    "w": "I CAN'T ENTER?",
+    "s": 0.2
+   },
+   {
+    "w": "JUST GIVE ME THE MONEY",
+    "s": 2.2
+   },
+   {
+    "w": "A MILLION FLAT?",
+    "s": 3.2,
+    "e": 3.767,
+    "emoji": "1f4b0"
+   },
+   {
+    "w": "TRY NEGATIVE",
+    "s": 3.867
+   },
+   {
+    "w": "$152,000",
+    "s": 4.367,
+    "hl": true,
+    "emoji": "1f480"
+   },
+   {
+    "w": "AT ONE POINT",
+    "s": 5.667,
+    "e": 6.467
+   },
+   {
+    "w": "IF YOU HAD A MILLION",
+    "s": 6.567
+   },
+   {
+    "w": "FIRST PURCHASE?",
+    "s": 8.567,
+    "e": 9.567
+   },
+   {
+    "w": "I WOULD BUY",
+    "s": 9.667
+   },
+   {
+    "w": "EQUITY",
+    "s": 10.767,
+    "hl": true
+   },
+   {
+    "w": "IN YOUNGLA",
+    "s": 12.067,
+    "e": 12.667
+   },
+   {
+    "w": "51%",
+    "s": 15.568,
+    "hl": true,
+    "emoji": "1f480",
+    "e": 99
+   }
+  ],
+  "sfx": [
+   [
+    "m_cha-ching",
+    3.2,
+    0.2
+   ],
+   [
+    "s_fahhh",
+    4.4,
+    0.22
+   ],
+   [
+    "s_huh",
+    15.65,
+    0.3
+   ],
+   [
+    "m_record-scratch",
+    16.268,
+    0.25
+   ]
+  ]
+ }
+}
