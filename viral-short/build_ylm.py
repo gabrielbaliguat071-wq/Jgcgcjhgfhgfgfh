@@ -12,6 +12,10 @@ SEGS = {
  'yfun': [dict(a=610.6, b=611.75, cx=880, z=1.3), dict(a=613.5, b=614.95, cx=900, fz=0.6), dict(a=648.6, b=652.6, cx=950, z=1.25),
           dict(a=653.5, b=655.5, band=1, br=1), dict(a=638.2, b=640.5, band=1), dict(a=877.8, b=880.7, cx=940), dict(a=898.9, b=899.85, cx=900),
           dict(a=622.9, b=626.25, band=1, br=1), dict(a=764.3, b=769.0, cx=1250, br=1, fz=1.3, src=763.8)],
+ 'model': [dict(a=157.35, b=158.95, cx=1210, fz=0.7), dict(a=146.4, b=149.75, cx=1210), dict(a=149.75, b=151.65, band=1), dict(a=151.8, b=157.35, cx=1210),
+           dict(a=157.35, b=160.1, cx=1210)],
+ 'skully': [dict(a=188.85, b=191.35, band=1, fz=0.6), dict(a=178.55, b=181.95, cx=600, src=179.0), dict(a=181.95, b=192.35, band=1)],
+ 'walkout': [dict(a=329.6, b=331.45, cx=1230, z=1.3, top=1, fz=0.7), dict(a=318.0, b=322.3, cx=900), dict(a=327.4, b=328.9, cx=900), dict(a=328.9, b=337.75, cx=1230, z=1.3, top=1)],
  'million': [dict(a=749.0, b=752.75, cx=920, src=778.0), dict(a=766.3, b=769.0, cx=1380, br=1), dict(a=783.2, b=786.3, cx=920),
              dict(a=790.6, b=793.7, cx=900), dict(a=794.0, b=795.9, cx=940, r=0.7), dict(a=796.8, b=797.7, cx=1380, fz=1.4, br=1)],
 }
@@ -22,7 +26,7 @@ for i, s in enumerate(SEGS[eid]):
     if s.get('band'):
         v = f'[0:v]split[p][q];[p]scale=3414:1920,crop=1080:1920,boxblur=20:2,eq=brightness=-0.25[bg];[q]scale=1080:608,{G}{BR if s.get("br") else ""}[fg];[bg][fg]overlay=0:656,setpts=PTS/{r},fps=30,tpad=stop_mode=clone:stop_duration={fz}[v]'
     else:
-        w, h = round(608 / z / 2) * 2, round(1080 / z / 2) * 2; x = max(0, min(1920 - w, s['cx'] - w // 2)); y = 1080 - h
+        w, h = round(608 / z / 2) * 2, round(1080 / z / 2) * 2; x = max(0, min(1920 - w, s['cx'] - w // 2)); y = 0 if s.get('top') else 1080 - h
         v = f'[0:v]crop={w}:{h}:{x}:{y},scale=1080:1920:flags=lanczos,{G}{BR if s.get("br") else ""},setpts=PTS/{r},fps=30,tpad=stop_mode=clone:stop_duration={fz}[v]'
     # 'src': video from another time (picture), audio from a..b (voice line over the flex)
     vin = ['-ss', str(s.get('src', a)), '-t', str(d), '-i', S]; ain = ['-ss', str(a), '-t', str(d), '-i', S]

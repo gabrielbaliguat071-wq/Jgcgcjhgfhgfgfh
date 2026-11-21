@@ -13,7 +13,7 @@ const F = (s: number) => Math.round(s * 30);
 type T = {from: number; to: number; lines: string[]; y: number; size: number; emoji?: string; box?: boolean; hl?: string[]; rot?: number};
 type W = {w: string; s: number; e?: number; emoji?: string; hl?: boolean};
 type C = {base: string; dur: number; baseVol: number; music: [string, number, number]; cuts: number[]; freezes: {a: number; b: number; z: number; flash?: boolean}[];
-  texts: T[]; words: W[]; sfx: [string, number, number][]; wordsY?: number; wordSize?: number; whooshVol?: number; punch?: boolean};
+  texts: T[]; words: W[]; sfx: [string, number, number, number?][]; mutes?: [number, number][]; wordsY?: number; wordSize?: number; whooshVol?: number; punch?: boolean};
 export const YLMS = CFG as unknown as Record<string, C>;
 export const ylmFrames = (id: string) => F(YLMS[id].dur);
 const stroke = (w: number): React.CSSProperties => ({WebkitTextStroke: `${w}px #000`, paintOrder: 'stroke fill', textShadow: '0 6px 16px rgba(0,0,0,0.6)'});
@@ -30,7 +30,7 @@ export const YLM: React.FC<{edit: string}> = ({edit}) => {
   const wp = wd ? spring({frame: f - F(wd.s), fps, config: {damping: 9, stiffness: 320}}) : 1;
   return <AbsoluteFill style={{background: '#000', overflow: 'hidden'}}>
     <AbsoluteFill style={{transform: `translateX(${whip}px) scale(${zoom})`, filter: cutD !== undefined && cutD < 3 ? `blur(${[6, 3, 1][cutD]}px)` : undefined}}>
-      <OffthreadVideo src={staticFile(c.base)} volume={c.baseVol} style={{width: 1080, height: 1920}} />
+      <OffthreadVideo src={staticFile(c.base)} volume={(fr) => (c.mutes ?? []).some(([a, b]) => fr / 30 >= a && fr / 30 < b) ? 0 : c.baseVol} style={{width: 1080, height: 1920}} />
     </AbsoluteFill>
     {fz?.flash && <AbsoluteFill style={{background: '#fff', opacity: interpolate(t, [fz.a, fz.a + 0.1], [0.6, 0], clamp)}} />}
     {c.texts.filter((x) => t >= x.from && t < x.to).map((x, i) => { const k = spring({frame: f - F(x.from), fps, config: {damping: 11, stiffness: 240}});
@@ -46,6 +46,6 @@ export const YLM: React.FC<{edit: string}> = ({edit}) => {
     </div>}
     {c.music[2] > 0 && <Audio src={staticFile(`res/${c.music[0]}.mp3`)} startFrom={F(c.music[1])} volume={c.music[2]} />}
     {c.cuts.map((x, i) => <Sequence key={'c' + i} from={Math.max(0, F(x) - 14)}><Audio src={staticFile('res/m_fast-whoosh.mp3')} volume={c.whooshVol ?? 0.25} /></Sequence>)}
-    {c.sfx.map(([s, at, v], i) => <Sequence key={'s' + i} from={F(at)}><Audio src={staticFile(`res/${s}.mp3`)} volume={v} /></Sequence>)}
+    {c.sfx.map(([s, at, v, d], i) => <Sequence key={'s' + i} from={F(at)} durationInFrames={d ? F(d) : undefined}><Audio src={staticFile(`res/${s}.mp3`)} volume={v} /></Sequence>)}
   </AbsoluteFill>;
 };

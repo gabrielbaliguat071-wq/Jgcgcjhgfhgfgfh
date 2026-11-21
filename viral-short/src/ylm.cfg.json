@@ -1482,5 +1482,392 @@
     0.25
    ]
   ]
+ },
+ "model": {
+  "base": "ylm/model.mp4",
+  "dur": 15.9,
+  "baseVol": 1,
+  "music": [
+   "funkabn_n",
+   12,
+   0.09
+  ],
+  "punch": true,
+  "whooshVol": 0.2,
+  "cuts": [
+   2.3,
+   5.667,
+   7.567,
+   13.133
+  ],
+  "freezes": [
+   {
+    "a": 1.6,
+    "b": 2.3,
+    "z": 1.1,
+    "flash": true
+   }
+  ],
+  "texts": [
+   {
+    "from": 0,
+    "to": 2.3,
+    "lines": [
+     "his childhood dream",
+     "got CRUSHED"
+    ],
+    "y": 210,
+    "size": 58,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f480",
+    "hl": [
+     "CRUSHED"
+    ]
+   },
+   {
+    "from": 1.6,
+    "to": 2.3,
+    "lines": [
+     "HOW IT STARTED"
+    ],
+    "y": 1260,
+    "size": 96,
+    "box": false,
+    "rot": -3,
+    "emoji": "23ea"
+   },
+   {
+    "from": 2.3,
+    "to": 7.567,
+    "lines": [
+     "they told him he",
+     "can't model"
+    ],
+    "y": 210,
+    "size": 58,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f62d"
+   },
+   {
+    "from": 7.567,
+    "to": 13.133,
+    "lines": [
+     "his parents came",
+     "to watch"
+    ],
+    "y": 210,
+    "size": 58,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f979"
+   },
+   {
+    "from": 13.133,
+    "to": 15.9,
+    "lines": [
+     "plot twist:"
+    ],
+    "y": 210,
+    "size": 58,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f480"
+   }
+  ],
+  "words": [
+   {
+    "w": "NO, THEY PUT ME",
+    "s": 0.09
+   },
+   {
+    "w": "BEHIND THE CURTAINS",
+    "s": 0.71,
+    "e": 1.6,
+    "hl": true
+   },
+   {
+    "w": "THEY TOLD ME",
+    "s": 2.38
+   },
+   {
+    "w": "I CAN'T MODEL",
+    "s": 2.9
+   },
+   {
+    "w": "I GOTTA BE COMMENTATING",
+    "s": 4.08,
+    "e": 5.667
+   },
+   {
+    "w": "YOU WANNA GET UP THERE?",
+    "s": 5.737
+   },
+   {
+    "w": "YES.",
+    "s": 6.837,
+    "e": 7.567,
+    "hl": true
+   },
+   {
+    "w": "CHILDHOOD DREAM",
+    "s": 7.707
+   },
+   {
+    "w": "MY PARENTS ARE HERE",
+    "s": 8.287
+   },
+   {
+    "w": "I TOLD HIM, YO MOM",
+    "s": 8.987
+   },
+   {
+    "w": "I'M RUNNING THE RUNWAY",
+    "s": 9.947,
+    "e": 11.3,
+    "hl": true
+   },
+   {
+    "w": "THIS IS VERY EXCITING",
+    "s": 11.347,
+    "e": 13.133
+   },
+   {
+    "w": "NO, THEY PUT ME",
+    "s": 13.223
+   },
+   {
+    "w": "BEHIND THE CURTAINS",
+    "s": 13.843,
+    "e": 14.5,
+    "hl": true
+   },
+   {
+    "w": "BUT IT'S COOL",
+    "s": 14.543
+   },
+   {
+    "w": "I'M EXCITED TO BE A PART OF THIS",
+    "s": 14.963,
+    "e": 15.9
+   }
+  ],
+  "sfx": [
+   [
+    "m_rewind",
+    1.6,
+    0.3,
+    0.7
+   ],
+   [
+    "s_huh",
+    3.05,
+    0.3
+   ],
+   [
+    "s_awk",
+    6.9,
+    0.25
+   ],
+   [
+    "s_fahhh",
+    13.9,
+    0.25
+   ]
+  ]
+ },
+ "walkout": {
+  "base": "ylm/walkout.mp4",
+  "dur": 17.233,
+  "baseVol": 1,
+  "music": [
+   "funkabn_n",
+   50,
+   0.09
+  ],
+  "punch": true,
+  "whooshVol": 0.2,
+  "cuts": [
+   2.567,
+   6.867,
+   8.367
+  ],
+  "freezes": [
+   {
+    "a": 1.85,
+    "b": 2.567,
+    "z": 1.1,
+    "flash": true
+   }
+  ],
+  "mutes": [
+   [
+    1.26,
+    1.5
+   ],
+   [
+    10.327,
+    10.57
+   ],
+   [
+    11.667,
+    12.07
+   ],
+   [
+    15.167,
+    15.41
+   ]
+  ],
+  "texts": [
+   {
+    "from": 0,
+    "to": 2.567,
+    "lines": [
+     "bro was NOT getting",
+     "paid enough"
+    ],
+    "y": 210,
+    "size": 58,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f480",
+    "hl": [
+     "NOT"
+    ]
+   },
+   {
+    "from": 1.85,
+    "to": 2.567,
+    "lines": [
+     "HOW IT STARTED"
+    ],
+    "y": 1260,
+    "size": 96,
+    "box": false,
+    "rot": -3,
+    "emoji": "23ea"
+   },
+   {
+    "from": 2.567,
+    "to": 8.367,
+    "lines": [
+     "him walking out",
+     "in the middle of the show"
+    ],
+    "y": 210,
+    "size": 54,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f62d"
+   },
+   {
+    "from": 8.367,
+    "to": 11.0,
+    "lines": [
+     "the exit speech:"
+    ],
+    "y": 210,
+    "size": 58,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f4e3"
+   }
+  ],
+  "words": [
+   {
+    "w": "I'M NOT GETTING PAID",
+    "s": 0.06
+   },
+   {
+    "w": "TO #$%@ BE HERE",
+    "s": 1.1,
+    "e": 1.85,
+    "hl": true
+   },
+   {
+    "w": "YO, WHAT ARE YOU DOING?",
+    "s": 7.007,
+    "e": 8.367
+   },
+   {
+    "w": "I'M NOT GETTING PAID",
+    "s": 9.127
+   },
+   {
+    "w": "TO #$%@ BE HERE",
+    "s": 9.807
+   },
+   {
+    "w": "I'M NOT SITTING THERE WATCHING",
+    "s": 10.797
+   },
+   {
+    "w": "#$%@ LUKEY AND ALL OF THEM",
+    "s": 11.667
+   },
+   {
+    "w": "I LOVE YOU, LUKEY, TOO",
+    "s": 13.237,
+    "e": 14.107,
+    "hl": true
+   },
+   {
+    "w": "I'M NOT WATCHING YOU GUYS",
+    "s": 14.107
+   },
+   {
+    "w": "GO DOWN THE #$%@ RUNWAY",
+    "s": 14.967
+   },
+   {
+    "w": "NO, BRO, WAIT",
+    "s": 15.607
+   },
+   {
+    "w": "YOU'RE A GOOD GUY",
+    "s": 16.587,
+    "e": 17.233,
+    "hl": true
+   }
+  ],
+  "sfx": [
+   [
+    "m_censor-beep",
+    1.26,
+    0.3
+   ],
+   [
+    "m_rewind",
+    1.85,
+    0.3,
+    0.7
+   ],
+   [
+    "s_huh",
+    7.0,
+    0.3
+   ],
+   [
+    "m_censor-beep",
+    10.327,
+    0.3
+   ],
+   [
+    "m_censor-beep",
+    11.667,
+    0.3
+   ],
+   [
+    "s_awk",
+    13.3,
+    0.25
+   ],
+   [
+    "m_censor-beep",
+    15.167,
+    0.3
+   ]
+  ]
  }
 }

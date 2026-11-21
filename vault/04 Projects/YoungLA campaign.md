@@ -42,3 +42,5 @@ IG account: "Gym Fits & Laughs" @gymfitsandlaughs (pfp vault/assets/gymfits_pfp.
 - reel10 "$1M answer" (million): commentator interview audio 749-797 (the table guy, NOT the navy-tee bodybuilder) over runway b-roll; ends on his face-cover freeze at "51%"
 
 ## Funniest moments compilation (Nov 21): yfun (build_ylm.py SEGS 'yfun' + ylm.cfg.json) — handsome / dance + judges / twinning / slipped + take four / he doesn't know / -$152,000. 25 s.
+## Hook reels (Nov 21, IG): flash-forward hook = punchline first → freeze 'HOW IT STARTED ⏪' + rewind sfx → full story.
+- reel12 model (146–160: 'they told me I can't model… they put me behind the curtains'), reel13 walkout (318–337.7, bleeped swears via cfg mutes + censor beep, crop top=1 to hide the original's burned captions). Skully bit (177–192) dropped: two-shot too dark/small.
