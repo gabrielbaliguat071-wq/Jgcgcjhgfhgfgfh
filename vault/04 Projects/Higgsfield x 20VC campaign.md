@@ -58,3 +58,7 @@ hook = "people just jump between jobs every two years" → Europe/loyalty → Fu
 
 ## Batch 5 (2026-11-20): plan_higgs9.py, excerpts footage/higgs/tx8 — film (100+ h for 90 min), prompt (3,000 words), support (harder the faster you ship), codex (Claude→Codex, true when filmed), europe (ASML; Nscale/IREN/Nebius/Crusoe; Legora/ElevenLabs/Lovable), yuri (Milner). 31–43 s.
 All 22 brief ideas except churn/NRR (21:20) and margins (31:52) and two-incumbents/China (32:58) are now clipped.
+
+## Clip 21 (2026-11-21): china — "Only Google is relevant in the US, China has three" (26:12–26:58). plan_higgs10.py, excerpt footage/higgs/tx9/hchina.mp4 (1565 s), 44 s.
+hook = OpenRouter data: only relevant US incumbent is Google → China: Tencent, Xiaomi, Alibaba (+ ByteDance catching up) → takeaway: tech bubble obsessed with benchmarks → video benchmarks = text-to-video, not real workflows.
+Fixes: "Shyami" = Xiaomi, "Biden's" = ByteDance, "open router" = OpenRouter. Left now: churn/NRR (21:20), margins (31:52).

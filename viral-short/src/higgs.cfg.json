@@ -14398,5 +14398,767 @@
    }
   ],
   "cards": []
+ },
+ "china": {
+  "src": "hchina.mp4",
+  "wm": "higgsfield_wm.png",
+  "hook": [
+   "Only ONE US tech giant is",
+   "relevant in AI models"
+  ],
+  "hookFrames": 100,
+  "music": [
+   "investigations_n",
+   60.0
+  ],
+  "musicVol": 0.07,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 7.1,
+    "durationInFrames": 255,
+    "crops": [
+     [
+      0,
+      880,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "Out",
+      "startFrame": 2,
+      "endFrame": 9,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 6,
+      "endFrame": 22,
+      "hi": false
+     },
+     {
+      "word": "all",
+      "startFrame": 19,
+      "endFrame": 37,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 34,
+      "endFrame": 46,
+      "hi": false
+     },
+     {
+      "word": "incumbents",
+      "startFrame": 43,
+      "endFrame": 70,
+      "hi": false
+     },
+     {
+      "word": "in",
+      "startFrame": 67,
+      "endFrame": 76,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 73,
+      "endFrame": 82,
+      "hi": false
+     },
+     {
+      "word": "United",
+      "startFrame": 79,
+      "endFrame": 92,
+      "hi": false
+     },
+     {
+      "word": "States,",
+      "startFrame": 89,
+      "endFrame": 106,
+      "hi": false
+     },
+     {
+      "word": "when",
+      "startFrame": 107,
+      "endFrame": 113,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 110,
+      "endFrame": 116,
+      "hi": false
+     },
+     {
+      "word": "look",
+      "startFrame": 113,
+      "endFrame": 122,
+      "hi": false
+     },
+     {
+      "word": "at",
+      "startFrame": 119,
+      "endFrame": 125,
+      "hi": false
+     },
+     {
+      "word": "OpenRouter",
+      "startFrame": 128,
+      "endFrame": 140,
+      "hi": true
+     },
+     {
+      "word": "data,",
+      "startFrame": 137,
+      "endFrame": 154,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 168,
+      "endFrame": 173,
+      "hi": false
+     },
+     {
+      "word": "only",
+      "startFrame": 170,
+      "endFrame": 179,
+      "hi": true
+     },
+     {
+      "word": "company",
+      "startFrame": 176,
+      "endFrame": 191,
+      "hi": false
+     },
+     {
+      "word": "which",
+      "startFrame": 188,
+      "endFrame": 197,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 194,
+      "endFrame": 202,
+      "hi": false
+     },
+     {
+      "word": "relevant",
+      "startFrame": 199,
+      "endFrame": 214,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 211,
+      "endFrame": 228,
+      "hi": false
+     },
+     {
+      "word": "Google,",
+      "startFrame": 225,
+      "endFrame": 251,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c1",
+    "videoStartSec": 18.45,
+    "durationInFrames": 500,
+    "crops": [
+     [
+      0,
+      290,
+      1.45,
+      470
+     ],
+     [
+      283,
+      880,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "When",
+      "startFrame": 3,
+      "endFrame": 10,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 7,
+      "endFrame": 13,
+      "hi": false
+     },
+     {
+      "word": "look",
+      "startFrame": 10,
+      "endFrame": 18,
+      "hi": false
+     },
+     {
+      "word": "in",
+      "startFrame": 15,
+      "endFrame": 23,
+      "hi": false
+     },
+     {
+      "word": "China,",
+      "startFrame": 20,
+      "endFrame": 36,
+      "hi": true
+     },
+     {
+      "word": "where",
+      "startFrame": 52,
+      "endFrame": 58,
+      "hi": false
+     },
+     {
+      "word": "probably",
+      "startFrame": 55,
+      "endFrame": 69,
+      "hi": false
+     },
+     {
+      "word": "obsession",
+      "startFrame": 66,
+      "endFrame": 85,
+      "hi": true
+     },
+     {
+      "word": "with",
+      "startFrame": 82,
+      "endFrame": 91,
+      "hi": false
+     },
+     {
+      "word": "benchmarks",
+      "startFrame": 88,
+      "endFrame": 106,
+      "hi": true
+     },
+     {
+      "word": "probably",
+      "startFrame": 103,
+      "endFrame": 118,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 115,
+      "endFrame": 125,
+      "hi": false
+     },
+     {
+      "word": "less.",
+      "startFrame": 122,
+      "endFrame": 134,
+      "hi": false
+     },
+     {
+      "word": "We",
+      "startFrame": 148,
+      "endFrame": 153,
+      "hi": false
+     },
+     {
+      "word": "have",
+      "startFrame": 150,
+      "endFrame": 161,
+      "hi": false
+     },
+     {
+      "word": "Tencent,",
+      "startFrame": 158,
+      "endFrame": 179,
+      "hi": true
+     },
+     {
+      "word": "Xiaomi,",
+      "startFrame": 203,
+      "endFrame": 218,
+      "hi": true
+     },
+     {
+      "word": "Alibaba,",
+      "startFrame": 242,
+      "endFrame": 262,
+      "hi": true
+     },
+     {
+      "word": "like",
+      "startFrame": 302,
+      "endFrame": 311,
+      "hi": false
+     },
+     {
+      "word": "three",
+      "startFrame": 308,
+      "endFrame": 325,
+      "hi": true
+     },
+     {
+      "word": "incumbents",
+      "startFrame": 322,
+      "endFrame": 348,
+      "hi": false
+     },
+     {
+      "word": "being",
+      "startFrame": 346,
+      "endFrame": 368,
+      "hi": false
+     },
+     {
+      "word": "completely",
+      "startFrame": 365,
+      "endFrame": 382,
+      "hi": false
+     },
+     {
+      "word": "relevant",
+      "startFrame": 379,
+      "endFrame": 396,
+      "hi": false
+     },
+     {
+      "word": "and",
+      "startFrame": 393,
+      "endFrame": 413,
+      "hi": false
+     },
+     {
+      "word": "obviously",
+      "startFrame": 410,
+      "endFrame": 428,
+      "hi": false
+     },
+     {
+      "word": "like",
+      "startFrame": 425,
+      "endFrame": 439,
+      "hi": false
+     },
+     {
+      "word": "ByteDance",
+      "startFrame": 436,
+      "endFrame": 455,
+      "hi": true
+     },
+     {
+      "word": "obviously",
+      "startFrame": 452,
+      "endFrame": 463,
+      "hi": false
+     },
+     {
+      "word": "trying",
+      "startFrame": 460,
+      "endFrame": 474,
+      "hi": false
+     },
+     {
+      "word": "to",
+      "startFrame": 471,
+      "endFrame": 479,
+      "hi": false
+     },
+     {
+      "word": "catch",
+      "startFrame": 476,
+      "endFrame": 486,
+      "hi": false
+     },
+     {
+      "word": "up",
+      "startFrame": 483,
+      "endFrame": 491,
+      "hi": false
+     },
+     {
+      "word": "as",
+      "startFrame": 488,
+      "endFrame": 495,
+      "hi": false
+     },
+     {
+      "word": "well.",
+      "startFrame": 492,
+      "endFrame": 500,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "videoStartSec": 35.15,
+    "durationInFrames": 382,
+    "crops": [
+     [
+      0,
+      880,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "What's",
+      "startFrame": 1,
+      "endFrame": 16,
+      "hi": false
+     },
+     {
+      "word": "your",
+      "startFrame": 13,
+      "endFrame": 20,
+      "hi": false
+     },
+     {
+      "word": "takeaway",
+      "startFrame": 17,
+      "endFrame": 29,
+      "hi": false
+     },
+     {
+      "word": "from",
+      "startFrame": 26,
+      "endFrame": 36,
+      "hi": false
+     },
+     {
+      "word": "that?",
+      "startFrame": 33,
+      "endFrame": 43,
+      "hi": false
+     },
+     {
+      "word": "I",
+      "startFrame": 46,
+      "endFrame": 60,
+      "hi": false
+     },
+     {
+      "word": "just",
+      "startFrame": 57,
+      "endFrame": 65,
+      "hi": false
+     },
+     {
+      "word": "do",
+      "startFrame": 62,
+      "endFrame": 69,
+      "hi": false
+     },
+     {
+      "word": "believe",
+      "startFrame": 66,
+      "endFrame": 77,
+      "hi": false
+     },
+     {
+      "word": "that",
+      "startFrame": 74,
+      "endFrame": 86,
+      "hi": false
+     },
+     {
+      "word": "there",
+      "startFrame": 83,
+      "endFrame": 111,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 108,
+      "endFrame": 116,
+      "hi": false
+     },
+     {
+      "word": "just",
+      "startFrame": 113,
+      "endFrame": 124,
+      "hi": false
+     },
+     {
+      "word": "obviously",
+      "startFrame": 121,
+      "endFrame": 145,
+      "hi": false
+     },
+     {
+      "word": "in",
+      "startFrame": 142,
+      "endFrame": 155,
+      "hi": false
+     },
+     {
+      "word": "tech",
+      "startFrame": 166,
+      "endFrame": 174,
+      "hi": false
+     },
+     {
+      "word": "bubble",
+      "startFrame": 171,
+      "endFrame": 182,
+      "hi": false
+     },
+     {
+      "word": "there",
+      "startFrame": 179,
+      "endFrame": 187,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 184,
+      "endFrame": 193,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 190,
+      "endFrame": 197,
+      "hi": false
+     },
+     {
+      "word": "strong",
+      "startFrame": 194,
+      "endFrame": 204,
+      "hi": false
+     },
+     {
+      "word": "obsession",
+      "startFrame": 201,
+      "endFrame": 216,
+      "hi": true
+     },
+     {
+      "word": "over",
+      "startFrame": 213,
+      "endFrame": 225,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 222,
+      "endFrame": 230,
+      "hi": false
+     },
+     {
+      "word": "benchmarks",
+      "startFrame": 227,
+      "endFrame": 247,
+      "hi": true
+     },
+     {
+      "word": "which",
+      "startFrame": 244,
+      "endFrame": 290,
+      "hi": false
+     },
+     {
+      "word": "do",
+      "startFrame": 287,
+      "endFrame": 302,
+      "hi": false
+     },
+     {
+      "word": "not",
+      "startFrame": 299,
+      "endFrame": 309,
+      "hi": false
+     },
+     {
+      "word": "necessarily",
+      "startFrame": 306,
+      "endFrame": 339,
+      "hi": false
+     },
+     {
+      "word": "represent",
+      "startFrame": 336,
+      "endFrame": 366,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 363,
+      "endFrame": 371,
+      "hi": false
+     },
+     {
+      "word": "reality.",
+      "startFrame": 368,
+      "endFrame": 382,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "videoStartSec": 51.65,
+    "durationInFrames": 188,
+    "crops": [
+     [
+      0,
+      290,
+      1.45,
+      470
+     ],
+     [
+      100,
+      880,
+      1.15,
+      510
+     ]
+    ],
+    "words": [
+     {
+      "word": "A",
+      "startFrame": 2,
+      "endFrame": 7,
+      "hi": false
+     },
+     {
+      "word": "lot",
+      "startFrame": 4,
+      "endFrame": 15,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 12,
+      "endFrame": 20,
+      "hi": false
+     },
+     {
+      "word": "benchmarks",
+      "startFrame": 17,
+      "endFrame": 32,
+      "hi": true
+     },
+     {
+      "word": "today",
+      "startFrame": 29,
+      "endFrame": 41,
+      "hi": false
+     },
+     {
+      "word": "for",
+      "startFrame": 38,
+      "endFrame": 47,
+      "hi": false
+     },
+     {
+      "word": "video's",
+      "startFrame": 44,
+      "endFrame": 57,
+      "hi": false
+     },
+     {
+      "word": "really",
+      "startFrame": 54,
+      "endFrame": 68,
+      "hi": false
+     },
+     {
+      "word": "text",
+      "startFrame": 65,
+      "endFrame": 78,
+      "hi": true
+     },
+     {
+      "word": "to",
+      "startFrame": 75,
+      "endFrame": 82,
+      "hi": false
+     },
+     {
+      "word": "video,",
+      "startFrame": 79,
+      "endFrame": 91,
+      "hi": true
+     },
+     {
+      "word": "which",
+      "startFrame": 109,
+      "endFrame": 119,
+      "hi": false
+     },
+     {
+      "word": "does",
+      "startFrame": 116,
+      "endFrame": 126,
+      "hi": false
+     },
+     {
+      "word": "not",
+      "startFrame": 123,
+      "endFrame": 134,
+      "hi": false
+     },
+     {
+      "word": "represent",
+      "startFrame": 131,
+      "endFrame": 150,
+      "hi": false
+     },
+     {
+      "word": "actual",
+      "startFrame": 147,
+      "endFrame": 163,
+      "hi": false
+     },
+     {
+      "word": "workflows",
+      "startFrame": 160,
+      "endFrame": 177,
+      "hi": true
+     },
+     {
+      "word": "at",
+      "startFrame": 174,
+      "endFrame": 184,
+      "hi": false
+     },
+     {
+      "word": "all.",
+      "startFrame": 181,
+      "endFrame": 188,
+      "hi": false
+     }
+    ]
+   }
+  ],
+  "cards": [
+   {
+    "at": [
+     "hook",
+     225
+    ],
+    "dur": 70,
+    "big": "GOOGLE",
+    "small": "the only relevant US incumbent on OpenRouter"
+   },
+   {
+    "at": [
+     "c1",
+     308
+    ],
+    "dur": 60,
+    "big": "3 in China",
+    "small": "Tencent \u00b7 Xiaomi \u00b7 Alibaba"
+   }
+  ]
  }
 }

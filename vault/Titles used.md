@@ -39,3 +39,4 @@
 - YoungLA: When the host says "do a little dance move" 💀
 - YoungLA: Rating bodybuilders' runway walks 💀
 - YoungLA: His answer to "what would you do with $1M" 💀
+- Higgsfield: Only ONE US tech giant is relevant in AI models
