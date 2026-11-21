@@ -24,3 +24,8 @@ build_amv.py (modes full/stack/wide) → public/mrf/amv_<id>.mp4, captions + fla
 - RULE: every voice line must finish — run `python3 audit_mrf.py` (flags words cut at segment edges / sentences that continue). Fixed: wh "power."/"one.",
   wl "name." (video held on last Louis frame, 7th SEGS field = video length), wa "life!" + black end frame, awaken now starts at "Come! I will show you a world with honor!".
 - Only the two reference styles from now on (word-by-word MRW, beat AMV). m1–m3 (boxed style) moved to deliver/metaphor/old_style — don't post.
+
+## Batch 4 (Nov 21) — user: "Dont only focus on qoutes also do the edit". Hype beat edits (AMV style) with heavier editing:
+beat zoom pulses (librosa beats in cfg), shakes on collages/finale, glitch hits on cuts, slow-mo inserts (4th field speed in build_amv full mode), flash into finale; lines kept whole, captions secondary.
+- m9 heismay: heismay 35.25–56.3 (21 s) · m10 launch: hero30 7.4–27.0 (19.6 s) · m11 party: pro 61.95–83.05 (21 s)
+- "save the men/many": both whisper models hear "men" → that sentence is left uncaptioned (audio stays).
