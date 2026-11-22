@@ -47,3 +47,9 @@ Framing: Trevor crops need centre y ≈ 510–520 (face high, captions on chest)
 | tvworth | t4 0–7 + 70–82 | "1-of-1 Clemson ~$2,000 vs $500 to a million" → bought for 10, hold it → 20 → 1-of-1 NFL vs Clemson | Funk Abnormal | 17.9 s |
 Notes: tight Trevor crop y 465 at 1.8× (hat no longer clipped); left host crop (470, 1.5, 415). Disk filled during render (ERR_BLOB_OUT_OF_MEMORY) → free space first.
 Remaining unused Trevor material is thin now: t3 98–114 ("we need more Jax fans"), nt_rip 75–94 (Rod Woodson redemption), u3 redemption (used twice).
+
+## Batch tv9 (2026-11-22): `viral-short/plan_tv9.py`, render `.work/render_tv9.sh`
+- tvplate (u6_coen 28–66, 32.4 s, Empire): "college is a different world" → didn't know defensive recognition → past systems put less on the QB's plate → whole other layer.
+- tvnapkin (nt_rip 0–14, 14.2 s, Montagem): "that's like a napkin" → nice patch $15,000+ / Jaguar face → two-color, covers it, swoosh.
+- tvsign (nt_rip 87–106, 14.0 s, AURA phonk): "I don't think Trevor's a redemption. No, you sign" → Rod Woodson redemption → true RPA gold, what you chase.
+Unused Trevor material is now basically gone (only t3 98–114 and nt_rip 75–86 "Ew, don't show that"). Next asks → re-edits in a new style.

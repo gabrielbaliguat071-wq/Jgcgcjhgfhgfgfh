@@ -3276,5 +3276,455 @@
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "src": "g67_tvworth.mp4"
+ },
+ "tvplate": {
+  "top": "College football did NOT prepare him for this",
+  "hl": {
+   "NOT": "#F40305"
+  },
+  "cta": "*is the NFL jump that big?*",
+  "music": [
+   "empire_n",
+   18.8
+  ],
+  "ctaAt": [
+   "c3",
+   "layer"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "different"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "recognition"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "plate"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c3",
+     "diagnose"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "plate"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "college"
+   ],
+   [
+    "hook",
+    "world"
+   ],
+   [
+    "c1",
+    "ton"
+   ],
+   [
+    "c1",
+    "recognition"
+   ],
+   [
+    "c1",
+    "protections"
+   ],
+   [
+    "c1",
+    "successful"
+   ],
+   [
+    "c2",
+    "plate"
+   ],
+   [
+    "c2",
+    "multiple"
+   ],
+   [
+    "c2",
+    "huddle"
+   ],
+   [
+    "c2",
+    "protection"
+   ],
+   [
+    "c3",
+    "whole"
+   ],
+   [
+    "c3",
+    "diagnose"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "plate"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c3"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "world"
+    ],
+    "kind": "png",
+    "file": "e_think.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "plate"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c3",
+     "diagnose"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvplate.mp4"
+ },
+ "tvnapkin": {
+  "top": "Why one patch is worth $15,000 and the other is a NAPKIN",
+  "hl": {
+   "$15,000": "#58EE28",
+   "NAPKIN": "#F40305"
+  },
+  "cta": "*would you know the difference?*",
+  "music": [
+   "montagem_n",
+   24.0
+  ],
+  "ctaAt": [
+   "c2",
+   "nicer"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "napkin"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "15"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "nicer"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "15"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "napkin"
+   ],
+   [
+    "c1",
+    "nice"
+   ],
+   [
+    "c1",
+    "15"
+   ],
+   [
+    "c1",
+    "jaguar"
+   ],
+   [
+    "c1",
+    "face"
+   ],
+   [
+    "c2",
+    "two"
+   ],
+   [
+    "c2",
+    "nicer"
+   ],
+   [
+    "c2",
+    "covers"
+   ],
+   [
+    "c2",
+    "swoosh"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "15"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "like"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "napkin"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "napkin"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c1",
+     "15"
+    ],
+    "kind": "sfx",
+    "file": "s_money.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c2",
+     "swoosh"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.3
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvnapkin.mp4"
+ },
+ "tvsign": {
+  "top": "Trevor is NOT a redemption guy\u2026 here's why",
+  "hl": {
+   "NOT": "#F40305"
+  },
+  "cta": "*should redemptions be banned?*",
+  "music": [
+   "phonk_n",
+   22.4
+  ],
+  "ctaAt": [
+   "c3",
+   "chase"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "redemption"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "woodson"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "gold"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "gold"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "trevor"
+   ],
+   [
+    "hook",
+    "sign"
+   ],
+   [
+    "c1",
+    "redemption"
+   ],
+   [
+    "c1",
+    "last"
+   ],
+   [
+    "c1",
+    "woodson"
+   ],
+   [
+    "c2",
+    "rookie"
+   ],
+   [
+    "c2",
+    "true"
+   ],
+   [
+    "c2",
+    "gold"
+   ],
+   [
+    "c3",
+    "chase"
+   ],
+   [
+    "c3",
+    "rpa"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "gold"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "woodson"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "sign"
+    ],
+    "kind": "sfx",
+    "file": "s_correct.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c1",
+     "redemption",
+     1
+    ],
+    "kind": "png",
+    "file": "e_sob.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "gold"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34
+   },
+   {
+    "at": [
+     "c2",
+     "gold"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvsign.mp4"
  }
 }
