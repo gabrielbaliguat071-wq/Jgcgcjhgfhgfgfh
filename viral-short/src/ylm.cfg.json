@@ -2733,5 +2733,605 @@
     0.25
    ]
   ]
+ },
+ "bbnever": {
+  "base": "ylm/bbnever.mp4",
+  "dur": 54.438,
+  "baseVol": 1,
+  "music": [
+   "einaudi_n",
+   0,
+   0.07
+  ],
+  "punch": true,
+  "whooshVol": 0.2,
+  "cuts": [
+   4.2,
+   6.65,
+   19.87,
+   30.12,
+   36.82,
+   46.29
+  ],
+  "freezes": [
+   {
+    "a": 3.6,
+    "b": 4.2,
+    "z": 1.1,
+    "flash": true
+   },
+   {
+    "a": 53.438,
+    "b": 99,
+    "z": 1.08,
+    "flash": true
+   }
+  ],
+  "texts": [
+   {
+    "from": 0,
+    "to": 4.2,
+    "lines": [
+     "he owns 10 MORE of these\u2026",
+     "and they make him SICK"
+    ],
+    "y": 210,
+    "size": 56,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f922",
+    "hl": [
+     "SICK"
+    ]
+   },
+   {
+    "from": 3.6,
+    "to": 4.2,
+    "lines": [
+     "HOW IT STARTED"
+    ],
+    "y": 1300,
+    "size": 96,
+    "box": false,
+    "rot": -3,
+    "emoji": "23ea"
+   },
+   {
+    "from": 4.2,
+    "to": 6.65,
+    "lines": [
+     "CARDS I WILL NEVER",
+     "PROFIT ON"
+    ],
+    "y": 560,
+    "size": 60,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f4b8",
+    "hl": [
+     "NEVER"
+    ]
+   },
+   {
+    "from": 6.65,
+    "to": 19.87,
+    "lines": [
+     "bought for $15,000",
+     "offered 30K\u2026 then:"
+    ],
+    "y": 210,
+    "size": 54,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f62c",
+    "hl": [
+     "30K\u2026"
+    ]
+   },
+   {
+    "from": 19.87,
+    "to": 30.12,
+    "lines": [
+     "bought the hype year"
+    ],
+    "y": 210,
+    "size": 56,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f4c9"
+   },
+   {
+    "from": 30.12,
+    "to": 36.82,
+    "lines": [
+     "$6,000 \u2192 $1,500"
+    ],
+    "y": 210,
+    "size": 60,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f62d",
+    "hl": [
+     "$1,500"
+    ]
+   },
+   {
+    "from": 36.82,
+    "to": 46.29,
+    "lines": [
+     "he didn't buy ONE\u2026"
+    ],
+    "y": 210,
+    "size": 58,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f480",
+    "hl": [
+     "ONE\u2026"
+    ]
+   },
+   {
+    "from": 46.29,
+    "to": 99,
+    "lines": [
+     "\"I haven't lost",
+     "if I haven't sold\""
+    ],
+    "y": 210,
+    "size": 56,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f9e0"
+   },
+   {
+    "from": 53.438,
+    "to": 99,
+    "lines": [
+     "COPE OR FACTS?"
+    ],
+    "y": 1300,
+    "size": 100,
+    "box": false,
+    "rot": -4,
+    "emoji": "1f914"
+   }
+  ],
+  "words": [
+   {
+    "w": "TREY LANCE",
+    "s": 0.04,
+    "hl": false
+   },
+   {
+    "w": "AND I GOT",
+    "s": 0.72,
+    "hl": false
+   },
+   {
+    "w": "ANOTHER 10",
+    "s": 0.98,
+    "hl": true
+   },
+   {
+    "w": "I'M NOT EVEN",
+    "s": 1.72,
+    "hl": false
+   },
+   {
+    "w": "SHOWING YOU CAUSE",
+    "s": 2.08,
+    "hl": false
+   },
+   {
+    "w": "IT MAKES ME",
+    "s": 2.8,
+    "hl": false
+   },
+   {
+    "w": "SICK",
+    "s": 3.46,
+    "hl": true,
+    "e": 3.6
+   },
+   {
+    "w": "CARDS THAT I",
+    "s": 4.2,
+    "hl": false
+   },
+   {
+    "w": "WILL NEVER PROFIT",
+    "s": 5.46,
+    "hl": true
+   },
+   {
+    "w": "ON",
+    "s": 6.26,
+    "hl": false,
+    "e": 6.65
+   },
+   {
+    "w": "MAYBE MY WORST",
+    "s": 6.67,
+    "hl": true
+   },
+   {
+    "w": "PURCHASE OF ALL",
+    "s": 7.47,
+    "hl": false
+   },
+   {
+    "w": "TIME",
+    "s": 8.15,
+    "hl": false
+   },
+   {
+    "w": "BUT IT WAS",
+    "s": 8.51,
+    "hl": false
+   },
+   {
+    "w": "THERE",
+    "s": 9.07,
+    "hl": false
+   },
+   {
+    "w": "TREY LANCE",
+    "s": 9.79,
+    "hl": false
+   },
+   {
+    "w": "I THINK I",
+    "s": 10.23,
+    "hl": false
+   },
+   {
+    "w": "BOUGHT THIS FOR",
+    "s": 10.45,
+    "hl": false
+   },
+   {
+    "w": "$15,000",
+    "s": 11.09,
+    "hl": false
+   },
+   {
+    "w": "I DID CONFIRM",
+    "s": 12.73,
+    "hl": false
+   },
+   {
+    "w": "TO HAVE AN",
+    "s": 13.97,
+    "hl": false
+   },
+   {
+    "w": "OFFER ON THIS",
+    "s": 14.41,
+    "hl": false
+   },
+   {
+    "w": "FOR 30K PLUS",
+    "s": 15.59,
+    "hl": true
+   },
+   {
+    "w": "A MONTH LATER",
+    "s": 16.69,
+    "hl": false
+   },
+   {
+    "w": "AND THEN HE",
+    "s": 18.51,
+    "hl": false
+   },
+   {
+    "w": "SNAPPED HIS ANKLE",
+    "s": 18.81,
+    "hl": true,
+    "e": 19.87
+   },
+   {
+    "w": "TANK BIGSBY 101",
+    "s": 19.91,
+    "hl": false
+   },
+   {
+    "w": "BLACK SHIMMER",
+    "s": 21.17,
+    "hl": false
+   },
+   {
+    "w": "HE WAS ON",
+    "s": 22.35,
+    "hl": false
+   },
+   {
+    "w": "THE JAGS",
+    "s": 23.03,
+    "hl": false
+   },
+   {
+    "w": "HE HAD A",
+    "s": 23.61,
+    "hl": false
+   },
+   {
+    "w": "GREAT YEAR",
+    "s": 23.81,
+    "hl": false
+   },
+   {
+    "w": "I BOUGHT IT",
+    "s": 24.35,
+    "hl": false
+   },
+   {
+    "w": "AND GUESS WHAT?",
+    "s": 25.49,
+    "hl": false
+   },
+   {
+    "w": "NOW HE CAN'T",
+    "s": 26.61,
+    "hl": false
+   },
+   {
+    "w": "EVEN CATCH A",
+    "s": 27.15,
+    "hl": false
+   },
+   {
+    "w": "KICKOFF FOR THE",
+    "s": 27.73,
+    "hl": true
+   },
+   {
+    "w": "EAGLES",
+    "s": 28.57,
+    "hl": true
+   },
+   {
+    "w": "HE'S DONE FOR",
+    "s": 29.17,
+    "hl": true
+   },
+   {
+    "w": "IT",
+    "s": 29.97,
+    "hl": false,
+    "e": 30.12
+   },
+   {
+    "w": "I BOUGHT THIS",
+    "s": 30.2,
+    "hl": false
+   },
+   {
+    "w": "ON RELEASE DATE",
+    "s": 30.76,
+    "hl": false
+   },
+   {
+    "w": "FOR LIKE 6K",
+    "s": 31.38,
+    "hl": true
+   },
+   {
+    "w": "RAW",
+    "s": 32.16,
+    "hl": false
+   },
+   {
+    "w": "AND THEN THE",
+    "s": 32.98,
+    "hl": false
+   },
+   {
+    "w": "CARD DOES 1500",
+    "s": 33.32,
+    "hl": true
+   },
+   {
+    "w": "TODAY",
+    "s": 34.06,
+    "hl": false
+   },
+   {
+    "w": "BUT I'M HOLDING",
+    "s": 34.62,
+    "hl": false
+   },
+   {
+    "w": "WE HAVEN'T TRULY",
+    "s": 35.74,
+    "hl": false
+   },
+   {
+    "w": "LOST YET",
+    "s": 36.28,
+    "hl": true,
+    "e": 36.82
+   },
+   {
+    "w": "AND THEN HERE",
+    "s": 36.84,
+    "hl": false
+   },
+   {
+    "w": "IT IS",
+    "s": 37.34,
+    "hl": false
+   },
+   {
+    "w": "AND THERE WASN'T",
+    "s": 37.84,
+    "hl": false
+   },
+   {
+    "w": "ONLY ONE TREY",
+    "s": 38.56,
+    "hl": false
+   },
+   {
+    "w": "LANCE",
+    "s": 39.22,
+    "hl": false
+   },
+   {
+    "w": "WHEN WE GO",
+    "s": 39.52,
+    "hl": false
+   },
+   {
+    "w": "BIG",
+    "s": 39.94,
+    "hl": true
+   },
+   {
+    "w": "WE GO REALLY",
+    "s": 40.76,
+    "hl": false
+   },
+   {
+    "w": "BIG",
+    "s": 41.46,
+    "hl": true
+   },
+   {
+    "w": "TREY LANCE",
+    "s": 42.68,
+    "hl": false
+   },
+   {
+    "w": "AND I GOT",
+    "s": 43.36,
+    "hl": false
+   },
+   {
+    "w": "ANOTHER 10",
+    "s": 43.62,
+    "hl": true
+   },
+   {
+    "w": "I'M NOT EVEN",
+    "s": 44.36,
+    "hl": false
+   },
+   {
+    "w": "SHOWING YOU CAUSE",
+    "s": 44.72,
+    "hl": false
+   },
+   {
+    "w": "IT MAKES ME",
+    "s": 45.44,
+    "hl": false
+   },
+   {
+    "w": "SICK",
+    "s": 46.1,
+    "hl": true,
+    "e": 46.29
+   },
+   {
+    "w": "THESE ARE CARDS",
+    "s": 46.33,
+    "hl": false
+   },
+   {
+    "w": "I DON'T THINK",
+    "s": 46.83,
+    "hl": false
+   },
+   {
+    "w": "I CAN EVER",
+    "s": 47.27,
+    "hl": false
+   },
+   {
+    "w": "SELL BECAUSE GUESS",
+    "s": 47.73,
+    "hl": false
+   },
+   {
+    "w": "WHAT?",
+    "s": 49.33,
+    "hl": false
+   },
+   {
+    "w": "I HAVEN'T REALLY",
+    "s": 50.33,
+    "hl": false
+   },
+   {
+    "w": "LOST BECAUSE I",
+    "s": 51.13,
+    "hl": true
+   },
+   {
+    "w": "HAVEN'T SOLD",
+    "s": 52.83,
+    "hl": true,
+    "e": 53.34
+   }
+  ],
+  "sfx": [
+   [
+    "s_huh",
+    1.2,
+    0.3
+   ],
+   [
+    "m_rewind",
+    3.6,
+    0.3,
+    0.6
+   ],
+   [
+    "m_cha-ching",
+    11.07,
+    0.3
+   ],
+   [
+    "s_money",
+    15.87,
+    0.3
+   ],
+   [
+    "m_record-scratch",
+    18.77,
+    0.3
+   ],
+   [
+    "s_fahhh",
+    19.17,
+    0.3
+   ],
+   [
+    "m_oh-hell-nah",
+    26.67,
+    0.3
+   ],
+   [
+    "s_awk",
+    33.62,
+    0.25
+   ],
+   [
+    "m_anime-wow",
+    39.84,
+    0.25
+   ],
+   [
+    "s_huh",
+    44.74,
+    0.3
+   ],
+   [
+    "m_record-scratch",
+    53.438,
+    0.25
+   ]
+  ]
  }
 }

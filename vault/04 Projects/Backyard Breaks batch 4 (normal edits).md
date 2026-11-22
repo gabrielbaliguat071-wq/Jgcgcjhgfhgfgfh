@@ -23,3 +23,8 @@ More Trevor = new rows on the sheet (team adds clips after streams) — re-expor
 
 ## Trevor stream, fresh moments (2026-11-20): plan_tv7.py (VverPaldo) — tvleft (t3 0–56: "best QB I've ever seen" + rolls LEFT), tvfields (nt_rip 94–134: Justin Fields RPA \$20K→\$200–500), tvsweat (nt_rip 14–60: Grant teaches Trevor to sweat a card).
 Still unused in sources: nt_rip 0–14 (Jaguar-face patch value), nt_rip 134–141 (redemptions), t4 0–8 (bought for 10, now 20), t4 71–83 (1/1 Clemson vs NFL value).
+
+## bbnever (2026-11-22): user sent YT short dNJZz88Y_Dk ("THESE SPORTS CARDS COULD BUY HIM A HOUSE", BACKYARDBREAKS team) — YouTube blocked (bot check), so used the closest
+sheet row: TikTok 7561161222456954142 "Some cards that grant will NEVER sell because he held too long" (same Grant, same set). `viral-short/build_never.py` → YLM-bbnever (54.4 s):
+crop 788x1400 from top (drops their burned captions at y≈0.77), white band over their intro title, hook "another 10… makes me sick" → how it started → Trey Lance $15K/30K offer/ankle → Tank Bigsby → Jalen Green $6K→$1.5K → 10 more Lances → "haven't lost if I haven't sold" → COPE OR FACTS?
+Gotcha: hook + later span reuse the same source time → caption times must come from the span offset, not a source→timeline lookup.
