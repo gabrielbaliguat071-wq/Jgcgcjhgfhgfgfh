@@ -2823,5 +2823,458 @@
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "src": "g67_tvsweat.mp4"
+ },
+ "tvtells": {
+  "top": "How an NFL QB knows who's open BEFORE the snap",
+  "hl": {
+   "BEFORE": "#58EE28"
+  },
+  "cta": "*could you read this?*",
+  "music": [
+   "phonk_n",
+   22.4
+  ],
+  "ctaAt": [
+   "c4",
+   "huddle"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "wide"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "coverage"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "immediately"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c4",
+     "seam"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c4",
+    "seam"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "wide"
+   ],
+   [
+    "hook",
+    "open"
+   ],
+   [
+    "c1",
+    "coverages"
+   ],
+   [
+    "c1",
+    "tells"
+   ],
+   [
+    "c3",
+    "motion"
+   ],
+   [
+    "c3",
+    "formation"
+   ],
+   [
+    "c3",
+    "show"
+   ],
+   [
+    "c3",
+    "immediately"
+   ],
+   [
+    "c4",
+    "right"
+   ],
+   [
+    "c4",
+    "cover"
+   ],
+   [
+    "c4",
+    "seam"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c3",
+    "immediately"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c3"
+   ]
+  ],
+  "streaks": [
+   [
+    "c4"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "open"
+    ],
+    "kind": "png",
+    "file": "e_think.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "immediately"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c4",
+     "seam"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c4",
+     "seam"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.3
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvtells.mp4"
+ },
+ "tvpen": {
+  "top": "Peyton Manning CALLED him about his autograph",
+  "hl": {
+   "CALLED": "#58EE28"
+  },
+  "cta": "*is your signature goated?*",
+  "music": [
+   "blue_n",
+   21.5
+  ],
+  "ctaAt": [
+   "c2",
+   "mentioned"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "big"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "goated"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "peyton"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "goated"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "big"
+   ],
+   [
+    "hook",
+    "nice"
+   ],
+   [
+    "hook",
+    "signature"
+   ],
+   [
+    "c1",
+    "consistent"
+   ],
+   [
+    "c1",
+    "beautiful"
+   ],
+   [
+    "c1",
+    "goated"
+   ],
+   [
+    "c2",
+    "told"
+   ],
+   [
+    "c2",
+    "peyton"
+   ],
+   [
+    "c2",
+    "manning"
+   ],
+   [
+    "c2",
+    "called"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "peyton"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "every"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "goated"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "peyton"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "hook",
+     "signature"
+    ],
+    "kind": "png",
+    "file": "e_heart.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvpen.mp4"
+ },
+ "tvworth": {
+  "top": "Why his COLLEGE 1 of 1 is worth way LESS",
+  "hl": {
+   "COLLEGE": "#58EE28",
+   "LESS": "#F40305"
+  },
+  "cta": "*would you rather have which?*",
+  "music": [
+   "funkabn_n",
+   33.2
+  ],
+  "ctaAt": [
+   "c2",
+   "hobby"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "$2"
+    ],
+    "R"
+   ],
+   [
+    [
+     "hook",
+     "million"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "20"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "million"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "$2"
+   ],
+   [
+    "hook",
+    "potentially"
+   ],
+   [
+    "hook",
+    "million"
+   ],
+   [
+    "c1",
+    "unbelievable"
+   ],
+   [
+    "c1",
+    "10"
+   ],
+   [
+    "c1",
+    "20"
+   ],
+   [
+    "c1",
+    "works"
+   ],
+   [
+    "c2",
+    "hobby"
+   ],
+   [
+    "c2",
+    "nfl"
+   ],
+   [
+    "c2",
+    "clemson"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "million"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "works"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "million"
+    ],
+    "kind": "sfx",
+    "file": "s_money.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "hook",
+     "million"
+    ],
+    "kind": "ov",
+    "file": "cashfall.mp4",
+    "dur": 45
+   },
+   {
+    "at": [
+     "hook",
+     "wow"
+    ],
+    "kind": "png",
+    "file": "e_think.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "20"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.3
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvworth.mp4"
  }
 }

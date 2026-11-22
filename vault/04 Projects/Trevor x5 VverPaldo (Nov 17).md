@@ -38,3 +38,12 @@ comps `Guess-tvjosh|tvgolf|tvslab|tvpeyton|tvplays`, outputs `viral-short/out/fi
 | tvartist | golf (58–78 s) | "Oh I love Chris (Stapleton)" → favorite artist → shout out mom and dad in the chat | Blue | 17.2 s |
 | tvkeepsake | ticket (40–71 s) | "I don't have the ticket for the national championship" → signed a ton for fans, kept a couple game-worn in his closet | Montagem | 25.2 s |
 Framing: Trevor crops need centre y ≈ 510–520 (face high, captions on chest). NT rip seat: Trevor x 980.
+
+## Batch tv8 (2026-11-22): 3 more, fresh moments — `viral-short/plan_tv8.py` → `src/yv.cfg.json`, render `.work/render_tv8.sh`
+| id | source | hook → story | song | len |
+|---|---|---|---|---|
+| tvtells | u6_coen 66–109 (unused part) | "it looks like oh that guy's wide open" → coverage tells → motion/formation shows the coverage → "it's cover 3, I got the seam" | AURA phonk | 28.8 s |
+| tvpen | t1 20–40 | "it's a big deal to have a nice signature" → "goated pen" → "you know who told me that? Peyton Manning called me" (loops) | Blue | 18.6 s |
+| tvworth | t4 0–7 + 70–82 | "1-of-1 Clemson ~$2,000 vs $500 to a million" → bought for 10, hold it → 20 → 1-of-1 NFL vs Clemson | Funk Abnormal | 17.9 s |
+Notes: tight Trevor crop y 465 at 1.8× (hat no longer clipped); left host crop (470, 1.5, 415). Disk filled during render (ERR_BLOB_OUT_OF_MEMORY) → free space first.
+Remaining unused Trevor material is thin now: t3 98–114 ("we need more Jax fans"), nt_rip 75–94 (Rod Woodson redemption), u3 redemption (used twice).
