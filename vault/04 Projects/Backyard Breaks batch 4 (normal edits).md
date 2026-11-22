@@ -28,3 +28,8 @@ Still unused in sources: nt_rip 0–14 (Jaguar-face patch value), nt_rip 134–1
 sheet row: TikTok 7561161222456954142 "Some cards that grant will NEVER sell because he held too long" (same Grant, same set). `viral-short/build_never.py` → YLM-bbnever (54.4 s):
 crop 788x1400 from top (drops their burned captions at y≈0.77), white band over their intro title, hook "another 10… makes me sick" → how it started → Trey Lance $15K/30K offer/ankle → Tank Bigsby → Jalen Green $6K→$1.5K → 10 more Lances → "haven't lost if I haven't sold" → COPE OR FACTS?
 Gotcha: hook + later span reuse the same source time → caption times must come from the span offset, not a source→timeline lookup.
+
+## TikTok re-edits (2026-11-22): user rejected tracker picks (Mahomes red /5, Ohtani booklet, Jeter+Judge) → "use the tiktok ones" = @backyardbreaks TikTok.
+`viral-short/build_tt.py <id>` → YLM-tt<id>: brady (True Orange /25, 38 s, white band over their stream title), grail (Cam Little superfractor 1/1, 49 s), psa (Veterans Day PSA return, 45 s; source is 720x1280 → scaled).
+Their burned captions are blurred in a band and our captions sit on top. No prices (not in tracker). Captions need: @backyardbreaks #BackyardBreaks #BBPulls #Whatnot.
+Also: tvnapkin/tvsign lengthened to ≥15 s (ClipHouse minimum).

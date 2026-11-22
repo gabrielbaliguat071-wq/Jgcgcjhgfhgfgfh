@@ -3333,5 +3333,920 @@
     0.25
    ]
   ]
+ },
+ "ttbrady": {
+  "base": "ylm/ttbrady.mp4",
+  "dur": 38.09,
+  "baseVol": 1,
+  "music": [
+   "phonk_n",
+   22.4,
+   0.07
+  ],
+  "punch": true,
+  "whooshVol": 0.2,
+  "cuts": [
+   5.8,
+   32.4
+  ],
+  "wordsY": 1460,
+  "wordSize": 80,
+  "freezes": [
+   {
+    "a": 5.2,
+    "b": 5.8,
+    "z": 1.1,
+    "flash": true
+   },
+   {
+    "a": 37.09,
+    "b": 99,
+    "z": 1.08,
+    "flash": true
+   }
+  ],
+  "texts": [
+   {
+    "from": 0,
+    "to": 5.8,
+    "lines": [
+     "he KNEW what was coming\u2026"
+    ],
+    "y": 585,
+    "size": 56,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f631",
+    "hl": [
+     "KNEW"
+    ]
+   },
+   {
+    "from": 5.2,
+    "to": 5.8,
+    "lines": [
+     "HOW IT STARTED"
+    ],
+    "y": 1000,
+    "size": 96,
+    "box": false,
+    "rot": -3,
+    "emoji": "23ea"
+   },
+   {
+    "from": 5.8,
+    "to": 25.3,
+    "lines": [
+     "\"DON'T YOU DARE\u2026\"",
+     "WAIT FOR THE TEAM"
+    ],
+    "y": 585,
+    "size": 56,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f440",
+    "hl": [
+     "TEAM"
+    ]
+   },
+   {
+    "from": 25.3,
+    "to": 99,
+    "lines": [
+     "TOM BRADY",
+     "TRUE ORANGE AUTO /25"
+    ],
+    "y": 585,
+    "size": 56,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f525",
+    "hl": [
+     "ORANGE"
+    ]
+   },
+   {
+    "from": 37.09,
+    "to": 99,
+    "lines": [
+     "GREATEST BREAK EVER?"
+    ],
+    "y": 1000,
+    "size": 96,
+    "box": false,
+    "rot": -4,
+    "emoji": "1f914"
+   }
+  ],
+  "words": [
+   {
+    "w": "NO",
+    "s": 0.16,
+    "hl": true
+   },
+   {
+    "w": "NO",
+    "s": 0.98,
+    "hl": true
+   },
+   {
+    "w": "NO",
+    "s": 1.52,
+    "hl": true
+   },
+   {
+    "w": "NO",
+    "s": 1.68,
+    "hl": true
+   },
+   {
+    "w": "NO",
+    "s": 1.74,
+    "hl": true
+   },
+   {
+    "w": "NO WAY",
+    "s": 2.12,
+    "hl": true
+   },
+   {
+    "w": "OH MY GOD",
+    "s": 4.28,
+    "hl": false,
+    "e": 5.2
+   },
+   {
+    "w": "PATRIOTS",
+    "s": 5.919,
+    "hl": true
+   },
+   {
+    "w": "DON'T YOU DARE",
+    "s": 7.06,
+    "hl": true
+   },
+   {
+    "w": "THAT'S WHERE IT",
+    "s": 8.42,
+    "hl": false
+   },
+   {
+    "w": "WOULD BE",
+    "s": 9.22,
+    "hl": false
+   },
+   {
+    "w": "THAT'S WHERE IT",
+    "s": 9.46,
+    "hl": false
+   },
+   {
+    "w": "WOULD BE",
+    "s": 10.2,
+    "hl": false
+   },
+   {
+    "w": "DON'T YOU DARE",
+    "s": 11.1,
+    "hl": true
+   },
+   {
+    "w": "OH MY GOD",
+    "s": 13.519,
+    "hl": false
+   },
+   {
+    "w": "OH MY GOD",
+    "s": 16.02,
+    "hl": false
+   },
+   {
+    "w": "NO",
+    "s": 18.96,
+    "hl": true
+   },
+   {
+    "w": "NO",
+    "s": 19.78,
+    "hl": true
+   },
+   {
+    "w": "NO",
+    "s": 20.32,
+    "hl": true
+   },
+   {
+    "w": "NO",
+    "s": 20.48,
+    "hl": true
+   },
+   {
+    "w": "NO",
+    "s": 20.54,
+    "hl": true
+   },
+   {
+    "w": "NO WAY",
+    "s": 20.92,
+    "hl": true
+   },
+   {
+    "w": "OH MY GOD",
+    "s": 23.08,
+    "hl": false
+   },
+   {
+    "w": "TOM BRADY TRUE",
+    "s": 25.4,
+    "hl": true
+   },
+   {
+    "w": "ORANGE",
+    "s": 26.52,
+    "hl": true,
+    "e": 32.4
+   },
+   {
+    "w": "HOLY MOLY",
+    "s": 32.38,
+    "hl": true
+   },
+   {
+    "w": "SAME ONE",
+    "s": 34.86,
+    "hl": true
+   },
+   {
+    "w": "SAME ONE",
+    "s": 35.52,
+    "hl": true
+   },
+   {
+    "w": "SAME ONE",
+    "s": 35.88,
+    "hl": true
+   },
+   {
+    "w": "SAME ONE",
+    "s": 36.62,
+    "hl": true,
+    "e": 37.3
+   }
+  ],
+  "sfx": [
+   [
+    "m_rewind",
+    5.2,
+    0.3,
+    0.6
+   ],
+   [
+    "m_record-scratch",
+    37.09,
+    0.22
+   ],
+   [
+    "s_huh",
+    5.9,
+    0.3
+   ],
+   [
+    "m_crowd-cheer",
+    19.8,
+    0.25
+   ],
+   [
+    "m_anime-wow",
+    25.4,
+    0.3
+   ],
+   [
+    "s_wow",
+    33.7,
+    0.3
+   ]
+  ]
+ },
+ "ttgrail": {
+  "base": "ylm/ttgrail.mp4",
+  "dur": 49.221,
+  "baseVol": 1,
+  "music": [
+   "empire_n",
+   18.8,
+   0.07
+  ],
+  "punch": true,
+  "whooshVol": 0.2,
+  "cuts": [
+   4.9,
+   9.0
+  ],
+  "wordsY": 1190,
+  "wordSize": 80,
+  "freezes": [
+   {
+    "a": 4.3,
+    "b": 4.9,
+    "z": 1.1,
+    "flash": true
+   },
+   {
+    "a": 48.221,
+    "b": 99,
+    "z": 1.08,
+    "flash": true
+   }
+  ],
+  "texts": [
+   {
+    "from": 0,
+    "to": 4.9,
+    "lines": [
+     "his ALL-TIME",
+     "favorite purchase\u2026"
+    ],
+    "y": 210,
+    "size": 56,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f48e",
+    "hl": [
+     "ALL-TIME"
+    ]
+   },
+   {
+    "from": 4.3,
+    "to": 4.9,
+    "lines": [
+     "HOW IT STARTED"
+    ],
+    "y": 1000,
+    "size": 96,
+    "box": false,
+    "rot": -3,
+    "emoji": "23ea"
+   },
+   {
+    "from": 4.9,
+    "to": 21.8,
+    "lines": [
+     "the GOAT of his position",
+     "is NOT who you think"
+    ],
+    "y": 210,
+    "size": 56,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f914",
+    "hl": [
+     "NOT"
+    ]
+   },
+   {
+    "from": 21.8,
+    "to": 99,
+    "lines": [
+     "CAM LITTLE",
+     "SUPERFRACTOR 1/1"
+    ],
+    "y": 210,
+    "size": 56,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f410",
+    "hl": [
+     "SUPERFRACTOR"
+    ]
+   },
+   {
+    "from": 48.221,
+    "to": 99,
+    "lines": [
+     "GOAT KICKER?"
+    ],
+    "y": 1000,
+    "size": 96,
+    "box": false,
+    "rot": -4,
+    "emoji": "1f914"
+   }
+  ],
+  "words": [
+   {
+    "w": "CAM LITTLE SUPERFRACTOR",
+    "s": 0.08,
+    "hl": true,
+    "e": 4.3
+   },
+   {
+    "w": "ONE OF MY",
+    "s": 4.9,
+    "hl": false
+   },
+   {
+    "w": "FAVORITE PURCHASES IN",
+    "s": 5.6,
+    "hl": true
+   },
+   {
+    "w": "THE HISTORY OF",
+    "s": 6.78,
+    "hl": false
+   },
+   {
+    "w": "MY LIFE",
+    "s": 7.34,
+    "hl": false,
+    "e": 9.0
+   },
+   {
+    "w": "HE'S THE GREATEST",
+    "s": 9.06,
+    "hl": true
+   },
+   {
+    "w": "AT HIS POSITION",
+    "s": 10.18,
+    "hl": false
+   },
+   {
+    "w": "OF ALL TIME",
+    "s": 11.1,
+    "hl": false
+   },
+   {
+    "w": "ALREADY YOU MIGHT",
+    "s": 12.36,
+    "hl": false
+   },
+   {
+    "w": "BE THINKING ONE",
+    "s": 14.5,
+    "hl": false
+   },
+   {
+    "w": "NAME YOU'RE WRONG",
+    "s": 15.16,
+    "hl": true
+   },
+   {
+    "w": "IT'S ANOTHER NAME",
+    "s": 17.0,
+    "hl": false
+   },
+   {
+    "w": "IT'S CL AND",
+    "s": 19.8,
+    "hl": true
+   },
+   {
+    "w": "I'M NOT TALKING",
+    "s": 21.38,
+    "hl": false
+   },
+   {
+    "w": "CARD LADDER OH",
+    "s": 21.98,
+    "hl": false
+   },
+   {
+    "w": "LOOK AT THIS",
+    "s": 26.4,
+    "hl": false
+   },
+   {
+    "w": "CAM LITTLE SUPERFRACTOR",
+    "s": 29.08,
+    "hl": true
+   },
+   {
+    "w": "RECORD BREAKER THE",
+    "s": 33.36,
+    "hl": true
+   },
+   {
+    "w": "GREATEST KICK IN",
+    "s": 35.54,
+    "hl": true
+   },
+   {
+    "w": "NFL HISTORY SUPER",
+    "s": 37.92,
+    "hl": false
+   },
+   {
+    "w": "FACTOR",
+    "s": 39.5,
+    "hl": false
+   },
+   {
+    "w": "CAM LITTLE IS",
+    "s": 40.24,
+    "hl": true
+   },
+   {
+    "w": "THE GOAT",
+    "s": 41.36,
+    "hl": true
+   },
+   {
+    "w": "DON'T FORGET IT",
+    "s": 41.94,
+    "hl": false
+   },
+   {
+    "w": "AND AT THE",
+    "s": 43.24,
+    "hl": false
+   },
+   {
+    "w": "END OF THIS",
+    "s": 43.78,
+    "hl": false
+   },
+   {
+    "w": "YEAR CAM'S GOING",
+    "s": 44.22,
+    "hl": false
+   },
+   {
+    "w": "TO HAVE A",
+    "s": 46.04,
+    "hl": false
+   },
+   {
+    "w": "RING AND I",
+    "s": 46.46,
+    "hl": true
+   },
+   {
+    "w": "AIN'T TALKING PINKY",
+    "s": 47.22,
+    "hl": false,
+    "e": 48.2
+   }
+  ],
+  "sfx": [
+   [
+    "m_rewind",
+    4.3,
+    0.3,
+    0.6
+   ],
+   [
+    "m_record-scratch",
+    48.221,
+    0.22
+   ],
+   [
+    "s_huh",
+    16.1,
+    0.3
+   ],
+   [
+    "m_anime-wow",
+    29.1,
+    0.3
+   ],
+   [
+    "s_ding",
+    31.8,
+    0.3
+   ],
+   [
+    "m_crowd-cheer",
+    41.3,
+    0.22
+   ]
+  ]
+ },
+ "ttpsa": {
+  "base": "ylm/ttpsa.mp4",
+  "dur": 45.021,
+  "baseVol": 1,
+  "music": [
+   "funkabn_n",
+   33.2,
+   0.07
+  ],
+  "punch": true,
+  "whooshVol": 0.2,
+  "cuts": [
+   5.4,
+   10.4,
+   26.8,
+   37.8
+  ],
+  "wordsY": 1270,
+  "wordSize": 80,
+  "freezes": [
+   {
+    "a": 4.8,
+    "b": 5.4,
+    "z": 1.1,
+    "flash": true
+   },
+   {
+    "a": 44.021,
+    "b": 99,
+    "z": 1.08,
+    "flash": true
+   }
+  ],
+  "texts": [
+   {
+    "from": 0,
+    "to": 5.4,
+    "lines": [
+     "the PSA return",
+     "nobody expected\u2026"
+    ],
+    "y": 210,
+    "size": 56,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f92f",
+    "hl": [
+     "nobody"
+    ]
+   },
+   {
+    "from": 4.8,
+    "to": 5.4,
+    "lines": [
+     "HOW IT STARTED"
+    ],
+    "y": 1000,
+    "size": 96,
+    "box": false,
+    "rot": -3,
+    "emoji": "23ea"
+   },
+   {
+    "from": 5.4,
+    "to": 99,
+    "lines": [
+     "PSA GRADING RETURN",
+     "W OR L?"
+    ],
+    "y": 210,
+    "size": 56,
+    "box": true,
+    "rot": 0,
+    "emoji": "1f4af",
+    "hl": [
+     "W",
+     "L?"
+    ]
+   },
+   {
+    "from": 44.021,
+    "to": 99,
+    "lines": [
+     "W OR L?"
+    ],
+    "y": 1000,
+    "size": 96,
+    "box": false,
+    "rot": -4,
+    "emoji": "1f914"
+   }
+  ],
+  "words": [
+   {
+    "w": "AND THEN LOOK",
+    "s": -0.02,
+    "hl": false
+   },
+   {
+    "w": "AT THIS",
+    "s": 0.72,
+    "hl": false
+   },
+   {
+    "w": "OH MY GOD",
+    "s": 1.3,
+    "hl": false
+   },
+   {
+    "w": "WHAT A RETURN",
+    "s": 1.66,
+    "hl": false
+   },
+   {
+    "w": "SPIDER-MAN GREEN SAPPHIRE",
+    "s": 2.26,
+    "hl": true
+   },
+   {
+    "w": "GEM",
+    "s": 4.18,
+    "hl": true,
+    "e": 4.8
+   },
+   {
+    "w": "PSA RETURN ON",
+    "s": 5.4,
+    "hl": false
+   },
+   {
+    "w": "VETERANS DAY",
+    "s": 6.78,
+    "hl": false
+   },
+   {
+    "w": "THESE ARE GRANDIOSE",
+    "s": 7.52,
+    "hl": false
+   },
+   {
+    "w": "OH MY GOD",
+    "s": 8.38,
+    "hl": false
+   },
+   {
+    "w": "IT'S A BIG",
+    "s": 9.04,
+    "hl": true
+   },
+   {
+    "w": "RETURN",
+    "s": 9.58,
+    "hl": false,
+    "e": 10.4
+   },
+   {
+    "w": "HOLY SMOKES LOOK",
+    "s": 10.379,
+    "hl": false
+   },
+   {
+    "w": "AT THIS LOOK",
+    "s": 12.38,
+    "hl": false
+   },
+   {
+    "w": "AT THIS COOPER",
+    "s": 13.54,
+    "hl": false
+   },
+   {
+    "w": "FLAGG GOLD SAPPHIRE",
+    "s": 14.86,
+    "hl": true
+   },
+   {
+    "w": "PSA 9 RAY",
+    "s": 16.44,
+    "hl": true
+   },
+   {
+    "w": "ALLEN SUPERFRACTOR MOMENTS",
+    "s": 18.76,
+    "hl": true
+   },
+   {
+    "w": "IN TIME",
+    "s": 21.02,
+    "hl": false
+   },
+   {
+    "w": "OH NASTY VICTOR",
+    "s": 22.1,
+    "hl": true
+   },
+   {
+    "w": "WEMBANYAMA GOLD JERSEY",
+    "s": 24.18,
+    "hl": false
+   },
+   {
+    "w": "MATCH MVP",
+    "s": 25.98,
+    "hl": true,
+    "e": 26.8
+   },
+   {
+    "w": "KEVIN DURANT LOOK",
+    "s": 26.84,
+    "hl": false
+   },
+   {
+    "w": "HOW SICK THAT",
+    "s": 28.66,
+    "hl": false
+   },
+   {
+    "w": "CARD IS THOUGH",
+    "s": 29.22,
+    "hl": false
+   },
+   {
+    "w": "THAT'S TOUGH AND",
+    "s": 29.86,
+    "hl": true
+   },
+   {
+    "w": "THEN LOOK AT",
+    "s": 31.06,
+    "hl": false
+   },
+   {
+    "w": "THIS",
+    "s": 31.46,
+    "hl": false
+   },
+   {
+    "w": "OH MY GOD",
+    "s": 31.9,
+    "hl": false
+   },
+   {
+    "w": "WHAT A RETURN",
+    "s": 32.26,
+    "hl": false
+   },
+   {
+    "w": "SPIDER-MAN GREEN SAPPHIRE",
+    "s": 32.86,
+    "hl": true
+   },
+   {
+    "w": "GEM IRON FIST",
+    "s": 34.78,
+    "hl": true
+   },
+   {
+    "w": "PAPA GEM",
+    "s": 36.88,
+    "hl": true,
+    "e": 37.8
+   },
+   {
+    "w": "SHAQ AUTO TATUM",
+    "s": 37.76,
+    "hl": true
+   },
+   {
+    "w": "ORANGE GEO GEM",
+    "s": 40.48,
+    "hl": true
+   },
+   {
+    "w": "STOP IT",
+    "s": 42.92,
+    "hl": true
+   },
+   {
+    "w": "MAN",
+    "s": 43.74,
+    "hl": false,
+    "e": 44.0
+   }
+  ],
+  "sfx": [
+   [
+    "m_rewind",
+    4.8,
+    0.3,
+    0.6
+   ],
+   [
+    "m_record-scratch",
+    44.021,
+    0.22
+   ],
+   [
+    "s_wow",
+    8.8,
+    0.25
+   ],
+   [
+    "s_awk",
+    17.1,
+    0.25
+   ],
+   [
+    "s_ding",
+    19.2,
+    0.25
+   ],
+   [
+    "m_anime-wow",
+    32.9,
+    0.3
+   ],
+   [
+    "m_cha-ching",
+    34.8,
+    0.25
+   ],
+   [
+    "m_crowd-cheer",
+    42.9,
+    0.22
+   ]
+  ]
  }
 }

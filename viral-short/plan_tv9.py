@@ -17,15 +17,16 @@ EDITS = {
      ('c1', 30.62, 43.20, [(30.62, T), (34.2, TT), (39.0, W)]),
      ('c2', 43.90, 53.80, [(43.90, T), (47.8, TT), (51.0, T)]),
      ('c3', 58.98, 66.30, [(58.98, W), (62.3, TT)])]),
- 'tvnapkin': ('nt_rip', (0, 15), {'jaguar\'s': "Jaguar's"}, [
+ 'tvnapkin': ('nt_rip', (0, 21), {'jaguar\'s': "Jaguar's"}, [
      ('hook', 8.16, 9.70, [(8.16, NC)]),
      ('c1', 0.00, 8.10, [(0.00, NG), (3.84, NW), (6.9, TN)]),
-     ('c2', 9.78, 14.30, [(9.78, NC), (12.8, NW)])]),
+     ('c2', 9.78, 14.30, [(9.78, NC), (12.8, NW)]),
+     ('c3', 15.50, 20.10, [(15.50, NW), (18.0, TN)])]),
  'tvsign': ('nt_rip', (86, 107), {'chubba.': ''}, [
-     ('hook', 93.38, 95.40, [(93.38, NW), (94.80, TN)]),
+     ('hook', 92.30, 95.40, [(92.30, NC), (93.38, NW), (94.80, TN)]),
      ('c1', 87.02, 93.30, [(87.02, NW), (91.3, NC)]),
      ('c2', 95.46, 98.40, [(95.46, NC), (97.0, TN)]),
-     ('c3', 103.14, 105.80, [(103.14, NW)])]),
+     ('c3', 103.14, 106.10, [(103.14, NW)])]),
 }
 gen = json.load(open('src/edits.gen.json'))
 for eid, (src, (xa, xb), fix, plan) in EDITS.items():
@@ -65,7 +66,7 @@ CFG = {
    extras=[png(['hook', 'world'], 'e_think.png', 860, 1240), sfx(['c2', 'plate'], 's_huh.mp3', 0.4), sfx(['c3', 'diagnose'], 's_wow.mp3', 0.35)]),
  'tvnapkin': dict(top="Why one patch is worth $15,000 and the other is a NAPKIN", hl={'$15,000': '#58EE28', 'NAPKIN': '#F40305'}, cta='*would you know the difference?*', music=['montagem_n', 24.0], ctaAt=['c2', 'nicer'],
    tints=[[['hook', 'napkin'], R], [['c1', '15'], G], [['c2', 'nicer'], G]], rizz=[['c1', '15']],
-   punch=[['hook', 'napkin'], ['c1', 'nice'], ['c1', '15'], ['c1', 'jaguar'], ['c1', 'face'], ['c2', 'two'], ['c2', 'nicer'], ['c2', 'covers'], ['c2', 'swoosh']],
+   punch=[['hook', 'napkin'], ['c1', 'nice'], ['c1', '15'], ['c1', 'jaguar'], ['c1', 'face'], ['c2', 'two'], ['c2', 'nicer'], ['c2', 'covers'], ['c2', 'swoosh'], ['c3', 'risk'], ['c3', 'hands']],
    blowouts=[['c1', '15']], blackFlash=[['c2']], streaks=[['c1', 'like']],
    extras=[png(['hook', 'napkin'], 'e_laugh.png', 860, 1240), sfx(['hook', 'napkin'], 's_huh.mp3', 0.4), sfx(['c1', '15'], 's_money.mp3', 0.35), sfx(['c2', 'swoosh'], 's_ding.mp3', 0.3)]),
  'tvsign': dict(top="Trevor is NOT a redemption guy… here's why", hl={'NOT': '#F40305'}, cta='*should redemptions be banned?*', music=['phonk_n', 22.4], ctaAt=['c3', 'chase'],
