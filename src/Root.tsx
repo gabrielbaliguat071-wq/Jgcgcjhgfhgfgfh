@@ -13,6 +13,10 @@ import {GoatExplainer, GOATX_MS} from './zack/GoatExplainer';
 import {NewsGoat, NEWSGOAT_MS} from './news/NewsGoat';
 import {Redeem29, RED29_MS} from './clipper/Redeem29';
 import {GumShort, GUM_MS} from './inside/GumShort';
+import {BlockTest} from './stories/BlockTest';
+import {EmuShort, EMU_MS} from './stories/EmuShort';
+import {EmuShort2, EMU2_MS} from './stories/EmuShort2';
+import {CountShort, COUNT_MS} from './stories/CountShort';
 import {FlyShort, FLY_MS} from './inside/FlyShort';
 import {WingTest} from './inside/WingTest';
 import {DogTest} from './dogs/DogTest';
@@ -90,6 +94,10 @@ export const RemotionRoot = () => (
   <Composition id="RoadsterShort" component={RoadsterShort} fps={30} width={1080} height={1920} durationInFrames={Math.ceil((ROADSTER_MS / 1000) * 30)} />
   <Composition id="RoadsterStills" component={RoadsterStills} fps={30} width={1080} height={1920} durationInFrames={18} />
   <Composition id="WingTest" component={WingTest} fps={30} width={1080} height={1920} durationInFrames={10} />
+  <Composition id="CountShort" component={CountShort} fps={30} width={1080} height={1920} durationInFrames={Math.round((COUNT_MS / 1000) * 30)} />
+  <Composition id="EmuShort2" component={EmuShort2} fps={30} width={1080} height={1920} durationInFrames={Math.round((EMU2_MS / 1000) * 30)} />
+  <Composition id="EmuShort" component={EmuShort} fps={30} width={1080} height={1920} durationInFrames={Math.round((EMU_MS / 1000) * 30)} />
+  <Composition id="BlockTest" component={BlockTest} fps={30} width={1080} height={1920} durationInFrames={30} />
   <Composition id="FlyShort" component={FlyShort} fps={30} width={1080} height={1920} durationInFrames={Math.round((FLY_MS / 1000) * 30)} />
   <Composition id="GumShort" component={GumShort} fps={30} width={1080} height={1920} durationInFrames={Math.round((GUM_MS / 1000) * 30)} />
   <Composition id="Redeem29" component={Redeem29} fps={30} width={1080} height={1920} durationInFrames={Math.round((RED29_MS / 1000) * 30)} />

@@ -1,0 +1,968 @@
+{
+ "flagg": {
+  "src": "tp_flagg.mp4",
+  "srcW": 720,
+  "srcH": 1280,
+  "band": null,
+  "capY": 300,
+  "label": [
+   "Cooper Flagg",
+   "auto /10"
+  ],
+  "labelY": 70,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 11.3,
+    "durationInFrames": 93,
+    "crops": [
+     [
+      0,
+      360,
+      1.0,
+      640
+     ]
+    ],
+    "words": [
+     {
+      "word": "Cooper",
+      "startFrame": 8,
+      "endFrame": 20,
+      "hi": true
+     },
+     {
+      "word": "Flagg",
+      "startFrame": 17,
+      "endFrame": 37,
+      "hi": true
+     },
+     {
+      "word": "out",
+      "startFrame": 34,
+      "endFrame": 47,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 44,
+      "endFrame": 52,
+      "hi": false
+     },
+     {
+      "word": "10!",
+      "startFrame": 49,
+      "endFrame": 61,
+      "hi": true
+     },
+     {
+      "word": "What",
+      "startFrame": 76,
+      "endFrame": 83,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 80,
+      "endFrame": 88,
+      "hi": false
+     },
+     {
+      "word": "hit!",
+      "startFrame": 85,
+      "endFrame": 93,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "rw",
+    "videoStartSec": 1.0,
+    "durationInFrames": 12,
+    "crops": [
+     [
+      0,
+      360,
+      1.0,
+      640
+     ]
+    ],
+    "words": [],
+    "rewind": [
+     14.4,
+     1.0
+    ]
+   },
+   {
+    "id": "rip",
+    "videoStartSec": 1.0,
+    "durationInFrames": 538,
+    "crops": [
+     [
+      0,
+      360,
+      1.0,
+      640
+     ]
+    ],
+    "words": [
+     {
+      "word": "we",
+      "startFrame": 3,
+      "endFrame": 7,
+      "hi": false
+     },
+     {
+      "word": "have",
+      "startFrame": 4,
+      "endFrame": 11,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 8,
+      "endFrame": 14,
+      "hi": false
+     },
+     {
+      "word": "top",
+      "startFrame": 11,
+      "endFrame": 20,
+      "hi": false
+     },
+     {
+      "word": "customer",
+      "startFrame": 17,
+      "endFrame": 32,
+      "hi": false
+     },
+     {
+      "word": "here,",
+      "startFrame": 29,
+      "endFrame": 41,
+      "hi": false
+     },
+     {
+      "word": "and",
+      "startFrame": 60,
+      "endFrame": 64,
+      "hi": false
+     },
+     {
+      "word": "he",
+      "startFrame": 60,
+      "endFrame": 83,
+      "hi": false
+     },
+     {
+      "word": "ripped",
+      "startFrame": 80,
+      "endFrame": 92,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 89,
+      "endFrame": 99,
+      "hi": false
+     },
+     {
+      "word": "bunch",
+      "startFrame": 96,
+      "endFrame": 108,
+      "hi": false
+     },
+     {
+      "word": "today,",
+      "startFrame": 105,
+      "endFrame": 118,
+      "hi": false
+     },
+     {
+      "word": "as",
+      "startFrame": 118,
+      "endFrame": 125,
+      "hi": false
+     },
+     {
+      "word": "you",
+      "startFrame": 122,
+      "endFrame": 128,
+      "hi": false
+     },
+     {
+      "word": "could",
+      "startFrame": 125,
+      "endFrame": 131,
+      "hi": false
+     },
+     {
+      "word": "tell.",
+      "startFrame": 128,
+      "endFrame": 140,
+      "hi": false
+     },
+     {
+      "word": "He",
+      "startFrame": 149,
+      "endFrame": 154,
+      "hi": false
+     },
+     {
+      "word": "has",
+      "startFrame": 151,
+      "endFrame": 160,
+      "hi": false
+     },
+     {
+      "word": "an",
+      "startFrame": 157,
+      "endFrame": 164,
+      "hi": false
+     },
+     {
+      "word": "auto",
+      "startFrame": 161,
+      "endFrame": 173,
+      "hi": true
+     },
+     {
+      "word": "out",
+      "startFrame": 170,
+      "endFrame": 179,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 176,
+      "endFrame": 182,
+      "hi": false
+     },
+     {
+      "word": "10.",
+      "startFrame": 179,
+      "endFrame": 191,
+      "hi": true
+     },
+     {
+      "word": "Here",
+      "startFrame": 192,
+      "endFrame": 198,
+      "hi": false
+     },
+     {
+      "word": "we",
+      "startFrame": 195,
+      "endFrame": 201,
+      "hi": false
+     },
+     {
+      "word": "go.",
+      "startFrame": 198,
+      "endFrame": 209,
+      "hi": false
+     },
+     {
+      "word": "Oh,",
+      "startFrame": 269,
+      "endFrame": 289,
+      "hi": false
+     },
+     {
+      "word": "Cooper",
+      "startFrame": 317,
+      "endFrame": 329,
+      "hi": true
+     },
+     {
+      "word": "Flagg",
+      "startFrame": 326,
+      "endFrame": 346,
+      "hi": true
+     },
+     {
+      "word": "out",
+      "startFrame": 343,
+      "endFrame": 356,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 353,
+      "endFrame": 361,
+      "hi": false
+     },
+     {
+      "word": "10!",
+      "startFrame": 358,
+      "endFrame": 370,
+      "hi": true
+     },
+     {
+      "word": "What",
+      "startFrame": 385,
+      "endFrame": 392,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 389,
+      "endFrame": 397,
+      "hi": false
+     },
+     {
+      "word": "hit!",
+      "startFrame": 394,
+      "endFrame": 408,
+      "hi": true
+     },
+     {
+      "word": "What",
+      "startFrame": 421,
+      "endFrame": 433,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 430,
+      "endFrame": 439,
+      "hi": false
+     },
+     {
+      "word": "hit!",
+      "startFrame": 436,
+      "endFrame": 449,
+      "hi": true
+     },
+     {
+      "word": "Bang!",
+      "startFrame": 455,
+      "endFrame": 466,
+      "hi": true
+     },
+     {
+      "word": "Let's",
+      "startFrame": 480,
+      "endFrame": 491,
+      "hi": false
+     },
+     {
+      "word": "go!",
+      "startFrame": 488,
+      "endFrame": 497,
+      "hi": false
+     },
+     {
+      "word": "What",
+      "startFrame": 509,
+      "endFrame": 518,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 515,
+      "endFrame": 522,
+      "hi": false
+     },
+     {
+      "word": "hit!",
+      "startFrame": 519,
+      "endFrame": 530,
+      "hi": true
+     }
+    ]
+   }
+  ]
+ },
+ "jeter": {
+  "src": "tp_jeter.mp4",
+  "srcW": 720,
+  "srcH": 1280,
+  "band": [
+   488,
+   702
+  ],
+  "capY": 715,
+  "label": [
+   "Derek Jeter",
+   "1/1 Superfractor auto"
+  ],
+  "labelY": 508,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 30.9,
+    "durationInFrames": 204,
+    "crops": [
+     [
+      0,
+      360,
+      1.0,
+      640
+     ]
+    ],
+    "words": [
+     {
+      "word": "Derek",
+      "startFrame": 10,
+      "endFrame": 46,
+      "hi": true
+     },
+     {
+      "word": "Jeter",
+      "startFrame": 43,
+      "endFrame": 68,
+      "hi": true
+     },
+     {
+      "word": "one",
+      "startFrame": 65,
+      "endFrame": 80,
+      "hi": true
+     },
+     {
+      "word": "of",
+      "startFrame": 77,
+      "endFrame": 88,
+      "hi": false
+     },
+     {
+      "word": "one!",
+      "startFrame": 85,
+      "endFrame": 106,
+      "hi": true
+     },
+     {
+      "word": "You",
+      "startFrame": 120,
+      "endFrame": 146,
+      "hi": false
+     },
+     {
+      "word": "can't",
+      "startFrame": 143,
+      "endFrame": 158,
+      "hi": false
+     },
+     {
+      "word": "be",
+      "startFrame": 155,
+      "endFrame": 163,
+      "hi": false
+     },
+     {
+      "word": "serious!",
+      "startFrame": 160,
+      "endFrame": 179,
+      "hi": true
+     },
+     {
+      "word": "Let's",
+      "startFrame": 192,
+      "endFrame": 203,
+      "hi": false
+     },
+     {
+      "word": "go!",
+      "startFrame": 200,
+      "endFrame": 204,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "rw",
+    "videoStartSec": 5.9,
+    "durationInFrames": 12,
+    "crops": [
+     [
+      0,
+      360,
+      1.0,
+      640
+     ]
+    ],
+    "words": [],
+    "rewind": [
+     37.7,
+     5.9
+    ]
+   },
+   {
+    "id": "s1",
+    "videoStartSec": 5.9,
+    "durationInFrames": 183,
+    "crops": [
+     [
+      0,
+      360,
+      1.0,
+      640
+     ]
+    ],
+    "words": [
+     {
+      "word": "Oh,",
+      "startFrame": 5,
+      "endFrame": 23,
+      "hi": false
+     },
+     {
+      "word": "it's",
+      "startFrame": 59,
+      "endFrame": 68,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 65,
+      "endFrame": 72,
+      "hi": false
+     },
+     {
+      "word": "one",
+      "startFrame": 69,
+      "endFrame": 77,
+      "hi": true
+     },
+     {
+      "word": "of",
+      "startFrame": 74,
+      "endFrame": 82,
+      "hi": false
+     },
+     {
+      "word": "one!",
+      "startFrame": 79,
+      "endFrame": 94,
+      "hi": true
+     },
+     {
+      "word": "We",
+      "startFrame": 121,
+      "endFrame": 127,
+      "hi": false
+     },
+     {
+      "word": "got",
+      "startFrame": 124,
+      "endFrame": 133,
+      "hi": false
+     },
+     {
+      "word": "a",
+      "startFrame": 130,
+      "endFrame": 137,
+      "hi": false
+     },
+     {
+      "word": "one",
+      "startFrame": 134,
+      "endFrame": 143,
+      "hi": true
+     },
+     {
+      "word": "of",
+      "startFrame": 140,
+      "endFrame": 146,
+      "hi": false
+     },
+     {
+      "word": "one",
+      "startFrame": 143,
+      "endFrame": 157,
+      "hi": true
+     },
+     {
+      "word": "in",
+      "startFrame": 154,
+      "endFrame": 162,
+      "hi": false
+     },
+     {
+      "word": "this!",
+      "startFrame": 159,
+      "endFrame": 175,
+      "hi": false
+     }
+    ]
+   },
+   {
+    "id": "s2",
+    "videoStartSec": 17.95,
+    "durationInFrames": 182,
+    "crops": [
+     [
+      0,
+      360,
+      1.0,
+      640
+     ]
+    ],
+    "words": [
+     {
+      "word": "And",
+      "startFrame": 2,
+      "endFrame": 9,
+      "hi": false
+     },
+     {
+      "word": "here",
+      "startFrame": 6,
+      "endFrame": 14,
+      "hi": false
+     },
+     {
+      "word": "we",
+      "startFrame": 11,
+      "endFrame": 18,
+      "hi": false
+     },
+     {
+      "word": "are!",
+      "startFrame": 15,
+      "endFrame": 30,
+      "hi": false
+     },
+     {
+      "word": "Holy",
+      "startFrame": 50,
+      "endFrame": 68,
+      "hi": false
+     },
+     {
+      "word": "baby,",
+      "startFrame": 65,
+      "endFrame": 78,
+      "hi": true
+     },
+     {
+      "word": "let's",
+      "startFrame": 78,
+      "endFrame": 86,
+      "hi": false
+     },
+     {
+      "word": "see",
+      "startFrame": 83,
+      "endFrame": 89,
+      "hi": false
+     },
+     {
+      "word": "what",
+      "startFrame": 86,
+      "endFrame": 92,
+      "hi": false
+     },
+     {
+      "word": "team.",
+      "startFrame": 89,
+      "endFrame": 102,
+      "hi": false
+     },
+     {
+      "word": "For",
+      "startFrame": 140,
+      "endFrame": 159,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 156,
+      "endFrame": 165,
+      "hi": false
+     },
+     {
+      "word": "Yankees!",
+      "startFrame": 162,
+      "endFrame": 182,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "s3",
+    "videoStartSec": 27.75,
+    "durationInFrames": 94,
+    "crops": [
+     [
+      0,
+      360,
+      1.0,
+      640
+     ]
+    ],
+    "words": [
+     {
+      "word": "Let's",
+      "startFrame": 3,
+      "endFrame": 14,
+      "hi": false
+     },
+     {
+      "word": "go!",
+      "startFrame": 11,
+      "endFrame": 26,
+      "hi": false
+     },
+     {
+      "word": "For",
+      "startFrame": 32,
+      "endFrame": 39,
+      "hi": false
+     },
+     {
+      "word": "the",
+      "startFrame": 36,
+      "endFrame": 44,
+      "hi": false
+     },
+     {
+      "word": "Yankees!",
+      "startFrame": 41,
+      "endFrame": 67,
+      "hi": true
+     }
+    ]
+   }
+  ]
+ },
+ "ohtani": {
+  "src": "tp_ohtani.mp4",
+  "srcW": 720,
+  "srcH": 1280,
+  "band": [
+   683,
+   828
+  ],
+  "capY": 842,
+  "label": [
+   "Shohei Ohtani",
+   "patch auto /10"
+  ],
+  "labelY": 688,
+  "scenes": [
+   {
+    "id": "hook",
+    "videoStartSec": 2.9,
+    "durationInFrames": 204,
+    "crops": [
+     [
+      0,
+      360,
+      1.0,
+      640
+     ]
+    ],
+    "words": [
+     {
+      "word": "Oh",
+      "startFrame": 2,
+      "endFrame": 7,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 4,
+      "endFrame": 16,
+      "hi": false
+     },
+     {
+      "word": "God.",
+      "startFrame": 13,
+      "endFrame": 31,
+      "hi": true
+     },
+     {
+      "word": "Out",
+      "startFrame": 52,
+      "endFrame": 56,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 52,
+      "endFrame": 61,
+      "hi": false
+     },
+     {
+      "word": "10.",
+      "startFrame": 58,
+      "endFrame": 70,
+      "hi": true
+     },
+     {
+      "word": "Shohei Ohtani",
+      "startFrame": 79,
+      "endFrame": 109,
+      "hi": true
+     },
+     {
+      "word": "Auto",
+      "startFrame": 106,
+      "endFrame": 121,
+      "hi": true
+     },
+     {
+      "word": "Patch.",
+      "startFrame": 118,
+      "endFrame": 136,
+      "hi": true
+     },
+     {
+      "word": "That",
+      "startFrame": 164,
+      "endFrame": 196,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 193,
+      "endFrame": 202,
+      "hi": false
+     },
+     {
+      "word": "crazy.",
+      "startFrame": 199,
+      "endFrame": 204,
+      "hi": true
+     }
+    ]
+   },
+   {
+    "id": "rw",
+    "videoStartSec": 0.0,
+    "durationInFrames": 12,
+    "crops": [
+     [
+      0,
+      360,
+      1.0,
+      640
+     ]
+    ],
+    "words": [],
+    "rewind": [
+     9.7,
+     0.0
+    ]
+   },
+   {
+    "id": "rip",
+    "videoStartSec": 0.0,
+    "durationInFrames": 456,
+    "crops": [
+     [
+      0,
+      360,
+      1.0,
+      640
+     ]
+    ],
+    "words": [
+     {
+      "word": "Angels.",
+      "startFrame": 43,
+      "endFrame": 74,
+      "hi": false
+     },
+     {
+      "word": "Oh",
+      "startFrame": 89,
+      "endFrame": 94,
+      "hi": false
+     },
+     {
+      "word": "my",
+      "startFrame": 91,
+      "endFrame": 103,
+      "hi": false
+     },
+     {
+      "word": "God.",
+      "startFrame": 100,
+      "endFrame": 118,
+      "hi": true
+     },
+     {
+      "word": "Out",
+      "startFrame": 139,
+      "endFrame": 143,
+      "hi": false
+     },
+     {
+      "word": "of",
+      "startFrame": 139,
+      "endFrame": 148,
+      "hi": false
+     },
+     {
+      "word": "10.",
+      "startFrame": 145,
+      "endFrame": 157,
+      "hi": true
+     },
+     {
+      "word": "Shohei Ohtani",
+      "startFrame": 166,
+      "endFrame": 196,
+      "hi": true
+     },
+     {
+      "word": "Auto",
+      "startFrame": 193,
+      "endFrame": 208,
+      "hi": true
+     },
+     {
+      "word": "Patch.",
+      "startFrame": 205,
+      "endFrame": 223,
+      "hi": true
+     },
+     {
+      "word": "That",
+      "startFrame": 251,
+      "endFrame": 283,
+      "hi": false
+     },
+     {
+      "word": "is",
+      "startFrame": 280,
+      "endFrame": 289,
+      "hi": false
+     },
+     {
+      "word": "crazy.",
+      "startFrame": 286,
+      "endFrame": 302,
+      "hi": true
+     },
+     {
+      "word": "That's",
+      "startFrame": 364,
+      "endFrame": 387,
+      "hi": false
+     },
+     {
+      "word": "fire",
+      "startFrame": 384,
+      "endFrame": 406,
+      "hi": true
+     },
+     {
+      "word": "Come",
+      "startFrame": 424,
+      "endFrame": 429,
+      "hi": false
+     },
+     {
+      "word": "on.",
+      "startFrame": 426,
+      "endFrame": 434,
+      "hi": false
+     }
+    ]
+   }
+  ]
+ }
+}

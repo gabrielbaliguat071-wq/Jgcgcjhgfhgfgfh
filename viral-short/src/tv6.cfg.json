@@ -1,0 +1,842 @@
+{
+ "tvpresnap": {
+  "top": "How often does an NFL QB REALLY know who is open?",
+  "hl": {
+   "REALLY": "#58EE28"
+  },
+  "cta": "*could you read a defense?*",
+  "music": [
+   "sentamento_n",
+   57.5
+  ],
+  "ctaAt": [
+   "c3",
+   "coverage"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "here"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "open"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "50"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "cover"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "50"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "should"
+   ],
+   [
+    "hook",
+    "there"
+   ],
+   [
+    "c1",
+    "percentage"
+   ],
+   [
+    "c1",
+    "open"
+   ],
+   [
+    "c2",
+    "50"
+   ],
+   [
+    "c2",
+    "65"
+   ],
+   [
+    "c3",
+    "25"
+   ],
+   [
+    "c3",
+    "15"
+   ],
+   [
+    "c3",
+    "move"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "65"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c3"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ],
+   [
+    "c3"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "there"
+    ],
+    "kind": "png",
+    "file": "e_think.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "there"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c2",
+     "65"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34
+   },
+   {
+    "at": [
+     "c3",
+     "cover"
+    ],
+    "kind": "sfx",
+    "file": "s_fahhh.mp3",
+    "v": 0.35
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvpresnap.mp4"
+ },
+ "tvpacks": {
+  "top": "Imagine a pack where EVERY card is YOU",
+  "hl": {
+   "EVERY": "#58EE28",
+   "YOU": "#58EE28"
+  },
+  "cta": "*would you rip a TL pack?*",
+  "music": [
+   "funkabn_n",
+   33.2
+  ],
+  "ctaAt": [
+   "c1",
+   "like"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "every"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "digital"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "tl"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "every"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "every"
+   ],
+   [
+    "hook",
+    "trevor"
+   ],
+   [
+    "hook",
+    "weird"
+   ],
+   [
+    "c1",
+    "backyard"
+   ],
+   [
+    "c1",
+    "shipped"
+   ],
+   [
+    "c1",
+    "wax"
+   ],
+   [
+    "c1",
+    "tl"
+   ],
+   [
+    "c1",
+    "locked"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "trevor"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "like"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "weird"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "hook",
+     "weird"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "tl"
+    ],
+    "kind": "png",
+    "file": "e_think.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "tl"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.35
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvpacks.mp4"
+ },
+ "tvking": {
+  "top": "When an NFL QB walks into your stream",
+  "hl": {
+   "NFL": "#58EE28",
+   "QB": "#58EE28"
+  },
+  "cta": "*would you bow too?*",
+  "music": [
+   "empire_n",
+   18.8
+  ],
+  "ctaAt": [
+   "c1",
+   "boys"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "boys"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "king"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "king",
+     2
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "king"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "boys"
+   ],
+   [
+    "c1",
+    "hail"
+   ],
+   [
+    "c1",
+    "king"
+   ],
+   [
+    "c1",
+    "hail",
+    1
+   ],
+   [
+    "c1",
+    "king",
+    1
+   ],
+   [
+    "c1",
+    "king",
+    2
+   ],
+   [
+    "c1",
+    "boys"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "king",
+    2
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "boys"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "king"
+    ],
+    "kind": "png",
+    "file": "e_laugh.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "king",
+     1
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c1",
+     "boys"
+    ],
+    "kind": "ov",
+    "file": "greenflash2.mp4",
+    "dur": 34
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvking.mp4"
+ },
+ "tvmarino": {
+  "top": "Is Dan Marino a TOP 10 QB of all time?",
+  "hl": {
+   "TOP": "#58EE28",
+   "10": "#58EE28"
+  },
+  "cta": "*top 10 or not?*",
+  "music": [
+   "phonk_n",
+   22.4
+  ],
+  "ctaAt": [
+   "c1",
+   "he",
+   1
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "top"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "marino"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "sling"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "marino"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "top"
+   ],
+   [
+    "hook",
+    "got"
+   ],
+   [
+    "c1",
+    "atwater"
+   ],
+   [
+    "c1",
+    "trevor"
+   ],
+   [
+    "c1",
+    "dan"
+   ],
+   [
+    "c1",
+    "top"
+   ],
+   [
+    "c1",
+    "sling"
+   ],
+   [
+    "c1",
+    "rip"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "marino"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "dan"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "marino"
+    ],
+    "kind": "png",
+    "file": "e_think.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "top"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c1",
+     "sling"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvmarino.mp4"
+ },
+ "tvartist": {
+  "top": "His parents were in the chat the WHOLE time",
+  "hl": {
+   "WHOLE": "#58EE28"
+  },
+  "cta": "*shout out your parents*",
+  "music": [
+   "blue_n",
+   21.5
+  ],
+  "ctaAt": [
+   "c1",
+   "shout"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "love"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "stapleton"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "mom"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "mom"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "love"
+   ],
+   [
+    "hook",
+    "unbelievable"
+   ],
+   [
+    "c1",
+    "favorite"
+   ],
+   [
+    "c1",
+    "stapleton"
+   ],
+   [
+    "c1",
+    "chris"
+   ],
+   [
+    "c1",
+    "mom"
+   ],
+   [
+    "c1",
+    "dad",
+    1
+   ],
+   [
+    "c1",
+    "father"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "mom"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "favorite",
+    1
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "mom"
+    ],
+    "kind": "png",
+    "file": "e_heart.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "mom"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c1",
+     "father"
+    ],
+    "kind": "png",
+    "file": "e_heart.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvartist.mp4"
+ },
+ "tvkeepsake": {
+  "top": "He has signed a TON of these\u2026 but never kept one",
+  "hl": {
+   "TON": "#58EE28"
+  },
+  "cta": "*what would YOU keep?*",
+  "music": [
+   "montagem_n",
+   24.0
+  ],
+  "ctaAt": [
+   "c2",
+   "kept"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "national"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "signed"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "college"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "signed"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "ticket"
+   ],
+   [
+    "hook",
+    "sweet"
+   ],
+   [
+    "c1",
+    "memory"
+   ],
+   [
+    "c1",
+    "signed"
+   ],
+   [
+    "c1",
+    "ton"
+   ],
+   [
+    "c2",
+    "jerseys"
+   ],
+   [
+    "c2",
+    "college"
+   ],
+   [
+    "c2",
+    "closet"
+   ],
+   [
+    "c2",
+    "look"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "sweet"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2",
+    "i",
+    3
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "sweet"
+    ],
+    "kind": "png",
+    "file": "e_heart.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "ton"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c2",
+     "closet"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.3
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvkeepsake.mp4"
+ }
+}

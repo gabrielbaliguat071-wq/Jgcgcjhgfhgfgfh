@@ -1,0 +1,602 @@
+[
+ {
+  "text": "How",
+  "startMs": 0,
+  "endMs": 120
+ },
+ {
+  "text": "much",
+  "startMs": 120,
+  "endMs": 320
+ },
+ {
+  "text": "percentage",
+  "startMs": 320,
+  "endMs": 980
+ },
+ {
+  "text": "of",
+  "startMs": 980,
+  "endMs": 1720
+ },
+ {
+  "text": "pre",
+  "startMs": 1720,
+  "endMs": 2020
+ },
+ {
+  "text": "-snaps",
+  "startMs": 2020,
+  "endMs": 2260
+ },
+ {
+  "text": "do",
+  "startMs": 2260,
+  "endMs": 2420
+ },
+ {
+  "text": "you",
+  "startMs": 2420,
+  "endMs": 2540
+ },
+ {
+  "text": "actually",
+  "startMs": 2540,
+  "endMs": 3180
+ },
+ {
+  "text": "think,",
+  "startMs": 3180,
+  "endMs": 3500
+ },
+ {
+  "text": "I",
+  "startMs": 3620,
+  "endMs": 3700
+ },
+ {
+  "text": "know",
+  "startMs": 3700,
+  "endMs": 4280
+ },
+ {
+  "text": "this",
+  "startMs": 4280,
+  "endMs": 4980
+ },
+ {
+  "text": "guy's",
+  "startMs": 4980,
+  "endMs": 5280
+ },
+ {
+  "text": "going",
+  "startMs": 5280,
+  "endMs": 5360
+ },
+ {
+  "text": "to",
+  "startMs": 5360,
+  "endMs": 5440
+ },
+ {
+  "text": "be",
+  "startMs": 5440,
+  "endMs": 5540
+ },
+ {
+  "text": "open?",
+  "startMs": 5540,
+  "endMs": 5760
+ },
+ {
+  "text": "It's",
+  "startMs": 5880,
+  "endMs": 5980
+ },
+ {
+  "text": "tough",
+  "startMs": 5980,
+  "endMs": 6140
+ },
+ {
+  "text": "to",
+  "startMs": 6140,
+  "endMs": 6300
+ },
+ {
+  "text": "put",
+  "startMs": 6300,
+  "endMs": 6700
+ },
+ {
+  "text": "it",
+  "startMs": 6700,
+  "endMs": 6820
+ },
+ {
+  "text": "all",
+  "startMs": 6820,
+  "endMs": 7020
+ },
+ {
+  "text": "into",
+  "startMs": 7020,
+  "endMs": 7220
+ },
+ {
+  "text": "one",
+  "startMs": 7220,
+  "endMs": 7480
+ },
+ {
+  "text": "under",
+  "startMs": 7480,
+  "endMs": 7740
+ },
+ {
+  "text": "one",
+  "startMs": 7740,
+  "endMs": 7940
+ },
+ {
+  "text": "blanket,",
+  "startMs": 7940,
+  "endMs": 8320
+ },
+ {
+  "text": "but",
+  "startMs": 8440,
+  "endMs": 8480
+ },
+ {
+  "text": "how",
+  "startMs": 8480,
+  "endMs": 8580
+ },
+ {
+  "text": "much",
+  "startMs": 8580,
+  "endMs": 8720
+ },
+ {
+  "text": "do",
+  "startMs": 8720,
+  "endMs": 8860
+ },
+ {
+  "text": "you",
+  "startMs": 8860,
+  "endMs": 8900
+ },
+ {
+  "text": "think?",
+  "startMs": 8900,
+  "endMs": 9180
+ },
+ {
+  "text": "I",
+  "startMs": 9660,
+  "endMs": 9960
+ },
+ {
+  "text": "would",
+  "startMs": 9960,
+  "endMs": 10120
+ },
+ {
+  "text": "say",
+  "startMs": 10120,
+  "endMs": 10480
+ },
+ {
+  "text": "probably",
+  "startMs": 10480,
+  "endMs": 11280
+ },
+ {
+  "text": "probably",
+  "startMs": 11280,
+  "endMs": 13580
+ },
+ {
+  "text": "about",
+  "startMs": 13580,
+  "endMs": 13820
+ },
+ {
+  "text": "50",
+  "startMs": 13820,
+  "endMs": 15140
+ },
+ {
+  "text": "to",
+  "startMs": 15140,
+  "endMs": 15480
+ },
+ {
+  "text": "70,",
+  "startMs": 15480,
+  "endMs": 16500
+ },
+ {
+  "text": "50",
+  "startMs": 16780,
+  "endMs": 16960
+ },
+ {
+  "text": "to",
+  "startMs": 16960,
+  "endMs": 17060
+ },
+ {
+  "text": "65",
+  "startMs": 17060,
+  "endMs": 17380
+ },
+ {
+  "text": "%",
+  "startMs": 17380,
+  "endMs": 17540
+ },
+ {
+  "text": "of",
+  "startMs": 17540,
+  "endMs": 17680
+ },
+ {
+  "text": "the",
+  "startMs": 17680,
+  "endMs": 17700
+ },
+ {
+  "text": "time.",
+  "startMs": 17700,
+  "endMs": 17860
+ },
+ {
+  "text": "Like,",
+  "startMs": 18060,
+  "endMs": 18060
+ },
+ {
+  "text": "you",
+  "startMs": 18180,
+  "endMs": 18180
+ },
+ {
+  "text": "know.",
+  "startMs": 18180,
+  "endMs": 18440
+ },
+ {
+  "text": "It",
+  "startMs": 18800,
+  "endMs": 18880
+ },
+ {
+  "text": "goes",
+  "startMs": 18880,
+  "endMs": 19080
+ },
+ {
+  "text": "where",
+  "startMs": 19080,
+  "endMs": 19300
+ },
+ {
+  "text": "you",
+  "startMs": 19300,
+  "endMs": 19480
+ },
+ {
+  "text": "like,",
+  "startMs": 19480,
+  "endMs": 19800
+ },
+ {
+  "text": "I",
+  "startMs": 20420,
+  "endMs": 20560
+ },
+ {
+  "text": "know",
+  "startMs": 20560,
+  "endMs": 20720
+ },
+ {
+  "text": "it",
+  "startMs": 20720,
+  "endMs": 21340
+ },
+ {
+  "text": "should",
+  "startMs": 21340,
+  "endMs": 21780
+ },
+ {
+  "text": "go",
+  "startMs": 21780,
+  "endMs": 22000
+ },
+ {
+  "text": "here",
+  "startMs": 22000,
+  "endMs": 22240
+ },
+ {
+  "text": "and",
+  "startMs": 22240,
+  "endMs": 22360
+ },
+ {
+  "text": "it",
+  "startMs": 22360,
+  "endMs": 22440
+ },
+ {
+  "text": "ends",
+  "startMs": 22440,
+  "endMs": 22600
+ },
+ {
+  "text": "up",
+  "startMs": 22600,
+  "endMs": 22720
+ },
+ {
+  "text": "going",
+  "startMs": 22720,
+  "endMs": 22880
+ },
+ {
+  "text": "there.",
+  "startMs": 22880,
+  "endMs": 23080
+ },
+ {
+  "text": "And",
+  "startMs": 23180,
+  "endMs": 23200
+ },
+ {
+  "text": "then",
+  "startMs": 23200,
+  "endMs": 23300
+ },
+ {
+  "text": "sometimes",
+  "startMs": 23300,
+  "endMs": 23800
+ },
+ {
+  "text": "I'd",
+  "startMs": 23800,
+  "endMs": 24500
+ },
+ {
+  "text": "say",
+  "startMs": 24500,
+  "endMs": 24660
+ },
+ {
+  "text": "25",
+  "startMs": 24660,
+  "endMs": 25160
+ },
+ {
+  "text": "%",
+  "startMs": 25160,
+  "endMs": 26160
+ },
+ {
+  "text": "of",
+  "startMs": 26160,
+  "endMs": 26300
+ },
+ {
+  "text": "the",
+  "startMs": 26300,
+  "endMs": 26340
+ },
+ {
+  "text": "time,",
+  "startMs": 26340,
+  "endMs": 26620
+ },
+ {
+  "text": "like",
+  "startMs": 26740,
+  "endMs": 26820
+ },
+ {
+  "text": "coverage",
+  "startMs": 26820,
+  "endMs": 27660
+ },
+ {
+  "text": "chain",
+  "startMs": 27660,
+  "endMs": 28060
+ },
+ {
+  "text": "or",
+  "startMs": 28060,
+  "endMs": 28260
+ },
+ {
+  "text": "maybe",
+  "startMs": 28260,
+  "endMs": 28740
+ },
+ {
+  "text": "not",
+  "startMs": 28740,
+  "endMs": 28900
+ },
+ {
+  "text": "that",
+  "startMs": 28900,
+  "endMs": 29020
+ },
+ {
+  "text": "much,",
+  "startMs": 29020,
+  "endMs": 29200
+ },
+ {
+  "text": "maybe",
+  "startMs": 29200,
+  "endMs": 29380
+ },
+ {
+  "text": "15",
+  "startMs": 29380,
+  "endMs": 29860
+ },
+ {
+  "text": "%",
+  "startMs": 29860,
+  "endMs": 30160
+ },
+ {
+  "text": "of",
+  "startMs": 30160,
+  "endMs": 30280
+ },
+ {
+  "text": "time",
+  "startMs": 30280,
+  "endMs": 30540
+ },
+ {
+  "text": "coverage",
+  "startMs": 30540,
+  "endMs": 30880
+ },
+ {
+  "text": "changes",
+  "startMs": 30880,
+  "endMs": 31260
+ },
+ {
+  "text": "and",
+  "startMs": 31260,
+  "endMs": 31420
+ },
+ {
+  "text": "kind",
+  "startMs": 31420,
+  "endMs": 31520
+ },
+ {
+  "text": "of",
+  "startMs": 31520,
+  "endMs": 31620
+ },
+ {
+  "text": "friction",
+  "startMs": 31620,
+  "endMs": 31820
+ },
+ {
+  "text": "you",
+  "startMs": 31820,
+  "endMs": 31960
+ },
+ {
+  "text": "got",
+  "startMs": 31960,
+  "endMs": 32060
+ },
+ {
+  "text": "to",
+  "startMs": 32060,
+  "endMs": 32160
+ },
+ {
+  "text": "move",
+  "startMs": 32160,
+  "endMs": 32320
+ },
+ {
+  "text": "on",
+  "startMs": 32320,
+  "endMs": 32620
+ },
+ {
+  "text": "or",
+  "startMs": 32620,
+  "endMs": 33140
+ },
+ {
+  "text": "they",
+  "startMs": 33140,
+  "endMs": 33260
+ },
+ {
+  "text": "just",
+  "startMs": 33260,
+  "endMs": 33500
+ },
+ {
+  "text": "cover",
+  "startMs": 33500,
+  "endMs": 33680
+ },
+ {
+  "text": "the",
+  "startMs": 33680,
+  "endMs": 33820
+ },
+ {
+  "text": "guy",
+  "startMs": 33820,
+  "endMs": 34080
+ },
+ {
+  "text": "and",
+  "startMs": 34080,
+  "endMs": 34260
+ },
+ {
+  "text": "you",
+  "startMs": 34260,
+  "endMs": 34300
+ },
+ {
+  "text": "got",
+  "startMs": 34300,
+  "endMs": 34400
+ },
+ {
+  "text": "to",
+  "startMs": 34400,
+  "endMs": 34500
+ },
+ {
+  "text": "move",
+  "startMs": 34500,
+  "endMs": 34640
+ },
+ {
+  "text": "on",
+  "startMs": 34640,
+  "endMs": 34920
+ },
+ {
+  "text": "but",
+  "startMs": 34920,
+  "endMs": 36040
+ },
+ {
+  "text": "I'd",
+  "startMs": 36040,
+  "endMs": 36980
+ },
+ {
+  "text": "say",
+  "startMs": 36980,
+  "endMs": 37180
+ }
+]

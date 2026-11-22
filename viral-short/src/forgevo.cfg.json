@@ -1,0 +1,176 @@
+{
+ "fgfish": {
+  "hook": "i only asked for a cute fish in my roblox game",
+  "hookEmoji": "1f41f",
+  "end": "never prompting at 3am again",
+  "endEmoji": "1f480",
+  "music": [
+   "forge/m_21f6a450d999.mp3",
+   8.0
+  ],
+  "vo": "",
+  "shots": [
+   {
+    "src": "forge/Abyss_Station_13.mp4",
+    "dur": 4.2,
+    "cy": 975.0,
+    "sh": 670.0,
+    "words": [],
+    "from": 2.0,
+    "line": "i asked claude + forgegui mcp for ONE cute little fish \ud83d\udc1f"
+   },
+   {
+    "src": "forge/Abyss_Station_8.mp4",
+    "dur": 3.54,
+    "cy": 910.0,
+    "sh": 760.0,
+    "words": [],
+    "from": 0.5,
+    "line": "something small. something kids would like \ud83e\udd70"
+   },
+   {
+    "src": "forge/Abyss_Station_8.mp4",
+    "dur": 2.4,
+    "cy": 1150.0,
+    "sh": 380.0,
+    "words": [],
+    "from": 5.2,
+    "line": "claude: \"got it\" \ud83d\udc4d"
+   },
+   {
+    "src": "forge/Abyss_Station_4.mp4",
+    "dur": 3.54,
+    "cy": 1065.0,
+    "sh": 670.0,
+    "words": [],
+    "from": 15.2,
+    "line": "that is NOT a fish. why does it have TEETH \ud83d\ude2d"
+   },
+   {
+    "src": "forge/Abyss_Station_5.mp4",
+    "dur": 4.0,
+    "cy": 940.0,
+    "sh": 920.0,
+    "words": [],
+    "from": 16.8,
+    "line": "never prompting at 3am again \ud83d\udc80"
+   }
+  ]
+ },
+ "fgtitan": {
+  "hook": "lil bro said i can't make attack on titan in roblox",
+  "hookEmoji": "1f480",
+  "end": "he lives in my room now",
+  "endEmoji": "1f62d",
+  "music": [
+   "forge/m_7854b5316a7a.mp3",
+   20.0
+  ],
+  "vo": "",
+  "shots": [
+   {
+    "src": "forge/Titan_Slayers_6.mp4",
+    "dur": 3.36,
+    "cy": 905.0,
+    "sh": 790.0,
+    "words": [],
+    "from": 0.6,
+    "line": "lil bro: \"make attack on titan in roblox\""
+   },
+   {
+    "src": "forge/Titan_Slayers_4.mp4",
+    "dur": 3.9,
+    "cy": 990.0,
+    "sh": 780.0,
+    "words": [],
+    "from": 0.8,
+    "line": "me: \"that takes a whole studio and like 5 years\" \ud83d\ude44"
+   },
+   {
+    "src": "forge/Titan_Slayers_7.mp4",
+    "dur": 3.6,
+    "cy": 825.0,
+    "sh": 890.0,
+    "words": [],
+    "from": 2.0,
+    "line": "*types ONE prompt into claude + forgegui mcp*"
+   },
+   {
+    "src": "forge/Titan_Slayers_13.mp4",
+    "dur": 2.76,
+    "cy": 830.0,
+    "sh": 780.0,
+    "words": [],
+    "from": 0.6,
+    "line": "titans. swinging. explosions. \ud83d\ude33"
+   },
+   {
+    "src": "forge/Titan_Slayers_6.mp4",
+    "dur": 4.24,
+    "cy": 865.0,
+    "sh": 830.0,
+    "words": [],
+    "from": 6.6,
+    "line": "he hasn't left my room in 3 days \ud83d\ude2d"
+   }
+  ]
+ },
+ "fgufo": {
+  "hook": "i only asked for ONE ufo in my roblox game",
+  "hookEmoji": "1f6f8",
+  "end": "i said ONE ufo",
+  "endEmoji": "1f62d",
+  "music": [
+   "forge/m_49015499a65d.mp3",
+   0.0
+  ],
+  "vo": "",
+  "shots": [
+   {
+    "src": "forge/Beam_Them_Up_1.mp4",
+    "dur": 3.48,
+    "cy": 830.0,
+    "sh": 860.0,
+    "words": [],
+    "from": 1.6,
+    "line": "i asked claude + forgegui mcp for ONE ufo \ud83d\udef8"
+   },
+   {
+    "src": "forge/Beam_Them_Up_5.mp4",
+    "dur": 3.42,
+    "cy": 890.0,
+    "sh": 860.0,
+    "words": [],
+    "from": 4.0,
+    "line": "ok it's beaming up the house. kinda cool \ud83d\ude10"
+   },
+   {
+    "src": "forge/Beam_Them_Up_2.mp4",
+    "dur": 4.08,
+    "cy": 790.0,
+    "sh": 1080.0,
+    "words": [],
+    "from": 2.8,
+    "line": "now it's stealing cows?? why is there a COW COUNTER \ud83d\udc04"
+   },
+   {
+    "src": "forge/Beam_Them_Up_6.mp4",
+    "dur": 2.52,
+    "cy": 1025.0,
+    "sh": 490.0,
+    "words": [],
+    "from": 3.0,
+    "line": "crop circles. in my farm. \ud83d\ude33"
+   },
+   {
+    "src": "forge/Beam_Them_Up_11.mp4",
+    "dur": 4.24,
+    "cy": 700.0,
+    "sh": 640.0,
+    "words": [],
+    "from": 2.8,
+    "line": "i said ONE UFO. why are there 12 \ud83d\ude2d"
+   }
+  ]
+ }
+}
