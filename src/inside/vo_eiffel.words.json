@@ -1,0 +1,1058 @@
+[
+{
+"text": "In",
+"startMs": 0,
+"endMs": 140,
+"p": 0.64
+},
+{
+"text": "1925",
+"startMs": 140,
+"endMs": 920,
+"p": 0.85
+},
+{
+"text": "a",
+"startMs": 1440,
+"endMs": 1540,
+"p": 0.99
+},
+{
+"text": "con",
+"startMs": 1540,
+"endMs": 1740,
+"p": 0.92
+},
+{
+"text": "man",
+"startMs": 1740,
+"endMs": 2040,
+"p": 0.83
+},
+{
+"text": "sold",
+"startMs": 2040,
+"endMs": 2340,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 2340,
+"endMs": 2560,
+"p": 0.98
+},
+{
+"text": "Eiffel",
+"startMs": 2560,
+"endMs": 2900,
+"p": 0.99
+},
+{
+"text": "Tower.",
+"startMs": 2900,
+"endMs": 3240,
+"p": 0.95
+},
+{
+"text": "His",
+"startMs": 3780,
+"endMs": 3920,
+"p": 0.99
+},
+{
+"text": "name",
+"startMs": 3920,
+"endMs": 4160,
+"p": 1.0
+},
+{
+"text": "was",
+"startMs": 4160,
+"endMs": 4380,
+"p": 1.0
+},
+{
+"text": "Victor",
+"startMs": 4380,
+"endMs": 4720,
+"p": 0.96
+},
+{
+"text": "Lustig.",
+"startMs": 4720,
+"endMs": 5160,
+"p": 0.99
+},
+{
+"text": "One",
+"startMs": 5580,
+"endMs": 5760,
+"p": 0.99
+},
+{
+"text": "day",
+"startMs": 5760,
+"endMs": 5980,
+"p": 1.0
+},
+{
+"text": "he",
+"startMs": 5980,
+"endMs": 6140,
+"p": 0.64
+},
+{
+"text": "read",
+"startMs": 6140,
+"endMs": 6320,
+"p": 0.99
+},
+{
+"text": "a",
+"startMs": 6320,
+"endMs": 6500,
+"p": 1.0
+},
+{
+"text": "newspaper",
+"startMs": 6500,
+"endMs": 6920,
+"p": 0.99
+},
+{
+"text": "story.",
+"startMs": 6920,
+"endMs": 7480,
+"p": 0.99
+},
+{
+"text": "The",
+"startMs": 7960,
+"endMs": 8000,
+"p": 0.96
+},
+{
+"text": "Eiffel",
+"startMs": 8000,
+"endMs": 8400,
+"p": 1.0
+},
+{
+"text": "Tower",
+"startMs": 8400,
+"endMs": 8700,
+"p": 0.96
+},
+{
+"text": "was",
+"startMs": 8700,
+"endMs": 8940,
+"p": 1.0
+},
+{
+"text": "rusting,",
+"startMs": 8940,
+"endMs": 9480,
+"p": 1.0
+},
+{
+"text": "painting",
+"startMs": 9680,
+"endMs": 9900,
+"p": 1.0
+},
+{
+"text": "it",
+"startMs": 9900,
+"endMs": 10100,
+"p": 0.8
+},
+{
+"text": "cost",
+"startMs": 10100,
+"endMs": 10260,
+"p": 0.96
+},
+{
+"text": "a",
+"startMs": 10260,
+"endMs": 10480,
+"p": 0.98
+},
+{
+"text": "fortune,",
+"startMs": 10480,
+"endMs": 10820,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 11000,
+"endMs": 11060,
+"p": 1.0
+},
+{
+"text": "some",
+"startMs": 11060,
+"endMs": 11300,
+"p": 1.0
+},
+{
+"text": "people",
+"startMs": 11300,
+"endMs": 11640,
+"p": 1.0
+},
+{
+"text": "wondered",
+"startMs": 11640,
+"endMs": 11960,
+"p": 1.0
+},
+{
+"text": "if",
+"startMs": 11960,
+"endMs": 12220,
+"p": 1.0
+},
+{
+"text": "Paris",
+"startMs": 12220,
+"endMs": 12540,
+"p": 1.0
+},
+{
+"text": "should",
+"startMs": 12540,
+"endMs": 12760,
+"p": 0.99
+},
+{
+"text": "even",
+"startMs": 12760,
+"endMs": 13020,
+"p": 0.99
+},
+{
+"text": "keep",
+"startMs": 13020,
+"endMs": 13260,
+"p": 1.0
+},
+{
+"text": "it.",
+"startMs": 13260,
+"endMs": 13580,
+"p": 1.0
+},
+{
+"text": "Lustig",
+"startMs": 14040,
+"endMs": 14380,
+"p": 1.0
+},
+{
+"text": "had",
+"startMs": 14380,
+"endMs": 14560,
+"p": 1.0
+},
+{
+"text": "an",
+"startMs": 14560,
+"endMs": 14720,
+"p": 1.0
+},
+{
+"text": "idea.",
+"startMs": 14720,
+"endMs": 15100,
+"p": 1.0
+},
+{
+"text": "He",
+"startMs": 15640,
+"endMs": 15740,
+"p": 1.0
+},
+{
+"text": "printed",
+"startMs": 15740,
+"endMs": 16000,
+"p": 1.0
+},
+{
+"text": "fake",
+"startMs": 16000,
+"endMs": 16340,
+"p": 1.0
+},
+{
+"text": "government",
+"startMs": 16340,
+"endMs": 16700,
+"p": 0.97
+},
+{
+"text": "papers",
+"startMs": 16700,
+"endMs": 17200,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 17200,
+"endMs": 17540,
+"p": 0.76
+},
+{
+"text": "invited",
+"startMs": 17540,
+"endMs": 17920,
+"p": 1.0
+},
+{
+"text": "six",
+"startMs": 17920,
+"endMs": 18320,
+"p": 0.83
+},
+{
+"text": "scrap",
+"startMs": 18320,
+"endMs": 18700,
+"p": 0.97
+},
+{
+"text": "metal",
+"startMs": 18700,
+"endMs": 19040,
+"p": 0.97
+},
+{
+"text": "dealers",
+"startMs": 19040,
+"endMs": 19380,
+"p": 1.0
+},
+{
+"text": "to",
+"startMs": 19380,
+"endMs": 19660,
+"p": 1.0
+},
+{
+"text": "a",
+"startMs": 19660,
+"endMs": 19880,
+"p": 1.0
+},
+{
+"text": "fancy",
+"startMs": 19880,
+"endMs": 20160,
+"p": 0.99
+},
+{
+"text": "hotel.",
+"startMs": 20160,
+"endMs": 20680,
+"p": 0.99
+},
+{
+"text": "He",
+"startMs": 21140,
+"endMs": 21260,
+"p": 0.99
+},
+{
+"text": "told",
+"startMs": 21260,
+"endMs": 21440,
+"p": 1.0
+},
+{
+"text": "them",
+"startMs": 21440,
+"endMs": 21660,
+"p": 1.0
+},
+{
+"text": "in",
+"startMs": 21660,
+"endMs": 21840,
+"p": 0.96
+},
+{
+"text": "secret,",
+"startMs": 21840,
+"endMs": 22180,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 22420,
+"endMs": 22520,
+"p": 0.38
+},
+{
+"text": "city",
+"startMs": 22520,
+"endMs": 22660,
+"p": 0.99
+},
+{
+"text": "is",
+"startMs": 22660,
+"endMs": 22900,
+"p": 1.0
+},
+{
+"text": "selling",
+"startMs": 22900,
+"endMs": 23140,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 23140,
+"endMs": 23340,
+"p": 1.0
+},
+{
+"text": "tower",
+"startMs": 23340,
+"endMs": 23620,
+"p": 0.95
+},
+{
+"text": "for",
+"startMs": 23620,
+"endMs": 23880,
+"p": 1.0
+},
+{
+"text": "scrap,",
+"startMs": 23880,
+"endMs": 24280,
+"p": 1.0
+},
+{
+"text": "over",
+"startMs": 24560,
+"endMs": 24740,
+"p": 0.99
+},
+{
+"text": "7,000",
+"startMs": 24740,
+"endMs": 25580,
+"p": 0.65
+},
+{
+"text": "tons",
+"startMs": 25580,
+"endMs": 25800,
+"p": 0.92
+},
+{
+"text": "of",
+"startMs": 25800,
+"endMs": 26080,
+"p": 1.0
+},
+{
+"text": "iron,",
+"startMs": 26080,
+"endMs": 26440,
+"p": 0.06
+},
+{
+"text": "highest",
+"startMs": 26680,
+"endMs": 27080,
+"p": 0.91
+},
+{
+"text": "bid",
+"startMs": 27080,
+"endMs": 27380,
+"p": 0.96
+},
+{
+"text": "wins.",
+"startMs": 27380,
+"endMs": 27780,
+"p": 0.74
+},
+{
+"text": "One",
+"startMs": 28160,
+"endMs": 28400,
+"p": 0.98
+},
+{
+"text": "dealer,",
+"startMs": 28400,
+"endMs": 28760,
+"p": 0.99
+},
+{
+"text": "Andr\u00e9",
+"startMs": 29040,
+"endMs": 29220,
+"p": 0.86
+},
+{
+"text": "Poisson,",
+"startMs": 29220,
+"endMs": 29700,
+"p": 0.64
+},
+{
+"text": "wanted",
+"startMs": 29840,
+"endMs": 30000,
+"p": 1.0
+},
+{
+"text": "it",
+"startMs": 30000,
+"endMs": 30180,
+"p": 1.0
+},
+{
+"text": "badly,",
+"startMs": 30180,
+"endMs": 30460,
+"p": 0.99
+},
+{
+"text": "but",
+"startMs": 30780,
+"endMs": 30980,
+"p": 1.0
+},
+{
+"text": "his",
+"startMs": 30980,
+"endMs": 31120,
+"p": 1.0
+},
+{
+"text": "wife",
+"startMs": 31120,
+"endMs": 31360,
+"p": 1.0
+},
+{
+"text": "thought",
+"startMs": 31360,
+"endMs": 31680,
+"p": 0.99
+},
+{
+"text": "something",
+"startMs": 31680,
+"endMs": 32060,
+"p": 1.0
+},
+{
+"text": "was",
+"startMs": 32060,
+"endMs": 32280,
+"p": 1.0
+},
+{
+"text": "off.",
+"startMs": 32280,
+"endMs": 32620,
+"p": 1.0
+},
+{
+"text": "So",
+"startMs": 32980,
+"endMs": 33180,
+"p": 0.98
+},
+{
+"text": "Lustig",
+"startMs": 33180,
+"endMs": 33600,
+"p": 0.96
+},
+{
+"text": "did",
+"startMs": 33600,
+"endMs": 33820,
+"p": 0.99
+},
+{
+"text": "something",
+"startMs": 33820,
+"endMs": 34200,
+"p": 1.0
+},
+{
+"text": "genius.",
+"startMs": 34200,
+"endMs": 34680,
+"p": 0.98
+},
+{
+"text": "He",
+"startMs": 35120,
+"endMs": 35220,
+"p": 1.0
+},
+{
+"text": "asked",
+"startMs": 35220,
+"endMs": 35520,
+"p": 1.0
+},
+{
+"text": "Poisson",
+"startMs": 35520,
+"endMs": 35980,
+"p": 1.0
+},
+{
+"text": "for",
+"startMs": 35980,
+"endMs": 36220,
+"p": 1.0
+},
+{
+"text": "a",
+"startMs": 36220,
+"endMs": 36500,
+"p": 1.0
+},
+{
+"text": "bribe.",
+"startMs": 36500,
+"endMs": 36600,
+"p": 0.99
+},
+{
+"text": "Now",
+"startMs": 37060,
+"endMs": 37240,
+"p": 0.98
+},
+{
+"text": "Poisson",
+"startMs": 37240,
+"endMs": 37720,
+"p": 0.97
+},
+{
+"text": "was",
+"startMs": 37720,
+"endMs": 37940,
+"p": 1.0
+},
+{
+"text": "sure.",
+"startMs": 37940,
+"endMs": 38280,
+"p": 0.99
+},
+{
+"text": "Only",
+"startMs": 38700,
+"endMs": 38960,
+"p": 0.99
+},
+{
+"text": "a",
+"startMs": 38960,
+"endMs": 39160,
+"p": 1.0
+},
+{
+"text": "real",
+"startMs": 39160,
+"endMs": 39500,
+"p": 1.0
+},
+{
+"text": "government",
+"startMs": 39500,
+"endMs": 39880,
+"p": 0.99
+},
+{
+"text": "official",
+"startMs": 39880,
+"endMs": 40340,
+"p": 1.0
+},
+{
+"text": "would",
+"startMs": 40340,
+"endMs": 40580,
+"p": 1.0
+},
+{
+"text": "ask",
+"startMs": 40580,
+"endMs": 40860,
+"p": 1.0
+},
+{
+"text": "for",
+"startMs": 40860,
+"endMs": 41080,
+"p": 0.99
+},
+{
+"text": "a",
+"startMs": 41080,
+"endMs": 41260,
+"p": 0.99
+},
+{
+"text": "bribe.",
+"startMs": 41260,
+"endMs": 41460,
+"p": 1.0
+},
+{
+"text": "He",
+"startMs": 41920,
+"endMs": 42000,
+"p": 0.99
+},
+{
+"text": "paid",
+"startMs": 42000,
+"endMs": 42220,
+"p": 0.99
+},
+{
+"text": "for",
+"startMs": 42220,
+"endMs": 42440,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 42440,
+"endMs": 42580,
+"p": 1.0
+},
+{
+"text": "tower",
+"startMs": 42580,
+"endMs": 42920,
+"p": 0.96
+},
+{
+"text": "and",
+"startMs": 42920,
+"endMs": 43160,
+"p": 0.69
+},
+{
+"text": "he",
+"startMs": 43160,
+"endMs": 43280,
+"p": 0.98
+},
+{
+"text": "paid",
+"startMs": 43280,
+"endMs": 43480,
+"p": 0.99
+},
+{
+"text": "the",
+"startMs": 43480,
+"endMs": 43640,
+"p": 0.99
+},
+{
+"text": "bribe.",
+"startMs": 43640,
+"endMs": 44080,
+"p": 1.0
+},
+{
+"text": "Lustig",
+"startMs": 44720,
+"endMs": 44980,
+"p": 1.0
+},
+{
+"text": "took",
+"startMs": 44980,
+"endMs": 45160,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 45160,
+"endMs": 45400,
+"p": 1.0
+},
+{
+"text": "money",
+"startMs": 45400,
+"endMs": 45600,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 45600,
+"endMs": 45860,
+"p": 0.98
+},
+{
+"text": "fled",
+"startMs": 45860,
+"endMs": 46060,
+"p": 0.99
+},
+{
+"text": "to",
+"startMs": 46060,
+"endMs": 46300,
+"p": 1.0
+},
+{
+"text": "Vienna,",
+"startMs": 46300,
+"endMs": 46600,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 47020,
+"endMs": 47200,
+"p": 1.0
+},
+{
+"text": "Poisson,",
+"startMs": 47200,
+"endMs": 47700,
+"p": 0.99
+},
+{
+"text": "he",
+"startMs": 47920,
+"endMs": 47980,
+"p": 0.99
+},
+{
+"text": "was",
+"startMs": 47980,
+"endMs": 48080,
+"p": 1.0
+},
+{
+"text": "too",
+"startMs": 48080,
+"endMs": 48340,
+"p": 0.99
+},
+{
+"text": "embarrassed",
+"startMs": 48340,
+"endMs": 48820,
+"p": 0.99
+},
+{
+"text": "to",
+"startMs": 48820,
+"endMs": 49080,
+"p": 1.0
+},
+{
+"text": "tell",
+"startMs": 49080,
+"endMs": 49260,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 49260,
+"endMs": 49460,
+"p": 0.99
+},
+{
+"text": "police.",
+"startMs": 49460,
+"endMs": 49780,
+"p": 1.0
+},
+{
+"text": "So",
+"startMs": 50240,
+"endMs": 50420,
+"p": 0.99
+},
+{
+"text": "a",
+"startMs": 50420,
+"endMs": 50540,
+"p": 0.94
+},
+{
+"text": "few",
+"startMs": 50540,
+"endMs": 50720,
+"p": 1.0
+},
+{
+"text": "months",
+"startMs": 50720,
+"endMs": 50960,
+"p": 1.0
+},
+{
+"text": "later",
+"startMs": 50960,
+"endMs": 51320,
+"p": 1.0
+},
+{
+"text": "Lustig",
+"startMs": 51320,
+"endMs": 51780,
+"p": 0.77
+},
+{
+"text": "came",
+"startMs": 51780,
+"endMs": 52020,
+"p": 1.0
+},
+{
+"text": "back",
+"startMs": 52020,
+"endMs": 52400,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 52400,
+"endMs": 52900,
+"p": 0.72
+},
+{
+"text": "tried",
+"startMs": 52900,
+"endMs": 53140,
+"p": 1.0
+},
+{
+"text": "to",
+"startMs": 53140,
+"endMs": 53340,
+"p": 1.0
+},
+{
+"text": "sell",
+"startMs": 53340,
+"endMs": 53540,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 53540,
+"endMs": 53760,
+"p": 0.99
+},
+{
+"text": "Eiffel",
+"startMs": 53760,
+"endMs": 54140,
+"p": 0.98
+},
+{
+"text": "Tower",
+"startMs": 54140,
+"endMs": 54400,
+"p": 0.82
+},
+{
+"text": "again.",
+"startMs": 54400,
+"endMs": 54800,
+"p": 0.99
+},
+{
+"text": "This",
+"startMs": 54800,
+"endMs": 55460,
+"p": 0.36
+},
+{
+"text": "time",
+"startMs": 55460,
+"endMs": 55800,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 55800,
+"endMs": 56020,
+"p": 0.64
+},
+{
+"text": "dealer",
+"startMs": 56020,
+"endMs": 56280,
+"p": 0.98
+},
+{
+"text": "went",
+"startMs": 56280,
+"endMs": 56520,
+"p": 1.0
+},
+{
+"text": "to",
+"startMs": 56520,
+"endMs": 56680,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 56680,
+"endMs": 56780,
+"p": 0.99
+},
+{
+"text": "police,",
+"startMs": 56780,
+"endMs": 57160,
+"p": 0.99
+},
+{
+"text": "and",
+"startMs": 57580,
+"endMs": 57680,
+"p": 0.99
+},
+{
+"text": "Lustig",
+"startMs": 57680,
+"endMs": 58040,
+"p": 0.99
+},
+{
+"text": "escaped",
+"startMs": 58040,
+"endMs": 58620,
+"p": 0.99
+},
+{
+"text": "again.",
+"startMs": 58620,
+"endMs": 59340,
+"p": 0.62
+}
+]

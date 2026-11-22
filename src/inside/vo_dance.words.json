@@ -1,0 +1,1118 @@
+[
+{
+"text": "In",
+"startMs": 0,
+"endMs": 200,
+"p": 0.93
+},
+{
+"text": "1518",
+"startMs": 200,
+"endMs": 1580,
+"p": 0.92
+},
+{
+"text": "a",
+"startMs": 1920,
+"endMs": 1940,
+"p": 0.99
+},
+{
+"text": "woman",
+"startMs": 1940,
+"endMs": 2120,
+"p": 0.99
+},
+{
+"text": "in",
+"startMs": 2120,
+"endMs": 2340,
+"p": 0.99
+},
+{
+"text": "Strasbourg",
+"startMs": 2340,
+"endMs": 2860,
+"p": 0.77
+},
+{
+"text": "started",
+"startMs": 2860,
+"endMs": 3160,
+"p": 0.96
+},
+{
+"text": "dancing",
+"startMs": 3160,
+"endMs": 3560,
+"p": 1.0
+},
+{
+"text": "in",
+"startMs": 3560,
+"endMs": 3760,
+"p": 0.99
+},
+{
+"text": "the",
+"startMs": 3760,
+"endMs": 3860,
+"p": 1.0
+},
+{
+"text": "street,",
+"startMs": 3860,
+"endMs": 4120,
+"p": 0.99
+},
+{
+"text": "and",
+"startMs": 4500,
+"endMs": 4760,
+"p": 0.99
+},
+{
+"text": "she",
+"startMs": 4760,
+"endMs": 4900,
+"p": 1.0
+},
+{
+"text": "couldn't",
+"startMs": 4900,
+"endMs": 5140,
+"p": 0.99
+},
+{
+"text": "stop.",
+"startMs": 5140,
+"endMs": 5460,
+"p": 1.0
+},
+{
+"text": "Her",
+"startMs": 5980,
+"endMs": 6060,
+"p": 0.99
+},
+{
+"text": "name",
+"startMs": 6060,
+"endMs": 6260,
+"p": 1.0
+},
+{
+"text": "was",
+"startMs": 6260,
+"endMs": 6460,
+"p": 1.0
+},
+{
+"text": "Frau",
+"startMs": 6460,
+"endMs": 6800,
+"p": 0.87
+},
+{
+"text": "Troffea.",
+"startMs": 6800,
+"endMs": 7340,
+"p": 0.59
+},
+{
+"text": "She",
+"startMs": 7480,
+"endMs": 7580,
+"p": 0.99
+},
+{
+"text": "danced",
+"startMs": 7580,
+"endMs": 7820,
+"p": 1.0
+},
+{
+"text": "all",
+"startMs": 7820,
+"endMs": 8120,
+"p": 1.0
+},
+{
+"text": "day,",
+"startMs": 8120,
+"endMs": 8380,
+"p": 1.0
+},
+{
+"text": "then",
+"startMs": 8500,
+"endMs": 8580,
+"p": 0.99
+},
+{
+"text": "all",
+"startMs": 8580,
+"endMs": 8800,
+"p": 1.0
+},
+{
+"text": "night",
+"startMs": 8800,
+"endMs": 9040,
+"p": 1.0
+},
+{
+"text": "for",
+"startMs": 9040,
+"endMs": 9260,
+"p": 0.8
+},
+{
+"text": "almost",
+"startMs": 9260,
+"endMs": 9520,
+"p": 1.0
+},
+{
+"text": "a",
+"startMs": 9520,
+"endMs": 9720,
+"p": 1.0
+},
+{
+"text": "week.",
+"startMs": 9720,
+"endMs": 9920,
+"p": 1.0
+},
+{
+"text": "And",
+"startMs": 10320,
+"endMs": 10420,
+"p": 0.98
+},
+{
+"text": "then",
+"startMs": 10420,
+"endMs": 10600,
+"p": 0.99
+},
+{
+"text": "other",
+"startMs": 10600,
+"endMs": 10800,
+"p": 0.91
+},
+{
+"text": "people",
+"startMs": 10800,
+"endMs": 11100,
+"p": 1.0
+},
+{
+"text": "joined",
+"startMs": 11100,
+"endMs": 11520,
+"p": 1.0
+},
+{
+"text": "her,",
+"startMs": 11520,
+"endMs": 11760,
+"p": 1.0
+},
+{
+"text": "30,",
+"startMs": 11980,
+"endMs": 12140,
+"p": 0.92
+},
+{
+"text": "then",
+"startMs": 12380,
+"endMs": 12480,
+"p": 1.0
+},
+{
+"text": "100.",
+"startMs": 12480,
+"endMs": 12880,
+"p": 0.71
+},
+{
+"text": "Some",
+"startMs": 13380,
+"endMs": 13460,
+"p": 1.0
+},
+{
+"text": "accounts",
+"startMs": 13460,
+"endMs": 13780,
+"p": 0.96
+},
+{
+"text": "say",
+"startMs": 13780,
+"endMs": 14080,
+"p": 0.99
+},
+{
+"text": "up",
+"startMs": 14080,
+"endMs": 14200,
+"p": 0.99
+},
+{
+"text": "to",
+"startMs": 14200,
+"endMs": 14380,
+"p": 1.0
+},
+{
+"text": "400",
+"startMs": 14380,
+"endMs": 14660,
+"p": 0.99
+},
+{
+"text": "people",
+"startMs": 14660,
+"endMs": 15160,
+"p": 1.0
+},
+{
+"text": "were",
+"startMs": 15160,
+"endMs": 15380,
+"p": 1.0
+},
+{
+"text": "dancing",
+"startMs": 15380,
+"endMs": 15720,
+"p": 1.0
+},
+{
+"text": "for",
+"startMs": 15720,
+"endMs": 16000,
+"p": 0.98
+},
+{
+"text": "weeks",
+"startMs": 16000,
+"endMs": 16320,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 16320,
+"endMs": 16580,
+"p": 0.69
+},
+{
+"text": "nobody",
+"startMs": 16580,
+"endMs": 16860,
+"p": 1.0
+},
+{
+"text": "knew",
+"startMs": 16860,
+"endMs": 17180,
+"p": 1.0
+},
+{
+"text": "why.",
+"startMs": 17180,
+"endMs": 17600,
+"p": 1.0
+},
+{
+"text": "Their",
+"startMs": 17780,
+"endMs": 17880,
+"p": 0.99
+},
+{
+"text": "feet",
+"startMs": 17880,
+"endMs": 18140,
+"p": 1.0
+},
+{
+"text": "bled.",
+"startMs": 18140,
+"endMs": 18560,
+"p": 0.99
+},
+{
+"text": "They",
+"startMs": 18880,
+"endMs": 18960,
+"p": 1.0
+},
+{
+"text": "fainted",
+"startMs": 18960,
+"endMs": 19280,
+"p": 0.98
+},
+{
+"text": "from",
+"startMs": 19280,
+"endMs": 19540,
+"p": 1.0
+},
+{
+"text": "exhaustion.",
+"startMs": 19540,
+"endMs": 20020,
+"p": 1.0
+},
+{
+"text": "Some",
+"startMs": 20620,
+"endMs": 20860,
+"p": 1.0
+},
+{
+"text": "reports",
+"startMs": 20860,
+"endMs": 21280,
+"p": 1.0
+},
+{
+"text": "even",
+"startMs": 21280,
+"endMs": 21680,
+"p": 0.99
+},
+{
+"text": "say",
+"startMs": 21680,
+"endMs": 21960,
+"p": 1.0
+},
+{
+"text": "people",
+"startMs": 21960,
+"endMs": 22340,
+"p": 1.0
+},
+{
+"text": "died.",
+"startMs": 22340,
+"endMs": 22720,
+"p": 1.0
+},
+{
+"text": "So",
+"startMs": 23040,
+"endMs": 23180,
+"p": 0.99
+},
+{
+"text": "the",
+"startMs": 23180,
+"endMs": 23320,
+"p": 0.93
+},
+{
+"text": "city",
+"startMs": 23320,
+"endMs": 23520,
+"p": 0.99
+},
+{
+"text": "leaders",
+"startMs": 23520,
+"endMs": 23860,
+"p": 1.0
+},
+{
+"text": "asked",
+"startMs": 23860,
+"endMs": 24220,
+"p": 0.94
+},
+{
+"text": "the",
+"startMs": 24220,
+"endMs": 24440,
+"p": 1.0
+},
+{
+"text": "doctors",
+"startMs": 24440,
+"endMs": 24800,
+"p": 0.98
+},
+{
+"text": "for",
+"startMs": 24800,
+"endMs": 25060,
+"p": 1.0
+},
+{
+"text": "help.",
+"startMs": 25060,
+"endMs": 25320,
+"p": 1.0
+},
+{
+"text": "The",
+"startMs": 25320,
+"endMs": 25860,
+"p": 0.65
+},
+{
+"text": "doctors",
+"startMs": 25860,
+"endMs": 26280,
+"p": 0.93
+},
+{
+"text": "said",
+"startMs": 26280,
+"endMs": 26580,
+"p": 1.0
+},
+{
+"text": "it",
+"startMs": 26580,
+"endMs": 26700,
+"p": 0.99
+},
+{
+"text": "was",
+"startMs": 26700,
+"endMs": 26840,
+"p": 1.0
+},
+{
+"text": "hot",
+"startMs": 26840,
+"endMs": 27120,
+"p": 0.96
+},
+{
+"text": "blood",
+"startMs": 27120,
+"endMs": 27480,
+"p": 0.99
+},
+{
+"text": "and",
+"startMs": 27480,
+"endMs": 28160,
+"p": 0.77
+},
+{
+"text": "the",
+"startMs": 28160,
+"endMs": 28280,
+"p": 0.99
+},
+{
+"text": "cure",
+"startMs": 28280,
+"endMs": 28520,
+"p": 0.95
+},
+{
+"text": "was",
+"startMs": 28520,
+"endMs": 28760,
+"p": 1.0
+},
+{
+"text": "more",
+"startMs": 28760,
+"endMs": 29000,
+"p": 1.0
+},
+{
+"text": "dancing.",
+"startMs": 29000,
+"endMs": 29540,
+"p": 0.98
+},
+{
+"text": "So",
+"startMs": 30120,
+"endMs": 30200,
+"p": 0.98
+},
+{
+"text": "the",
+"startMs": 30200,
+"endMs": 30340,
+"p": 0.91
+},
+{
+"text": "city",
+"startMs": 30340,
+"endMs": 30540,
+"p": 0.97
+},
+{
+"text": "built",
+"startMs": 30540,
+"endMs": 30820,
+"p": 0.99
+},
+{
+"text": "a",
+"startMs": 30820,
+"endMs": 31020,
+"p": 0.99
+},
+{
+"text": "stage,",
+"startMs": 31020,
+"endMs": 31580,
+"p": 0.99
+},
+{
+"text": "hired",
+"startMs": 31820,
+"endMs": 32100,
+"p": 1.0
+},
+{
+"text": "musicians,",
+"startMs": 32100,
+"endMs": 32580,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 32880,
+"endMs": 33000,
+"p": 1.0
+},
+{
+"text": "even",
+"startMs": 33000,
+"endMs": 33280,
+"p": 0.98
+},
+{
+"text": "paid",
+"startMs": 33280,
+"endMs": 33580,
+"p": 1.0
+},
+{
+"text": "professional",
+"startMs": 33580,
+"endMs": 34220,
+"p": 1.0
+},
+{
+"text": "dancers",
+"startMs": 34220,
+"endMs": 34660,
+"p": 1.0
+},
+{
+"text": "to",
+"startMs": 34660,
+"endMs": 35020,
+"p": 0.99
+},
+{
+"text": "keep",
+"startMs": 35020,
+"endMs": 35200,
+"p": 1.0
+},
+{
+"text": "everyone",
+"startMs": 35200,
+"endMs": 35660,
+"p": 1.0
+},
+{
+"text": "moving.",
+"startMs": 35660,
+"endMs": 36040,
+"p": 1.0
+},
+{
+"text": "It",
+"startMs": 36440,
+"endMs": 36680,
+"p": 0.99
+},
+{
+"text": "did",
+"startMs": 36680,
+"endMs": 36800,
+"p": 0.99
+},
+{
+"text": "not",
+"startMs": 36800,
+"endMs": 37060,
+"p": 1.0
+},
+{
+"text": "work.",
+"startMs": 37060,
+"endMs": 37380,
+"p": 1.0
+},
+{
+"text": "It",
+"startMs": 37740,
+"endMs": 37920,
+"p": 0.99
+},
+{
+"text": "made",
+"startMs": 37920,
+"endMs": 38120,
+"p": 1.0
+},
+{
+"text": "it",
+"startMs": 38120,
+"endMs": 38320,
+"p": 1.0
+},
+{
+"text": "worse.",
+"startMs": 38320,
+"endMs": 38540,
+"p": 1.0
+},
+{
+"text": "Finally,",
+"startMs": 39220,
+"endMs": 39500,
+"p": 0.99
+},
+{
+"text": "the",
+"startMs": 39620,
+"endMs": 39740,
+"p": 0.99
+},
+{
+"text": "city",
+"startMs": 39740,
+"endMs": 39900,
+"p": 0.98
+},
+{
+"text": "banned",
+"startMs": 39900,
+"endMs": 40200,
+"p": 0.98
+},
+{
+"text": "music",
+"startMs": 40200,
+"endMs": 40540,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 40540,
+"endMs": 40780,
+"p": 0.99
+},
+{
+"text": "dancing",
+"startMs": 40780,
+"endMs": 41160,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 41160,
+"endMs": 41360,
+"p": 0.82
+},
+{
+"text": "sent",
+"startMs": 41360,
+"endMs": 41520,
+"p": 0.99
+},
+{
+"text": "the",
+"startMs": 41520,
+"endMs": 41680,
+"p": 1.0
+},
+{
+"text": "dancers",
+"startMs": 41680,
+"endMs": 42000,
+"p": 1.0
+},
+{
+"text": "up",
+"startMs": 42000,
+"endMs": 42280,
+"p": 1.0
+},
+{
+"text": "into",
+"startMs": 42280,
+"endMs": 42440,
+"p": 0.99
+},
+{
+"text": "the",
+"startMs": 42440,
+"endMs": 42620,
+"p": 1.0
+},
+{
+"text": "mountains",
+"startMs": 42620,
+"endMs": 42980,
+"p": 1.0
+},
+{
+"text": "to",
+"startMs": 42980,
+"endMs": 43240,
+"p": 0.85
+},
+{
+"text": "a",
+"startMs": 43240,
+"endMs": 43400,
+"p": 1.0
+},
+{
+"text": "shrine",
+"startMs": 43400,
+"endMs": 43660,
+"p": 1.0
+},
+{
+"text": "of",
+"startMs": 43660,
+"endMs": 43840,
+"p": 0.99
+},
+{
+"text": "St.",
+"startMs": 43840,
+"endMs": 44060,
+"p": 0.54
+},
+{
+"text": "Vitus,",
+"startMs": 44220,
+"endMs": 44400,
+"p": 0.16
+},
+{
+"text": "where",
+"startMs": 44500,
+"endMs": 44660,
+"p": 0.99
+},
+{
+"text": "they",
+"startMs": 44660,
+"endMs": 44740,
+"p": 1.0
+},
+{
+"text": "were",
+"startMs": 44740,
+"endMs": 44860,
+"p": 1.0
+},
+{
+"text": "given",
+"startMs": 44860,
+"endMs": 45080,
+"p": 1.0
+},
+{
+"text": "red",
+"startMs": 45080,
+"endMs": 45340,
+"p": 0.99
+},
+{
+"text": "shoes",
+"startMs": 45340,
+"endMs": 45660,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 45660,
+"endMs": 45900,
+"p": 0.99
+},
+{
+"text": "prayers.",
+"startMs": 45900,
+"endMs": 46240,
+"p": 1.0
+},
+{
+"text": "And",
+"startMs": 46800,
+"endMs": 46900,
+"p": 0.98
+},
+{
+"text": "slowly,",
+"startMs": 46900,
+"endMs": 47280,
+"p": 0.95
+},
+{
+"text": "the",
+"startMs": 47420,
+"endMs": 47500,
+"p": 1.0
+},
+{
+"text": "dancing",
+"startMs": 47500,
+"endMs": 47860,
+"p": 1.0
+},
+{
+"text": "stopped.",
+"startMs": 47860,
+"endMs": 48340,
+"p": 1.0
+},
+{
+"text": "To",
+"startMs": 48920,
+"endMs": 49000,
+"p": 1.0
+},
+{
+"text": "this",
+"startMs": 49000,
+"endMs": 49180,
+"p": 1.0
+},
+{
+"text": "day,",
+"startMs": 49180,
+"endMs": 49380,
+"p": 1.0
+},
+{
+"text": "nobody",
+"startMs": 49480,
+"endMs": 49720,
+"p": 0.99
+},
+{
+"text": "knows",
+"startMs": 49720,
+"endMs": 50040,
+"p": 1.0
+},
+{
+"text": "exactly",
+"startMs": 50040,
+"endMs": 50440,
+"p": 1.0
+},
+{
+"text": "why",
+"startMs": 50440,
+"endMs": 50800,
+"p": 1.0
+},
+{
+"text": "it",
+"startMs": 50800,
+"endMs": 50900,
+"p": 1.0
+},
+{
+"text": "happened.",
+"startMs": 50900,
+"endMs": 51240,
+"p": 1.0
+},
+{
+"text": "Historians",
+"startMs": 51720,
+"endMs": 52180,
+"p": 0.5
+},
+{
+"text": "think",
+"startMs": 52180,
+"endMs": 52440,
+"p": 0.99
+},
+{
+"text": "it",
+"startMs": 52440,
+"endMs": 52580,
+"p": 0.98
+},
+{
+"text": "may",
+"startMs": 52580,
+"endMs": 52700,
+"p": 0.99
+},
+{
+"text": "have",
+"startMs": 52700,
+"endMs": 52800,
+"p": 0.98
+},
+{
+"text": "been",
+"startMs": 52800,
+"endMs": 52900,
+"p": 1.0
+},
+{
+"text": "mass",
+"startMs": 52900,
+"endMs": 53120,
+"p": 0.83
+},
+{
+"text": "stress",
+"startMs": 53120,
+"endMs": 53420,
+"p": 0.5
+},
+{
+"text": "after",
+"startMs": 53420,
+"endMs": 53800,
+"p": 0.97
+},
+{
+"text": "years",
+"startMs": 53800,
+"endMs": 54020,
+"p": 0.99
+},
+{
+"text": "of",
+"startMs": 54020,
+"endMs": 54240,
+"p": 1.0
+},
+{
+"text": "famine",
+"startMs": 54240,
+"endMs": 54540,
+"p": 0.99
+},
+{
+"text": "and",
+"startMs": 54540,
+"endMs": 54740,
+"p": 0.99
+},
+{
+"text": "disease,",
+"startMs": 54740,
+"endMs": 55080,
+"p": 0.99
+},
+{
+"text": "but",
+"startMs": 55380,
+"endMs": 55440,
+"p": 0.99
+},
+{
+"text": "one",
+"startMs": 55440,
+"endMs": 55680,
+"p": 1.0
+},
+{
+"text": "thing",
+"startMs": 55680,
+"endMs": 55820,
+"p": 0.99
+},
+{
+"text": "is",
+"startMs": 55820,
+"endMs": 56000,
+"p": 1.0
+},
+{
+"text": "certain.",
+"startMs": 56000,
+"endMs": 56340,
+"p": 1.0
+},
+{
+"text": "In",
+"startMs": 56820,
+"endMs": 56960,
+"p": 0.98
+},
+{
+"text": "1518",
+"startMs": 56960,
+"endMs": 58460,
+"p": 0.93
+},
+{
+"text": "a",
+"startMs": 58680,
+"endMs": 58720,
+"p": 0.99
+},
+{
+"text": "whole",
+"startMs": 58720,
+"endMs": 58940,
+"p": 1.0
+},
+{
+"text": "city",
+"startMs": 58940,
+"endMs": 59180,
+"p": 1.0
+},
+{
+"text": "danced",
+"startMs": 59180,
+"endMs": 59580,
+"p": 0.99
+},
+{
+"text": "and",
+"startMs": 59580,
+"endMs": 60120,
+"p": 0.49
+},
+{
+"text": "couldn't",
+"startMs": 60120,
+"endMs": 60420,
+"p": 0.99
+},
+{
+"text": "stop.",
+"startMs": 60420,
+"endMs": 60700,
+"p": 1.0
+}
+]

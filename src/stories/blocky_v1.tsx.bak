@@ -1,0 +1,105 @@
+// Blocky storyteller characters (own design, Roblox-STORY style genre look: box head/torso/limbs, painted face, outfit textures).
+// Not Roblox assets: own face set, own outfits, own hair blocks. Units: 1 = one "stud-ish" block; character ~5 tall.
+import {useMemo} from 'react';
+import * as THREE from 'three';
+
+export type Face = 'calm' | 'worried' | 'scared' | 'smile' | 'blank' | 'whisper' | 'open';
+export type Outfit = {top: string; bottom: string; pattern?: 'stars' | 'plaid' | 'stripes' | 'none'; patternColor?: string; shoes?: string; collar?: string};
+export type Pose = {armL?: number; armR?: number; armLz?: number; armRz?: number; legL?: number; legR?: number; head?: number; headTilt?: number; body?: number};
+export type Hair = {color: string; style: 'spiky' | 'short' | 'long' | 'bob' | 'none'};
+
+const cache = new Map<string, THREE.Texture>();
+const tex = (key: string, w: number, h: number, draw: (g: CanvasRenderingContext2D) => void) => {
+  if (cache.has(key)) return cache.get(key)!;
+  const c = document.createElement('canvas'); c.width = w; c.height = h; draw(c.getContext('2d')!);
+  const t = new THREE.CanvasTexture(c); t.colorSpace = THREE.SRGBColorSpace; t.anisotropy = 8; cache.set(key, t); return t;
+};
+const shade = (hex: string, k: number) => { const c = new THREE.Color(hex); c.multiplyScalar(k); return '#' + c.getHexString(); };
+
+const clothTex = (o: Outfit, part: 'top' | 'bottom') => tex(`cloth-${JSON.stringify(o)}-${part}`, 256, 256, (g) => {
+  const base = part === 'top' ? o.top : o.bottom;
+  g.fillStyle = base; g.fillRect(0, 0, 256, 256);
+  // soft fabric noise + folds
+  for (let i = 0; i < 900; i++) { g.fillStyle = `rgba(${Math.random() < 0.5 ? '255,255,255' : '0,0,0'},0.04)`; g.fillRect(Math.random() * 256, Math.random() * 256, 3, 3); }
+  const pc = o.patternColor ?? '#ffe066';
+  if (o.pattern === 'stars') { g.fillStyle = pc; for (let y = 16; y < 256; y += 48) for (let x = (y / 48) % 2 ? 40 : 16; x < 256; x += 56) star(g, x, y, 9); }
+  if (o.pattern === 'plaid') { g.globalAlpha = 0.35; g.fillStyle = shade(base, 0.45); for (let x = 0; x < 256; x += 48) g.fillRect(x, 0, 14, 256); for (let y = 0; y < 256; y += 48) g.fillRect(0, y, 256, 14); g.globalAlpha = 1; }
+  if (o.pattern === 'stripes') { g.fillStyle = pc; for (let y = 0; y < 256; y += 40) g.fillRect(0, y, 256, 16); }
+  // hem
+  g.fillStyle = shade(base, 0.75); g.fillRect(0, 244, 256, 12);
+});
+const star = (g: CanvasRenderingContext2D, x: number, y: number, r: number) => { g.beginPath(); for (let i = 0; i < 10; i++) { const a = -Math.PI / 2 + (i * Math.PI) / 5, rr = i % 2 ? r * 0.45 : r; g.lineTo(x + Math.cos(a) * rr, y + Math.sin(a) * rr); } g.closePath(); g.fill(); };
+
+// own face set: round dark eyes with a white glint, thin brows, simple mouth shapes
+export const faceTex = (f: Face, skin: string) => tex(`face-${f}-${skin}`, 256, 256, (g) => {
+  g.fillStyle = skin; g.fillRect(0, 0, 256, 256);
+  const eye = (x: number, ry = 16) => { g.fillStyle = '#1b1b1f'; g.beginPath(); g.ellipse(x, 120, 11, ry, 0, 0, Math.PI * 2); g.fill(); g.fillStyle = '#fff'; g.beginPath(); g.arc(x + 4, 113, 3.5, 0, Math.PI * 2); g.fill(); };
+  const wide = f === 'scared' || f === 'open', ry = wide ? 20 : f === 'blank' ? 12 : 16;
+  eye(96, ry); eye(160, ry);
+  g.strokeStyle = '#2a2220'; g.lineWidth = 6; g.lineCap = 'round';
+  const brow = (x: number, d: number) => { g.beginPath(); g.moveTo(x - 16, 88 - (f === 'worried' || f === 'scared' ? d * 8 : 0)); g.lineTo(x + 16, 88 + (f === 'worried' || f === 'scared' ? d * 8 : 0)); g.stroke(); };
+  if (f !== 'blank') { brow(96, -1); brow(160, 1); }
+  g.lineWidth = 5; g.beginPath();
+  if (f === 'smile' || f === 'calm') g.arc(128, 152, f === 'smile' ? 20 : 12, 0.15 * Math.PI, 0.85 * Math.PI);
+  else if (f === 'worried') g.arc(128, 178, 14, 1.15 * Math.PI, 1.85 * Math.PI);
+  else if (f === 'scared' || f === 'open') { g.fillStyle = '#3a1717'; g.ellipse(128, 165, 13, 17, 0, 0, Math.PI * 2); g.fill(); }
+  else if (f === 'whisper') { g.moveTo(118, 165); g.lineTo(138, 165); }
+  else { g.moveTo(120, 166); g.lineTo(136, 166); }
+  g.stroke();
+});
+
+const Box = ({s, p, c, map, r = [0, 0, 0]}: {s: [number, number, number]; p: [number, number, number]; c?: string; map?: THREE.Texture; r?: [number, number, number]}) =>
+  <mesh position={p} rotation={r} castShadow receiveShadow><boxGeometry args={s} /><meshStandardMaterial color={map ? '#ffffff' : c} map={map} roughness={0.85} /></mesh>;
+
+/** limb pivoting at its top (shoulder/hip) */
+const Limb = ({at, rx = 0, rz = 0, s, map, c}: {at: [number, number, number]; rx?: number; rz?: number; s: [number, number, number]; map?: THREE.Texture; c?: string}) =>
+  <group position={at} rotation={[rx, 0, rz]}><Box s={s} p={[0, -s[1] / 2, 0]} map={map} c={c} /></group>;
+
+export const Blocky = ({outfit, hair, face = 'calm', skin = '#f2c9a0', pose = {}, pos = [0, 0, 0], rotY = 0, scale = 1}:
+  {outfit: Outfit; hair: Hair; face?: Face; skin?: string; pose?: Pose; pos?: [number, number, number]; rotY?: number; scale?: number}) => {
+  const top = clothTex(outfit, 'top'), bot = clothTex(outfit, 'bottom');
+  const fmap = faceTex(face, skin);
+  const headMats = useMemo(() => { const s = new THREE.MeshStandardMaterial({color: skin, roughness: 0.7}); const fm = new THREE.MeshStandardMaterial({map: fmap, roughness: 0.7}); return [s, s, s, s, fm, s]; }, [fmap, skin]);
+  const H = 2.0; // hip height
+  return <group position={pos} rotation={[0, rotY, 0]} scale={scale}>
+    <group rotation={[pose.body ?? 0, 0, 0]} position={[0, 0, 0]}>
+      {/* legs */}
+      <Limb at={[-0.5, H, 0]} rx={pose.legL ?? 0} s={[0.96, 2, 0.96]} map={bot} />
+      <Limb at={[0.5, H, 0]} rx={pose.legR ?? 0} s={[0.96, 2, 0.96]} map={bot} />
+      {/* torso */}
+      <Box s={[2, 2, 1]} p={[0, H + 1, 0]} map={top} />
+      {outfit.collar && <Box s={[0.9, 0.18, 1.04]} p={[0, H + 1.92, 0.01]} c={outfit.collar} />}
+      {/* arms (top of shoulder at H+2) */}
+      <Limb at={[-1.5, H + 2, 0]} rx={pose.armL ?? 0} rz={-(pose.armLz ?? 0)} s={[0.96, 2, 0.96]} map={top} />
+      <Limb at={[1.5, H + 2, 0]} rx={pose.armR ?? 0} rz={pose.armRz ?? 0} s={[0.96, 2, 0.96]} map={top} />
+      {/* hands */}
+      {/* head */}
+      <group position={[0, H + 2.05, 0]} rotation={[pose.headTilt ?? 0, pose.head ?? 0, 0]}>
+        <mesh position={[0, 0.62, 0]} material={headMats} castShadow><boxGeometry args={[1.2, 1.2, 1.2]} /></mesh>
+        <HairBlocks hair={hair} />
+      </group>
+    </group>
+  </group>;
+};
+
+const HairBlocks = ({hair}: {hair: Hair}) => {
+  const c = hair.color, d = shade(c, 0.85);
+  if (hair.style === 'none') return null;
+  const b = (s: [number, number, number], p: [number, number, number], r: [number, number, number] = [0, 0, 0], col = c) => <Box s={s} p={p} r={r} c={col} />;
+  if (hair.style === 'spiky') return <group>
+    {b([1.32, 0.38, 1.32], [0, 1.28, -0.02])}
+    {b([1.3, 0.9, 0.3], [0, 0.95, -0.55])}
+    {[-0.45, -0.15, 0.15, 0.45].map((x, i) => b([0.32, 0.42, 0.32], [x, 1.55, 0.25 - (i % 2) * 0.3], [0.3 * (i % 2 ? 1 : -1), 0, 0.35 * (x < 0 ? 1 : -1)], i % 2 ? d : c))}
+    {b([0.42, 0.3, 0.2], [-0.3, 1.08, 0.62], [0, 0, 0.3])}{b([0.42, 0.3, 0.2], [0.25, 1.1, 0.62], [0, 0, -0.25], d)}
+  </group>;
+  if (hair.style === 'short') return <group>{b([1.3, 0.34, 1.3], [0, 1.3, -0.02])}{b([1.3, 0.8, 0.26], [0, 0.95, -0.55])}{b([1.3, 0.2, 0.2], [0, 1.15, 0.6], [0, 0, 0], d)}</group>;
+  if (hair.style === 'bob') return <group>{b([1.36, 0.36, 1.36], [0, 1.3, 0])}{b([0.24, 1.0, 1.3], [-0.68, 0.85, 0])}{b([0.24, 1.0, 1.3], [0.68, 0.85, 0])}{b([1.36, 1.0, 0.24], [0, 0.85, -0.66])}{b([1.36, 0.22, 0.2], [0, 1.14, 0.62], [0, 0, 0], d)}</group>;
+  return <group>{b([1.36, 0.36, 1.36], [0, 1.3, 0])}{b([0.24, 1.7, 1.3], [-0.68, 0.55, 0])}{b([0.24, 1.7, 1.3], [0.68, 0.55, 0])}{b([1.36, 2.1, 0.26], [0, 0.35, -0.66])}{b([1.36, 0.22, 0.2], [0, 1.14, 0.62], [0, 0, 0], d)}</group>;
+};
+
+export const CAST = {
+  me: {outfit: {top: '#4f8fe0', bottom: '#4f8fe0', pattern: 'stars', patternColor: '#ffd84a', collar: '#2f5fa8'} as Outfit, hair: {color: '#7a4a24', style: 'spiky'} as Hair},
+  leo: {outfit: {top: '#3fae6a', bottom: '#2f7f4f', pattern: 'stripes', patternColor: '#9be3b5'} as Outfit, hair: {color: '#2a1d16', style: 'short'} as Hair},
+  mia: {outfit: {top: '#f08bb4', bottom: '#f08bb4', pattern: 'stars', patternColor: '#ffffff', collar: '#c9628c'} as Outfit, hair: {color: '#e8b04a', style: 'bob'} as Hair},
+  mom: {outfit: {top: '#8a6bbf', bottom: '#3d3d55', pattern: 'none'} as Outfit, hair: {color: '#5a2e1c', style: 'long'} as Hair},
+};

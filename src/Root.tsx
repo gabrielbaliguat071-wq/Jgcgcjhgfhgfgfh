@@ -16,6 +16,9 @@ import {GumShort, GUM_MS} from './inside/GumShort';
 import {BlockTest} from './stories/BlockTest';
 import {EmuShort, EMU_MS} from './stories/EmuShort';
 import {EmuShort2, EMU2_MS} from './stories/EmuShort2';
+import {Ep2Dance, EP2_MS} from './stories/Ep2Dance';
+import {Ep3Napoleon, EP3_MS} from './stories/Ep3Napoleon';
+import {Ep4Eiffel, EP4_MS} from './stories/Ep4Eiffel';
 import {CountShort, COUNT_MS} from './stories/CountShort';
 import {FlyShort, FLY_MS} from './inside/FlyShort';
 import {WingTest} from './inside/WingTest';
@@ -95,6 +98,9 @@ export const RemotionRoot = () => (
   <Composition id="RoadsterStills" component={RoadsterStills} fps={30} width={1080} height={1920} durationInFrames={18} />
   <Composition id="WingTest" component={WingTest} fps={30} width={1080} height={1920} durationInFrames={10} />
   <Composition id="CountShort" component={CountShort} fps={30} width={1080} height={1920} durationInFrames={Math.round((COUNT_MS / 1000) * 30)} />
+  <Composition id="Ep2Dance" component={Ep2Dance} fps={30} width={1080} height={1920} durationInFrames={Math.round((EP2_MS / 1000) * 30)} />
+  <Composition id="Ep3Napoleon" component={Ep3Napoleon} fps={30} width={1080} height={1920} durationInFrames={Math.round((EP3_MS / 1000) * 30)} />
+  <Composition id="Ep4Eiffel" component={Ep4Eiffel} fps={30} width={1080} height={1920} durationInFrames={Math.round((EP4_MS / 1000) * 30)} />
   <Composition id="EmuShort2" component={EmuShort2} fps={30} width={1080} height={1920} durationInFrames={Math.round((EMU2_MS / 1000) * 30)} />
   <Composition id="EmuShort" component={EmuShort} fps={30} width={1080} height={1920} durationInFrames={Math.round((EMU_MS / 1000) * 30)} />
   <Composition id="BlockTest" component={BlockTest} fps={30} width={1080} height={1920} durationInFrames={30} />

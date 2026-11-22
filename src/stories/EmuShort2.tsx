@@ -11,17 +11,17 @@ const W = (raw as {text: string; startMs: number; endMs: number}[]).map((w) => (
 export const EMU2_MS = W[W.length - 1].b + 2600;
 const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9,]/g, '').replace(/,$/, '');
 const at = (word: string, n = 0) => W.filter((w) => norm(w.t) === norm(word))[n]?.a ?? 0;
-const cl = {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'} as const;
-const ease = (o: number, a: number, b: number) => interpolate(o, [a, b], [0, 1], {...cl, easing: (x) => x * x * (3 - 2 * x)});
-const pop = (o: number, ms: number, k = 180) => spring({frame: Math.max(0, (o - ms) / (1000 / FPS)), fps: FPS, config: {damping: 10, stiffness: k}});
-const blink = (o: number, seed = 0) => ((o + seed * 811) % 3100) < 110;
+export const cl = {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'} as const;
+export const ease = (o: number, a: number, b: number) => interpolate(o, [a, b], [0, 1], {...cl, easing: (x) => x * x * (3 - 2 * x)});
+export const pop = (o: number, ms: number, k = 180) => spring({frame: Math.max(0, (o - ms) / (1000 / FPS)), fps: FPS, config: {damping: 10, stiffness: k}});
+export const blink = (o: number, seed = 0) => ((o + seed * 811) % 3100) < 110;
 
 // ======================= characters =======================
-type Hat = 'slouch' | 'cap' | 'farmer' | 'none' | 'top' | 'beret';
+export type Hat = 'slouch' | 'cap' | 'farmer' | 'none' | 'top' | 'beret' | 'bicorne' | 'plume' | 'bowler' | 'fedora' | 'hood' | 'bonnet' | 'doctor' | 'crown';
 type BeanP = {x: number; y: number; s?: number; shirt?: string; pants?: string; hat?: Hat; mustache?: boolean; glasses?: boolean; mouth?: 'smile' | 'flat' | 'o' | 'frown' | 'grin' | 'talk' | 'yell';
   walk?: number; armL?: number; armR?: number; flip?: boolean; eyes?: 'dot' | 'wide' | 'tired' | 'closed' | 'squint' | 'cry'; brows?: 'none' | 'smug' | 'worried' | 'angry'; tilt?: number; sweat?: boolean;
-  look?: number; o: number; seed?: number; uniform?: boolean; hold?: React.ReactNode; jump?: number};
-export const Bean = ({x, y, s = 1, shirt = '#7b8b4a', pants = '#5b4a36', hat = 'slouch', mustache, glasses, mouth = 'smile', walk = 0, armL = 0.25, armR = -0.25, flip, eyes = 'dot', brows = 'none', tilt = 0, sweat, look = 0, o, seed = 0, uniform = true, hold, jump = 0}: BeanP) => {
+  look?: number; o: number; seed?: number; uniform?: boolean; hold?: React.ReactNode; jump?: number; dress?: string; hair?: string; skin?: string; blush?: boolean};
+export const Bean = ({x, y, s = 1, shirt = '#7b8b4a', pants = '#5b4a36', hat = 'slouch', mustache, glasses, mouth = 'smile', walk = 0, armL = 0.25, armR = -0.25, flip, eyes = 'dot', brows = 'none', tilt = 0, sweat, look = 0, o, seed = 0, uniform = true, hold, jump = 0, dress, hair, skin = '#fffdf8', blush}: BeanP) => {
   const sw = Math.sin(walk) * 0.5, bob = (walk ? Math.abs(Math.cos(walk)) * 7 : 0) + Math.sin(o / 520 + seed) * 2.5 + jump;
   const leg = (dx: number, a: number) => <g transform={`translate(${dx} -72) rotate(${a * 57})`}><rect x={-9} y={0} width={18} height={66} rx={9} fill={pants} stroke={INK} strokeWidth={6} /><path d="M-14 62 L22 62 Q28 76 14 78 L-14 78 Z" fill="#3a2a1e" stroke={INK} strokeWidth={5} /></g>;
   const arm = (dx: number, a: number, h?: React.ReactNode) => <g transform={`translate(${dx} -158) rotate(${a * 57})`}><rect x={-11} y={-4} width={22} height={80} rx={11} fill={shirt} stroke={INK} strokeWidth={6} /><circle cx={0} cy={84} r={13} fill="#fffdf8" stroke={INK} strokeWidth={5} />{h && <g transform="translate(0 90)">{h}</g>}</g>;
@@ -47,11 +47,15 @@ export const Bean = ({x, y, s = 1, shirt = '#7b8b4a', pants = '#5b4a36', hat = '
         <rect x={-42} y={-172} width={28} height={22} rx={4} fill="rgba(0,0,0,0.12)" stroke={INK} strokeWidth={3} /><rect x={14} y={-172} width={28} height={22} rx={4} fill="rgba(0,0,0,0.12)" stroke={INK} strokeWidth={3} />
         {[-140, -124].map((by) => <circle key={by} cx={0} cy={by} r={4} fill="#d9b24a" stroke={INK} strokeWidth={2} />)}</>}
       {!uniform && <path d="M-20 -200 L0 -176 L20 -200" stroke={INK} strokeWidth={5} fill="none" />}
+      {dress && <path d="M-56 -110 L-86 -10 Q0 10 86 -10 L56 -110 Z" fill={dress} stroke={INK} strokeWidth={8} />}
       {arm(-54, armL - sw * 0.6)}{arm(54, armR + sw * 0.6, hold)}
       <g transform="translate(0 -270)">
-        <ellipse cx={0} cy={0} rx={66} ry={76} fill="#fffdf8" stroke={INK} strokeWidth={8} />
+        {hair && <path d="M-72 -10 Q-80 -90 0 -86 Q80 -90 72 -10 L76 80 Q60 96 50 60 L-50 60 Q-60 96 -76 80 Z" fill={hair} stroke={INK} strokeWidth={7} />}
+        <ellipse cx={0} cy={0} rx={66} ry={76} fill={skin} stroke={INK} strokeWidth={8} />
+        {hair && <path d="M-64 -30 Q-40 -86 0 -80 Q40 -86 64 -30 Q30 -54 0 -50 Q-30 -54 -64 -30 Z" fill={hair} stroke={INK} strokeWidth={6} />}
         <path d="M30 -64 Q70 -20 50 50 Q40 70 20 74 Q60 20 30 -64 Z" fill="rgba(0,0,0,0.07)" />
         <ellipse cx={-40} cy={20} rx={12} ry={7} fill="rgba(255,120,110,0.35)" /><ellipse cx={40} cy={20} rx={12} ry={7} fill="rgba(255,120,110,0.35)" />
+        {blush && <><ellipse cx={-42} cy={22} rx={18} ry={10} fill="rgba(255,80,80,0.55)" /><ellipse cx={42} cy={22} rx={18} ry={10} fill="rgba(255,80,80,0.55)" /></>}
         {eye(-25)}{eye(25)}
         {glasses && <g fill="none" stroke={INK} strokeWidth={5}><circle cx={-25} cy={-4} r={20} /><circle cx={25} cy={-4} r={20} /><path d="M-5 -6 L5 -6" /></g>}
         {brows !== 'none' && <g stroke={INK} strokeWidth={7} strokeLinecap="round">
@@ -65,6 +69,14 @@ export const Bean = ({x, y, s = 1, shirt = '#7b8b4a', pants = '#5b4a36', hat = '
         {hat === 'cap' && <g><path d="M-60 -46 Q0 -116 60 -46 Z" fill="#6b6f3c" stroke={INK} strokeWidth={6} /><path d="M-62 -46 L76 -46 L88 -38 L-62 -38 Z" fill="#3e3f22" stroke={INK} strokeWidth={5} /><circle cx={0} cy={-76} r={10} fill="#e8c34a" stroke={INK} strokeWidth={3} /><path d="M-40 -56 L40 -56" stroke="#c9493c" strokeWidth={6} /></g>}
         {hat === 'farmer' && <g><ellipse cx={0} cy={-46} rx={100} ry={18} fill="#e5c56a" stroke={INK} strokeWidth={6} /><path d="M-52 -48 Q-48 -104 0 -106 Q48 -104 52 -48 Z" fill="#edd27c" stroke={INK} strokeWidth={6} /><rect x={-52} y={-64} width={104} height={12} fill="#b5463a" />{[-30, -10, 10, 30].map((hx) => <line key={hx} x1={hx} y1={-100} x2={hx - 4} y2={-66} stroke="#c9a94a" strokeWidth={3} />)}</g>}
         {hat === 'top' && <g><rect x={-46} y={-140} width={92} height={96} rx={6} fill="#2d2a2e" stroke={INK} strokeWidth={6} /><ellipse cx={0} cy={-46} rx={80} ry={14} fill="#2d2a2e" stroke={INK} strokeWidth={6} /><rect x={-46} y={-66} width={92} height={12} fill="#8a1f2a" /></g>}
+        {hat === 'bicorne' && <g><path d="M-110 -40 Q-60 -120 0 -112 Q60 -120 110 -40 Q60 -64 0 -60 Q-60 -64 -110 -40 Z" fill="#1f1f2a" stroke={INK} strokeWidth={6} /><circle cx={0} cy={-80} r={14} fill="#2b4f9a" stroke="#fff" strokeWidth={4} /><path d="M-6 -80 L6 -80" stroke="#c9493c" strokeWidth={6} /></g>}
+        {hat === 'plume' && <g><path d="M-104 -40 Q-50 -110 0 -104 Q50 -110 104 -40 Q50 -62 0 -58 Q-50 -62 -104 -40 Z" fill="#1f1f2a" stroke={INK} strokeWidth={6} /><path d="M20 -100 Q60 -170 -10 -170 Q40 -140 10 -100 Z" fill="#fff" stroke={INK} strokeWidth={5} /><path d="M10 -100 Q-30 -160 -70 -150 Q-20 -130 -4 -98 Z" fill="#c9493c" stroke={INK} strokeWidth={5} /></g>}
+        {hat === 'bowler' && <g><ellipse cx={0} cy={-46} rx={84} ry={14} fill="#2d2a2e" stroke={INK} strokeWidth={6} /><path d="M-54 -48 Q-54 -112 0 -112 Q54 -112 54 -48 Z" fill="#2d2a2e" stroke={INK} strokeWidth={6} /><rect x={-54} y={-62} width={108} height={10} fill="#5a4a3a" /></g>}
+        {hat === 'fedora' && <g><path d="M-100 -40 Q0 -64 100 -40 Q70 -30 0 -34 Q-70 -30 -100 -40 Z" fill="#3a3640" stroke={INK} strokeWidth={6} /><path d="M-56 -44 Q-56 -110 -10 -100 Q0 -88 10 -100 Q56 -110 56 -44 Z" fill="#46424c" stroke={INK} strokeWidth={6} /><rect x={-56} y={-58} width={112} height={12} fill="#1f1d22" /></g>}
+        {hat === 'hood' && <g><path d="M-80 30 Q-90 -100 0 -104 Q90 -100 80 30 Q70 -60 0 -64 Q-70 -60 -80 30 Z" fill="#8a3a2a" stroke={INK} strokeWidth={6} /></g>}
+        {hat === 'bonnet' && <g><path d="M-78 10 Q-86 -96 0 -100 Q86 -96 78 10 Q70 -50 0 -56 Q-70 -50 -78 10 Z" fill="#f4f0e6" stroke={INK} strokeWidth={6} /></g>}
+        {hat === 'doctor' && <g><rect x={-50} y={-130} width={100} height={84} rx={14} fill="#2d2a2e" stroke={INK} strokeWidth={6} /><ellipse cx={0} cy={-46} rx={78} ry={14} fill="#2d2a2e" stroke={INK} strokeWidth={6} /></g>}
+        {hat === 'crown' && <g><path d="M-56 -46 L-56 -110 L-28 -80 L0 -120 L28 -80 L56 -110 L56 -46 Z" fill="#ffd84a" stroke={INK} strokeWidth={6} strokeLinejoin="round" /></g>}
         {hat === 'beret' && <g><ellipse cx={-6} cy={-60} rx={70} ry={28} fill="#2d2a2e" stroke={INK} strokeWidth={6} /><circle cx={-6} cy={-90} r={6} fill="#2d2a2e" /></g>}
       </g>
     </g>
@@ -102,50 +114,50 @@ export const Emu = ({x, y, s = 1, run = 0, peck = 0, flip, hat, o, eye = 'dot', 
     </g>
   </g>;
 };
-const Rabbit = ({x, y, s = 1, o, seed = 0}: {x: number; y: number; s?: number; o: number; seed?: number}) => { const h = Math.abs(Math.sin(o / 160 + seed)) * 60;
+export const Rabbit = ({x, y, s = 1, o, seed = 0}: {x: number; y: number; s?: number; o: number; seed?: number}) => { const h = Math.abs(Math.sin(o / 160 + seed)) * 60;
   return <g transform={`translate(${x} ${y - h}) scale(${s})`}><ellipse cx={0} cy={-40} rx={46} ry={36} fill="#c9b8a6" stroke={INK} strokeWidth={6} /><circle cx={40} cy={-74} r={26} fill="#c9b8a6" stroke={INK} strokeWidth={6} />
     <ellipse cx={34} cy={-126} rx={10} ry={30} fill="#c9b8a6" stroke={INK} strokeWidth={5} /><ellipse cx={52} cy={-122} rx={10} ry={28} fill="#c9b8a6" stroke={INK} strokeWidth={5} /><circle cx={48} cy={-78} r={5} fill={INK} /><circle cx={-44} cy={-36} r={12} fill="#fff" stroke={INK} strokeWidth={4} /></g>; };
 
 // ======================= world =======================
-const Defs = () => <defs>
+export const Defs = () => <defs>
   <linearGradient id="skyD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stopColor="#6cbcf0" /><stop offset="1" stopColor="#ffe7b8" /></linearGradient>
   <linearGradient id="skyS" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stopColor="#f2865a" /><stop offset="1" stopColor="#ffd59a" /></linearGradient>
   <radialGradient id="vig" cx="0.5" cy="0.45" r="0.75"><stop offset="0.6" stopColor="rgba(0,0,0,0)" /><stop offset="1" stopColor="rgba(0,0,0,0.35)" /></radialGradient>
   <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves={2} seed={3} /><feColorMatrix values="0 0 0 0 0.3 0 0 0 0 0.25 0 0 0 0 0.2 0 0 0 0.09 0" /></filter>
 </defs>;
-const Cloud = ({x, y, s = 1}: {x: number; y: number; s?: number}) => <g transform={`translate(${x} ${y}) scale(${s})`}><path d="M-120 20 Q-130 -30 -70 -30 Q-60 -80 0 -70 Q40 -110 90 -60 Q150 -60 140 0 Q150 30 110 30 L-100 30 Q-130 30 -120 20 Z" fill="#fff" stroke={INK} strokeWidth={6} /><path d="M-90 20 L100 20" stroke="#dfeaf2" strokeWidth={10} /></g>;
-const Sky = ({o, sunset, sun = true}: {o: number; sunset?: boolean; sun?: boolean}) => <>
+export const Cloud = ({x, y, s = 1}: {x: number; y: number; s?: number}) => <g transform={`translate(${x} ${y}) scale(${s})`}><path d="M-120 20 Q-130 -30 -70 -30 Q-60 -80 0 -70 Q40 -110 90 -60 Q150 -60 140 0 Q150 30 110 30 L-100 30 Q-130 30 -120 20 Z" fill="#fff" stroke={INK} strokeWidth={6} /><path d="M-90 20 L100 20" stroke="#dfeaf2" strokeWidth={10} /></g>;
+export const Sky = ({o, sunset, sun = true}: {o: number; sunset?: boolean; sun?: boolean}) => <>
   <rect x={-800} y={-800} width={2700} height={3500} fill={sunset ? 'url(#skyS)' : 'url(#skyD)'} />
-  {sun && <g transform={`translate(${sunset ? 760 : 880} ${sunset ? 760 : 560}) rotate(${o / 60})`}>{Array.from({length: 12}, (_, i) => <path key={i} d="M0 -150 L14 -118 L-14 -118 Z" fill={sunset ? '#ffb35a' : '#ffd84a'} stroke={INK} strokeWidth={4} transform={`rotate(${i * 30})`} />)}<circle r={100} fill={sunset ? '#ff9f4a' : '#ffd84a'} stroke={INK} strokeWidth={8} /></g>}
+  {sun && <g transform={`translate(${sunset ? 760 : 960} ${sunset ? 760 : 700}) rotate(${o / 60})`}>{Array.from({length: 12}, (_, i) => <path key={i} d="M0 -150 L14 -118 L-14 -118 Z" fill={sunset ? '#ffb35a' : '#ffd84a'} stroke={INK} strokeWidth={4} transform={`rotate(${i * 30})`} />)}<circle r={100} fill={sunset ? '#ff9f4a' : '#ffd84a'} stroke={INK} strokeWidth={8} /></g>}
   <Cloud x={((o / 18) % 1600) - 300} y={220} s={0.9} /><Cloud x={((o / 26 + 900) % 1700) - 350} y={430} s={0.6} />
 </>;
-const Hills = ({y, green, o}: {y: number; green?: boolean; o: number}) => { const far = green ? '#a9cf7a' : '#e9c08a', mid = green ? '#93bd5f' : '#dcae6e';
+export const Hills = ({y, green, o}: {y: number; green?: boolean; o: number}) => { const far = green ? '#a9cf7a' : '#e9c08a', mid = green ? '#93bd5f' : '#dcae6e';
   return <>
     <path d={`M-400 ${y - 140} Q100 ${y - 260} 500 ${y - 150} Q900 ${y - 60} 1500 ${y - 180} L1500 ${y + 200} L-400 ${y + 200} Z`} fill={far} stroke={INK} strokeWidth={6} />
     <path d={`M-400 ${y - 40} Q300 ${y - 130} 800 ${y - 50} Q1200 ${y} 1500 ${y - 70} L1500 ${y + 200} L-400 ${y + 200} Z`} fill={mid} stroke={INK} strokeWidth={6} />
   </>; };
-const Ground = ({y, green, o}: {y: number; green?: boolean; o: number}) => { const c = green ? '#86b452' : '#e0a95c', c2 = green ? '#6f9a40' : '#c98d45';
+export const Ground = ({y, green, o}: {y: number; green?: boolean; o: number}) => { const c = green ? '#86b452' : '#e0a95c', c2 = green ? '#6f9a40' : '#c98d45';
   return <>
     <path d={`M-600 ${y} Q300 ${y - 50} 1100 ${y - 10} Q1500 ${y + 20} 1800 ${y - 30} L1800 2800 L-600 2800 Z`} fill={c} stroke={INK} strokeWidth={8} />
     {Array.from({length: 30}, (_, i) => { const gx = (i * 193) % 1500 - 200, gy = y + 60 + (i * 127) % 700, sway = Math.sin(o / 400 + i) * 4;
       return <path key={i} d={`M${gx} ${gy} l${-10 + sway} -34 M${gx + 10} ${gy} l${sway} -46 M${gx + 20} ${gy} l${10 + sway} -32`} stroke={c2} strokeWidth={7} strokeLinecap="round" />; })}
     {Array.from({length: 8}, (_, i) => <ellipse key={'r' + i} cx={(i * 311) % 1300 - 100} cy={y + 200 + (i * 211) % 600} rx={26} ry={14} fill="#b8a48a" stroke={INK} strokeWidth={4} />)}
   </>; };
-const GumTree = ({x, y, s = 1, o}: {x: number; y: number; s?: number; o: number}) => <g transform={`translate(${x} ${y}) scale(${s}) rotate(${Math.sin(o / 900 + x) * 1.5})`}>
+export const GumTree = ({x, y, s = 1, o}: {x: number; y: number; s?: number; o: number}) => <g transform={`translate(${x} ${y}) scale(${s}) rotate(${Math.sin(o / 900 + x) * 1.5})`}>
   <path d="M-16 0 Q-6 -140 -10 -270 L12 -270 Q8 -140 18 0 Z" fill="#efe4d0" stroke={INK} strokeWidth={6} /><path d="M0 -190 Q40 -230 70 -250" stroke={INK} strokeWidth={10} fill="none" />
   <ellipse cx={-50} cy={-300} rx={120} ry={72} fill="#6f9a52" stroke={INK} strokeWidth={7} /><ellipse cx={70} cy={-330} rx={104} ry={66} fill="#83ad5f" stroke={INK} strokeWidth={7} /><ellipse cx={0} cy={-390} rx={96} ry={58} fill="#96c06d" stroke={INK} strokeWidth={7} /></g>;
-const Wheat = ({x, y, w = 900, eaten = 0, grow = 1, o}: {x: number; y: number; w?: number; eaten?: number; grow?: number; o: number}) => <g>{Array.from({length: Math.floor(w / 24)}, (_, i) => {
+export const Wheat = ({x, y, w = 900, eaten = 0, grow = 1, o}: {x: number; y: number; w?: number; eaten?: number; grow?: number; o: number}) => <g>{Array.from({length: Math.floor(w / 24)}, (_, i) => {
   const h = ((i * 37) % 3 === 0 ? 160 : 135) * grow, gone = (i / (w / 24)) < eaten, sway = Math.sin(o / 350 + i * 0.4) * 8;
   return gone ? <line key={i} x1={x + i * 24} y1={y} x2={x + i * 24} y2={y - 22} stroke="#a8803a" strokeWidth={8} strokeLinecap="round" />
     : <g key={i}><path d={`M${x + i * 24} ${y} Q${x + i * 24 + sway / 2} ${y - h / 2} ${x + i * 24 + sway} ${y - h}`} stroke="#c99a3c" strokeWidth={8} fill="none" strokeLinecap="round" />
       {grow > 0.6 && <ellipse cx={x + i * 24 + sway} cy={y - h - 14} rx={11} ry={25} fill="#f0c95a" stroke={INK} strokeWidth={5} />}</g>; })}</g>;
-const Fence = ({x, y, n = 8, broken = 0, o}: {x: number; y: number; n?: number; broken?: number; o: number}) => <g>{Array.from({length: n}, (_, i) => { const br = i >= 3 && i <= 4 ? broken : 0;
+export const Fence = ({x, y, n = 8, broken = 0, o}: {x: number; y: number; n?: number; broken?: number; o: number}) => <g>{Array.from({length: n}, (_, i) => { const br = i >= 3 && i <= 4 ? broken : 0;
   return <g key={i} transform={`translate(${x + i * 130 + br * (i === 3 ? -200 : 260)} ${y - br * 300 + br * br * 500}) rotate(${br * (i === 3 ? -200 : 240)})`}><rect x={-14} y={-150} width={28} height={150} fill="#b08050" stroke={INK} strokeWidth={6} /></g>; })}
   <rect x={x - 20} y={y - 120} width={n * 130} height={20} fill="#c9955f" stroke={INK} strokeWidth={5} opacity={1 - broken} /><rect x={x - 20} y={y - 60} width={n * 130} height={20} fill="#c9955f" stroke={INK} strokeWidth={5} opacity={1 - broken} /></g>;
-const Farmhouse = ({x, y}: {x: number; y: number}) => <g transform={`translate(${x} ${y})`}><rect x={-170} y={-230} width={340} height={230} fill="#efe6d2" stroke={INK} strokeWidth={8} /><path d="M-200 -230 L0 -380 L200 -230 Z" fill="#b5463a" stroke={INK} strokeWidth={8} strokeLinejoin="round" />
+export const Farmhouse = ({x, y}: {x: number; y: number}) => <g transform={`translate(${x} ${y})`}><rect x={-170} y={-230} width={340} height={230} fill="#efe6d2" stroke={INK} strokeWidth={8} /><path d="M-200 -230 L0 -380 L200 -230 Z" fill="#b5463a" stroke={INK} strokeWidth={8} strokeLinejoin="round" />
   {Array.from({length: 6}, (_, i) => <line key={i} x1={-200 + i * 70} y1={-230} x2={-120 + i * 40} y2={-300} stroke="#8d3229" strokeWidth={5} />)}<rect x={90} y={-360} width={44} height={90} fill="#8a6a54" stroke={INK} strokeWidth={6} />
   <rect x={-42} y={-130} width={84} height={130} fill="#6b4a2c" stroke={INK} strokeWidth={6} /><circle cx={24} cy={-64} r={6} fill="#d9b24a" /><rect x={-140} y={-180} width={66} height={60} fill="#8fd0ff" stroke={INK} strokeWidth={6} /><rect x={74} y={-180} width={66} height={60} fill="#8fd0ff" stroke={INK} strokeWidth={6} /><path d="M-140 -150 L-74 -150 M-107 -180 L-107 -120 M74 -150 L140 -150 M107 -180 L107 -120" stroke={INK} strokeWidth={4} /></g>;
-const Crate = ({x, y, label, s = 1}: {x: number; y: number; label?: string; s?: number}) => <g transform={`translate(${x} ${y}) scale(${s})`}><rect x={-100} y={-120} width={200} height={120} fill="#c79a5a" stroke={INK} strokeWidth={7} /><path d="M-100 -120 L100 0 M100 -120 L-100 0" stroke="#a87c42" strokeWidth={6} /><rect x={-100} y={-120} width={200} height={120} fill="none" stroke={INK} strokeWidth={7} />{label && <g><rect x={-80} y={-80} width={160} height={50} fill="#f4e6c4" stroke={INK} strokeWidth={4} /><text x={0} y={-43} textAnchor="middle" fontFamily="Inter" fontWeight={800} fontSize={34} fill={INK}>{label}</text></g>}</g>;
+export const Crate = ({x, y, label, s = 1}: {x: number; y: number; label?: string; s?: number}) => <g transform={`translate(${x} ${y}) scale(${s})`}><rect x={-100} y={-120} width={200} height={120} fill="#c79a5a" stroke={INK} strokeWidth={7} /><path d="M-100 -120 L100 0 M100 -120 L-100 0" stroke="#a87c42" strokeWidth={6} /><rect x={-100} y={-120} width={200} height={120} fill="none" stroke={INK} strokeWidth={7} />{label && <g><rect x={-80} y={-80} width={160} height={50} fill="#f4e6c4" stroke={INK} strokeWidth={4} /><text x={0} y={-43} textAnchor="middle" fontFamily="Inter" fontWeight={800} fontSize={34} fill={INK}>{label}</text></g>}</g>;
 const Gun = ({x, y, s = 1, flash = 0, smoke = 0, rot = 0}: {x: number; y: number; s?: number; flash?: number; smoke?: number; rot?: number}) => <g transform={`translate(${x} ${y}) scale(${s}) rotate(${rot})`}>
   <line x1={-30} y1={0} x2={-70} y2={-90} stroke={INK} strokeWidth={10} /><line x1={30} y1={0} x2={70} y2={-90} stroke={INK} strokeWidth={10} />
   <rect x={-100} y={-140} width={220} height={48} rx={12} fill="#4d5530" stroke={INK} strokeWidth={7} /><rect x={120} y={-128} width={130} height={20} fill="#3b3f26" stroke={INK} strokeWidth={5} /><circle cx={-30} cy={-162} r={32} fill="#4d5530" stroke={INK} strokeWidth={6} />
@@ -158,18 +170,18 @@ const Truck = ({x, y, shake = 0, o, s = 1}: {x: number; y: number; shake?: numbe
     {[-190, 190].map((wx, i) => <g key={i} transform={`translate(${wx} -80) rotate(${wr * 57})`}><circle r={64} fill="#2d2a2e" stroke={INK} strokeWidth={8} /><circle r={26} fill="#bbb" stroke={INK} strokeWidth={5} /><line x1={-26} y1={0} x2={26} y2={0} stroke={INK} strokeWidth={5} /><line x1={0} y1={-26} x2={0} y2={26} stroke={INK} strokeWidth={5} /></g>)}
     {[0, 1].map((i) => { const p = ((o / 260 + i * 0.5) % 1); return <circle key={'d' + i} cx={-330 - p * 200} cy={-40 - p * 50} r={24 + p * 34} fill={`rgba(220,190,140,${0.6 * (1 - p)})`} />; })}
   </g>; };
-const SpeedLines = ({o, n = 14, c = '#fff'}: {o: number; n?: number; c?: string}) => <g opacity={0.55}>{Array.from({length: n}, (_, i) => { const yy = 200 + (i * 131) % 1500, xx = ((o * 2.4 + i * 300) % 1700) - 300; return <line key={i} x1={xx} y1={yy} x2={xx + 280} y2={yy} stroke={c} strokeWidth={10} strokeLinecap="round" />; })}</g>;
-const Burst = ({o, c1 = '#ffd84a', c2 = '#ffb84a', cx = 540, cy = 1100}: {o: number; c1?: string; c2?: string; cx?: number; cy?: number}) => <g><rect x={-200} y={-200} width={1480} height={2320} fill={c1} />{Array.from({length: 18}, (_, i) => { const an = (i / 18) * Math.PI * 2 + o / 5000; return <path key={i} d={`M${cx} ${cy} L${cx + Math.cos(an) * 2200} ${cy + Math.sin(an) * 2200} L${cx + Math.cos(an + 0.17) * 2200} ${cy + Math.sin(an + 0.17) * 2200} Z`} fill={c2} />; })}</g>;
-const Feathers = ({o, t0, cx, cy, n = 8}: {o: number; t0: number; cx: number; cy: number; n?: number}) => { const p = Math.max(0, (o - t0) / 1400); if (p <= 0 || p > 1) return null;
+export const SpeedLines = ({o, n = 14, c = '#fff'}: {o: number; n?: number; c?: string}) => <g opacity={0.55}>{Array.from({length: n}, (_, i) => { const yy = 200 + (i * 131) % 1500, xx = ((o * 2.4 + i * 300) % 1700) - 300; return <line key={i} x1={xx} y1={yy} x2={xx + 280} y2={yy} stroke={c} strokeWidth={10} strokeLinecap="round" />; })}</g>;
+export const Burst = ({o, c1 = '#ffd84a', c2 = '#ffb84a', cx = 540, cy = 1100}: {o: number; c1?: string; c2?: string; cx?: number; cy?: number}) => <g><rect x={-200} y={-200} width={1480} height={2320} fill={c1} />{Array.from({length: 18}, (_, i) => { const an = (i / 18) * Math.PI * 2 + o / 5000; return <path key={i} d={`M${cx} ${cy} L${cx + Math.cos(an) * 2200} ${cy + Math.sin(an) * 2200} L${cx + Math.cos(an + 0.17) * 2200} ${cy + Math.sin(an + 0.17) * 2200} Z`} fill={c2} />; })}</g>;
+export const Feathers = ({o, t0, cx, cy, n = 8}: {o: number; t0: number; cx: number; cy: number; n?: number}) => { const p = Math.max(0, (o - t0) / 1400); if (p <= 0 || p > 1) return null;
   return <g>{Array.from({length: n}, (_, i) => { const an = (i / n) * Math.PI * 2, d = 220 * p; return <path key={i} d="M0 0 q12 -30 0 -60 q-12 30 0 60" fill="#6a5240" stroke={INK} strokeWidth={3} transform={`translate(${cx + Math.cos(an) * d} ${cy + Math.sin(an) * d + p * p * 260}) rotate(${an * 57 + o / 4})`} opacity={1 - p} />; })}</g>; };
-const Card = ({text, sub, k}: {text: string; sub?: string; k: number}) => <g transform={`translate(540 760) scale(${k}) rotate(${-4 * (1 - k)})`}><rect x={-300} y={-120} width={600} height={sub ? 280 : 220} rx={26} fill="#f4e6c4" stroke={INK} strokeWidth={10} /><rect x={-300} y={-120} width={600} height={40} rx={20} fill="#c9493c" stroke={INK} strokeWidth={8} />
+export const Card = ({text, sub, k}: {text: string; sub?: string; k: number}) => <g transform={`translate(540 760) scale(${k}) rotate(${-4 * (1 - k)})`}><rect x={-300} y={-120} width={600} height={sub ? 280 : 220} rx={26} fill="#f4e6c4" stroke={INK} strokeWidth={10} /><rect x={-300} y={-120} width={600} height={40} rx={20} fill="#c9493c" stroke={INK} strokeWidth={8} />
   <text x={0} y={46} textAnchor="middle" fontFamily="Inter" fontWeight={800} fontSize={120} fill={INK}>{text}</text>{sub && <text x={0} y={130} textAnchor="middle" fontFamily="Inter" fontWeight={800} fontSize={48} fill="#8a3a2a">{sub}</text>}</g>;
-const Bubble = ({x, y, children, k = 1, w = 300, h = 200}: {x: number; y: number; children: React.ReactNode; k?: number; w?: number; h?: number}) => <g transform={`translate(${x} ${y}) scale(${k})`}><path d={`M${-w / 2} ${-h} h${w} q30 0 30 30 v${h - 60} q0 30 -30 30 h${-w + 90} l-50 50 l10 -50 h${-50} q-30 0 -30 -30 v${-h + 60} q0 -30 30 -30 Z`} fill="#fff" stroke={INK} strokeWidth={7} />{children}</g>;
+export const Bubble = ({x, y, children, k = 1, w = 300, h = 200}: {x: number; y: number; children: React.ReactNode; k?: number; w?: number; h?: number}) => <g transform={`translate(${x} ${y}) scale(${k})`}><path d={`M${-w / 2} ${-h} h${w} q30 0 30 30 v${h - 60} q0 30 -30 30 h${-w + 90} l-50 50 l10 -50 h${-50} q-30 0 -30 -30 v${-h + 60} q0 -30 30 -30 Z`} fill="#fff" stroke={INK} strokeWidth={7} />{children}</g>;
 const Australia = ({k}: {k: number}) => <g transform={`translate(540 1000) scale(${1.15 * k})`}>
   <path d="M-330 -60 Q-320 -150 -220 -190 Q-150 -260 -80 -230 Q-30 -300 30 -250 Q70 -320 120 -260 Q150 -200 190 -230 Q230 -170 280 -130 Q330 -60 320 30 Q300 120 230 170 Q160 230 70 210 Q20 260 -40 220 Q-90 180 -160 190 Q-250 200 -300 130 Q-350 60 -330 -60 Z" fill="#e9b26a" stroke={INK} strokeWidth={10} strokeLinejoin="round" />
   <path d="M150 260 Q190 250 200 290 Q170 320 140 295 Z" fill="#e9b26a" stroke={INK} strokeWidth={8} /><path d="M-100 -230 Q-110 -100 -100 200" stroke="#c98d45" strokeWidth={6} strokeDasharray="18 14" fill="none" />
 </g>;
-const Coin = ({x, y, k}: {x: number; y: number; k: number}) => <g transform={`translate(${x} ${y}) scale(${k})`}><circle r={46} fill="#ffd84a" stroke={INK} strokeWidth={7} /><circle r={32} fill="none" stroke="#d9a830" strokeWidth={5} /><text y={16} textAnchor="middle" fontFamily="Inter" fontWeight={800} fontSize={44} fill="#8a6a20">$</text></g>;
+export const Coin = ({x, y, k}: {x: number; y: number; k: number}) => <g transform={`translate(${x} ${y}) scale(${k})`}><circle r={46} fill="#ffd84a" stroke={INK} strokeWidth={7} /><circle r={32} fill="none" stroke="#d9a830" strokeWidth={5} /><text y={16} textAnchor="middle" fontFamily="Inter" fontWeight={800} fontSize={44} fill="#8a6a20">$</text></g>;
 const Bullet = ({x, y, k}: {x: number; y: number; k: number}) => <g transform={`translate(${x} ${y}) scale(${k})`}><rect x={-14} y={-30} width={28} height={50} rx={4} fill="#c79a3a" stroke={INK} strokeWidth={5} /><path d="M-14 -30 Q0 -70 14 -30 Z" fill="#b87333" stroke={INK} strokeWidth={5} /></g>;
 const Camera = ({x, y, o}: {x: number; y: number; o: number}) => <g transform={`translate(${x} ${y})`}><line x1={0} y1={0} x2={-60} y2={180} stroke={INK} strokeWidth={10} /><line x1={0} y1={0} x2={60} y2={180} stroke={INK} strokeWidth={10} /><line x1={0} y1={0} x2={0} y2={180} stroke={INK} strokeWidth={10} />
   <rect x={-90} y={-110} width={180} height={110} rx={10} fill="#3a3a40" stroke={INK} strokeWidth={7} /><rect x={90} y={-80} width={60} height={50} fill="#2d2a2e" stroke={INK} strokeWidth={6} />{[-50, 40].map((rx) => <g key={rx} transform={`translate(${rx} -150) rotate(${o / 3})`}><circle r={46} fill="#2d2a2e" stroke={INK} strokeWidth={6} />{[0, 1, 2].map((i) => <circle key={i} cx={Math.cos(i * 2.09) * 24} cy={Math.sin(i * 2.09) * 24} r={9} fill="#777" />)}</g>)}
@@ -177,7 +189,7 @@ const Camera = ({x, y, o}: {x: number; y: number; o: number}) => <g transform={`
 
 // ======================= shots =======================
 type ShotFn = (o: number, t: number, a: number, b: number) => React.ReactNode;
-const camWrap = (z: number, cx: number, cy: number, node: React.ReactNode, dx = 0, dy = 0) => <g transform={`translate(${cx + dx} ${cy + dy}) scale(${z}) translate(${-cx} ${-cy})`}>{node}</g>;
+export const camWrap = (z: number, cx: number, cy: number, node: React.ReactNode, dx = 0, dy = 0) => <g transform={`translate(${cx + dx} ${cy + dy}) scale(${z}) translate(${-cx} ${-cy})`}>{node}</g>;
 const SH: [string, number, ShotFn][] = [
   ['hook', 0, (o, t) => camWrap(1 + 0.1 * t, 540, 1000, <><Sky o={o} /><Burst o={o} c1="#bfe3f7" c2="#d6eefa" cy={1000} /><Australia k={pop(o, 150, 120)} />
     <g transform={`translate(${540 - 200} ${1000 - 120})`}><path d="M0 0 L0 -160" stroke={INK} strokeWidth={10} /><path d="M0 -160 L120 -130 L0 -100 Z" fill="#c9493c" stroke={INK} strokeWidth={6} /><circle r={18} fill="#c9493c" stroke={INK} strokeWidth={6} /></g>

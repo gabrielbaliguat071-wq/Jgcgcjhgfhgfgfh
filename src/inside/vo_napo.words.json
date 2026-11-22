@@ -1,0 +1,992 @@
+[
+{
+"text": "In",
+"startMs": 0,
+"endMs": 180,
+"p": 0.94
+},
+{
+"text": "1807",
+"startMs": 180,
+"endMs": 1520,
+"p": 0.83
+},
+{
+"text": "Napoleon",
+"startMs": 1520,
+"endMs": 2080,
+"p": 0.36
+},
+{
+"text": "had",
+"startMs": 2080,
+"endMs": 2460,
+"p": 0.99
+},
+{
+"text": "just",
+"startMs": 2460,
+"endMs": 2600,
+"p": 0.99
+},
+{
+"text": "signed",
+"startMs": 2600,
+"endMs": 2900,
+"p": 1.0
+},
+{
+"text": "a",
+"startMs": 2900,
+"endMs": 3080,
+"p": 1.0
+},
+{
+"text": "peace",
+"startMs": 3080,
+"endMs": 3280,
+"p": 0.97
+},
+{
+"text": "treaty",
+"startMs": 3280,
+"endMs": 3580,
+"p": 0.99
+},
+{
+"text": "and",
+"startMs": 3580,
+"endMs": 3840,
+"p": 0.84
+},
+{
+"text": "he",
+"startMs": 3840,
+"endMs": 3940,
+"p": 0.98
+},
+{
+"text": "wanted",
+"startMs": 3940,
+"endMs": 4120,
+"p": 0.99
+},
+{
+"text": "to",
+"startMs": 4120,
+"endMs": 4380,
+"p": 1.0
+},
+{
+"text": "celebrate",
+"startMs": 4380,
+"endMs": 4800,
+"p": 1.0
+},
+{
+"text": "with",
+"startMs": 4800,
+"endMs": 5480,
+"p": 0.52
+},
+{
+"text": "a",
+"startMs": 5480,
+"endMs": 5620,
+"p": 0.99
+},
+{
+"text": "rabbit",
+"startMs": 5620,
+"endMs": 5880,
+"p": 0.97
+},
+{
+"text": "hunt.",
+"startMs": 5880,
+"endMs": 6220,
+"p": 0.99
+},
+{
+"text": "His",
+"startMs": 6820,
+"endMs": 6920,
+"p": 0.99
+},
+{
+"text": "chief",
+"startMs": 6920,
+"endMs": 7120,
+"p": 0.65
+},
+{
+"text": "of",
+"startMs": 7120,
+"endMs": 7280,
+"p": 0.99
+},
+{
+"text": "staff",
+"startMs": 7280,
+"endMs": 7640,
+"p": 0.99
+},
+{
+"text": "Alexandre",
+"startMs": 7640,
+"endMs": 8200,
+"p": 0.68
+},
+{
+"text": "Berthier",
+"startMs": 8200,
+"endMs": 8720,
+"p": 0.84
+},
+{
+"text": "got",
+"startMs": 8720,
+"endMs": 8960,
+"p": 0.94
+},
+{
+"text": "everything",
+"startMs": 8960,
+"endMs": 9420,
+"p": 1.0
+},
+{
+"text": "ready,",
+"startMs": 9420,
+"endMs": 9740,
+"p": 1.0
+},
+{
+"text": "a",
+"startMs": 10120,
+"endMs": 10260,
+"p": 0.99
+},
+{
+"text": "big",
+"startMs": 10260,
+"endMs": 10420,
+"p": 1.0
+},
+{
+"text": "field,",
+"startMs": 10420,
+"endMs": 10920,
+"p": 1.0
+},
+{
+"text": "lunch",
+"startMs": 11240,
+"endMs": 11320,
+"p": 0.99
+},
+{
+"text": "for",
+"startMs": 11320,
+"endMs": 11580,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 11580,
+"endMs": 11720,
+"p": 0.99
+},
+{
+"text": "guests,",
+"startMs": 11720,
+"endMs": 12060,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 12520,
+"endMs": 12680,
+"p": 0.99
+},
+{
+"text": "hundreds",
+"startMs": 12680,
+"endMs": 13020,
+"p": 0.99
+},
+{
+"text": "of",
+"startMs": 13020,
+"endMs": 13240,
+"p": 1.0
+},
+{
+"text": "rabbits,",
+"startMs": 13240,
+"endMs": 13620,
+"p": 0.97
+},
+{
+"text": "some",
+"startMs": 13800,
+"endMs": 13900,
+"p": 0.99
+},
+{
+"text": "say",
+"startMs": 13900,
+"endMs": 14160,
+"p": 0.99
+},
+{
+"text": "up",
+"startMs": 14160,
+"endMs": 14320,
+"p": 0.95
+},
+{
+"text": "to",
+"startMs": 14320,
+"endMs": 14540,
+"p": 1.0
+},
+{
+"text": "3,000",
+"startMs": 14540,
+"endMs": 15280,
+"p": 0.6
+},
+{
+"text": "waiting",
+"startMs": 15280,
+"endMs": 15600,
+"p": 0.5
+},
+{
+"text": "in",
+"startMs": 15600,
+"endMs": 15860,
+"p": 1.0
+},
+{
+"text": "cages.",
+"startMs": 15860,
+"endMs": 16180,
+"p": 1.0
+},
+{
+"text": "Napoleon",
+"startMs": 16900,
+"endMs": 17400,
+"p": 1.0
+},
+{
+"text": "arrived.",
+"startMs": 17400,
+"endMs": 17840,
+"p": 1.0
+},
+{
+"text": "The",
+"startMs": 18360,
+"endMs": 18460,
+"p": 0.99
+},
+{
+"text": "cages",
+"startMs": 18460,
+"endMs": 18840,
+"p": 0.99
+},
+{
+"text": "opened.",
+"startMs": 18840,
+"endMs": 19360,
+"p": 1.0
+},
+{
+"text": "The",
+"startMs": 19820,
+"endMs": 19920,
+"p": 0.99
+},
+{
+"text": "hunters",
+"startMs": 19920,
+"endMs": 20120,
+"p": 0.96
+},
+{
+"text": "raised",
+"startMs": 20120,
+"endMs": 20640,
+"p": 0.9
+},
+{
+"text": "their",
+"startMs": 20640,
+"endMs": 20900,
+"p": 1.0
+},
+{
+"text": "guns,",
+"startMs": 20900,
+"endMs": 21220,
+"p": 1.0
+},
+{
+"text": "but",
+"startMs": 21440,
+"endMs": 21580,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 21580,
+"endMs": 21720,
+"p": 1.0
+},
+{
+"text": "rabbits",
+"startMs": 21720,
+"endMs": 22040,
+"p": 0.99
+},
+{
+"text": "did",
+"startMs": 22040,
+"endMs": 22300,
+"p": 0.99
+},
+{
+"text": "not",
+"startMs": 22300,
+"endMs": 22540,
+"p": 1.0
+},
+{
+"text": "run",
+"startMs": 22540,
+"endMs": 22720,
+"p": 1.0
+},
+{
+"text": "away.",
+"startMs": 22720,
+"endMs": 23080,
+"p": 1.0
+},
+{
+"text": "They",
+"startMs": 23460,
+"endMs": 23560,
+"p": 0.99
+},
+{
+"text": "ran",
+"startMs": 23560,
+"endMs": 23760,
+"p": 1.0
+},
+{
+"text": "straight",
+"startMs": 23760,
+"endMs": 24140,
+"p": 0.99
+},
+{
+"text": "at",
+"startMs": 24140,
+"endMs": 24280,
+"p": 0.97
+},
+{
+"text": "Napoleon,",
+"startMs": 24280,
+"endMs": 24780,
+"p": 1.0
+},
+{
+"text": "hundreds",
+"startMs": 25220,
+"endMs": 25440,
+"p": 0.99
+},
+{
+"text": "of",
+"startMs": 25440,
+"endMs": 25680,
+"p": 1.0
+},
+{
+"text": "them",
+"startMs": 25680,
+"endMs": 25840,
+"p": 1.0
+},
+{
+"text": "charging",
+"startMs": 25840,
+"endMs": 26300,
+"p": 0.99
+},
+{
+"text": "at",
+"startMs": 26300,
+"endMs": 26620,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 26620,
+"endMs": 26700,
+"p": 1.0
+},
+{
+"text": "most",
+"startMs": 26700,
+"endMs": 26880,
+"p": 1.0
+},
+{
+"text": "powerful",
+"startMs": 26880,
+"endMs": 27360,
+"p": 1.0
+},
+{
+"text": "man",
+"startMs": 27360,
+"endMs": 27700,
+"p": 0.98
+},
+{
+"text": "in",
+"startMs": 27700,
+"endMs": 27940,
+"p": 1.0
+},
+{
+"text": "Europe.",
+"startMs": 27940,
+"endMs": 28200,
+"p": 1.0
+},
+{
+"text": "At",
+"startMs": 28200,
+"endMs": 28600,
+"p": 0.1
+},
+{
+"text": "first",
+"startMs": 28600,
+"endMs": 28920,
+"p": 0.97
+},
+{
+"text": "everyone",
+"startMs": 28920,
+"endMs": 29420,
+"p": 0.57
+},
+{
+"text": "laughed,",
+"startMs": 29420,
+"endMs": 29820,
+"p": 0.99
+},
+{
+"text": "then",
+"startMs": 30360,
+"endMs": 30420,
+"p": 0.98
+},
+{
+"text": "the",
+"startMs": 30420,
+"endMs": 30560,
+"p": 0.99
+},
+{
+"text": "rabbits",
+"startMs": 30560,
+"endMs": 30860,
+"p": 0.91
+},
+{
+"text": "started",
+"startMs": 30860,
+"endMs": 31260,
+"p": 0.99
+},
+{
+"text": "climbing",
+"startMs": 31260,
+"endMs": 31580,
+"p": 1.0
+},
+{
+"text": "up",
+"startMs": 31580,
+"endMs": 31820,
+"p": 0.99
+},
+{
+"text": "his",
+"startMs": 31820,
+"endMs": 31980,
+"p": 0.99
+},
+{
+"text": "legs,",
+"startMs": 31980,
+"endMs": 32300,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 32740,
+"endMs": 32860,
+"p": 0.97
+},
+{
+"text": "coachmen",
+"startMs": 32860,
+"endMs": 33380,
+"p": 0.86
+},
+{
+"text": "grabbed",
+"startMs": 33380,
+"endMs": 33700,
+"p": 0.99
+},
+{
+"text": "their",
+"startMs": 33700,
+"endMs": 33980,
+"p": 0.99
+},
+{
+"text": "whips,",
+"startMs": 33980,
+"endMs": 34320,
+"p": 0.99
+},
+{
+"text": "the",
+"startMs": 34700,
+"endMs": 34860,
+"p": 0.97
+},
+{
+"text": "hunters",
+"startMs": 34860,
+"endMs": 35160,
+"p": 0.99
+},
+{
+"text": "waved",
+"startMs": 35160,
+"endMs": 35540,
+"p": 0.98
+},
+{
+"text": "sticks,",
+"startMs": 35540,
+"endMs": 36020,
+"p": 0.98
+},
+{
+"text": "nothing",
+"startMs": 36460,
+"endMs": 36700,
+"p": 0.99
+},
+{
+"text": "worked.",
+"startMs": 36700,
+"endMs": 37160,
+"p": 1.0
+},
+{
+"text": "Napoleon",
+"startMs": 37680,
+"endMs": 38140,
+"p": 0.97
+},
+{
+"text": "ran",
+"startMs": 38140,
+"endMs": 38460,
+"p": 1.0
+},
+{
+"text": "back",
+"startMs": 38460,
+"endMs": 38780,
+"p": 1.0
+},
+{
+"text": "to",
+"startMs": 38780,
+"endMs": 38960,
+"p": 1.0
+},
+{
+"text": "his",
+"startMs": 38960,
+"endMs": 39100,
+"p": 1.0
+},
+{
+"text": "carriage",
+"startMs": 39100,
+"endMs": 39440,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 39440,
+"endMs": 39680,
+"p": 0.82
+},
+{
+"text": "the",
+"startMs": 39680,
+"endMs": 39800,
+"p": 1.0
+},
+{
+"text": "rabbits",
+"startMs": 39800,
+"endMs": 40100,
+"p": 0.98
+},
+{
+"text": "followed",
+"startMs": 40100,
+"endMs": 40560,
+"p": 0.99
+},
+{
+"text": "him.",
+"startMs": 40560,
+"endMs": 40880,
+"p": 1.0
+},
+{
+"text": "Some",
+"startMs": 41220,
+"endMs": 41420,
+"p": 0.99
+},
+{
+"text": "even",
+"startMs": 41420,
+"endMs": 41780,
+"p": 1.0
+},
+{
+"text": "jumped",
+"startMs": 41780,
+"endMs": 42100,
+"p": 1.0
+},
+{
+"text": "inside.",
+"startMs": 42100,
+"endMs": 42660,
+"p": 0.99
+},
+{
+"text": "Why?",
+"startMs": 43100,
+"endMs": 43340,
+"p": 0.94
+},
+{
+"text": "Berthier",
+"startMs": 43840,
+"endMs": 44060,
+"p": 0.75
+},
+{
+"text": "had",
+"startMs": 44060,
+"endMs": 44200,
+"p": 0.99
+},
+{
+"text": "not",
+"startMs": 44200,
+"endMs": 44420,
+"p": 1.0
+},
+{
+"text": "caught",
+"startMs": 44420,
+"endMs": 44620,
+"p": 1.0
+},
+{
+"text": "wild",
+"startMs": 44620,
+"endMs": 45100,
+"p": 1.0
+},
+{
+"text": "rabbits,",
+"startMs": 45100,
+"endMs": 45560,
+"p": 0.99
+},
+{
+"text": "he",
+"startMs": 45860,
+"endMs": 45940,
+"p": 0.99
+},
+{
+"text": "had",
+"startMs": 45940,
+"endMs": 46040,
+"p": 0.99
+},
+{
+"text": "bought",
+"startMs": 46040,
+"endMs": 46280,
+"p": 0.99
+},
+{
+"text": "tame",
+"startMs": 46280,
+"endMs": 46580,
+"p": 0.98
+},
+{
+"text": "rabbits",
+"startMs": 46580,
+"endMs": 47000,
+"p": 0.99
+},
+{
+"text": "from",
+"startMs": 47000,
+"endMs": 47240,
+"p": 1.0
+},
+{
+"text": "farmers,",
+"startMs": 47240,
+"endMs": 47740,
+"p": 0.99
+},
+{
+"text": "and",
+"startMs": 48100,
+"endMs": 48220,
+"p": 0.99
+},
+{
+"text": "tame",
+"startMs": 48220,
+"endMs": 48520,
+"p": 1.0
+},
+{
+"text": "rabbits",
+"startMs": 48520,
+"endMs": 48920,
+"p": 0.99
+},
+{
+"text": "think",
+"startMs": 48920,
+"endMs": 49180,
+"p": 0.99
+},
+{
+"text": "humans",
+"startMs": 49180,
+"endMs": 49620,
+"p": 0.99
+},
+{
+"text": "mean.",
+"startMs": 49620,
+"endMs": 49980,
+"p": 1.0
+},
+{
+"text": "Food,",
+"startMs": 50420,
+"endMs": 50800,
+"p": 0.99
+},
+{
+"text": "at",
+"startMs": 51080,
+"endMs": 51180,
+"p": 0.99
+},
+{
+"text": "least",
+"startMs": 51180,
+"endMs": 51420,
+"p": 0.99
+},
+{
+"text": "that",
+"startMs": 51420,
+"endMs": 51780,
+"p": 0.92
+},
+{
+"text": "is",
+"startMs": 51780,
+"endMs": 51920,
+"p": 0.99
+},
+{
+"text": "how",
+"startMs": 51920,
+"endMs": 52180,
+"p": 1.0
+},
+{
+"text": "one",
+"startMs": 52180,
+"endMs": 52360,
+"p": 0.99
+},
+{
+"text": "of",
+"startMs": 52360,
+"endMs": 52780,
+"p": 0.99
+},
+{
+"text": "Napoleon's",
+"startMs": 52780,
+"endMs": 53560,
+"p": 0.98
+},
+{
+"text": "generals",
+"startMs": 53560,
+"endMs": 53560,
+"p": 0.97
+},
+{
+"text": "told",
+"startMs": 53560,
+"endMs": 53900,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 53900,
+"endMs": 54140,
+"p": 1.0
+},
+{
+"text": "story.",
+"startMs": 54140,
+"endMs": 54500,
+"p": 1.0
+},
+{
+"text": "So",
+"startMs": 54500,
+"endMs": 55020,
+"p": 0.4
+},
+{
+"text": "the",
+"startMs": 55020,
+"endMs": 55160,
+"p": 0.92
+},
+{
+"text": "man",
+"startMs": 55160,
+"endMs": 55420,
+"p": 0.99
+},
+{
+"text": "who",
+"startMs": 55420,
+"endMs": 55640,
+"p": 0.99
+},
+{
+"text": "conquered",
+"startMs": 55640,
+"endMs": 56100,
+"p": 1.0
+},
+{
+"text": "half",
+"startMs": 56100,
+"endMs": 56360,
+"p": 0.99
+},
+{
+"text": "of",
+"startMs": 56360,
+"endMs": 56560,
+"p": 1.0
+},
+{
+"text": "Europe",
+"startMs": 56560,
+"endMs": 56840,
+"p": 0.99
+},
+{
+"text": "was",
+"startMs": 56840,
+"endMs": 57320,
+"p": 0.97
+},
+{
+"text": "chased",
+"startMs": 57320,
+"endMs": 57660,
+"p": 1.0
+},
+{
+"text": "off",
+"startMs": 57660,
+"endMs": 57940,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 57940,
+"endMs": 58100,
+"p": 1.0
+},
+{
+"text": "field",
+"startMs": 58100,
+"endMs": 58380,
+"p": 1.0
+},
+{
+"text": "by",
+"startMs": 58380,
+"endMs": 58660,
+"p": 1.0
+},
+{
+"text": "bunnies.",
+"startMs": 58660,
+"endMs": 59020,
+"p": 0.89
+}
+]
