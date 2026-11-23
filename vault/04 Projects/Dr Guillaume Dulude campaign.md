@@ -11,3 +11,7 @@ vertical TikTok source padded to 1920x1080 (x 656–1264) so the box shows a ~1.
 Batch 2 (2026-11-23, 3-second rule): `viral-short/plan_gd2.py` → gdlion (39 s, crouched in the bush with a lion visible behind him; his subs blurred at canvas y 512–602; face high = centre y ≈ 320–340),
 gdperfect (28 s, Tai Lopez intro cut; "mycophilic" → Machiavellian), gdmoney (26 s, hook "Meaning does not come from money"). No grade (light sharpen only), reaction emojis from res/emoji + mild SFX.
 Skipped: manifestation (split screen with Jim Carrey), disgust/close-talk ones with Vanessa Van Edwards inserts. Unused good ones: animal tracking/bush clips, "Limitless is meaningless", appearance/tattoos.
+Batch 3 wildlife (2026-11-23, user: "the first vid [lion] is interesting, find more of that"): `viral-short/plan_gd3.py` → gdspider (42 s, Hadzabe first night, split-screen source: face top half centre y 260 z2.0, b-roll bottom centre 810),
+gdgiraffe (31 s, "golf club with a hammer"), gdpoison (47 s, Euphorbia tree bleeds poison — survival, not strictly psychology → may be off-topic for the campaign).
+His TikTok wildlife list: bush/giraffe 7692820298441231634, guess/poison 7683981108324715792, Hadzabe 7660581182958128405, tracking 7650918932827671829 (rest are Psycom Origin promos).
+Disk: deleted footage/src (Trevor, all used), popdarts, boxed, kreek, old g67 tv excerpts.

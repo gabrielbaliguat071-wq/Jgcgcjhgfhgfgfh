@@ -4638,5 +4638,506 @@
     "size": 200
    }
   ]
+ },
+ "gdspider": {
+  "top": "His first night with a hunter-gatherer tribe\u2026 then THIS fell on his head",
+  "hl": {
+   "THIS": "#FF2A2A"
+  },
+  "cta": "*follow for more human behavior*",
+  "music": [
+   "brevis_n",
+   36.0
+  ],
+  "ctaAt": [
+   "c1",
+   "sleep",
+   1
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "spider"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "differently"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "dehydration"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "differently"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "falling"
+   ],
+   [
+    "hook",
+    "head"
+   ],
+   [
+    "hook",
+    "jump"
+   ],
+   [
+    "hook",
+    "spider"
+   ],
+   [
+    "hook",
+    "hand"
+   ],
+   [
+    "c1",
+    "night"
+   ],
+   [
+    "c1",
+    "dancing"
+   ],
+   [
+    "c1",
+    "differently"
+   ],
+   [
+    "c1",
+    "minutes"
+   ],
+   [
+    "c2",
+    "privilege"
+   ],
+   [
+    "c2",
+    "hard"
+   ],
+   [
+    "c2",
+    "dehydration"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "spider"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "so"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdspider.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "spider"
+    ],
+    "kind": "png",
+    "file": "emoji/1f631.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "jump"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c1",
+     "dancing"
+    ],
+    "kind": "png",
+    "file": "emoji/1f440.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "dehydration"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.25
+   }
+  ]
+ },
+ "gdgiraffe": {
+  "top": "A giraffe's kick is like a golf club with a HAMMER",
+  "hl": {
+   "HAMMER": "#FF2A2A"
+  },
+  "cta": "*follow for more psychology*",
+  "music": [
+   "empire_n",
+   18.8
+  ],
+  "ctaAt": [
+   "c3",
+   "body"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "kick"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "anxious"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "body"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "control"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "close"
+   ],
+   [
+    "hook",
+    "kick"
+   ],
+   [
+    "hook",
+    "dangerous"
+   ],
+   [
+    "hook",
+    "legs"
+   ],
+   [
+    "hook",
+    "hammer"
+   ],
+   [
+    "c1",
+    "see"
+   ],
+   [
+    "c1",
+    "control"
+   ],
+   [
+    "c1",
+    "anxious"
+   ],
+   [
+    "c2",
+    "curious"
+   ],
+   [
+    "c2",
+    "closer"
+   ],
+   [
+    "c3",
+    "distance"
+   ],
+   [
+    "c3",
+    "aggression"
+   ],
+   [
+    "c3",
+    "body"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "hammer"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c3"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdgiraffe.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "kick"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "hammer"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c2",
+     "curious"
+    ],
+    "kind": "png",
+    "file": "emoji/1f440.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "aggression"
+    ],
+    "kind": "png",
+    "file": "emoji/1f62c.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   }
+  ]
+ },
+ "gdpoison": {
+  "top": "He cut this tree open\u2026 and it started bleeding POISON",
+  "hl": {
+   "POISON": "#FF2A2A"
+  },
+  "cta": "*follow for more from the bush*",
+  "music": [
+   "sentamento_n",
+   57.5
+  ],
+  "ctaAt": [
+   "c4",
+   "bush"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "poison"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "toxic"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c4",
+     "smoke"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "bleeds"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "cut"
+   ],
+   [
+    "hook",
+    "opening"
+   ],
+   [
+    "hook",
+    "bleeds"
+   ],
+   [
+    "hook",
+    "poison"
+   ],
+   [
+    "c1",
+    "euphorbia"
+   ],
+   [
+    "c1",
+    "toxic"
+   ],
+   [
+    "c1",
+    "liquid"
+   ],
+   [
+    "c2",
+    "finger"
+   ],
+   [
+    "c2",
+    "eyes"
+   ],
+   [
+    "c3",
+    "arrow"
+   ],
+   [
+    "c4",
+    "survival"
+   ],
+   [
+    "c4",
+    "burning"
+   ],
+   [
+    "c4",
+    "smoke"
+   ],
+   [
+    "c4",
+    "toxic"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "poison"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c4"
+   ]
+  ],
+  "streaks": [
+   [
+    "c3"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdpoison.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "bleeds"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "poison"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c2",
+     "eyes"
+    ],
+    "kind": "png",
+    "file": "emoji/1f62c.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c4",
+     "smoke"
+    ],
+    "kind": "png",
+    "file": "emoji/274c.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c4",
+     "toxic"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.25
+   }
+  ]
  }
 }
