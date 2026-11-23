@@ -4146,5 +4146,497 @@
     "v": 0.3
    }
   ]
+ },
+ "gdlion": {
+  "top": "A lion is watching him\u2026 and it's a lesson about PEOPLE",
+  "hl": {
+   "PEOPLE": "#58EE28"
+  },
+  "cta": "*follow for more psychology*",
+  "music": [
+   "brevis_n",
+   36.0
+  ],
+  "ctaAt": [
+   "c3",
+   "people"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "lion"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "psychology"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "invasive"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "psychology"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "lion"
+   ],
+   [
+    "hook",
+    "looking"
+   ],
+   [
+    "hook",
+    "eyes"
+   ],
+   [
+    "c1",
+    "distance"
+   ],
+   [
+    "c2",
+    "attention"
+   ],
+   [
+    "c2",
+    "humans"
+   ],
+   [
+    "c2",
+    "closer"
+   ],
+   [
+    "c3",
+    "inside"
+   ],
+   [
+    "c3",
+    "people"
+   ],
+   [
+    "c3",
+    "close"
+   ],
+   [
+    "c3",
+    "invasive"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "me"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c3"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2",
+    "but"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdlion.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "looking"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "looking"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c2",
+     "humans"
+    ],
+    "kind": "png",
+    "file": "emoji/1f440.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "invasive"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c3",
+     "invasive"
+    ],
+    "kind": "png",
+    "file": "emoji/1f62c.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   }
+  ]
+ },
+ "gdperfect": {
+  "top": "If someone looks PERFECT\u2026 it's a red flag",
+  "hl": {
+   "PERFECT\u2026": "#FF2A2A"
+  },
+  "cta": "*follow for more psychology*",
+  "music": [
+   "empire_n",
+   18.8
+  ],
+  "ctaAt": [
+   "c2",
+   "careful"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "red"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "psychopathic"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c3",
+     "perfect"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "expert"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "flawless"
+   ],
+   [
+    "hook",
+    "red"
+   ],
+   [
+    "c1",
+    "hidden"
+   ],
+   [
+    "c1",
+    "perfect"
+   ],
+   [
+    "c2",
+    "narcissistic"
+   ],
+   [
+    "c2",
+    "psychopathic"
+   ],
+   [
+    "c2",
+    "expert"
+   ],
+   [
+    "c2",
+    "true"
+   ],
+   [
+    "c2",
+    "manipulation"
+   ],
+   [
+    "c3",
+    "social"
+   ],
+   [
+    "c3",
+    "perfect"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "true"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c3"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdperfect.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "red"
+    ],
+    "kind": "png",
+    "file": "emoji/1f6a8.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "red"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c2",
+     "psychopathic"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "true"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c3",
+     "perfect"
+    ],
+    "kind": "png",
+    "file": "emoji/1f914.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   }
+  ]
+ },
+ "gdmoney": {
+  "top": "Does money buy happiness? A psychologist answers",
+  "hl": {
+   "happiness?": "#58EE28"
+  },
+  "cta": "*follow for more psychology*",
+  "music": [
+   "sentamento_n",
+   57.5
+  ],
+  "ctaAt": [
+   "c2",
+   "manage"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "meaning"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "anxiety"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "meaning"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "resource"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "meaning"
+   ],
+   [
+    "hook",
+    "money"
+   ],
+   [
+    "hook",
+    "resource"
+   ],
+   [
+    "c1",
+    "anxiety"
+   ],
+   [
+    "c1",
+    "bills"
+   ],
+   [
+    "c1",
+    "decrease"
+   ],
+   [
+    "c1",
+    "happiness"
+   ],
+   [
+    "c2",
+    "meaning"
+   ],
+   [
+    "c2",
+    "bill"
+   ],
+   [
+    "c2",
+    "happiness"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "resource"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdmoney.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "money"
+    ],
+    "kind": "png",
+    "file": "emoji/1f4b8.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "resource"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c1",
+     "bills"
+    ],
+    "kind": "png",
+    "file": "emoji/1f62c.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "happiness"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c2",
+     "meaning"
+    ],
+    "kind": "png",
+    "file": "emoji/1f914.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   }
+  ]
  }
 }

@@ -13,6 +13,11 @@ Edit podcast/streamer clips into viral vertical Shorts in a **meme / brainrot cl
 - **Frame the person who is ACTUALLY talking (2026-11-01).** Before picking shots, check who speaks each line: run `scripts/voice_diarize.py` (voice clusters) + `scripts/speaker_check.py` (mouth motion per seat), then confirm with a frame strip. Laughing fools the mouth check. If unsure, use the wide shot.
 - **Plain words only on screen (2026-11-01).** Captions and 3D text use words an average viewer knows. Swap hobby slang (auto → autograph, redeem → "why the wait", prism, numbered, etc.) for everyday words, or cut the line.
 - **Every title + description must be brand new (2026-11-01).** Never reuse or lightly reword one sent before, even for a re-send. Check `vault/04 Projects/Titles used.md` first and add each new one there.
+- **(2026-11-23) VIRAL RULES for EVERY edit — the first 3 seconds must hook on all three channels:**
+  1. **Visual:** open on the most interesting moment of the clip (something happening: a gesture, a reveal, a reaction, a strong face), never a static start.
+  2. **Audio:** the first line heard must be the most interesting / surprising line (a question, a bold claim, a number).
+  3. **Text:** a top text that makes the viewer stay (curiosity gap, true to the clip).
+  - Colour grade only when it fits the clip (don't grade by default). Add SFX and reaction emojis where they add something, so it's never plain. Goal = viral, not random clips.
 - **(2026-11-23) ALWAYS and ONLY use the original VverPaldo style** (Guess.tsx: hook → hard-cut flash → looping story, black frame + video box, top line + 💀, one-word captions, punch/tints/flash, standard G67 grade + crops, extras from the resources). User: "always and only use the original vverpaldo style", then "just do the normal one" — don't customise the grade/framing/look per campaign.
 - **Captions ALWAYS on screen (2026-11-01):** each word stays until the next word, never blank gaps.
 - **Title, description and tags go in chat inside code blocks** (one block for the title, one for description + tags) so the user can tap the copy button. (2026-11-01)

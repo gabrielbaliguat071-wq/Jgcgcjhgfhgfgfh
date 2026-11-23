@@ -8,3 +8,6 @@ YouTube nFxbiWD0lpY (Jordan Harbinger interview, bot-blocked). Used his TikTok l
 Blur band over his old burned subs, our sentence-case subtitles on it, white title box low (top would cover his face), einaudi 0.045, no SFX/punch.
 Redo (2026-11-23): user → "always and only original VverPaldo" + "just do the normal one". `viral-short/plan_gd.py` → Guess-gdfear (31 s) / gdlying (32 s) / gdsilence (22 s):
 vertical TikTok source padded to 1920x1080 (x 656–1264) so the box shows a ~1.8–2.1x face crop; standard G67, skull on, mild extras (e_think, ding, wow).
+Batch 2 (2026-11-23, 3-second rule): `viral-short/plan_gd2.py` → gdlion (39 s, crouched in the bush with a lion visible behind him; his subs blurred at canvas y 512–602; face high = centre y ≈ 320–340),
+gdperfect (28 s, Tai Lopez intro cut; "mycophilic" → Machiavellian), gdmoney (26 s, hook "Meaning does not come from money"). No grade (light sharpen only), reaction emojis from res/emoji + mild SFX.
+Skipped: manifestation (split screen with Jim Carrey), disgust/close-talk ones with Vanessa Van Edwards inserts. Unused good ones: animal tracking/bush clips, "Limitless is meaningless", appearance/tattoos.
