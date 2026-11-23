@@ -4248,5 +4248,885 @@
     0.22
    ]
   ]
+ },
+ "gdfear": {
+  "base": "ylm/gdfear.mp4",
+  "dur": 39.194,
+  "baseVol": 1,
+  "music": [
+   "einaudi_n",
+   0,
+   0.045
+  ],
+  "punch": false,
+  "whooshVol": 0,
+  "cuts": [],
+  "wordsY": 905,
+  "wordSize": 66,
+  "freezes": [],
+  "texts": [
+   {
+    "from": 0,
+    "to": 99,
+    "lines": [
+     "How to stop fear",
+     "from controlling your life"
+    ],
+    "y": 1440,
+    "size": 54,
+    "box": true,
+    "rot": 0
+   }
+  ],
+  "words": [
+   {
+    "w": "You have two",
+    "s": 0.0,
+    "hl": false
+   },
+   {
+    "w": "choices",
+    "s": 0.4,
+    "hl": false
+   },
+   {
+    "w": "Either you control",
+    "s": 0.96,
+    "hl": true
+   },
+   {
+    "w": "your fears or",
+    "s": 1.7,
+    "hl": false
+   },
+   {
+    "w": "your fears control",
+    "s": 2.56,
+    "hl": true
+   },
+   {
+    "w": "you",
+    "s": 3.6,
+    "hl": false
+   },
+   {
+    "w": "The only way",
+    "s": 4.14,
+    "hl": false
+   },
+   {
+    "w": "to overcome fears",
+    "s": 4.5,
+    "hl": false
+   },
+   {
+    "w": "is to expose",
+    "s": 5.88,
+    "hl": true
+   },
+   {
+    "w": "yourself to a",
+    "s": 6.9,
+    "hl": false
+   },
+   {
+    "w": "specific fear in",
+    "s": 7.84,
+    "hl": false
+   },
+   {
+    "w": "a controlled environment",
+    "s": 8.88,
+    "hl": false
+   },
+   {
+    "w": "but at a",
+    "s": 10.26,
+    "hl": false
+   },
+   {
+    "w": "low level anxiety",
+    "s": 10.66,
+    "hl": true
+   },
+   {
+    "w": "For example",
+    "s": 12.26,
+    "hl": false
+   },
+   {
+    "w": "if you're scared",
+    "s": 12.64,
+    "hl": false
+   },
+   {
+    "w": "of being judged",
+    "s": 13.32,
+    "hl": true
+   },
+   {
+    "w": "all the time",
+    "s": 14.64,
+    "hl": false
+   },
+   {
+    "w": "you need to",
+    "s": 15.44,
+    "hl": false
+   },
+   {
+    "w": "practice exposition",
+    "s": 15.74,
+    "hl": false
+   },
+   {
+    "w": "So you need",
+    "s": 17.16,
+    "hl": false
+   },
+   {
+    "w": "to show yourself",
+    "s": 17.5,
+    "hl": false
+   },
+   {
+    "w": "accept some part",
+    "s": 18.74,
+    "hl": false
+   },
+   {
+    "w": "of judgment from",
+    "s": 19.82,
+    "hl": false
+   },
+   {
+    "w": "the environment that",
+    "s": 20.64,
+    "hl": false
+   },
+   {
+    "w": "create only low",
+    "s": 21.66,
+    "hl": true
+   },
+   {
+    "w": "anxiety for you",
+    "s": 22.62,
+    "hl": true
+   },
+   {
+    "w": "And you maintain",
+    "s": 23.8,
+    "hl": false
+   },
+   {
+    "w": "the exposition until",
+    "s": 24.44,
+    "hl": false
+   },
+   {
+    "w": "the anxiety drops",
+    "s": 25.7,
+    "hl": true
+   },
+   {
+    "w": "If you do",
+    "s": 27.56,
+    "hl": false
+   },
+   {
+    "w": "that over and",
+    "s": 28.06,
+    "hl": false
+   },
+   {
+    "w": "over again",
+    "s": 28.86,
+    "hl": false
+   },
+   {
+    "w": "the brain rewire",
+    "s": 29.44,
+    "hl": true
+   },
+   {
+    "w": "itself and relearn",
+    "s": 30.94,
+    "hl": false
+   },
+   {
+    "w": "to not be",
+    "s": 32.46,
+    "hl": false
+   },
+   {
+    "w": "scared of the",
+    "s": 33.26,
+    "hl": false
+   },
+   {
+    "w": "specific factors",
+    "s": 34.12,
+    "hl": false
+   },
+   {
+    "w": "So the more",
+    "s": 35.46,
+    "hl": false
+   },
+   {
+    "w": "you expose yourself",
+    "s": 35.86,
+    "hl": true
+   },
+   {
+    "w": "in a careful",
+    "s": 36.94,
+    "hl": false
+   },
+   {
+    "w": "way",
+    "s": 37.5,
+    "hl": false
+   },
+   {
+    "w": "the stronger you",
+    "s": 37.96,
+    "hl": true
+   },
+   {
+    "w": "will get",
+    "s": 38.64,
+    "hl": false,
+    "e": 39.2
+   }
+  ],
+  "sfx": []
+ },
+ "gdlying": {
+  "base": "ylm/gdlying.mp4",
+  "dur": 42.121,
+  "baseVol": 1,
+  "music": [
+   "einaudi_n",
+   0,
+   0.045
+  ],
+  "punch": false,
+  "whooshVol": 0,
+  "cuts": [
+   3.4
+  ],
+  "wordsY": 1470,
+  "wordSize": 66,
+  "freezes": [],
+  "texts": [
+   {
+    "from": 0,
+    "to": 99,
+    "lines": [
+     "When words and body language",
+     "don't match"
+    ],
+    "y": 1690,
+    "size": 54,
+    "box": true,
+    "rot": 0
+   }
+  ],
+  "words": [
+   {
+    "w": "It's the wrong",
+    "s": 0.06,
+    "hl": true
+   },
+   {
+    "w": "strategy to assume",
+    "s": 0.64,
+    "hl": false
+   },
+   {
+    "w": "that the person",
+    "s": 1.82,
+    "hl": false
+   },
+   {
+    "w": "is lying",
+    "s": 2.6,
+    "hl": true,
+    "e": 3.4
+   },
+   {
+    "w": "So when you",
+    "s": 3.52,
+    "hl": false
+   },
+   {
+    "w": "have symptoms like",
+    "s": 4.08,
+    "hl": false
+   },
+   {
+    "w": "this",
+    "s": 5.1,
+    "hl": false
+   },
+   {
+    "w": "there's a conflict",
+    "s": 5.56,
+    "hl": true
+   },
+   {
+    "w": "inside",
+    "s": 6.64,
+    "hl": false
+   },
+   {
+    "w": "Again",
+    "s": 7.6,
+    "hl": false
+   },
+   {
+    "w": "it doesn't mean",
+    "s": 7.78,
+    "hl": false
+   },
+   {
+    "w": "it's pure lie",
+    "s": 8.2,
+    "hl": false
+   },
+   {
+    "w": "It can be",
+    "s": 9.34,
+    "hl": false
+   },
+   {
+    "w": "just anxiety",
+    "s": 10.0,
+    "hl": true
+   },
+   {
+    "w": "Anxiety will create",
+    "s": 11.34,
+    "hl": true
+   },
+   {
+    "w": "that",
+    "s": 12.0,
+    "hl": false
+   },
+   {
+    "w": "So it's not",
+    "s": 12.88,
+    "hl": false
+   },
+   {
+    "w": "good to just",
+    "s": 13.66,
+    "hl": false
+   },
+   {
+    "w": "say you're lying",
+    "s": 14.3,
+    "hl": true
+   },
+   {
+    "w": "It's the wrong",
+    "s": 15.56,
+    "hl": true
+   },
+   {
+    "w": "strategy to assume",
+    "s": 16.14,
+    "hl": false
+   },
+   {
+    "w": "that the person",
+    "s": 17.32,
+    "hl": false
+   },
+   {
+    "w": "is lying",
+    "s": 18.1,
+    "hl": true
+   },
+   {
+    "w": "And most of",
+    "s": 18.9,
+    "hl": false
+   },
+   {
+    "w": "the lies from",
+    "s": 19.34,
+    "hl": false
+   },
+   {
+    "w": "people are not",
+    "s": 20.16,
+    "hl": false
+   },
+   {
+    "w": "even conscious because",
+    "s": 20.94,
+    "hl": true
+   },
+   {
+    "w": "people believe their",
+    "s": 22.24,
+    "hl": false
+   },
+   {
+    "w": "own stories while",
+    "s": 23.36,
+    "hl": true
+   },
+   {
+    "w": "they're telling it",
+    "s": 24.92,
+    "hl": false
+   },
+   {
+    "w": "So the concept",
+    "s": 26.86,
+    "hl": false
+   },
+   {
+    "w": "of lies is",
+    "s": 28.28,
+    "hl": false
+   },
+   {
+    "w": "not the best",
+    "s": 29.0,
+    "hl": false
+   },
+   {
+    "w": "However",
+    "s": 30.12,
+    "hl": false
+   },
+   {
+    "w": "if you want",
+    "s": 30.58,
+    "hl": false
+   },
+   {
+    "w": "to focus on",
+    "s": 31.14,
+    "hl": false
+   },
+   {
+    "w": "trust",
+    "s": 32.06,
+    "hl": true
+   },
+   {
+    "w": "relationship",
+    "s": 33.02,
+    "hl": false
+   },
+   {
+    "w": "vulnerability",
+    "s": 33.64,
+    "hl": false
+   },
+   {
+    "w": "you want the",
+    "s": 34.6,
+    "hl": false
+   },
+   {
+    "w": "less incongruences as",
+    "s": 35.94,
+    "hl": false
+   },
+   {
+    "w": "possible",
+    "s": 37.94,
+    "hl": false
+   },
+   {
+    "w": "So you want",
+    "s": 39.3,
+    "hl": false
+   },
+   {
+    "w": "things that fit",
+    "s": 39.62,
+    "hl": true
+   },
+   {
+    "w": "verbally and non",
+    "s": 40.54,
+    "hl": false
+   },
+   {
+    "w": "-verbally",
+    "s": 41.46,
+    "hl": false,
+    "e": 42.1
+   }
+  ],
+  "sfx": []
+ },
+ "gdsilence": {
+  "base": "ylm/gdsilence.mp4",
+  "dur": 61.621,
+  "baseVol": 1,
+  "music": [
+   "einaudi_n",
+   0,
+   0.045
+  ],
+  "punch": false,
+  "whooshVol": 0,
+  "cuts": [
+   2.7,
+   34.1
+  ],
+  "wordsY": 1470,
+  "wordSize": 66,
+  "freezes": [],
+  "texts": [
+   {
+    "from": 0,
+    "to": 99,
+    "lines": [
+     "Why silence makes",
+     "conversations work"
+    ],
+    "y": 1690,
+    "size": 54,
+    "box": true,
+    "rot": 0
+   }
+  ],
+  "words": [
+   {
+    "w": "The other person",
+    "s": 0.14,
+    "hl": false
+   },
+   {
+    "w": "will detect it",
+    "s": 0.58,
+    "hl": false
+   },
+   {
+    "w": "in less than",
+    "s": 1.16,
+    "hl": false
+   },
+   {
+    "w": "10 milliseconds",
+    "s": 1.86,
+    "hl": true,
+    "e": 2.7
+   },
+   {
+    "w": "A silence is",
+    "s": 2.84,
+    "hl": true
+   },
+   {
+    "w": "very powerful",
+    "s": 4.24,
+    "hl": true
+   },
+   {
+    "w": "We are scared",
+    "s": 5.4,
+    "hl": true
+   },
+   {
+    "w": "of silence in",
+    "s": 6.26,
+    "hl": true
+   },
+   {
+    "w": "conversation",
+    "s": 7.5,
+    "hl": false
+   },
+   {
+    "w": "Why?",
+    "s": 8.72,
+    "hl": false
+   },
+   {
+    "w": "Because if you",
+    "s": 9.48,
+    "hl": false
+   },
+   {
+    "w": "don't know how",
+    "s": 10.5,
+    "hl": false
+   },
+   {
+    "w": "to communicate properly",
+    "s": 11.02,
+    "hl": false
+   },
+   {
+    "w": "if you don't",
+    "s": 12.38,
+    "hl": false
+   },
+   {
+    "w": "know which psychological",
+    "s": 12.76,
+    "hl": false
+   },
+   {
+    "w": "processes are at",
+    "s": 13.56,
+    "hl": false
+   },
+   {
+    "w": "work at a",
+    "s": 14.58,
+    "hl": false
+   },
+   {
+    "w": "certain time",
+    "s": 15.26,
+    "hl": false
+   },
+   {
+    "w": "second per second",
+    "s": 16.02,
+    "hl": false
+   },
+   {
+    "w": "every time there's",
+    "s": 17.36,
+    "hl": false
+   },
+   {
+    "w": "a silence",
+    "s": 18.16,
+    "hl": true
+   },
+   {
+    "w": "it will increase",
+    "s": 19.34,
+    "hl": false
+   },
+   {
+    "w": "anxiety on both",
+    "s": 20.02,
+    "hl": true
+   },
+   {
+    "w": "sides because both",
+    "s": 20.94,
+    "hl": false
+   },
+   {
+    "w": "feel that they",
+    "s": 22.32,
+    "hl": false
+   },
+   {
+    "w": "are incompetent in",
+    "s": 23.08,
+    "hl": false
+   },
+   {
+    "w": "the conversation and",
+    "s": 24.78,
+    "hl": false
+   },
+   {
+    "w": "the risk that",
+    "s": 26.46,
+    "hl": false
+   },
+   {
+    "w": "they will not",
+    "s": 27.48,
+    "hl": false
+   },
+   {
+    "w": "be appreciated by",
+    "s": 28.06,
+    "hl": false
+   },
+   {
+    "w": "the other person",
+    "s": 29.28,
+    "hl": false
+   },
+   {
+    "w": "So you transfer",
+    "s": 30.32,
+    "hl": false
+   },
+   {
+    "w": "your attention on",
+    "s": 31.68,
+    "hl": true
+   },
+   {
+    "w": "the other person",
+    "s": 32.58,
+    "hl": false
+   },
+   {
+    "w": "and you wait",
+    "s": 33.28,
+    "hl": false,
+    "e": 34.1
+   },
+   {
+    "w": "It will work",
+    "s": 34.18,
+    "hl": false
+   },
+   {
+    "w": "only if your",
+    "s": 34.84,
+    "hl": false
+   },
+   {
+    "w": "attention is sustained",
+    "s": 35.54,
+    "hl": true
+   },
+   {
+    "w": "on the other",
+    "s": 37.06,
+    "hl": false
+   },
+   {
+    "w": "person",
+    "s": 37.84,
+    "hl": false
+   },
+   {
+    "w": "If you're thinking",
+    "s": 38.78,
+    "hl": false
+   },
+   {
+    "w": "at the same",
+    "s": 39.64,
+    "hl": false
+   },
+   {
+    "w": "time",
+    "s": 40.32,
+    "hl": false
+   },
+   {
+    "w": "we will read",
+    "s": 40.78,
+    "hl": false
+   },
+   {
+    "w": "it in your",
+    "s": 41.5,
+    "hl": false
+   },
+   {
+    "w": "ocular movement",
+    "s": 42.06,
+    "hl": false
+   },
+   {
+    "w": "which you cannot",
+    "s": 42.96,
+    "hl": false
+   },
+   {
+    "w": "control consciously",
+    "s": 43.86,
+    "hl": false
+   },
+   {
+    "w": "The other person",
+    "s": 44.94,
+    "hl": false
+   },
+   {
+    "w": "will detect it",
+    "s": 45.38,
+    "hl": false
+   },
+   {
+    "w": "in less than",
+    "s": 45.96,
+    "hl": false
+   },
+   {
+    "w": "10 milliseconds",
+    "s": 46.66,
+    "hl": true
+   },
+   {
+    "w": "And therefore he",
+    "s": 47.98,
+    "hl": false
+   },
+   {
+    "w": "calculates that the",
+    "s": 49.1,
+    "hl": false
+   },
+   {
+    "w": "exchange is a",
+    "s": 50.46,
+    "hl": false
+   },
+   {
+    "w": "form of manipulation",
+    "s": 51.36,
+    "hl": true
+   },
+   {
+    "w": "and his brain",
+    "s": 52.83,
+    "hl": false
+   },
+   {
+    "w": "will stop him",
+    "s": 53.72,
+    "hl": false
+   },
+   {
+    "w": "from speaking",
+    "s": 54.64,
+    "hl": false
+   },
+   {
+    "w": "So just how",
+    "s": 56.42,
+    "hl": false
+   },
+   {
+    "w": "you manage your",
+    "s": 57.24,
+    "hl": false
+   },
+   {
+    "w": "attention during the",
+    "s": 58.16,
+    "hl": true
+   },
+   {
+    "w": "silence phases is",
+    "s": 59.14,
+    "hl": true
+   },
+   {
+    "w": "really important",
+    "s": 60.88,
+    "hl": true,
+    "e": 61.6
+   }
+  ],
+  "sfx": []
  }
 }

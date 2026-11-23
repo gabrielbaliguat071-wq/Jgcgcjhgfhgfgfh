@@ -1,0 +1,8 @@
+# Dr. Guillaume Dulude — Psychology clipping (Clipping Culture, launched 2026-11-20)
+Brief: doc 1h4F6oiKDAcCO1HdhDBS-UBUjI_h1YRt2fbnugB1qi9w. Professional only (no memes/jokes/SFX gags), Guillaume in every clip, one idea per clip,
+no AI voice, music must not drown him, no logos/watermarks, no made-up facts, min 10 s, US/UK/AU audience.
+Caption MUST tag him (TikTok @dr.guillaume.dulude · IG @guillaume.dulude · YT @DrGuillaumeDulude) + a CTA to follow him.
+Sources: Drive folder 1y4wt1MdANzCmuM6Ed3IpP7e_VRn6WOBL (Sony XAVC 1–4.7 GB files; quota-blocked after the first MB — "Quota exceeded" even with byte ranges),
+YouTube nFxbiWD0lpY (Jordan Harbinger interview, bot-blocked). Used his TikTok lessons (540p only) → upscaled.
+`viral-short/build_gd.py <id>` → YLM-gd<id>: fear (39 s), lying (42 s, cut Vanessa Van Edwards intro), silence (62 s, cut podcast intro + "the silence she's talking about").
+Blur band over his old burned subs, our sentence-case subtitles on it, white title box low (top would cover his face), einaudi 0.045, no SFX/punch.
