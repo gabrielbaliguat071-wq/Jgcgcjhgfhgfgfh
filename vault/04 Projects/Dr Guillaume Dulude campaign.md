@@ -6,3 +6,5 @@ Sources: Drive folder 1y4wt1MdANzCmuM6Ed3IpP7e_VRn6WOBL (Sony XAVC 1–4.7 GB fi
 YouTube nFxbiWD0lpY (Jordan Harbinger interview, bot-blocked). Used his TikTok lessons (540p only) → upscaled.
 `viral-short/build_gd.py <id>` → YLM-gd<id>: fear (39 s), lying (42 s, cut Vanessa Van Edwards intro), silence (62 s, cut podcast intro + "the silence she's talking about").
 Blur band over his old burned subs, our sentence-case subtitles on it, white title box low (top would cover his face), einaudi 0.045, no SFX/punch.
+Redo (2026-11-23): user → "always and only original VverPaldo" + "just do the normal one". `viral-short/plan_gd.py` → Guess-gdfear (31 s) / gdlying (32 s) / gdsilence (22 s):
+vertical TikTok source padded to 1920x1080 (x 656–1264) so the box shows a ~1.8–2.1x face crop; standard G67, skull on, mild extras (e_think, ding, wow).

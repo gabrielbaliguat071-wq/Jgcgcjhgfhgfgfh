@@ -3734,5 +3734,417 @@
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "src": "g67_tvsign.mp4"
+ },
+ "gdfear": {
+  "top": "Either you control your fears\u2026 or they control YOU",
+  "hl": {
+   "YOU": "#FF2A2A"
+  },
+  "cta": "*follow for more psychology*",
+  "music": [
+   "sentamento_n",
+   57.5
+  ],
+  "ctaAt": [
+   "c2",
+   "over"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "control"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "expose"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "rewire"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "expose"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "fears"
+   ],
+   [
+    "hook",
+    "control",
+    1
+   ],
+   [
+    "c1",
+    "only"
+   ],
+   [
+    "c1",
+    "controlled"
+   ],
+   [
+    "c1",
+    "low"
+   ],
+   [
+    "c1",
+    "judged"
+   ],
+   [
+    "c2",
+    "drops"
+   ],
+   [
+    "c2",
+    "rewire"
+   ],
+   [
+    "c2",
+    "stronger"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "stronger"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "for"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdfear.mp4",
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "judged"
+    ],
+    "kind": "png",
+    "file": "e_think.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "drops"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c2",
+     "stronger"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.3
+   }
+  ]
+ },
+ "gdlying": {
+  "top": "Words and body don't match? It's NOT always a lie",
+  "hl": {
+   "NOT": "#FF2A2A"
+  },
+  "cta": "*follow for more body language*",
+  "music": [
+   "brevis_n",
+   36.0
+  ],
+  "ctaAt": [
+   "c3",
+   "trust"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "wrong"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "anxiety"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "trust"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "anxiety"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "wrong"
+   ],
+   [
+    "hook",
+    "lying"
+   ],
+   [
+    "c1",
+    "conflict"
+   ],
+   [
+    "c1",
+    "lie"
+   ],
+   [
+    "c1",
+    "anxiety"
+   ],
+   [
+    "c2",
+    "conscious"
+   ],
+   [
+    "c2",
+    "stories"
+   ],
+   [
+    "c3",
+    "trust"
+   ],
+   [
+    "c3",
+    "fit"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "conscious"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c3"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdlying.mp4",
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "anxiety"
+    ],
+    "kind": "png",
+    "file": "e_think.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "conscious"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c3",
+     "trust"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.3
+   }
+  ]
+ },
+ "gdsilence": {
+  "top": "People notice in 10 milliseconds when your attention drifts",
+  "hl": {
+   "10": "#58EE28",
+   "milliseconds": "#58EE28"
+  },
+  "cta": "*follow for more psychology*",
+  "music": [
+   "montagem_n",
+   24.0
+  ],
+  "ctaAt": [
+   "c3",
+   "ocular"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "10"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "scared"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c3",
+     "sustained"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "10"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "detect"
+   ],
+   [
+    "hook",
+    "10"
+   ],
+   [
+    "c1",
+    "powerful"
+   ],
+   [
+    "c1",
+    "scared"
+   ],
+   [
+    "c2",
+    "attention"
+   ],
+   [
+    "c2",
+    "wait"
+   ],
+   [
+    "c3",
+    "only"
+   ],
+   [
+    "c3",
+    "sustained"
+   ],
+   [
+    "c3",
+    "ocular"
+   ],
+   [
+    "c3",
+    "consciously"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "10"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c3"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdsilence.mp4",
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "scared"
+    ],
+    "kind": "png",
+    "file": "e_think.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "10"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c3",
+     "sustained"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.3
+   }
+  ]
  }
 }
