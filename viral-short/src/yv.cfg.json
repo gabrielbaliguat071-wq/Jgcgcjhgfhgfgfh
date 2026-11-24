@@ -5647,5 +5647,805 @@
     "size": 200
    }
   ]
+ },
+ "gdlion2": {
+  "top": "One step closer\u2026 and this LION reacts",
+  "hl": {
+   "LION": "#FF2A2A"
+  },
+  "cta": "*follow for more psychology*",
+  "music": [
+   "brevis_n",
+   36.0
+  ],
+  "ctaAt": [
+   "c2",
+   "space"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "react"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "millimeter"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "inside"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "millimeter"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "closer"
+   ],
+   [
+    "hook",
+    "react"
+   ],
+   [
+    "hook",
+    "limit"
+   ],
+   [
+    "c1",
+    "closer"
+   ],
+   [
+    "c1",
+    "millimeter"
+   ],
+   [
+    "c2",
+    "relaxed"
+   ],
+   [
+    "c2",
+    "limit"
+   ],
+   [
+    "c2",
+    "inside"
+   ],
+   [
+    "c2",
+    "space"
+   ],
+   [
+    "c3",
+    "people"
+   ],
+   [
+    "c3",
+    "principle"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "react"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c3"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdlion2.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "react"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "react"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c2",
+     "inside"
+    ],
+    "kind": "png",
+    "file": "emoji/1f62c.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "people"
+    ],
+    "kind": "png",
+    "file": "emoji/1f440.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   }
+  ]
+ },
+ "gdmars": {
+  "top": "We're building rockets to Mars\u2026 and they still live 100% traditionally",
+  "hl": {
+   "Mars\u2026": "#58EE28",
+   "100%": "#58EE28"
+  },
+  "cta": "*follow for more human behavior*",
+  "music": [
+   "empire_n",
+   18.8
+  ],
+  "ctaAt": [
+   "c1",
+   "adventure"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "mars"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "tired"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "moon"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "mars"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "planet"
+   ],
+   [
+    "hook",
+    "rockets"
+   ],
+   [
+    "hook",
+    "mars"
+   ],
+   [
+    "hook",
+    "hadzabe"
+   ],
+   [
+    "hook",
+    "100"
+   ],
+   [
+    "c1",
+    "morning"
+   ],
+   [
+    "c1",
+    "energy"
+   ],
+   [
+    "c1",
+    "tired"
+   ],
+   [
+    "c1",
+    "follow"
+   ],
+   [
+    "c1",
+    "exactly"
+   ],
+   [
+    "c2",
+    "moon"
+   ],
+   [
+    "c2",
+    "beautiful"
+   ],
+   [
+    "c2",
+    "surreal"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "100"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2",
+    "there"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdmars.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "mars"
+    ],
+    "kind": "png",
+    "file": "emoji/1f680.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "mars"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c1",
+     "tired"
+    ],
+    "kind": "png",
+    "file": "emoji/1f62e.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "moon"
+    ],
+    "kind": "png",
+    "file": "emoji/2728.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "surreal"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.25
+   }
+  ]
+ },
+ "gdtracks": {
+  "top": "Fresh tracks or old ones? In the bush it decides if you are SAFE",
+  "hl": {
+   "SAFE": "#58EE28"
+  },
+  "cta": "*follow for more from the bush*",
+  "music": [
+   "sentamento_n",
+   57.5
+  ],
+  "ctaAt": [
+   "c2",
+   "water"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "dangerous"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "animals"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "water"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "fresh"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "fresh"
+   ],
+   [
+    "hook",
+    "old"
+   ],
+   [
+    "hook",
+    "decisions"
+   ],
+   [
+    "hook",
+    "dangerous"
+   ],
+   [
+    "c1",
+    "identify"
+   ],
+   [
+    "c1",
+    "tracks"
+   ],
+   [
+    "c1",
+    "animals"
+   ],
+   [
+    "c1",
+    "close"
+   ],
+   [
+    "c2",
+    "difference"
+   ],
+   [
+    "c2",
+    "water"
+   ],
+   [
+    "c2",
+    "soft"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "dangerous"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdtracks.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "dangerous"
+    ],
+    "kind": "png",
+    "file": "emoji/1f6a8.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "dangerous"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c1",
+     "tracks"
+    ],
+    "kind": "png",
+    "file": "emoji/1f50d.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "water"
+    ],
+    "kind": "png",
+    "file": "emoji/1f440.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   }
+  ]
+ },
+ "segaall": {
+  "top": "SEGA games are up to 85% OFF on Steam right now",
+  "hl": {
+   "85%": "#58EE28",
+   "OFF": "#58EE28"
+  },
+  "cta": "*limited time only*",
+  "ctaAt": [
+   "c1",
+   "Two"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "85%"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "85%"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [],
+  "punch": [
+   [
+    "hook",
+    "WARHAMMER"
+   ],
+   [
+    "hook",
+    "85%"
+   ],
+   [
+    "c1",
+    "85%"
+   ],
+   [
+    "c1",
+    "75%"
+   ],
+   [
+    "c1",
+    "80%"
+   ],
+   [
+    "c1",
+    "65%"
+   ],
+   [
+    "c1",
+    "40%"
+   ],
+   [
+    "c1",
+    "33%"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "85%"
+   ]
+  ],
+  "blackFlash": [],
+  "streaks": [
+   [
+    "c1",
+    "Sonic"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "85%"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 870,
+    "y": 1290,
+    "size": 190
+   },
+   {
+    "at": [
+     "c1",
+     "Like"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 230,
+    "y": 1240,
+    "size": 190
+   },
+   {
+    "at": [
+     "c1",
+     "Two"
+    ],
+    "kind": "png",
+    "file": "emoji/1f440.png",
+    "x": 870,
+    "y": 1290,
+    "size": 190
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "src": "sega_s1.mp4",
+  "music": [
+   "silent_n",
+   0
+  ],
+  "fxOff": true
+ },
+ "segajrpg": {
+  "top": "JRPG fans\u2026 these are on sale on Steam right now",
+  "hl": {
+   "JRPG": "#58EE28"
+  },
+  "cta": "*limited time only*",
+  "ctaAt": [
+   "c3"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "80%"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [],
+  "punch": [
+   [
+    "hook",
+    "Infinite"
+   ],
+   [
+    "hook",
+    "80%"
+   ],
+   [
+    "c2",
+    "Persona"
+   ],
+   [
+    "c2",
+    "65%"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "80%"
+   ]
+  ],
+  "blackFlash": [],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "80%"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 870,
+    "y": 1290,
+    "size": 190
+   },
+   {
+    "at": [
+     "c2",
+     "65%"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 230,
+    "y": 1240,
+    "size": 190
+   },
+   {
+    "at": [
+     "c3"
+    ],
+    "kind": "png",
+    "file": "emoji/23f3.png",
+    "x": 870,
+    "y": 1290,
+    "size": 190
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "src": "sega_s2.mp4",
+  "music": [
+   "silent_n",
+   0
+  ],
+  "fxOff": true
+ },
+ "segasonic": {
+  "top": "Sonic games are on sale on Steam for Black Friday",
+  "hl": {
+   "Sonic": "#2F8CFF"
+  },
+  "cta": "*limited time only*",
+  "ctaAt": [
+   "c4"
+  ],
+  "tints": [
+   [
+    [
+     "c1",
+     "75%"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [],
+  "punch": [
+   [
+    "hook",
+    "CrossWorlds"
+   ],
+   [
+    "hook",
+    "40%"
+   ],
+   [
+    "c1",
+    "Sonic"
+   ],
+   [
+    "c1",
+    "75%"
+   ],
+   [
+    "c3",
+    "40%"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "75%"
+   ]
+  ],
+  "blackFlash": [],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "40%"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 870,
+    "y": 1290,
+    "size": 190
+   },
+   {
+    "at": [
+     "c1",
+     "75%"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 230,
+    "y": 1240,
+    "size": 190
+   },
+   {
+    "at": [
+     "c4"
+    ],
+    "kind": "png",
+    "file": "emoji/23f3.png",
+    "x": 870,
+    "y": 1290,
+    "size": 190
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "src": "sega_s2.mp4",
+  "music": [
+   "silent_n",
+   0
+  ],
+  "fxOff": true
  }
 }
