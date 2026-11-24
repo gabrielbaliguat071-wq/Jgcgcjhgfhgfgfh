@@ -20,3 +20,4 @@ User: "the most interesting are the interactions with tribes and animals" → pr
 Best untouched tribe/animal material is in the Drive folder (cheetah encounter, Rhino approach, ELEPHANT DUNG/PRINT, scorpion, Hadzabe 1–3, Tribal 1–3, Killed by tribe, TEDx cannibal talk, Tracking animals) — still "Quota exceeded"; user copying them to their own Drive would unblock.
 Batch 5 (2026-11-24): `viral-short/plan_gd5.py` → gdlion2 (22 s, lion visible; unused middle 22.6–45.7), gdmars (45 s, Hadzabe: rockets to Mars + next morning), gdtracks (28 s, water-hole tracks).
 TikTok + Instagram now rate-limited (No video formats / 429). Downloaded-but-unused: guess 84–180 (edible speckboom, numbing thorn), bush 55–75.
+Batch 6 (2026-11-24): plan_gd6.py → gdgiraffe2 (first move), gddisgust (Vanessa 20.9–29.5 cut), gdeyecontact (top half only; Vanessa bottom half + her opening cut).

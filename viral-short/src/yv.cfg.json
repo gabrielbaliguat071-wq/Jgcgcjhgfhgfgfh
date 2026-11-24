@@ -6447,5 +6447,743 @@
    0
   ],
   "fxOff": true
+ },
+ "gdgiraffe2": {
+  "top": "Never make the first move with a giraffe\u2026 let it come to YOU",
+  "hl": {
+   "YOU": "#58EE28"
+  },
+  "cta": "*follow for more from the bush*",
+  "music": [
+   "brevis_n",
+   36.0
+  ],
+  "ctaAt": [
+   "c1",
+   "giraffe"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "first"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "body"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "stop"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "body"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "wait"
+   ],
+   [
+    "hook",
+    "giraffe"
+   ],
+   [
+    "hook",
+    "first"
+   ],
+   [
+    "hook",
+    "decision"
+   ],
+   [
+    "c1",
+    "communicate"
+   ],
+   [
+    "c1",
+    "body"
+   ],
+   [
+    "c1",
+    "towards"
+   ],
+   [
+    "c1",
+    "stop"
+   ],
+   [
+    "c1",
+    "contact"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "first"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "but"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdgiraffe2.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "giraffe"
+    ],
+    "kind": "png",
+    "file": "emoji/1f440.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "first"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.25
+   },
+   {
+    "at": [
+     "c1",
+     "body"
+    ],
+    "kind": "png",
+    "file": "emoji/1f9e0.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   }
+  ]
+ },
+ "gddisgust": {
+  "top": "Your brain can feel DISGUST\u2026 toward yourself",
+  "hl": {
+   "DISGUST\u2026": "#FF2A2A"
+  },
+  "cta": "*follow for more psychology*",
+  "music": [
+   "empire_n",
+   18.8
+  ],
+  "ctaAt": [
+   "c2",
+   "metacognition"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "reject"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "disgust"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "metacognition"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "metacognition"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "reject"
+   ],
+   [
+    "hook",
+    "ugly"
+   ],
+   [
+    "c1",
+    "guard"
+   ],
+   [
+    "c1",
+    "corrupt"
+   ],
+   [
+    "c1",
+    "disgust"
+   ],
+   [
+    "c1",
+    "distance"
+   ],
+   [
+    "c1",
+    "contaminate"
+   ],
+   [
+    "c2",
+    "brain"
+   ],
+   [
+    "c2",
+    "judging"
+   ],
+   [
+    "c2",
+    "metacognition"
+   ],
+   [
+    "c2",
+    "ugly"
+   ],
+   [
+    "c2",
+    "separate"
+   ],
+   [
+    "c2",
+    "integrity"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "ugly"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "and"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gddisgust.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "ugly"
+    ],
+    "kind": "png",
+    "file": "emoji/1f922.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "reject"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.25
+   },
+   {
+    "at": [
+     "c2",
+     "metacognition"
+    ],
+    "kind": "png",
+    "file": "emoji/1f9e0.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "metacognition"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.25
+   }
+  ]
+ },
+ "gdeyecontact": {
+  "top": "Looking away while you talk is NOT a bad sign",
+  "hl": {
+   "NOT": "#58EE28"
+  },
+  "cta": "*follow for more body language*",
+  "music": [
+   "sentamento_n",
+   57.5
+  ],
+  "ctaAt": [
+   "c1",
+   "translate"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "normal"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "cognitively"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "eyes"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "normal"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "normal"
+   ],
+   [
+    "hook",
+    "away"
+   ],
+   [
+    "hook",
+    "absolutely"
+   ],
+   [
+    "c1",
+    "rehearsed"
+   ],
+   [
+    "c1",
+    "natural"
+   ],
+   [
+    "c1",
+    "cognitively"
+   ],
+   [
+    "c1",
+    "information"
+   ],
+   [
+    "c1",
+    "translate"
+   ],
+   [
+    "c2",
+    "end"
+   ],
+   [
+    "c2",
+    "back"
+   ],
+   [
+    "c2",
+    "eyes"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "absolutely"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdeyecontact.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "away"
+    ],
+    "kind": "png",
+    "file": "emoji/1f440.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "absolutely"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.25
+   },
+   {
+    "at": [
+     "c1",
+     "cognitively"
+    ],
+    "kind": "png",
+    "file": "emoji/1f9e0.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "eyes"
+    ],
+    "kind": "png",
+    "file": "emoji/1f440.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   }
+  ]
+ },
+ "segastrat": {
+  "top": "Strategy fans\u2026 Warhammer III is 85% OFF on Steam",
+  "hl": {
+   "85%": "#58EE28",
+   "OFF": "#58EE28"
+  },
+  "cta": "*limited time only*",
+  "ctaAt": [
+   "c3"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "85%"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [],
+  "punch": [
+   [
+    "hook",
+    "WARHAMMER"
+   ],
+   [
+    "hook",
+    "85%"
+   ],
+   [
+    "c2",
+    "Two"
+   ],
+   [
+    "c2",
+    "33%"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "85%"
+   ]
+  ],
+  "blackFlash": [],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "85%"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 870,
+    "y": 1290,
+    "size": 190
+   },
+   {
+    "at": [
+     "c2",
+     "33%"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 230,
+    "y": 1240,
+    "size": 190
+   },
+   {
+    "at": [
+     "c3"
+    ],
+    "kind": "png",
+    "file": "emoji/23f3.png",
+    "x": 870,
+    "y": 1290,
+    "size": 190
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "src": "sega_s2.mp4",
+  "music": [
+   "silent_n",
+   0
+  ],
+  "fxOff": true
+ },
+ "segatop3": {
+  "top": "The 3 biggest SEGA discounts on Steam right now",
+  "hl": {
+   "3": "#58EE28"
+  },
+  "cta": "*limited time only*",
+  "ctaAt": [
+   "c4"
+  ],
+  "tints": [
+   [
+    [
+     "c3",
+     "85%"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [],
+  "punch": [
+   [
+    "c1",
+    "75%"
+   ],
+   [
+    "c2",
+    "80%"
+   ],
+   [
+    "c3",
+    "WARHAMMER"
+   ],
+   [
+    "c3",
+    "85%"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c3",
+    "85%"
+   ]
+  ],
+  "blackFlash": [],
+  "streaks": [
+   [
+    "c2"
+   ],
+   [
+    "c3"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c2",
+     "80%"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 230,
+    "y": 1240,
+    "size": 190
+   },
+   {
+    "at": [
+     "c3",
+     "85%"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 870,
+    "y": 1290,
+    "size": 190
+   },
+   {
+    "at": [
+     "c4"
+    ],
+    "kind": "png",
+    "file": "emoji/23f3.png",
+    "x": 870,
+    "y": 1290,
+    "size": 190
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "src": "sega_s1.mp4",
+  "music": [
+   "silent_n",
+   0
+  ],
+  "fxOff": true
+ },
+ "segaquick": {
+  "top": "Every SEGA Black Friday deal on Steam in 10 seconds",
+  "hl": {
+   "10": "#58EE28"
+  },
+  "cta": "*limited time only*",
+  "ctaAt": [
+   "c1",
+   "33%"
+  ],
+  "tints": [
+   [
+    [
+     "c1",
+     "85%"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [],
+  "punch": [
+   [
+    "c1",
+    "75%"
+   ],
+   [
+    "c1",
+    "80%"
+   ],
+   [
+    "c1",
+    "65%"
+   ],
+   [
+    "c1",
+    "40%"
+   ],
+   [
+    "c1",
+    "85%"
+   ],
+   [
+    "c1",
+    "33%"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "85%"
+   ]
+  ],
+  "blackFlash": [],
+  "streaks": [],
+  "extras": [
+   {
+    "at": [
+     "c1",
+     "85%"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 870,
+    "y": 1290,
+    "size": 190
+   },
+   {
+    "at": [
+     "c1",
+     "33%"
+    ],
+    "kind": "png",
+    "file": "emoji/23f3.png",
+    "x": 230,
+    "y": 1240,
+    "size": 190
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "src": "sega_q2.mp4",
+  "music": [
+   "silent_n",
+   0
+  ],
+  "fxOff": true
  }
 }
