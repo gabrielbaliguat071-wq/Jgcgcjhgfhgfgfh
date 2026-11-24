@@ -5139,5 +5139,513 @@
     "v": 0.25
    }
   ]
+ },
+ "gdeyes": {
+  "top": "This tiny eye movement can destroy your CREDIBILITY",
+  "hl": {
+   "CREDIBILITY": "#FF2A2A"
+  },
+  "cta": "*follow for more body language*",
+  "music": [
+   "brevis_n",
+   36.0
+  ],
+  "ctaAt": [
+   "c4",
+   "notice"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "credibility"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "anxiety"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c4",
+     "avoidance"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "saccadic"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "fine"
+   ],
+   [
+    "hook",
+    "finished"
+   ],
+   [
+    "hook",
+    "lost"
+   ],
+   [
+    "hook",
+    "credibility"
+   ],
+   [
+    "c1",
+    "saccadic"
+   ],
+   [
+    "c2",
+    "anxiety"
+   ],
+   [
+    "c2",
+    "positive"
+   ],
+   [
+    "c3",
+    "avoidance"
+   ],
+   [
+    "c4",
+    "brain"
+   ],
+   [
+    "c4",
+    "avoidance"
+   ],
+   [
+    "c4",
+    "notice"
+   ],
+   [
+    "c4",
+    "kick"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "credibility"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c4"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdeyes.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "fine"
+    ],
+    "kind": "png",
+    "file": "emoji/1f440.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "credibility"
+    ],
+    "kind": "png",
+    "file": "emoji/1f62c.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "lost"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c4",
+     "avoidance"
+    ],
+    "kind": "png",
+    "file": "emoji/1f9e0.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c4",
+     "kick"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.25
+   }
+  ]
+ },
+ "gdhimba": {
+  "top": "Why this food had to go through the tribe's CHIEF first",
+  "hl": {
+   "CHIEF": "#58EE28"
+  },
+  "cta": "*follow for more human behavior*",
+  "music": [
+   "empire_n",
+   18.8
+  ],
+  "ctaAt": [
+   "c2",
+   "authority"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "chief"
+    ],
+    "G"
+   ],
+   [
+    [
+     "hook",
+     "hierarchy"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "200"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "200"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "chief"
+   ],
+   [
+    "hook",
+    "responsible"
+   ],
+   [
+    "hook",
+    "never"
+   ],
+   [
+    "hook",
+    "hierarchy"
+   ],
+   [
+    "c1",
+    "himba"
+   ],
+   [
+    "c1",
+    "namibia"
+   ],
+   [
+    "c1",
+    "200"
+   ],
+   [
+    "c1",
+    "maize"
+   ],
+   [
+    "c2",
+    "works"
+   ],
+   [
+    "c2",
+    "authority"
+   ],
+   [
+    "c3",
+    "top"
+   ],
+   [
+    "c3",
+    "distributes"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "hierarchy"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "so",
+    1
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdhimba.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "chief"
+    ],
+    "kind": "png",
+    "file": "emoji/1f451.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "chief"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.25
+   },
+   {
+    "at": [
+     "c1",
+     "200"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "hierarchy"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.25
+   }
+  ]
+ },
+ "gdground": {
+  "top": "Early humans could read the ground like a STORY",
+  "hl": {
+   "STORY": "#58EE28"
+  },
+  "cta": "*follow for more psychology*",
+  "music": [
+   "sentamento_n",
+   57.5
+  ],
+  "ctaAt": [
+   "c3",
+   "relationship"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "soil"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "dangerous"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "elimination"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "tracks"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "answer"
+   ],
+   [
+    "hook",
+    "rocks"
+   ],
+   [
+    "hook",
+    "soil"
+   ],
+   [
+    "hook",
+    "story"
+   ],
+   [
+    "c1",
+    "questions"
+   ],
+   [
+    "c1",
+    "10,000"
+   ],
+   [
+    "c1",
+    "animals"
+   ],
+   [
+    "c1",
+    "dangerous"
+   ],
+   [
+    "c2",
+    "humans"
+   ],
+   [
+    "c2",
+    "tracks"
+   ],
+   [
+    "c2",
+    "elimination"
+   ],
+   [
+    "c3",
+    "recent"
+   ],
+   [
+    "c3",
+    "running"
+   ],
+   [
+    "c3",
+    "ground"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "story"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c3"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdground.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "story"
+    ],
+    "kind": "png",
+    "file": "emoji/1f50d.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "story"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.25
+   },
+   {
+    "at": [
+     "c1",
+     "dangerous"
+    ],
+    "kind": "png",
+    "file": "emoji/1f62c.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "tracks"
+    ],
+    "kind": "png",
+    "file": "emoji/1f440.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "ground"
+    ],
+    "kind": "png",
+    "file": "emoji/1f9e0.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   }
+  ]
  }
 }

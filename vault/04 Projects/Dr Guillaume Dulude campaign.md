@@ -15,3 +15,6 @@ Batch 3 wildlife (2026-11-23, user: "the first vid [lion] is interesting, find m
 gdgiraffe (31 s, "golf club with a hammer"), gdpoison (47 s, Euphorbia tree bleeds poison — survival, not strictly psychology → may be off-topic for the campaign).
 His TikTok wildlife list: bush/giraffe 7692820298441231634, guess/poison 7683981108324715792, Hadzabe 7660581182958128405, tracking 7650918932827671829 (rest are Psycom Origin promos).
 Disk: deleted footage/src (Trevor, all used), popdarts, boxed, kreek, old g67 tv excerpts.
+Batch 4 (2026-11-24): `viral-short/plan_gd4.py` → gdhimba (31 s, chief/hierarchy hook), gdground (50 s, tracks/deduction), gdeyes (40 s, interview: double saccadic movement; Mike Tyson insert cut).
+User: "the most interesting are the interactions with tribes and animals" → prioritise those. His TikTok tribe/animal clips are now used up (rest = Psycom Origin ads); TikTok started returning "No video formats found" (rate limit) on 2026-11-24.
+Best untouched tribe/animal material is in the Drive folder (cheetah encounter, Rhino approach, ELEPHANT DUNG/PRINT, scorpion, Hadzabe 1–3, Tribal 1–3, Killed by tribe, TEDx cannibal talk, Tracking animals) — still "Quota exceeded"; user copying them to their own Drive would unblock.
