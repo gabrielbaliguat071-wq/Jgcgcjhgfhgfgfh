@@ -9408,5 +9408,461 @@
   "cutSfx": "s_camflash.mp3",
   "src": "g67_wcchop.mp4",
   "noSkull": true
+ },
+ "tvgoat2": {
+  "top": "Asked an NFL QB for his NBA GOAT\u2026 he said THIS",
+  "hl": {
+   "THIS": "#FF2A2A"
+  },
+  "cta": "*who is YOUR NBA goat?*",
+  "music": [
+   "dubist_n",
+   1.0
+  ],
+  "ctaAt": [
+   "c3",
+   "tension"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "Dellavedova"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "tension"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "Dellavedova"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "Gotta"
+   ],
+   [
+    "hook",
+    "Dellavedova"
+   ],
+   [
+    "hook",
+    "no"
+   ],
+   [
+    "c1",
+    "NBA"
+   ],
+   [
+    "c1",
+    "goat"
+   ],
+   [
+    "c1",
+    "Greatest"
+   ],
+   [
+    "c3",
+    "feel"
+   ],
+   [
+    "c3",
+    "tension"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "Dellavedova"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c3"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "Greatest"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "Dellavedova"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "hook",
+     "Dellavedova"
+    ],
+    "kind": "png",
+    "file": "emoji/1f602.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "goat"
+    ],
+    "kind": "png",
+    "file": "emoji/1f914.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "tension"
+    ],
+    "kind": "sfx",
+    "file": "m_mg-boom.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c3",
+     "tension"
+    ],
+    "kind": "png",
+    "file": "emoji/1f480.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvgoat2.mp4"
+ },
+ "tvneck2": {
+  "top": "When the card you pull gets ROASTED live",
+  "hl": {
+   "ROASTED": "#FF2A2A"
+  },
+  "cta": "*was that too far?*",
+  "music": [
+   "funkabn_n",
+   0.5
+  ],
+  "ctaAt": [
+   "c2",
+   "you"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "Ew"
+    ],
+    "R"
+   ],
+   [
+    [
+     "hook",
+     "neck"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "neck"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "Davis"
+   ],
+   [
+    "hook",
+    "Ew"
+   ],
+   [
+    "hook",
+    "longer"
+   ],
+   [
+    "hook",
+    "neck"
+   ],
+   [
+    "hook",
+    "Glennon"
+   ],
+   [
+    "hook",
+    "Trevor"
+   ],
+   [
+    "c1",
+    "Red"
+   ],
+   [
+    "c1",
+    "Adam"
+   ],
+   [
+    "c2",
+    "guys"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "Ew"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "here"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "Ew"
+    ],
+    "kind": "sfx",
+    "file": "m_record-scratch.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "hook",
+     "neck"
+    ],
+    "kind": "sfx",
+    "file": "m_mg-boom.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "hook",
+     "neck"
+    ],
+    "kind": "png",
+    "file": "emoji/1f480.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "guys"
+    ],
+    "kind": "png",
+    "file": "emoji/1f602.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvneck2.mp4"
+ },
+ "tvcelly2": {
+  "top": "They invented Trevor's next touchdown celly",
+  "hl": {
+   "celly": "#58EE28"
+  },
+  "cta": "*would you do this celly?*",
+  "music": [
+   "montagem_n",
+   24.0
+  ],
+  "ctaAt": [
+   "c3",
+   "collectors"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "10"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "dance"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c4",
+     "No"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "10"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "point"
+   ],
+   [
+    "hook",
+    "10"
+   ],
+   [
+    "hook",
+    "easy"
+   ],
+   [
+    "c1",
+    "celly"
+   ],
+   [
+    "c1",
+    "touchdown"
+   ],
+   [
+    "c1",
+    "Maybe"
+   ],
+   [
+    "c2",
+    "choreographed"
+   ],
+   [
+    "c2",
+    "dance"
+   ],
+   [
+    "c3",
+    "PSA"
+   ],
+   [
+    "c3",
+    "best"
+   ],
+   [
+    "c4",
+    "like"
+   ],
+   [
+    "c4",
+    "No"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c4",
+    "No"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c3"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "10"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "dance"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c2",
+     "dance"
+    ],
+    "kind": "png",
+    "file": "emoji/1f602.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c4",
+     "No"
+    ],
+    "kind": "sfx",
+    "file": "m_oh-hell-nah.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c4",
+     "No"
+    ],
+    "kind": "png",
+    "file": "emoji/1f480.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvcelly2.mp4"
  }
 }
