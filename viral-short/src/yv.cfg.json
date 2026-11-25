@@ -7686,5 +7686,563 @@
     "v": 0.25
    }
   ]
+ },
+ "dreamboss": {
+  "top": "This Roblox boss lands on the plaza and NOBODY is ready",
+  "hl": {
+   "NOBODY": "#FF2A2A"
+  },
+  "cta": "*play Dreamscape on Roblox*",
+  "music": [
+   "phonk_n",
+   22.4
+  ],
+  "ctaAt": [
+   "c1",
+   "Dreamscape"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "ready"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "dazed"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "Grumble"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "dazed"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "boss"
+   ],
+   [
+    "hook",
+    "nobody"
+   ],
+   [
+    "c1",
+    "Horde"
+   ],
+   [
+    "c1",
+    "charges"
+   ],
+   [
+    "c1",
+    "stomps"
+   ],
+   [
+    "c1",
+    "cleaves"
+   ],
+   [
+    "c1",
+    "shield"
+   ],
+   [
+    "c1",
+    "weak"
+   ],
+   [
+    "c1",
+    "771"
+   ],
+   [
+    "c1",
+    "Grumble"
+   ],
+   [
+    "c1",
+    "Giant"
+   ],
+   [
+    "c1",
+    "Dreamscape"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "771"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1",
+    "Big"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "Giant"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "nobody"
+    ],
+    "kind": "png",
+    "file": "emoji/1f631.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "771"
+    ],
+    "kind": "sfx",
+    "file": "m_mg-boom.mp3",
+    "v": 0.5
+   },
+   {
+    "at": [
+     "c1",
+     "771"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "Big"
+    ],
+    "kind": "sfx",
+    "file": "m_oh-hell-nah.mp3",
+    "v": 0.5
+   },
+   {
+    "at": [
+     "c1",
+     "Grumble"
+    ],
+    "kind": "png",
+    "file": "emoji/1f480.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "Dreamscape"
+    ],
+    "kind": "sfx",
+    "file": "m_meme-tada.mp3",
+    "v": 0.3
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "dreamboss.mp4"
+ },
+ "dreamfree": {
+  "top": "This Roblox game gives you a FREE spin every day",
+  "hl": {
+   "FREE": "#58EE28"
+  },
+  "cta": "*play Dreamscape on Roblox*",
+  "music": [
+   "funkabn_n",
+   33.2
+  ],
+  "ctaAt": [
+   "c1",
+   "Dreamscape"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "free"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "odds"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "Common"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "free"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "free"
+   ],
+   [
+    "hook",
+    "spin"
+   ],
+   [
+    "hook",
+    "every"
+   ],
+   [
+    "c1",
+    "Wheel"
+   ],
+   [
+    "c1",
+    "gifts"
+   ],
+   [
+    "c1",
+    "mount"
+   ],
+   [
+    "c1",
+    "odds"
+   ],
+   [
+    "c1",
+    "rolled"
+   ],
+   [
+    "c1",
+    "Common"
+   ],
+   [
+    "c1",
+    "Bro"
+   ],
+   [
+    "c1",
+    "Candy"
+   ],
+   [
+    "c1",
+    "Dreamscape"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "Bro"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1",
+    "Common"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "Candy"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "free"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "rolled"
+    ],
+    "kind": "sfx",
+    "file": "m_meme-build2.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c1",
+     "Common"
+    ],
+    "kind": "sfx",
+    "file": "s_fahhh.mp3",
+    "v": 0.5
+   },
+   {
+    "at": [
+     "c1",
+     "Common"
+    ],
+    "kind": "png",
+    "file": "emoji/1f62d.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "Bro"
+    ],
+    "kind": "sfx",
+    "file": "m_record-scratch.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "Bro"
+    ],
+    "kind": "png",
+    "file": "emoji/1f480.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "Dreamscape"
+    ],
+    "kind": "sfx",
+    "file": "m_meme-tada.mp3",
+    "v": 0.3
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "dreamfree.mp4"
+ },
+ "dreamworlds": {
+  "top": "From puffballs to 1.8 MILLION damage in this Roblox RPG",
+  "hl": {
+   "1.8": "#58EE28",
+   "MILLION": "#58EE28"
+  },
+  "cta": "*play Dreamscape on Roblox*",
+  "music": [
+   "empire_n",
+   18.8
+  ],
+  "ctaAt": [
+   "c1",
+   "Dreamscape"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "million"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "unlock"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "golems"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "unlock"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "puffballs"
+   ],
+   [
+    "hook",
+    "1.8"
+   ],
+   [
+    "hook",
+    "million"
+   ],
+   [
+    "c1",
+    "kills"
+   ],
+   [
+    "c1",
+    "unlock"
+   ],
+   [
+    "c1",
+    "Cotton"
+   ],
+   [
+    "c1",
+    "gate"
+   ],
+   [
+    "c1",
+    "Gumdrop"
+   ],
+   [
+    "c1",
+    "Toybox"
+   ],
+   [
+    "c1",
+    "Crystal"
+   ],
+   [
+    "c1",
+    "Magic"
+   ],
+   [
+    "c1",
+    "Mega"
+   ],
+   [
+    "c1",
+    "Eight"
+   ],
+   [
+    "c1",
+    "Dreamscape"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "million"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1",
+    "Crystal"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "Gumdrop"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "million"
+    ],
+    "kind": "sfx",
+    "file": "m_anime-wow.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "hook",
+     "million"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "golems"
+    ],
+    "kind": "sfx",
+    "file": "m_mg-boom.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "golems"
+    ],
+    "kind": "png",
+    "file": "emoji/1f480.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "Mega"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "Dreamscape"
+    ],
+    "kind": "sfx",
+    "file": "m_meme-tada.mp3",
+    "v": 0.3
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "dreamworlds.mp4"
  }
 }

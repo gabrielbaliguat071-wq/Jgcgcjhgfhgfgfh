@@ -1,0 +1,422 @@
+[
+{
+"text": "from",
+"startMs": 0,
+"endMs": 120,
+"p": 0.26
+},
+{
+"text": "hitting",
+"startMs": 120,
+"endMs": 340,
+"p": 0.98
+},
+{
+"text": "puffballs",
+"startMs": 340,
+"endMs": 820,
+"p": 0.74
+},
+{
+"text": "to",
+"startMs": 820,
+"endMs": 1040,
+"p": 0.95
+},
+{
+"text": "1",
+"startMs": 1040,
+"endMs": 1280,
+"p": 0.96
+},
+{
+"text": ".8",
+"startMs": 1280,
+"endMs": 1760,
+"p": 0.98
+},
+{
+"text": "million",
+"startMs": 1760,
+"endMs": 1960,
+"p": 0.9
+},
+{
+"text": "damage.",
+"startMs": 1960,
+"endMs": 2520,
+"p": 0.99
+},
+{
+"text": "In",
+"startMs": 3120,
+"endMs": 3120,
+"p": 0.99
+},
+{
+"text": "this",
+"startMs": 3120,
+"endMs": 3280,
+"p": 0.99
+},
+{
+"text": "Roblox",
+"startMs": 3280,
+"endMs": 3660,
+"p": 0.97
+},
+{
+"text": "game,",
+"startMs": 3660,
+"endMs": 3940,
+"p": 0.99
+},
+{
+"text": "your",
+"startMs": 4100,
+"endMs": 4160,
+"p": 0.99
+},
+{
+"text": "kills",
+"startMs": 4160,
+"endMs": 4360,
+"p": 0.99
+},
+{
+"text": "unlock",
+"startMs": 4360,
+"endMs": 4740,
+"p": 0.99
+},
+{
+"text": "the",
+"startMs": 4740,
+"endMs": 4940,
+"p": 1.0
+},
+{
+"text": "next",
+"startMs": 4940,
+"endMs": 5120,
+"p": 0.99
+},
+{
+"text": "world.",
+"startMs": 5120,
+"endMs": 5440,
+"p": 0.99
+},
+{
+"text": "You",
+"startMs": 5740,
+"endMs": 5760,
+"p": 0.99
+},
+{
+"text": "start",
+"startMs": 5760,
+"endMs": 5960,
+"p": 0.98
+},
+{
+"text": "in",
+"startMs": 5960,
+"endMs": 6160,
+"p": 0.99
+},
+{
+"text": "Cotton",
+"startMs": 6160,
+"endMs": 6340,
+"p": 0.88
+},
+{
+"text": "Cloud",
+"startMs": 6340,
+"endMs": 6660,
+"p": 0.84
+},
+{
+"text": "Meadow,",
+"startMs": 6660,
+"endMs": 7020,
+"p": 0.95
+},
+{
+"text": "clear",
+"startMs": 7320,
+"endMs": 7480,
+"p": 0.93
+},
+{
+"text": "the",
+"startMs": 7480,
+"endMs": 7660,
+"p": 0.99
+},
+{
+"text": "zone",
+"startMs": 7660,
+"endMs": 7840,
+"p": 0.97
+},
+{
+"text": "and",
+"startMs": 7840,
+"endMs": 8040,
+"p": 0.82
+},
+{
+"text": "the",
+"startMs": 8040,
+"endMs": 8160,
+"p": 0.99
+},
+{
+"text": "gate",
+"startMs": 8160,
+"endMs": 8300,
+"p": 0.99
+},
+{
+"text": "opens.",
+"startMs": 8300,
+"endMs": 8720,
+"p": 1.0
+},
+{
+"text": "Gumdrop",
+"startMs": 9100,
+"endMs": 9340,
+"p": 0.9
+},
+{
+"text": "Grove,",
+"startMs": 9340,
+"endMs": 9680,
+"p": 0.99
+},
+{
+"text": "Toybox",
+"startMs": 9960,
+"endMs": 10200,
+"p": 0.82
+},
+{
+"text": "Town,",
+"startMs": 10200,
+"endMs": 10580,
+"p": 0.98
+},
+{
+"text": "then",
+"startMs": 10860,
+"endMs": 10920,
+"p": 0.99
+},
+{
+"text": "the",
+"startMs": 10920,
+"endMs": 11060,
+"p": 0.96
+},
+{
+"text": "Crystal",
+"startMs": 11060,
+"endMs": 11300,
+"p": 0.82
+},
+{
+"text": "Caverns",
+"startMs": 11300,
+"endMs": 11820,
+"p": 1.0
+},
+{
+"text": "where",
+"startMs": 11820,
+"endMs": 11940,
+"p": 0.7
+},
+{
+"text": "the",
+"startMs": 11940,
+"endMs": 12120,
+"p": 0.98
+},
+{
+"text": "golems",
+"startMs": 12120,
+"endMs": 12360,
+"p": 0.86
+},
+{
+"text": "hit",
+"startMs": 12360,
+"endMs": 12560,
+"p": 0.99
+},
+{
+"text": "back.",
+"startMs": 12560,
+"endMs": 12860,
+"p": 1.0
+},
+{
+"text": "Level",
+"startMs": 13140,
+"endMs": 13240,
+"p": 0.99
+},
+{
+"text": "up",
+"startMs": 13240,
+"endMs": 13380,
+"p": 0.99
+},
+{
+"text": "your",
+"startMs": 13380,
+"endMs": 13500,
+"p": 1.0
+},
+{
+"text": "magic",
+"startMs": 13500,
+"endMs": 13800,
+"p": 0.95
+},
+{
+"text": "and",
+"startMs": 13800,
+"endMs": 14020,
+"p": 0.85
+},
+{
+"text": "every",
+"startMs": 14020,
+"endMs": 14300,
+"p": 1.0
+},
+{
+"text": "world",
+"startMs": 14300,
+"endMs": 14580,
+"p": 0.99
+},
+{
+"text": "ends",
+"startMs": 14580,
+"endMs": 14820,
+"p": 1.0
+},
+{
+"text": "with",
+"startMs": 14820,
+"endMs": 14980,
+"p": 1.0
+},
+{
+"text": "a",
+"startMs": 14980,
+"endMs": 15100,
+"p": 0.99
+},
+{
+"text": "mega",
+"startMs": 15100,
+"endMs": 15240,
+"p": 0.38
+},
+{
+"text": "boss.",
+"startMs": 15240,
+"endMs": 15600,
+"p": 0.71
+},
+{
+"text": "Eight",
+"startMs": 15940,
+"endMs": 16060,
+"p": 0.55
+},
+{
+"text": "dream",
+"startMs": 16060,
+"endMs": 16340,
+"p": 0.79
+},
+{
+"text": "worlds",
+"startMs": 16340,
+"endMs": 16640,
+"p": 0.97
+},
+{
+"text": "in",
+"startMs": 16640,
+"endMs": 16860,
+"p": 0.97
+},
+{
+"text": "total.",
+"startMs": 16860,
+"endMs": 17140,
+"p": 1.0
+},
+{
+"text": "Play",
+"startMs": 17500,
+"endMs": 17600,
+"p": 0.99
+},
+{
+"text": "Dreamscape",
+"startMs": 17600,
+"endMs": 18080,
+"p": 0.7
+},
+{
+"text": "by",
+"startMs": 18080,
+"endMs": 18320,
+"p": 0.99
+},
+{
+"text": "Backfire",
+"startMs": 18320,
+"endMs": 18740,
+"p": 0.96
+},
+{
+"text": "Studios",
+"startMs": 18740,
+"endMs": 19040,
+"p": 0.99
+},
+{
+"text": "on",
+"startMs": 19040,
+"endMs": 19400,
+"p": 0.99
+},
+{
+"text": "Roblox.",
+"startMs": 19400,
+"endMs": 19920,
+"p": 1.0
+},
+{
+"text": "It's",
+"startMs": 20100,
+"endMs": 20240,
+"p": 0.99
+},
+{
+"text": "free.",
+"startMs": 20240,
+"endMs": 20420,
+"p": 0.95
+}
+]

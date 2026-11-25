@@ -1,0 +1,410 @@
+[
+{
+"text": "This",
+"startMs": 0,
+"endMs": 160,
+"p": 0.88
+},
+{
+"text": "Roblox",
+"startMs": 160,
+"endMs": 600,
+"p": 0.94
+},
+{
+"text": "game",
+"startMs": 600,
+"endMs": 860,
+"p": 0.99
+},
+{
+"text": "gives",
+"startMs": 860,
+"endMs": 1080,
+"p": 0.99
+},
+{
+"text": "you",
+"startMs": 1080,
+"endMs": 1220,
+"p": 1.0
+},
+{
+"text": "a",
+"startMs": 1220,
+"endMs": 1340,
+"p": 0.99
+},
+{
+"text": "free",
+"startMs": 1340,
+"endMs": 1520,
+"p": 0.99
+},
+{
+"text": "spin",
+"startMs": 1520,
+"endMs": 1840,
+"p": 1.0
+},
+{
+"text": "every",
+"startMs": 1840,
+"endMs": 2120,
+"p": 0.99
+},
+{
+"text": "single",
+"startMs": 2120,
+"endMs": 2460,
+"p": 0.99
+},
+{
+"text": "day,",
+"startMs": 2460,
+"endMs": 2760,
+"p": 1.0
+},
+{
+"text": "that's",
+"startMs": 2960,
+"endMs": 3160,
+"p": 0.98
+},
+{
+"text": "the",
+"startMs": 3160,
+"endMs": 3240,
+"p": 0.97
+},
+{
+"text": "dream",
+"startMs": 3240,
+"endMs": 3460,
+"p": 0.54
+},
+{
+"text": "wheel.",
+"startMs": 3460,
+"endMs": 3740,
+"p": 0.94
+},
+{
+"text": "You",
+"startMs": 4140,
+"endMs": 4220,
+"p": 1.0
+},
+{
+"text": "get",
+"startMs": 4220,
+"endMs": 4360,
+"p": 1.0
+},
+{
+"text": "playtime",
+"startMs": 4360,
+"endMs": 4720,
+"p": 0.89
+},
+{
+"text": "gifts",
+"startMs": 4720,
+"endMs": 5000,
+"p": 0.96
+},
+{
+"text": "just",
+"startMs": 5000,
+"endMs": 5220,
+"p": 0.98
+},
+{
+"text": "for",
+"startMs": 5220,
+"endMs": 5420,
+"p": 1.0
+},
+{
+"text": "playing,",
+"startMs": 5420,
+"endMs": 5720,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 5900,
+"endMs": 5980,
+"p": 0.99
+},
+{
+"text": "a",
+"startMs": 5980,
+"endMs": 6060,
+"p": 0.99
+},
+{
+"text": "free",
+"startMs": 6060,
+"endMs": 6260,
+"p": 0.92
+},
+{
+"text": "mount",
+"startMs": 6260,
+"endMs": 6440,
+"p": 0.91
+},
+{
+"text": "roll",
+"startMs": 6440,
+"endMs": 6740,
+"p": 0.93
+},
+{
+"text": "with",
+"startMs": 6740,
+"endMs": 6940,
+"p": 0.98
+},
+{
+"text": "the",
+"startMs": 6940,
+"endMs": 7060,
+"p": 0.99
+},
+{
+"text": "real",
+"startMs": 7060,
+"endMs": 7260,
+"p": 0.99
+},
+{
+"text": "odds",
+"startMs": 7260,
+"endMs": 7560,
+"p": 0.99
+},
+{
+"text": "right",
+"startMs": 7560,
+"endMs": 7780,
+"p": 0.99
+},
+{
+"text": "on",
+"startMs": 7780,
+"endMs": 7920,
+"p": 1.0
+},
+{
+"text": "screen",
+"startMs": 7920,
+"endMs": 8220,
+"p": 0.9
+},
+{
+"text": "so",
+"startMs": 8220,
+"endMs": 8460,
+"p": 0.79
+},
+{
+"text": "I",
+"startMs": 8460,
+"endMs": 8640,
+"p": 0.99
+},
+{
+"text": "rolled",
+"startMs": 8640,
+"endMs": 8880,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 8880,
+"endMs": 9260,
+"p": 0.49
+},
+{
+"text": "got",
+"startMs": 9260,
+"endMs": 9380,
+"p": 1.0
+},
+{
+"text": "a",
+"startMs": 9380,
+"endMs": 9500,
+"p": 0.99
+},
+{
+"text": "common",
+"startMs": 9500,
+"endMs": 9780,
+"p": 0.99
+},
+{
+"text": "gumdrop",
+"startMs": 9780,
+"endMs": 10220,
+"p": 0.97
+},
+{
+"text": "tortoise.",
+"startMs": 10220,
+"endMs": 10840,
+"p": 0.99
+},
+{
+"text": "Bro,",
+"startMs": 11200,
+"endMs": 11360,
+"p": 0.97
+},
+{
+"text": "but",
+"startMs": 11640,
+"endMs": 11760,
+"p": 0.99
+},
+{
+"text": "hey",
+"startMs": 11760,
+"endMs": 11960,
+"p": 0.98
+},
+{
+"text": "it",
+"startMs": 11960,
+"endMs": 12140,
+"p": 0.56
+},
+{
+"text": "was",
+"startMs": 12140,
+"endMs": 12260,
+"p": 1.0
+},
+{
+"text": "free",
+"startMs": 12260,
+"endMs": 12540,
+"p": 0.99
+},
+{
+"text": "and",
+"startMs": 12540,
+"endMs": 12720,
+"p": 0.92
+},
+{
+"text": "it",
+"startMs": 12720,
+"endMs": 12860,
+"p": 0.95
+},
+{
+"text": "still",
+"startMs": 12860,
+"endMs": 13040,
+"p": 0.99
+},
+{
+"text": "carries",
+"startMs": 13040,
+"endMs": 13360,
+"p": 0.99
+},
+{
+"text": "me",
+"startMs": 13360,
+"endMs": 13540,
+"p": 1.0
+},
+{
+"text": "through",
+"startMs": 13540,
+"endMs": 13740,
+"p": 1.0
+},
+{
+"text": "candy",
+"startMs": 13740,
+"endMs": 14020,
+"p": 0.37
+},
+{
+"text": "land.",
+"startMs": 14020,
+"endMs": 14400,
+"p": 0.9
+},
+{
+"text": "Play",
+"startMs": 14820,
+"endMs": 14940,
+"p": 0.78
+},
+{
+"text": "Dreamscape",
+"startMs": 14940,
+"endMs": 15440,
+"p": 0.69
+},
+{
+"text": "by",
+"startMs": 15440,
+"endMs": 15680,
+"p": 0.99
+},
+{
+"text": "Backfire",
+"startMs": 15680,
+"endMs": 16140,
+"p": 0.97
+},
+{
+"text": "Studios",
+"startMs": 16140,
+"endMs": 16460,
+"p": 0.98
+},
+{
+"text": "on",
+"startMs": 16460,
+"endMs": 16840,
+"p": 0.99
+},
+{
+"text": "Roblox,",
+"startMs": 16840,
+"endMs": 17400,
+"p": 1.0
+},
+{
+"text": "it's",
+"startMs": 17540,
+"endMs": 17680,
+"p": 0.98
+},
+{
+"text": "free",
+"startMs": 17680,
+"endMs": 17780,
+"p": 0.98
+},
+{
+"text": "to",
+"startMs": 17780,
+"endMs": 17900,
+"p": 0.98
+},
+{
+"text": "play.",
+"startMs": 17900,
+"endMs": 18120,
+"p": 1.0
+}
+]
