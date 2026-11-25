@@ -14,6 +14,7 @@ Edit podcast/streamer clips into viral vertical Shorts in a **meme / brainrot cl
 - **Plain words only on screen (2026-11-01).** Captions and 3D text use words an average viewer knows. Swap hobby slang (auto → autograph, redeem → "why the wait", prism, numbered, etc.) for everyday words, or cut the line.
 - **Every title + description must be brand new (2026-11-01).** Never reuse or lightly reword one sent before, even for a re-send. Check `vault/04 Projects/Titles used.md` first and add each new one there.
 - **(2026-11-25) EVERY clip I send gets BOTH a TITLE and a DESCRIPTION** (title in its own code block; description + required tags/hashtags in a second code block), for every campaign, every time — user reminded again.
+- **(2026-11-25) NEVER a half-done edit:** always pick the BEST clips of the source, hook on all 3 (visual+audio+text) in the first 2–3 s, and the top text itself must be a reason to keep watching (curiosity gap / bold true claim).
 - **(2026-11-23) VIRAL RULES for EVERY edit — the first 3 seconds must hook on all three channels:**
   1. **Visual:** open on the most interesting moment of the clip (something happening: a gesture, a reveal, a reaction, a strong face), never a static start.
   2. **Audio:** the first line heard must be the most interesting / surprising line (a question, a bold claim, a number).

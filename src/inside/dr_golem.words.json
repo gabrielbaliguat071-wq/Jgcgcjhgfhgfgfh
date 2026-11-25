@@ -1,0 +1,326 @@
+[
+{
+"text": "This",
+"startMs": 0,
+"endMs": 160,
+"p": 0.95
+},
+{
+"text": "crystal",
+"startMs": 160,
+"endMs": 520,
+"p": 0.66
+},
+{
+"text": "golem",
+"startMs": 520,
+"endMs": 940,
+"p": 0.97
+},
+{
+"text": "was",
+"startMs": 940,
+"endMs": 1120,
+"p": 1.0
+},
+{
+"text": "asleep.",
+"startMs": 1120,
+"endMs": 1560,
+"p": 0.99
+},
+{
+"text": "Until",
+"startMs": 1940,
+"endMs": 2140,
+"p": 0.99
+},
+{
+"text": "now,",
+"startMs": 2140,
+"endMs": 2440,
+"p": 1.0
+},
+{
+"text": "it",
+"startMs": 2740,
+"endMs": 2860,
+"p": 0.99
+},
+{
+"text": "wakes",
+"startMs": 2860,
+"endMs": 3000,
+"p": 1.0
+},
+{
+"text": "up",
+"startMs": 3000,
+"endMs": 3240,
+"p": 1.0
+},
+{
+"text": "right",
+"startMs": 3240,
+"endMs": 3460,
+"p": 0.99
+},
+{
+"text": "in",
+"startMs": 3460,
+"endMs": 3640,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 3640,
+"endMs": 3740,
+"p": 1.0
+},
+{
+"text": "middle",
+"startMs": 3740,
+"endMs": 3880,
+"p": 1.0
+},
+{
+"text": "of",
+"startMs": 3880,
+"endMs": 4020,
+"p": 1.0
+},
+{
+"text": "your",
+"startMs": 4020,
+"endMs": 4140,
+"p": 0.99
+},
+{
+"text": "fight.",
+"startMs": 4140,
+"endMs": 4380,
+"p": 1.0
+},
+{
+"text": "It",
+"startMs": 4620,
+"endMs": 4660,
+"p": 0.99
+},
+{
+"text": "shrugs",
+"startMs": 4660,
+"endMs": 5040,
+"p": 0.99
+},
+{
+"text": "off",
+"startMs": 5040,
+"endMs": 5180,
+"p": 0.99
+},
+{
+"text": "your",
+"startMs": 5180,
+"endMs": 5340,
+"p": 1.0
+},
+{
+"text": "attacks.",
+"startMs": 5340,
+"endMs": 5700,
+"p": 1.0
+},
+{
+"text": "Crystal",
+"startMs": 6580,
+"endMs": 6580,
+"p": 0.93
+},
+{
+"text": "spikes",
+"startMs": 6580,
+"endMs": 6940,
+"p": 0.98
+},
+{
+"text": "erupt",
+"startMs": 6940,
+"endMs": 7320,
+"p": 1.0
+},
+{
+"text": "everywhere,",
+"startMs": 7320,
+"endMs": 7780,
+"p": 1.0
+},
+{
+"text": "and",
+"startMs": 8140,
+"endMs": 8260,
+"p": 1.0
+},
+{
+"text": "every",
+"startMs": 8260,
+"endMs": 8540,
+"p": 0.99
+},
+{
+"text": "world",
+"startMs": 8540,
+"endMs": 8820,
+"p": 0.98
+},
+{
+"text": "ends",
+"startMs": 8820,
+"endMs": 9120,
+"p": 1.0
+},
+{
+"text": "with",
+"startMs": 9120,
+"endMs": 9320,
+"p": 1.0
+},
+{
+"text": "a",
+"startMs": 9320,
+"endMs": 9440,
+"p": 0.99
+},
+{
+"text": "mega",
+"startMs": 9440,
+"endMs": 9600,
+"p": 0.63
+},
+{
+"text": "boss.",
+"startMs": 9600,
+"endMs": 9940,
+"p": 0.51
+},
+{
+"text": "Jump",
+"startMs": 10440,
+"endMs": 10580,
+"p": 0.99
+},
+{
+"text": "into",
+"startMs": 10580,
+"endMs": 10800,
+"p": 0.99
+},
+{
+"text": "a",
+"startMs": 10800,
+"endMs": 10980,
+"p": 0.99
+},
+{
+"text": "crystal",
+"startMs": 10980,
+"endMs": 11220,
+"p": 0.96
+},
+{
+"text": "rift",
+"startMs": 11220,
+"endMs": 11480,
+"p": 0.99
+},
+{
+"text": "for",
+"startMs": 11480,
+"endMs": 11720,
+"p": 0.99
+},
+{
+"text": "1",
+"startMs": 11720,
+"endMs": 12000,
+"p": 0.95
+},
+{
+"text": ".1",
+"startMs": 12000,
+"endMs": 12560,
+"p": 0.98
+},
+{
+"text": "million",
+"startMs": 12560,
+"endMs": 12780,
+"p": 0.88
+},
+{
+"text": "damage",
+"startMs": 12780,
+"endMs": 13240,
+"p": 0.97
+},
+{
+"text": "combos.",
+"startMs": 13240,
+"endMs": 13780,
+"p": 1.0
+},
+{
+"text": "Play",
+"startMs": 14200,
+"endMs": 14380,
+"p": 0.99
+},
+{
+"text": "Dreamscape",
+"startMs": 14380,
+"endMs": 14920,
+"p": 0.74
+},
+{
+"text": "by",
+"startMs": 14920,
+"endMs": 15220,
+"p": 0.98
+},
+{
+"text": "Backfire",
+"startMs": 15220,
+"endMs": 15700,
+"p": 0.96
+},
+{
+"text": "Studios",
+"startMs": 15700,
+"endMs": 16040,
+"p": 0.99
+},
+{
+"text": "on",
+"startMs": 16040,
+"endMs": 16420,
+"p": 0.99
+},
+{
+"text": "Roblox.",
+"startMs": 16420,
+"endMs": 16980,
+"p": 0.8
+},
+{
+"text": "It's",
+"startMs": 17180,
+"endMs": 17320,
+"p": 0.99
+},
+{
+"text": "free.",
+"startMs": 17320,
+"endMs": 17540,
+"p": 0.95
+}
+]

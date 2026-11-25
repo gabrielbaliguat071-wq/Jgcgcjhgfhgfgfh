@@ -9864,5 +9864,561 @@
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "src": "g67_tvcelly2.mp4"
+ },
+ "dreamsteal": {
+  "top": "This Roblox game lets you STEAL from the night market",
+  "hl": {
+   "STEAL": "#FF2A2A"
+  },
+  "cta": "*play Dreamscape on Roblox*",
+  "music": [
+   "funkabn_n",
+   33.2
+  ],
+  "ctaAt": [
+   "c1",
+   "Dreamscape"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "steal"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "Steal"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "Trade"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "Trade"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "night"
+   ],
+   [
+    "hook",
+    "steal"
+   ],
+   [
+    "c1",
+    "stall"
+   ],
+   [
+    "c1",
+    "prompt"
+   ],
+   [
+    "c1",
+    "Steal"
+   ],
+   [
+    "c1",
+    "risky"
+   ],
+   [
+    "c1",
+    "Trade"
+   ],
+   [
+    "c1",
+    "every"
+   ],
+   [
+    "c1",
+    "bank"
+   ],
+   [
+    "c1",
+    "Dreamscape"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "Steal"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1",
+    "Too"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "Then"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "steal"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "hook",
+     "steal"
+    ],
+    "kind": "png",
+    "file": "emoji/1f440.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "Steal"
+    ],
+    "kind": "sfx",
+    "file": "m_record-scratch.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "Steal"
+    ],
+    "kind": "png",
+    "file": "emoji/1f608.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "bank"
+    ],
+    "kind": "sfx",
+    "file": "m_cha-ching.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c1",
+     "coins"
+    ],
+    "kind": "png",
+    "file": "emoji/1f4b0.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "Dreamscape"
+    ],
+    "kind": "sfx",
+    "file": "m_meme-tada.mp3",
+    "v": 0.3
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "dreamsteal.mp4"
+ },
+ "dreampotions": {
+  "top": "What happens when you stack ALL 4 potions?",
+  "hl": {
+   "ALL": "#58EE28",
+   "4": "#58EE28"
+  },
+  "cta": "*play Dreamscape on Roblox*",
+  "music": [
+   "phonk_n",
+   22.4
+  ],
+  "ctaAt": [
+   "c1",
+   "Dreamscape"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "KILLS"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "stack"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "1.7"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "stack"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "KILLS"
+   ],
+   [
+    "hook",
+    "XP"
+   ],
+   [
+    "c1",
+    "damage"
+   ],
+   [
+    "c1",
+    "drop"
+   ],
+   [
+    "c1",
+    "stack"
+   ],
+   [
+    "c1",
+    "four"
+   ],
+   [
+    "c1",
+    "Power"
+   ],
+   [
+    "c1",
+    "numbers"
+   ],
+   [
+    "c1",
+    "883"
+   ],
+   [
+    "c1",
+    "1.7"
+   ],
+   [
+    "c1",
+    "million"
+   ],
+   [
+    "c1",
+    "Dreamscape"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "1.7"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1",
+    "Power"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "In"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "KILLS"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "stack"
+    ],
+    "kind": "sfx",
+    "file": "m_rizz-sound-effect.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c1",
+     "883"
+    ],
+    "kind": "sfx",
+    "file": "m_mg-boom.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "883"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "1.7"
+    ],
+    "kind": "sfx",
+    "file": "m_anime-wow.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "1.7"
+    ],
+    "kind": "png",
+    "file": "emoji/1f480.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "Dreamscape"
+    ],
+    "kind": "sfx",
+    "file": "m_meme-tada.mp3",
+    "v": 0.3
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "dreampotions.mp4"
+ },
+ "dreamgolem": {
+  "top": "This Roblox boss was asleep\u2026 until NOW",
+  "hl": {
+   "NOW": "#FF2A2A"
+  },
+  "cta": "*play Dreamscape on Roblox*",
+  "music": [
+   "empire_n",
+   18.8
+  ],
+  "ctaAt": [
+   "c1",
+   "Dreamscape"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "asleep"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "wakes"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "erupt"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "Mega"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "golem"
+   ],
+   [
+    "hook",
+    "asleep"
+   ],
+   [
+    "c1",
+    "wakes"
+   ],
+   [
+    "c1",
+    "middle"
+   ],
+   [
+    "c1",
+    "shrugs"
+   ],
+   [
+    "c1",
+    "spikes"
+   ],
+   [
+    "c1",
+    "erupt"
+   ],
+   [
+    "c1",
+    "Mega"
+   ],
+   [
+    "c1",
+    "Rift"
+   ],
+   [
+    "c1",
+    "1.1"
+   ],
+   [
+    "c1",
+    "Dreamscape"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "wakes"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1",
+    "Crystal"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "Jump"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "asleep"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "wakes"
+    ],
+    "kind": "sfx",
+    "file": "m_oh-hell-nah.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "wakes"
+    ],
+    "kind": "png",
+    "file": "emoji/1f631.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "erupt"
+    ],
+    "kind": "sfx",
+    "file": "m_mg-boom.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "1.1"
+    ],
+    "kind": "sfx",
+    "file": "m_anime-wow.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "1.1"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "Dreamscape"
+    ],
+    "kind": "sfx",
+    "file": "m_meme-tada.mp3",
+    "v": 0.3
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "dreamgolem.mp4"
  }
 }

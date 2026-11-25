@@ -1,0 +1,290 @@
+[
+{
+"text": "Two",
+"startMs": 0,
+"endMs": 180,
+"p": 0.48
+},
+{
+"text": "times",
+"startMs": 180,
+"endMs": 440,
+"p": 0.97
+},
+{
+"text": "kills,",
+"startMs": 440,
+"endMs": 800,
+"p": 0.9
+},
+{
+"text": "two",
+"startMs": 1060,
+"endMs": 1160,
+"p": 0.88
+},
+{
+"text": "times",
+"startMs": 1160,
+"endMs": 1520,
+"p": 0.99
+},
+{
+"text": "exp,",
+"startMs": 1520,
+"endMs": 1840,
+"p": 0.33
+},
+{
+"text": "two",
+"startMs": 2220,
+"endMs": 2420,
+"p": 0.98
+},
+{
+"text": "times",
+"startMs": 2420,
+"endMs": 2740,
+"p": 0.99
+},
+{
+"text": "damage,",
+"startMs": 2740,
+"endMs": 3140,
+"p": 0.99
+},
+{
+"text": "two",
+"startMs": 3380,
+"endMs": 3500,
+"p": 0.99
+},
+{
+"text": "times",
+"startMs": 3500,
+"endMs": 3860,
+"p": 0.99
+},
+{
+"text": "drop",
+"startMs": 3860,
+"endMs": 4120,
+"p": 0.98
+},
+{
+"text": "rate.",
+"startMs": 4120,
+"endMs": 4400,
+"p": 0.98
+},
+{
+"text": "In",
+"startMs": 4760,
+"endMs": 4840,
+"p": 1.0
+},
+{
+"text": "this",
+"startMs": 4840,
+"endMs": 5020,
+"p": 0.99
+},
+{
+"text": "Roblox",
+"startMs": 5020,
+"endMs": 5440,
+"p": 0.91
+},
+{
+"text": "game",
+"startMs": 5440,
+"endMs": 5700,
+"p": 0.99
+},
+{
+"text": "you",
+"startMs": 5700,
+"endMs": 5880,
+"p": 0.54
+},
+{
+"text": "can",
+"startMs": 5880,
+"endMs": 6000,
+"p": 1.0
+},
+{
+"text": "stack",
+"startMs": 6000,
+"endMs": 6260,
+"p": 1.0
+},
+{
+"text": "all",
+"startMs": 6260,
+"endMs": 6520,
+"p": 0.99
+},
+{
+"text": "four",
+"startMs": 6520,
+"endMs": 6800,
+"p": 0.79
+},
+{
+"text": "potions",
+"startMs": 6800,
+"endMs": 7160,
+"p": 0.98
+},
+{
+"text": "at",
+"startMs": 7160,
+"endMs": 7380,
+"p": 1.0
+},
+{
+"text": "once,",
+"startMs": 7380,
+"endMs": 7660,
+"p": 1.0
+},
+{
+"text": "then",
+"startMs": 7860,
+"endMs": 7940,
+"p": 0.99
+},
+{
+"text": "jump",
+"startMs": 7940,
+"endMs": 8180,
+"p": 0.99
+},
+{
+"text": "into",
+"startMs": 8180,
+"endMs": 8420,
+"p": 0.98
+},
+{
+"text": "power",
+"startMs": 8420,
+"endMs": 8720,
+"p": 0.45
+},
+{
+"text": "hour",
+"startMs": 8720,
+"endMs": 9020,
+"p": 0.97
+},
+{
+"text": "and",
+"startMs": 9020,
+"endMs": 9420,
+"p": 0.75
+},
+{
+"text": "watch",
+"startMs": 9420,
+"endMs": 9600,
+"p": 1.0
+},
+{
+"text": "the",
+"startMs": 9600,
+"endMs": 9780,
+"p": 1.0
+},
+{
+"text": "numbers.",
+"startMs": 9780,
+"endMs": 10100,
+"p": 1.0
+},
+{
+"text": "883",
+"startMs": 10980,
+"endMs": 11520,
+"p": 0.83
+},
+{
+"text": ",000,",
+"startMs": 11520,
+"endMs": 12060,
+"p": 0.88
+},
+{
+"text": "1",
+"startMs": 12260,
+"endMs": 12380,
+"p": 0.98
+},
+{
+"text": ".7",
+"startMs": 12380,
+"endMs": 13040,
+"p": 0.99
+},
+{
+"text": "million,",
+"startMs": 13040,
+"endMs": 13360,
+"p": 0.95
+},
+{
+"text": "play",
+"startMs": 13600,
+"endMs": 13780,
+"p": 0.75
+},
+{
+"text": "Dreamscape",
+"startMs": 13780,
+"endMs": 14320,
+"p": 0.77
+},
+{
+"text": "by",
+"startMs": 14320,
+"endMs": 14620,
+"p": 0.98
+},
+{
+"text": "Backfire",
+"startMs": 14620,
+"endMs": 15120,
+"p": 0.97
+},
+{
+"text": "Studios",
+"startMs": 15120,
+"endMs": 15440,
+"p": 0.98
+},
+{
+"text": "on",
+"startMs": 15440,
+"endMs": 15840,
+"p": 0.99
+},
+{
+"text": "Roblox,",
+"startMs": 15840,
+"endMs": 16400,
+"p": 1.0
+},
+{
+"text": "it's",
+"startMs": 16540,
+"endMs": 16740,
+"p": 0.98
+},
+{
+"text": "free.",
+"startMs": 16740,
+"endMs": 16960,
+"p": 0.96
+}
+]
