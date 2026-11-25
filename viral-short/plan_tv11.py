@@ -82,7 +82,7 @@ CFG = {
    blowouts=[['hook', 'me']], blackFlash=[['c2']], streaks=[['c1', 'This']],
    extras=[png(['hook', 'me'], 'emoji/1f633.png'), png(['c1', 'exquisite'], 'react/tiger_forme.png', 540, 1230, 640), sfx(['hook', 'me'], 'm_anime-wow.mp3', 0.4), png(['c1', 'Patch'], 'emoji/1f525.png', 230, 1240), sfx(['c1', '9.5'], 's_ding.mp3', 0.3),
            sfx(['c2', 'Wow'], 's_wow.mp3', 0.35), png(['c2', 'Wow'], 'emoji/1f525.png')]),
- 'tvticket3': dict(top='He gave Trevor Lawrence a gift… of HIMSELF', hl={'HIMSELF': '#FF2A2A'}, cta='*would you gift him this?*', music=['montagem_n', 24.0], ctaAt=['c2', 'Clemson'],
+ 'tvticket3': dict(top='Imagine being so good you got gifted YOURSELF', hl={'YOURSELF': '#FF2A2A'}, cta='*would you gift him this?*', music=['montagem_n', 24.0], ctaAt=['c2', 'Clemson'],
    tints=[[['hook', 'thank'], G], [['c1', 'weird'], R], [['c2', 'MVP'], G]], rizz=[['c2', 'MVP']],
    punch=[['hook', 'sweet'], ['hook', 'give'], ['hook', 'me'], ['hook', 'thank'], ['c1', 'gift'], ['c1', 'weird'], ['c1', 'gifting'], ['c2', 'signed'], ['c2', 'national'], ['c2', 'MVP'], ['c2', 'Clemson'], ['c3', 'gifting'], ['c3', 'auto']],
    blowouts=[['c1', 'gifting']], blackFlash=[['c2']], streaks=[['c3']],

@@ -10968,9 +10968,9 @@
   "blurBg": true
  },
  "tvticket3": {
-  "top": "He gave Trevor Lawrence a gift\u2026 of HIMSELF",
+  "top": "Imagine being so good you got gifted YOURSELF",
   "hl": {
-   "HIMSELF": "#FF2A2A"
+   "YOURSELF": "#FF2A2A"
   },
   "cta": "*would you gift him this?*",
   "music": [
@@ -11694,6 +11694,876 @@
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "src": "dreambay.mp4",
+  "blurBg": true
+ },
+ "tvjesus": {
+  "top": "Trevor Lawrence's dream golf foursome includes\u2026 JESUS",
+  "hl": {
+   "JESUS": "#58EE28"
+  },
+  "cta": "*who is in YOUR dream foursome?*",
+  "music": [
+   "dubist_n",
+   1.0
+  ],
+  "ctaAt": [
+   "c4",
+   "Tiger"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "Jesus"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c4",
+     "goat"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "Jesus"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "throw"
+   ],
+   [
+    "hook",
+    "Jesus"
+   ],
+   [
+    "hook",
+    "unbelievable"
+   ],
+   [
+    "c1",
+    "dream"
+   ],
+   [
+    "c2",
+    "humans"
+   ],
+   [
+    "c2",
+    "anybody"
+   ],
+   [
+    "c2",
+    "artist"
+   ],
+   [
+    "c3",
+    "week"
+   ],
+   [
+    "c4",
+    "Tiger"
+   ],
+   [
+    "c4",
+    "goat"
+   ],
+   [
+    "c4",
+    "sick"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "Jesus"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c3"
+   ]
+  ],
+  "streaks": [
+   [
+    "c4"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "Jesus"
+    ],
+    "kind": "png",
+    "file": "react/golf_host.png",
+    "x": 540,
+    "y": 1230,
+    "size": 640
+   },
+   {
+    "at": [
+     "hook",
+     "Jesus"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c2",
+     "humans"
+    ],
+    "kind": "png",
+    "file": "react/golf_trevor.png",
+    "x": 540,
+    "y": 1230,
+    "size": 640
+   },
+   {
+    "at": [
+     "c3",
+     "week"
+    ],
+    "kind": "sfx",
+    "file": "m_record-scratch.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c3",
+     "week"
+    ],
+    "kind": "png",
+    "file": "emoji/1f602.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c4",
+     "goat"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c4",
+     "goat"
+    ],
+    "kind": "png",
+    "file": "emoji/1f410.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvjesus.mp4",
+  "blurBg": true
+ },
+ "tvwhacked": {
+  "top": "Trevor Lawrence met his biggest superfans\u2026 and called them WHACKED",
+  "hl": {
+   "WHACKED": "#FF2A2A"
+  },
+  "cta": "*would you join the Traveling Trevors?*",
+  "music": [
+   "funkabn_n",
+   0.5
+  ],
+  "ctaAt": [
+   "c3",
+   "funny"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "whacked"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "algorithm"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "funny"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "algorithm"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "first"
+   ],
+   [
+    "hook",
+    "think"
+   ],
+   [
+    "hook",
+    "dude"
+   ],
+   [
+    "hook",
+    "whacked"
+   ],
+   [
+    "c1",
+    "biggest"
+   ],
+   [
+    "c1",
+    "Trevors"
+   ],
+   [
+    "c2",
+    "follow"
+   ],
+   [
+    "c2",
+    "algorithm"
+   ],
+   [
+    "c3",
+    "second"
+   ],
+   [
+    "c3",
+    "obviously"
+   ],
+   [
+    "c3",
+    "funny"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "whacked"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c3"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "whacked"
+    ],
+    "kind": "png",
+    "file": "react/fans_host.png",
+    "x": 540,
+    "y": 1230,
+    "size": 640
+   },
+   {
+    "at": [
+     "hook",
+     "whacked"
+    ],
+    "kind": "sfx",
+    "file": "m_mg-boom.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "Trevors"
+    ],
+    "kind": "png",
+    "file": "react/fans_trevor.png",
+    "x": 540,
+    "y": 1230,
+    "size": 640
+   },
+   {
+    "at": [
+     "c2",
+     "algorithm"
+    ],
+    "kind": "png",
+    "file": "emoji/1f440.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "funny"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c3",
+     "funny"
+    ],
+    "kind": "png",
+    "file": "emoji/1f602.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvwhacked.mp4",
+  "blurBg": true
+ },
+ "tvant2": {
+  "top": "They said this NFL QB's autograph looks like an ANT",
+  "hl": {
+   "ANT": "#FF2A2A"
+  },
+  "cta": "*whose autograph is the worst?*",
+  "music": [
+   "phonk_n",
+   22.4
+  ],
+  "ctaAt": [
+   "c2",
+   "goated"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "ant"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "respect"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "goated"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "goated"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "auto"
+   ],
+   [
+    "hook",
+    "ant"
+   ],
+   [
+    "hook",
+    "big"
+   ],
+   [
+    "hook",
+    "respect"
+   ],
+   [
+    "c1",
+    "respect"
+   ],
+   [
+    "c1",
+    "Anthony"
+   ],
+   [
+    "c1",
+    "disrespect"
+   ],
+   [
+    "c2",
+    "consistent"
+   ],
+   [
+    "c2",
+    "beautiful"
+   ],
+   [
+    "c2",
+    "goated"
+   ],
+   [
+    "c3",
+    "signature"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "ant"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "Like"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "ant"
+    ],
+    "kind": "png",
+    "file": "react/ant_trevor.png",
+    "x": 540,
+    "y": 1230,
+    "size": 640
+   },
+   {
+    "at": [
+     "hook",
+     "ant"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "disrespect"
+    ],
+    "kind": "sfx",
+    "file": "m_record-scratch.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c1",
+     "disrespect"
+    ],
+    "kind": "png",
+    "file": "emoji/1f480.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "goated"
+    ],
+    "kind": "sfx",
+    "file": "m_anime-wow.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c2",
+     "goated"
+    ],
+    "kind": "png",
+    "file": "emoji/1f410.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvant2.mp4",
+  "blurBg": true
+ },
+ "wcchucks": {
+  "top": "POV: he opens his snacks with INVISIBLE nunchucks",
+  "hl": {
+   "INVISIBLE": "#58EE28"
+  },
+  "cta": "*would you trust him with your snacks?*",
+  "music": [
+   "kungfu_n",
+   0
+  ],
+  "ctaAt": [
+   "c2",
+   "KUNG-FU"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "SEE"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "INVISIBLE"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "INVISIBLE"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "what"
+   ],
+   [
+    "hook",
+    "SEE"
+   ],
+   [
+    "c1",
+    "INVISIBLE"
+   ],
+   [
+    "c1",
+    "who"
+   ],
+   [
+    "c2",
+    "see"
+   ],
+   [
+    "c2",
+    "KUNG-FU"
+   ],
+   [
+    "c2",
+    "bag"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "SEE"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2",
+    "KUNG-FU"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "what"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "SEE"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "hook",
+     "SEE"
+    ],
+    "kind": "png",
+    "file": "emoji/1f602.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "who"
+    ],
+    "kind": "sfx",
+    "file": "m_record-scratch.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c1",
+     "who"
+    ],
+    "kind": "png",
+    "file": "emoji/1f914.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "bag"
+    ],
+    "kind": "sfx",
+    "file": "m_anime-wow.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c2",
+     "bag"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_wcchucks.mp4",
+  "blurBg": true
+ },
+ "wcweapons": {
+  "top": "This kung-fu master opens snacks with REAL weapons",
+  "hl": {
+   "REAL": "#FF2A2A"
+  },
+  "cta": "*which weapon would you pick?*",
+  "music": [
+   "kungfu_n",
+   0
+  ],
+  "ctaAt": [
+   "c3",
+   "respect"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "PEANUT"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "NUNCHAKU"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "DEVIL"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "NUNCHAKU"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "PEANUT"
+   ],
+   [
+    "c1",
+    "BONK"
+   ],
+   [
+    "c1",
+    "peanuts"
+   ],
+   [
+    "c2",
+    "NUNCHAKU"
+   ],
+   [
+    "c2",
+    "for"
+   ],
+   [
+    "c2",
+    "bro"
+   ],
+   [
+    "c3",
+    "DEVIL"
+   ],
+   [
+    "c3",
+    "on"
+   ],
+   [
+    "c3",
+    "respect"
+   ],
+   [
+    "c4",
+    "KUNG-FU"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "BONK"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c3",
+    "DEVIL"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2",
+    "opened"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "PEANUT"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "BONK"
+    ],
+    "kind": "sfx",
+    "file": "m_mg-boom.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "BONK"
+    ],
+    "kind": "png",
+    "file": "emoji/1f480.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "for"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c2",
+     "bro"
+    ],
+    "kind": "png",
+    "file": "emoji/1f602.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "on"
+    ],
+    "kind": "sfx",
+    "file": "m_oh-hell-nah.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c3",
+     "respect"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_wcweapons.mp4",
   "blurBg": true
  }
 }

@@ -15,6 +15,7 @@ Edit podcast/streamer clips into viral vertical Shorts in a **meme / brainrot cl
 - **Every title + description must be brand new (2026-11-01).** Never reuse or lightly reword one sent before, even for a re-send. Check `vault/04 Projects/Titles used.md` first and add each new one there.
 - **(2026-11-25) EVERY clip I send gets BOTH a TITLE and a DESCRIPTION** (title in its own code block; description + required tags/hashtags in a second code block), for every campaign, every time — user reminded again.
 - **(2026-11-25) EVERY edit must be LONGER than 15 s** (ClipHouse min; aim 16 s+). Check durations before sending.
+- **(2026-11-25) Top-text hooks in meme voice** like the user's own: "Imagine being so good you got gifted YOURSELF 💀" — relatable/ironic framing ("Imagine…", "POV:", "When…") + one CAPS payoff word, true to the clip.
 - **(2026-11-25) NEVER a half-done edit:** always pick the BEST clips of the source, hook on all 3 (visual+audio+text) in the first 2–3 s, and the top text itself must be a reason to keep watching (curiosity gap / bold true claim).
 - **(2026-11-23) VIRAL RULES for EVERY edit — the first 3 seconds must hook on all three channels:**
   1. **Visual:** open on the most interesting moment of the clip (something happening: a gesture, a reveal, a reaction, a strong face), never a static start.
