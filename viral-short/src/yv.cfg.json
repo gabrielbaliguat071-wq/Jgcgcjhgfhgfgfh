@@ -10594,5 +10594,1106 @@
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "src": "g67_tvteal2.mp4"
+ },
+ "tvjosh3": {
+  "top": "Pulling your teammate's card from BEFORE he changed his name",
+  "hl": {
+   "BEFORE": "#FF2A2A"
+  },
+  "cta": "*would you keep this card?*",
+  "music": [
+   "funkabn_n",
+   0.5
+  ],
+  "ctaAt": [
+   "c2",
+   "rookie"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "real"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "gold"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "fire"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "gold"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "rookie"
+   ],
+   [
+    "hook",
+    "real"
+   ],
+   [
+    "hook",
+    "Hines-Allen"
+   ],
+   [
+    "hook",
+    "changed"
+   ],
+   [
+    "hook",
+    "name"
+   ],
+   [
+    "c1",
+    "gold"
+   ],
+   [
+    "c1",
+    "teal"
+   ],
+   [
+    "c1",
+    "glove"
+   ],
+   [
+    "c2",
+    "Josh"
+   ],
+   [
+    "c2",
+    "fire"
+   ],
+   [
+    "c2",
+    "rookie"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "changed"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "No"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "changed"
+    ],
+    "kind": "png",
+    "file": "react/t4_grant.png",
+    "x": 540,
+    "y": 1230,
+    "size": 640
+   },
+   {
+    "at": [
+     "hook",
+     "name"
+    ],
+    "kind": "sfx",
+    "file": "m_anime-wow.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c1",
+     "glove"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c1",
+     "glove"
+    ],
+    "kind": "png",
+    "file": "emoji/1f602.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "fire"
+    ],
+    "kind": "sfx",
+    "file": "m_mg-boom.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c2",
+     "fire"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvjosh3.mp4",
+  "blurBg": true
+ },
+ "tvtiger3": {
+  "top": "Gifting an NFL QB a TIGER WOODS game-worn auto",
+  "hl": {
+   "TIGER": "#58EE28",
+   "WOODS": "#58EE28"
+  },
+  "cta": "*best gift ever?*",
+  "music": [
+   "brevis_n",
+   36.0
+  ],
+  "ctaAt": [
+   "c2",
+   "shirt"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "me"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "Tiger"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "Wow"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "Tiger"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "care"
+   ],
+   [
+    "hook",
+    "package"
+   ],
+   [
+    "hook",
+    "me"
+   ],
+   [
+    "c1",
+    "four"
+   ],
+   [
+    "c1",
+    "exquisite"
+   ],
+   [
+    "c1",
+    "Tiger"
+   ],
+   [
+    "c1",
+    "Patch"
+   ],
+   [
+    "c1",
+    "9.5"
+   ],
+   [
+    "c2",
+    "shirt"
+   ],
+   [
+    "c2",
+    "glove"
+   ],
+   [
+    "c2",
+    "cap"
+   ],
+   [
+    "c2",
+    "Wow"
+   ],
+   [
+    "c3",
+    "awesome"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "me"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "This"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "me"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "exquisite"
+    ],
+    "kind": "png",
+    "file": "react/tiger_forme.png",
+    "x": 540,
+    "y": 1230,
+    "size": 640
+   },
+   {
+    "at": [
+     "hook",
+     "me"
+    ],
+    "kind": "sfx",
+    "file": "m_anime-wow.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c1",
+     "Patch"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "9.5"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.3
+   },
+   {
+    "at": [
+     "c2",
+     "Wow"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c2",
+     "Wow"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvtiger3.mp4",
+  "blurBg": true
+ },
+ "tvticket3": {
+  "top": "He gave Trevor Lawrence a gift\u2026 of HIMSELF",
+  "hl": {
+   "HIMSELF": "#FF2A2A"
+  },
+  "cta": "*would you gift him this?*",
+  "music": [
+   "montagem_n",
+   24.0
+  ],
+  "ctaAt": [
+   "c2",
+   "Clemson"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "thank"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "weird"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "MVP"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "MVP"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "sweet"
+   ],
+   [
+    "hook",
+    "give"
+   ],
+   [
+    "hook",
+    "me"
+   ],
+   [
+    "hook",
+    "thank"
+   ],
+   [
+    "c1",
+    "gift"
+   ],
+   [
+    "c1",
+    "weird"
+   ],
+   [
+    "c1",
+    "gifting"
+   ],
+   [
+    "c2",
+    "signed"
+   ],
+   [
+    "c2",
+    "national"
+   ],
+   [
+    "c2",
+    "MVP"
+   ],
+   [
+    "c2",
+    "Clemson"
+   ],
+   [
+    "c3",
+    "gifting"
+   ],
+   [
+    "c3",
+    "auto"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "gifting"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c3"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "thank"
+    ],
+    "kind": "png",
+    "file": "emoji/1f979.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "gifting"
+    ],
+    "kind": "png",
+    "file": "react/t4_thanks.png",
+    "x": 540,
+    "y": 1230,
+    "size": 640
+   },
+   {
+    "at": [
+     "c2",
+     "national"
+    ],
+    "kind": "png",
+    "file": "react/t4_grant.png",
+    "x": 540,
+    "y": 1230,
+    "size": 640
+   },
+   {
+    "at": [
+     "c1",
+     "gifting"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c2",
+     "MVP"
+    ],
+    "kind": "sfx",
+    "file": "m_anime-wow.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c2",
+     "MVP"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "auto"
+    ],
+    "kind": "sfx",
+    "file": "m_mg-boom.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c3",
+     "auto"
+    ],
+    "kind": "png",
+    "file": "emoji/1f602.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvticket3.mp4",
+  "blurBg": true
+ },
+ "dreameater": {
+  "top": "This Roblox boss was watching you the WHOLE time",
+  "hl": {
+   "WHOLE": "#FF2A2A"
+  },
+  "cta": "*play Dreamscape on Roblox*",
+  "music": [
+   "phonk_n",
+   22.4
+  ],
+  "ctaAt": [
+   "c1",
+   "Dreamscape"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "woke"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "plaza"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "nightmare"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "Dreamless"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "Dream"
+   ],
+   [
+    "hook",
+    "woke"
+   ],
+   [
+    "c1",
+    "hanging"
+   ],
+   [
+    "c1",
+    "plaza"
+   ],
+   [
+    "c1",
+    "worlds"
+   ],
+   [
+    "c1",
+    "Dreamless"
+   ],
+   [
+    "c1",
+    "nightmare"
+   ],
+   [
+    "c1",
+    "Boss"
+   ],
+   [
+    "c1",
+    "every"
+   ],
+   [
+    "c1",
+    "Dreamscape"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "nightmare"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1",
+    "hanging"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "then"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "woke"
+    ],
+    "kind": "png",
+    "file": "emoji/1f631.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "hanging"
+    ],
+    "kind": "sfx",
+    "file": "m_oh-hell-nah.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "plaza"
+    ],
+    "kind": "png",
+    "file": "emoji/1f440.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "nightmare"
+    ],
+    "kind": "sfx",
+    "file": "m_mg-boom.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "nightmare"
+    ],
+    "kind": "png",
+    "file": "emoji/1f480.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "Dreamscape"
+    ],
+    "kind": "sfx",
+    "file": "m_meme-tada.mp3",
+    "v": 0.3
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "dreameater.mp4",
+  "blurBg": true
+ },
+ "dreamfame": {
+  "top": "Get top 3 in this Roblox game and your name turns GOLD",
+  "hl": {
+   "GOLD": "#FFD21F"
+  },
+  "cta": "*play Dreamscape on Roblox*",
+  "music": [
+   "empire_n",
+   18.8
+  ],
+  "ctaAt": [
+   "c1",
+   "Dreamscape"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "Hall"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "gold"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "gold"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "name"
+   ],
+   [
+    "hook",
+    "Hall"
+   ],
+   [
+    "c1",
+    "top"
+   ],
+   [
+    "c1",
+    "giant"
+   ],
+   [
+    "c1",
+    "plaza"
+   ],
+   [
+    "c1",
+    "coins"
+   ],
+   [
+    "c1",
+    "fastest"
+   ],
+   [
+    "c1",
+    "weekly"
+   ],
+   [
+    "c1",
+    "combat"
+   ],
+   [
+    "c1",
+    "3"
+   ],
+   [
+    "c1",
+    "gold"
+   ],
+   [
+    "c1",
+    "Dreamscape"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "gold"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1",
+    "Most"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "and"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "Hall"
+    ],
+    "kind": "png",
+    "file": "emoji/1f451.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "giant"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c1",
+     "gold"
+    ],
+    "kind": "sfx",
+    "file": "m_anime-wow.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "gold"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "coins"
+    ],
+    "kind": "png",
+    "file": "emoji/1f4b0.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "Dreamscape"
+    ],
+    "kind": "sfx",
+    "file": "m_meme-tada.mp3",
+    "v": 0.3
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "dreamfame.mp4",
+  "blurBg": true
+ },
+ "dreambay": {
+  "top": "Every world in this Roblox game looks COMPLETELY different",
+  "hl": {
+   "COMPLETELY": "#58EE28"
+  },
+  "cta": "*play Dreamscape on Roblox*",
+  "music": [
+   "funkabn_n",
+   33.2
+  ],
+  "ctaAt": [
+   "c1",
+   "Dreamscape"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "different"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "blob"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "1.8"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "Bubble"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "world"
+   ],
+   [
+    "hook",
+    "different"
+   ],
+   [
+    "c1",
+    "Bubble"
+   ],
+   [
+    "c1",
+    "crabs"
+   ],
+   [
+    "c1",
+    "Moonlit"
+   ],
+   [
+    "c1",
+    "blob"
+   ],
+   [
+    "c1",
+    "Toybox"
+   ],
+   [
+    "c1",
+    "Crystal"
+   ],
+   [
+    "c1",
+    "1.8"
+   ],
+   [
+    "c1",
+    "gate"
+   ],
+   [
+    "c1",
+    "Dreamscape"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c1",
+    "1.8"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1",
+    "Moonlit"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "Toybox"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "different"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "crabs"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c1",
+     "crabs"
+    ],
+    "kind": "png",
+    "file": "emoji/1f602.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "1.8"
+    ],
+    "kind": "sfx",
+    "file": "m_anime-wow.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c1",
+     "1.8"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "Dreamscape"
+    ],
+    "kind": "sfx",
+    "file": "m_meme-tada.mp3",
+    "v": 0.3
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "dreambay.mp4",
+  "blurBg": true
  }
 }

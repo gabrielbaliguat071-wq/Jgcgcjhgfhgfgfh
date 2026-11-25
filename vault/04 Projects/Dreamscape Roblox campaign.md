@@ -6,3 +6,4 @@ Footage: footage.bloxclips.com/dreamscape-campaign → json files.bloxclips.com/
 `viral-short/plan_dream.py` → Guess-dreamboss / dreamfree / dreamworlds: timeline of clips under a Kokoro VO (am_puck 0.6 + am_michael 0.4, speed 1.12; scripts in stories/dreamscape/),
 gameplay audio 0.22, VverPaldo music, meme SFX (mg-boom, oh-hell-nah, fahhh, record-scratch, anime-wow, meme-tada) + emojis. Watch out: Ref 'Play' also matches "playtime".
 Batch 2 (2026-11-25, user: 'never half-assed, best clips, 3-way hook'): plan_dream2.py → dreamsteal (Night Market STEAL prompt), dreampotions (2x KILLS/XP/Damage/Drop stacked → Power Hour 883K → 1.7M), dreamgolem (huge crystal creature + CRYSTAL GOLEM AWAKENS banner → 1.1M rift).
+Batch 3 (2026-11-25, new reference style blurBg): plan_dream3.py → dreameater, dreamfame, dreambay (hook must not start on a dark fade: Bubble Bay from 5.2 s).

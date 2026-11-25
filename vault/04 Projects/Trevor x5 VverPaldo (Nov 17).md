@@ -55,3 +55,4 @@ Remaining unused Trevor material is thin now: t3 98–114 ("we need more Jax fan
 Unused Trevor material is now basically gone (only t3 98–114 and nt_rip 75–86 "Ew, don't show that"). Next asks → re-edits in a new style.
 Re-edits (2026-11-25): plan_tv10.py → tvgoat2 (Dellavedova), tvneck2 (Davis Mills neck roast), tvcelly2 (PSA 10-10 celly). Template adds 💀 itself — don't put emoji at the end of top text.
 Fix15 (2026-11-25): tvgoat2 18 s, tvneck2 16.8 s, tvsign 19.9 s (excerpt 86–111), tvteal2 19.9 s (VverPaldo redo of tl5). bb11 (Trevor Silver PSA 9, 1tYmJ_…) Drive 'Quota exceeded' — retry later.
+Batch 11 (2026-11-25, new style): plan_tv11.py → tvjosh3, tvtiger3, tvticket3 (blurBg + rembg reaction cutouts public/res/react/, shown over the OTHER person's shot, x540 y1230 size640).
