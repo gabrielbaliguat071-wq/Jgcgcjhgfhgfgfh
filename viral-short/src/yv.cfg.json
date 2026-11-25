@@ -10420,5 +10420,179 @@
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "src": "dreamgolem.mp4"
+ },
+ "tvteal2": {
+  "top": "He called Trevor Lawrence the pride and joy of the NFL",
+  "hl": {
+   "NFL": "#58EE28"
+  },
+  "cta": "*is Trevor the best QB in the league?*",
+  "music": [
+   "blue_n",
+   21.5
+  ],
+  "ctaAt": [
+   "c2",
+   "Mendoza"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "greatest"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "lose"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c3",
+     "NFL"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "greatest"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "teal"
+   ],
+   [
+    "hook",
+    "greatest"
+   ],
+   [
+    "hook",
+    "quarterback"
+   ],
+   [
+    "hook",
+    "pride"
+   ],
+   [
+    "hook",
+    "NFL"
+   ],
+   [
+    "c1",
+    "Mahomes"
+   ],
+   [
+    "c1",
+    "Brady"
+   ],
+   [
+    "c1",
+    "lose"
+   ],
+   [
+    "c2",
+    "crazy"
+   ],
+   [
+    "c3",
+    "NFL"
+   ],
+   [
+    "c3",
+    "card"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "pride"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c3"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "greatest"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "NFL"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c1",
+     "lose"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c1",
+     "lose"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "NFL"
+    ],
+    "kind": "sfx",
+    "file": "m_mg-boom.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c3",
+     "card"
+    ],
+    "kind": "png",
+    "file": "emoji/1f451.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_tvteal2.mp4"
  }
 }

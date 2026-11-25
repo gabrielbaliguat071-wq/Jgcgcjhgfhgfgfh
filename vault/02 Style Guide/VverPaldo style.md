@@ -45,3 +45,8 @@ The style used for the "Guess the fake millionaire" and Trevor stream edits (Nov
 ## Text hooks
 - Curiosity + specific number or twist, true to the footage: "$20,000 card… now worth $500?!", "They voted him the FAKE… he was REAL".
 - Campaign rules win (e.g. FOMO: "Guess the millionaire LARPER" variants + @fomo; HardScope: @HardScope + #r3born, no FaZe).
+
+## Reference update (2026-11-25): YT short O6yC7hsTXnA "This Card Lost $19,500 💀 @BackyardBreaks" (Backyard Breaks Daily) — user: "also use this kind of style"
+Same VverPaldo base (video box + white top text ending 💀 + one-word captions) PLUS: blurred copy of the video filling the frame behind the box (instead of black),
+and green-screen MEME REACTION cutouts popping over the lower part of the box (shocked guy holding head, monkey covering mouth, streamer covering mouth).
+Top text = money-number curiosity ("This Card Lost $19,500"). Careful: BYB rule "no other streamers/celebs to pull views" → prefer non-celebrity/animal reaction memes.
