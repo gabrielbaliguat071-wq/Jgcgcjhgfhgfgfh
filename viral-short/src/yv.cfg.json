@@ -8898,5 +8898,515 @@
     "size": 200
    }
   ]
+ },
+ "wcmatthew": {
+  "top": "\"So far it's fine\"\u2026 10 seconds later \ud83d\udc80",
+  "hl": {
+   "fine\"\u2026": "#58EE28"
+  },
+  "cta": "*would you try Final Heat?*",
+  "music": [
+   "funkabn_n",
+   33.2
+  ],
+  "ctaAt": [
+   "c3",
+   "good"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "water"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "fine"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "tingling"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "fine"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "can't"
+   ],
+   [
+    "hook",
+    "bottom"
+   ],
+   [
+    "hook",
+    "water"
+   ],
+   [
+    "c1",
+    "fine"
+   ],
+   [
+    "c2",
+    "lips"
+   ],
+   [
+    "c2",
+    "Wow"
+   ],
+   [
+    "c3",
+    "good"
+   ],
+   [
+    "c3",
+    "another"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "water"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c3",
+    "But"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "water"
+    ],
+    "kind": "sfx",
+    "file": "s_fahhh.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "hook",
+     "water"
+    ],
+    "kind": "png",
+    "file": "emoji/1f62d.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "everyone"
+    ],
+    "kind": "sfx",
+    "file": "m_record-scratch.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c2",
+     "Wow"
+    ],
+    "kind": "sfx",
+    "file": "m_mg-boom.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c2",
+     "Wow"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "another"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c3",
+     "another"
+    ],
+    "kind": "png",
+    "file": "emoji/1f480.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_wcmatthew.mp4",
+  "noSkull": true
+ },
+ "wcjp": {
+  "top": "\"I grew up eating hot peppers\"\u2026 then THIS \ud83d\udc80",
+  "hl": {
+   "THIS": "#FF2A2A"
+  },
+  "cta": "*could you handle it?*",
+  "music": [
+   "phonk_n",
+   22.4
+  ],
+  "ctaAt": [
+   "c3",
+   "heat"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "sweating"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "peppers"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c4",
+     "lips"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "peppers"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "can't"
+   ],
+   [
+    "hook",
+    "bottom"
+   ],
+   [
+    "hook",
+    "sweating"
+   ],
+   [
+    "c1",
+    "got"
+   ],
+   [
+    "c1",
+    "peppers"
+   ],
+   [
+    "c2",
+    "fine"
+   ],
+   [
+    "c3",
+    "heat"
+   ],
+   [
+    "c3",
+    "numbing"
+   ],
+   [
+    "c4",
+    "tingling"
+   ],
+   [
+    "c4",
+    "lips"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "sweating"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c3"
+   ]
+  ],
+  "streaks": [
+   [
+    "c4"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "sweating"
+    ],
+    "kind": "sfx",
+    "file": "m_mg-boom.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "hook",
+     "sweating"
+    ],
+    "kind": "png",
+    "file": "emoji/1f62d.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "peppers"
+    ],
+    "kind": "sfx",
+    "file": "m_rizz-sound-effect.mp3",
+    "v": 0.35
+   },
+   {
+    "at": [
+     "c1",
+     "peppers"
+    ],
+    "kind": "png",
+    "file": "emoji/1f60e.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "fine"
+    ],
+    "kind": "sfx",
+    "file": "m_record-scratch.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c4",
+     "lips"
+    ],
+    "kind": "sfx",
+    "file": "s_fahhh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c4",
+     "lips"
+    ],
+    "kind": "png",
+    "file": "emoji/1f480.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_wcjp.mp4",
+  "noSkull": true
+ },
+ "wcchop": {
+  "top": "GIANT chopsticks\u2026 for ONE spicy peanut \ud83d\udc80",
+  "hl": {
+   "GIANT": "#58EE28",
+   "ONE": "#FF2A2A"
+  },
+  "cta": "*would you try it?*",
+  "music": [
+   "montagem_n",
+   24.0
+  ],
+  "ctaAt": [
+   "c2",
+   "it's\u2026"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "NOT"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "GIANT"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "uh"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "GIANT"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "NOT"
+   ],
+   [
+    "c1",
+    "GIANT"
+   ],
+   [
+    "c2",
+    "ok"
+   ],
+   [
+    "c2",
+    "it's"
+   ],
+   [
+    "c3",
+    "the"
+   ],
+   [
+    "c3",
+    "uh"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "NOT"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c3",
+    "uh"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "NOT"
+    ],
+    "kind": "sfx",
+    "file": "m_mg-boom.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "hook",
+     "NOT"
+    ],
+    "kind": "png",
+    "file": "emoji/1f631.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "GIANT"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.4
+   },
+   {
+    "at": [
+     "c1",
+     "GIANT"
+    ],
+    "kind": "png",
+    "file": "emoji/1f602.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c3",
+     "uh"
+    ],
+    "kind": "sfx",
+    "file": "m_oh-hell-nah.mp3",
+    "v": 0.45
+   },
+   {
+    "at": [
+     "c3",
+     "uh"
+    ],
+    "kind": "png",
+    "file": "emoji/1f480.png",
+    "x": 870,
+    "y": 1290,
+    "size": 200
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_wcchop.mp4",
+  "noSkull": true
  }
 }
