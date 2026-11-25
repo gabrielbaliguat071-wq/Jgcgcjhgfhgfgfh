@@ -7185,5 +7185,506 @@
    0
   ],
   "fxOff": true
+ },
+ "gdwild": {
+  "top": "Walking up to wild animals that aren't used to HUMANS",
+  "hl": {
+   "HUMANS": "#FF2A2A"
+  },
+  "cta": "*follow for more from the bush*",
+  "music": [
+   "brevis_n",
+   36.0
+  ],
+  "ctaAt": [
+   "c2",
+   "closer"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "human"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c1",
+     "five"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "dangerous"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "five"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "human"
+   ],
+   [
+    "hook",
+    "never"
+   ],
+   [
+    "c1",
+    "surrounded"
+   ],
+   [
+    "c1",
+    "wild"
+   ],
+   [
+    "c1",
+    "elephants"
+   ],
+   [
+    "c1",
+    "rhinos"
+   ],
+   [
+    "c1",
+    "lions"
+   ],
+   [
+    "c2",
+    "rare"
+   ],
+   [
+    "c2",
+    "close"
+   ],
+   [
+    "c2",
+    "dangerous"
+   ],
+   [
+    "c2",
+    "closer"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "dangerous"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1",
+    "here"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdwild.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "human"
+    ],
+    "kind": "png",
+    "file": "emoji/1f440.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "never"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.25
+   },
+   {
+    "at": [
+     "c1",
+     "lions"
+    ],
+    "kind": "png",
+    "file": "emoji/1f631.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "dangerous"
+    ],
+    "kind": "png",
+    "file": "emoji/1f6a8.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "dangerous"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.25
+   }
+  ]
+ },
+ "gdleopard": {
+  "top": "Where would YOU sleep if leopards were around?",
+  "hl": {
+   "YOU": "#FF2A2A"
+  },
+  "cta": "*follow for more from the bush*",
+  "music": [
+   "empire_n",
+   18.8
+  ],
+  "ctaAt": [
+   "c2",
+   "escape"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "leopard"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "ants"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "sheltered"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c1",
+    "choose"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "dangerous"
+   ],
+   [
+    "hook",
+    "caracal"
+   ],
+   [
+    "hook",
+    "leopard"
+   ],
+   [
+    "hook",
+    "escape"
+   ],
+   [
+    "c1",
+    "first"
+   ],
+   [
+    "c1",
+    "choose"
+   ],
+   [
+    "c1",
+    "best"
+   ],
+   [
+    "c2",
+    "flat"
+   ],
+   [
+    "c2",
+    "ants"
+   ],
+   [
+    "c2",
+    "attack"
+   ],
+   [
+    "c2",
+    "never"
+   ],
+   [
+    "c2",
+    "wind"
+   ],
+   [
+    "c2",
+    "escape"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "leopard"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c2"
+   ]
+  ],
+  "streaks": [
+   [
+    "c1"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdleopard.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "leopard"
+    ],
+    "kind": "png",
+    "file": "emoji/1f631.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "leopard"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.25
+   },
+   {
+    "at": [
+     "c2",
+     "ants"
+    ],
+    "kind": "png",
+    "file": "emoji/1f62c.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "never"
+    ],
+    "kind": "sfx",
+    "file": "s_huh.mp3",
+    "v": 0.25
+   }
+  ]
+ },
+ "gdfire": {
+  "top": "Making fire looks easy on YouTube\u2026 the reality is DIFFERENT",
+  "hl": {
+   "DIFFERENT": "#FF2A2A"
+  },
+  "cta": "*follow for more psychology*",
+  "music": [
+   "sentamento_n",
+   57.5
+  ],
+  "ctaAt": [
+   "c2",
+   "expert"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "fire"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "difficult"
+    ],
+    "R"
+   ],
+   [
+    [
+     "c2",
+     "skill"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "c2",
+    "skill"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "make"
+   ],
+   [
+    "hook",
+    "fire"
+   ],
+   [
+    "hook",
+    "flint"
+   ],
+   [
+    "c1",
+    "easy"
+   ],
+   [
+    "c1",
+    "second"
+   ],
+   [
+    "c1",
+    "reality"
+   ],
+   [
+    "c1",
+    "difficult"
+   ],
+   [
+    "c1",
+    "metaphor"
+   ],
+   [
+    "c2",
+    "magic"
+   ],
+   [
+    "c2",
+    "skill"
+   ],
+   [
+    "c2",
+    "control"
+   ],
+   [
+    "c2",
+    "expert"
+   ],
+   [
+    "c2",
+    "sense"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c2",
+    "magic"
+   ]
+  ],
+  "blackFlash": [
+   [
+    "c1"
+   ]
+  ],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "g67_gdfire.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "flint"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "hook",
+     "fire"
+    ],
+    "kind": "sfx",
+    "file": "s_ding.mp3",
+    "v": 0.25
+   },
+   {
+    "at": [
+     "c1",
+     "difficult"
+    ],
+    "kind": "png",
+    "file": "emoji/1f62c.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "skill"
+    ],
+    "kind": "png",
+    "file": "emoji/1f9e0.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "expert"
+    ],
+    "kind": "sfx",
+    "file": "s_wow.mp3",
+    "v": 0.25
+   }
+  ]
  }
 }
