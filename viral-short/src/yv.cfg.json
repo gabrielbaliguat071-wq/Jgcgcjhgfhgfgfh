@@ -8501,5 +8501,402 @@
    0
   ],
   "fxOff": true
+ },
+ "wowquetes": {
+  "top": "Plus de 1000 NOUVELLES qu\u00eates dans WoW Forever",
+  "hl": {
+   "NOUVELLES": "#58EE28"
+  },
+  "cta": "*World of Warcraft: Forever est disponible*",
+  "music": [
+   "silent_n",
+   0
+  ],
+  "ctaAt": [
+   "c3",
+   "jamais"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "1000"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "raids"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "aventure"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "1000"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "1000"
+   ],
+   [
+    "hook",
+    "race"
+   ],
+   [
+    "hook",
+    "zones"
+   ],
+   [
+    "c1",
+    "massifs"
+   ],
+   [
+    "c2",
+    "9"
+   ],
+   [
+    "c2",
+    "raids"
+   ],
+   [
+    "c2",
+    "amis"
+   ],
+   [
+    "c2",
+    "r\u00e9imagin\u00e9"
+   ],
+   [
+    "c3",
+    "jamais"
+   ],
+   [
+    "c3",
+    "aventure"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "1000"
+   ]
+  ],
+  "blackFlash": [],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "wowfr_whatis.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "1000"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "raids"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   }
+  ]
+ },
+ "wowrace": {
+  "top": "La nouvelle race de WoW Forever peut marcher sur L'AIR",
+  "hl": {
+   "L'AIR": "#58EE28"
+  },
+  "cta": "*World of Warcraft: Forever est disponible*",
+  "music": [
+   "silent_n",
+   0
+  ],
+  "ctaAt": [
+   "c2",
+   "Horde"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "glissade"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "ciel"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c2",
+     "Horde"
+    ],
+    "R"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "marche"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "marche"
+   ],
+   [
+    "hook",
+    "chute"
+   ],
+   [
+    "hook",
+    "glissade"
+   ],
+   [
+    "c1",
+    "habitants"
+   ],
+   [
+    "c1",
+    "nouvelle"
+   ],
+   [
+    "c1",
+    "ciel"
+   ],
+   [
+    "c1",
+    "\u00e9l\u00e9ments"
+   ],
+   [
+    "c2",
+    "l'exploration"
+   ],
+   [
+    "c2",
+    "embarrassantes"
+   ],
+   [
+    "c2",
+    "Horde"
+   ],
+   [
+    "c2",
+    "l'Alliance"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "glissade"
+   ]
+  ],
+  "blackFlash": [],
+  "streaks": [
+   [
+    "c1",
+    "Leur"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "wowfr_whatis.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "glissade"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c2",
+     "embarrassantes"
+    ],
+    "kind": "png",
+    "file": "emoji/1f602.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   }
+  ]
+ },
+ "wowraid": {
+  "top": "Un raid \u00e0 40 JOUEURS dans WoW Forever",
+  "hl": {
+   "JOUEURS": "#58EE28"
+  },
+  "cta": "*World of Warcraft: Forever est disponible*",
+  "music": [
+   "silent_n",
+   0
+  ],
+  "ctaAt": [
+   "c3",
+   "Hyjal"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "40"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c1",
+     "raids"
+    ],
+    "G"
+   ],
+   [
+    [
+     "c3",
+     "Hyjal"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [
+   [
+    "hook",
+    "40"
+   ]
+  ],
+  "punch": [
+   [
+    "hook",
+    "40"
+   ],
+   [
+    "hook",
+    "d'Onyxia"
+   ],
+   [
+    "c1",
+    "groupe"
+   ],
+   [
+    "c1",
+    "15"
+   ],
+   [
+    "c1",
+    "maximum"
+   ],
+   [
+    "c1",
+    "raids"
+   ],
+   [
+    "c1",
+    "10"
+   ],
+   [
+    "c1",
+    "20"
+   ],
+   [
+    "c2",
+    "mille"
+   ],
+   [
+    "c3",
+    "donjons"
+   ],
+   [
+    "c3",
+    "Hyjal"
+   ],
+   [
+    "c3",
+    "deux"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "40"
+   ]
+  ],
+  "blackFlash": [],
+  "streaks": [
+   [
+    "c3"
+   ]
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "cutSfx": "s_camflash.mp3",
+  "src": "wowfr_whatis.mp4",
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "40"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 860,
+    "y": 1240,
+    "size": 200
+   },
+   {
+    "at": [
+     "c1",
+     "raids"
+    ],
+    "kind": "png",
+    "file": "emoji/1f440.png",
+    "x": 230,
+    "y": 1240,
+    "size": 200
+   }
+  ]
  }
 }
