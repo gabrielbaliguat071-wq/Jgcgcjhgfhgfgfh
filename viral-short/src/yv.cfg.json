@@ -8244,5 +8244,262 @@
   "hardcut": true,
   "cutSfx": "s_camflash.mp3",
   "src": "dreamworlds.mp4"
+ },
+ "segapoll": {
+  "top": "You can only pick ONE\u2026 which SEGA game are you buying?",
+  "hl": {
+   "ONE\u2026": "#58EE28"
+  },
+  "cta": "*comment your number*",
+  "ctaAt": [
+   "c7"
+  ],
+  "tints": [
+   [
+    [
+     "c5",
+     "85%"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [],
+  "punch": [
+   [
+    "c1",
+    "75%"
+   ],
+   [
+    "c2",
+    "80%"
+   ],
+   [
+    "c3",
+    "65%"
+   ],
+   [
+    "c4",
+    "40%"
+   ],
+   [
+    "c5",
+    "85%"
+   ],
+   [
+    "c6",
+    "33%"
+   ]
+  ],
+  "blowouts": [
+   [
+    "c5",
+    "85%"
+   ]
+  ],
+  "blackFlash": [],
+  "streaks": [
+   [
+    "c2"
+   ],
+   [
+    "c4"
+   ],
+   [
+    "c6"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "c5",
+     "85%"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 870,
+    "y": 1290,
+    "size": 190
+   },
+   {
+    "at": [
+     "c7"
+    ],
+    "kind": "png",
+    "file": "emoji/1f914.png",
+    "x": 870,
+    "y": 1290,
+    "size": 190
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "src": "sega_s2.mp4",
+  "music": [
+   "silent_n",
+   0
+  ],
+  "fxOff": true
+ },
+ "segapersona": {
+  "top": "Persona 3 Reload is 65% OFF on Steam right now",
+  "hl": {
+   "65%": "#58EE28",
+   "OFF": "#58EE28"
+  },
+  "cta": "*limited time only*",
+  "ctaAt": [
+   "c3"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "65%"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [],
+  "punch": [
+   [
+    "hook",
+    "Persona"
+   ],
+   [
+    "hook",
+    "65%"
+   ],
+   [
+    "c2",
+    "65%"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "65%"
+   ]
+  ],
+  "blackFlash": [],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "65%"
+    ],
+    "kind": "png",
+    "file": "emoji/1f525.png",
+    "x": 870,
+    "y": 1290,
+    "size": 190
+   },
+   {
+    "at": [
+     "c3"
+    ],
+    "kind": "png",
+    "file": "emoji/23f3.png",
+    "x": 870,
+    "y": 1290,
+    "size": 190
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "src": "sega_s2.mp4",
+  "music": [
+   "silent_n",
+   0
+  ],
+  "fxOff": true
+ },
+ "segafrontiers": {
+  "top": "Sonic Frontiers is 75% OFF on Steam right now",
+  "hl": {
+   "75%": "#58EE28",
+   "OFF": "#58EE28"
+  },
+  "cta": "*limited time only*",
+  "ctaAt": [
+   "c3"
+  ],
+  "tints": [
+   [
+    [
+     "hook",
+     "75%"
+    ],
+    "G"
+   ]
+  ],
+  "rizz": [],
+  "punch": [
+   [
+    "hook",
+    "Sonic"
+   ],
+   [
+    "hook",
+    "75%"
+   ],
+   [
+    "c2",
+    "75%"
+   ]
+  ],
+  "blowouts": [
+   [
+    "hook",
+    "75%"
+   ]
+  ],
+  "blackFlash": [],
+  "streaks": [
+   [
+    "c2"
+   ]
+  ],
+  "extras": [
+   {
+    "at": [
+     "hook",
+     "75%"
+    ],
+    "kind": "png",
+    "file": "emoji/1f633.png",
+    "x": 870,
+    "y": 1290,
+    "size": 190
+   },
+   {
+    "at": [
+     "c3"
+    ],
+    "kind": "png",
+    "file": "emoji/23f3.png",
+    "x": 870,
+    "y": 1290,
+    "size": 190
+   }
+  ],
+  "track": "none",
+  "calls": [],
+  "intro": true,
+  "hardcut": true,
+  "src": "sega_s2.mp4",
+  "music": [
+   "silent_n",
+   0
+  ],
+  "fxOff": true
  }
 }
